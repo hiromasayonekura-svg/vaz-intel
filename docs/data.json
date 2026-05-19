@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T04:39:56.873730",
-    "generatedAtJst": "2026-05-19 04:39:56",
+    "generatedAt": "2026-05-19T07:38:06.945Z",
+    "generatedAtJst": "2026-05-19 16:38:06",
     "totalNews": 24,
     "totalAnalyses": 2,
     "totalCompetitors": 7
@@ -209,12 +209,12 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HLUI3c2pIMFRaNFI4TXBrc1p6c2tmZWVPZFJMT2dYVEpSLXBCTm5NRklUWmdBakxLbzFkaDYzVUR1eEg0X1RBczZleDFuNHgwNUpCZnk1OVJuNU4tQ0E5SlJ1MXhFbVZWVFE?oc=5",
       "totalScore": 4.44,
       "breakdown": {
-        "finance": 1.0,
-        "platform": 2.0,
-        "humanCapital": 1.0,
-        "directRivalry": 3.0,
-        "coreBusiness": 4.0,
-        "benchmark": 3.0
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 3
       },
       "status": "スコア低のため対象外"
     },
@@ -226,12 +226,12 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbXFlc2RyOTJwbUZ3ZXFIMmxJNzRla3d2XzdwNnc1dDFpdUtIejJpSXFEN1FWUjFLcWdqeHFBdVJERk92SVoxSXI5SXlMc0lRdEFMVjZ4Mm5pb3dkaTdMVE9wTElWeGl3d2c?oc=5",
       "totalScore": 15.89,
       "breakdown": {
-        "finance": 2.0,
-        "platform": 5.0,
-        "humanCapital": 4.0,
-        "directRivalry": 4.0,
-        "coreBusiness": 4.0,
-        "benchmark": 5.0
+        "finance": 2,
+        "platform": 5,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 5
       },
       "status": "分析済"
     },
@@ -243,12 +243,12 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zYnItR3RISHk3dW9Gb2FWYzl3YXN3Q1hPQ05lTkxQMjlZNzRJWUh4eVRrUDVodGlLX3JReUdRV1BEeHBIajRxRlBjMTdZYXZHSTY1UWVPak45ZHZuNG1WUlBhQ2V2T1VueXc?oc=5",
       "totalScore": 8.89,
       "breakdown": {
-        "finance": 4.0,
-        "platform": 1.0,
-        "humanCapital": 3.0,
-        "directRivalry": 3.0,
-        "coreBusiness": 3.0,
-        "benchmark": 4.0
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
       },
       "status": "スコア低のため対象外"
     },
@@ -260,12 +260,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZQkdVTmFDYkRCOGt0cy03UU5qVXFxUTNzRy1vYS1ENVlOOTdiaGhpNklreF92NU1VN01MTmMzeURoSkVtejFhZE5PdWZPY3lWZWJqdUpB?oc=5",
       "totalScore": 12.22,
       "breakdown": {
-        "finance": 3.0,
-        "platform": 4.0,
-        "humanCapital": 4.0,
-        "directRivalry": 3.0,
-        "coreBusiness": 3.0,
-        "benchmark": 4.0
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
       },
       "status": "分析済"
     },
@@ -275,14 +275,14 @@
       "company": "GROVE株式会社",
       "title": "大阪支部開設のお知らせ | GROVE株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uc2l2ck9PYnNBY0F2UHRVS0VidkIweXZIdjJNRlpxSWZzdkRhNkpHY3BiNHRyc3A4bXNpTzdFY19ob1pyNjNjU1RXXzhkeUJZb3A0UzlwTU1DczA5RGN0cTlUd3h0TUFudVE?oc=5",
-      "totalScore": 8.0,
+      "totalScore": 8,
       "breakdown": {
-        "finance": 3.0,
-        "platform": 2.0,
-        "humanCapital": 4.0,
-        "directRivalry": 3.0,
-        "coreBusiness": 3.0,
-        "benchmark": 2.0
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 2
       },
       "status": "スコア低のため対象外"
     },
@@ -294,12 +294,12 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUJLYVZnNldUU1VITU9HUDhQMHZhOFB4VTl5NE1jU2FfUkhDNE5GR2tGd2FxS1pyNElFbGhBLWx4OXRKSEh0UG1XU1pxbzBnYlVjd3Yzc1VWLTBiLVRqVmVnYzF5WXJxdDl2VjRUTmFORllrNXpYT0hkWVYwOGN6d2VB?oc=5",
       "totalScore": 12.22,
       "breakdown": {
-        "finance": 3.0,
-        "platform": 4.0,
-        "humanCapital": 4.0,
-        "directRivalry": 3.0,
-        "coreBusiness": 3.0,
-        "benchmark": 4.0
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
       },
       "status": "未分析"
     }
