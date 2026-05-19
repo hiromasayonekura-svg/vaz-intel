@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T16:46:13.991Z",
-    "generatedAtJst": "2026-05-20 01:46:13",
+    "generatedAt": "2026-05-19T16:55:08.463Z",
+    "generatedAtJst": "2026-05-20 01:55:08",
     "totalNews": 90,
     "totalAnalyses": 6,
     "totalCompetitors": 7
@@ -1152,7 +1152,7 @@
         "coreBusiness": 2,
         "benchmark": 1
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     },
     {
       "id": "",
@@ -1169,7 +1169,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     },
     {
       "id": "",
@@ -1186,7 +1186,7 @@
         "coreBusiness": 1,
         "benchmark": 2
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     },
     {
       "id": "",
@@ -1203,7 +1203,7 @@
         "coreBusiness": 1,
         "benchmark": 2
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     },
     {
       "id": "",
@@ -1220,7 +1220,7 @@
         "coreBusiness": 1,
         "benchmark": 2
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     }
   ],
   "analyses": [
