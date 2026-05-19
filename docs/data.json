@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T07:52:47.684Z",
-    "generatedAtJst": "2026-05-19 16:52:47",
-    "totalNews": 24,
-    "totalAnalyses": 4,
+    "generatedAt": "2026-05-19T11:51:42.982Z",
+    "generatedAtJst": "2026-05-19 20:51:42",
+    "totalNews": 26,
+    "totalAnalyses": 6,
     "totalCompetitors": 7
   },
   "news": [
@@ -189,7 +189,7 @@
       "company": "トレンダーズ",
       "title": "“界隈理解のズレ”が違和感を生む？大学生とのワークショップから見えた企業コラボのヒント - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWWc4Q0hndENHRXZKN2V6eWJRV2liYUpzVUlnUEV1enA1d3BNeDNzWlB4bjhOTHRNaUlnX2lVZ1FhbDRmZk1YSDNkdV9fZThlLWNHd3BfUmVHbUhkTVBzRWxwYlNqallUbkE?oc=5",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "93MXSzzVj6KVLS3ZkEz413",
@@ -198,6 +198,22 @@
       "title": "NateeがプロデュースするKOL「シブルナ」の中国版TikTok「抖音」のフォロワー数が60万人を突破。プロデューサーにmaki氏が正式に就任。 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSHl1SHFhTE9uRTJhc2V6cG1Hc0I5NUhyX2dqT2lMaDZFX0Rma0VTcjFQR2w0a2luYk93YVJiS1Y4MHlPeEp1WUtwMktaVHg2WXQxSUV3Vm9SR3plNXRvTmZ0Mk50TnowMmc?oc=5",
       "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "アソビシステム",
+      "title": "司音(jio)がアソビシステムに所属 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53ZnhzckZmYzhhUi1YNjFLeVpBcmRUWU5yb0J5VlZXTTBzUDNDLWQ2TF9tTkdIV3N4Z0pyc2JYbXNXR3BZNDBvOGZZckFZaWkyNUxXTDNHeE8tQ08wdkdoV0RIU0pQOW5rOXc?oc=5",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "トレンダーズ",
+      "title": "借金2億円の地方企業を売上200倍＆上場に導いた実践的経営バイブル『小さな会社は戦略が9割』出版決定しました。発売キャンペーンとして、Amazon予約限定で特別オンラインセミナーに無料ご招待！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11aFZoVmtzTTdCT3BZWUM1Q3puUm5rdDdLOGVOSTljMm5qWmd2amczWUprMG1td0MwSExrWjQ3VzlsLVg4RG52UnZPaEpYSk1VOUZNZTF3VmZ4dnFYV3g3MVo2eUdZRjR6V2c?oc=5",
+      "status": "処理済"
     }
   ],
   "scores": [
@@ -505,7 +521,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "分析済"
     },
     {
       "id": "",
@@ -539,7 +555,7 @@
         "coreBusiness": 3,
         "benchmark": 3
       },
-      "status": "未分析"
+      "status": "分析済"
     },
     {
       "id": "",
@@ -555,6 +571,40 @@
         "directRivalry": 3,
         "coreBusiness": 4,
         "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "トレンダーズ",
+      "title": "“界隈理解のズレ”が違和感を生む？大学生とのワークショップから見えた企業コラボのヒント - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oWWc4Q0hndENHRXZKN2V6eWJRV2liYUpzVUlnUEV1enA1d3BNeDNzWlB4bjhOTHRNaUlnX2lVZ1FhbDRmZk1YSDNkdV9fZThlLWNHd3BfUmVHbUhkTVBzRWxwYlNqallUbkE?oc=5",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "トレンダーズ",
+      "title": "借金2億円の地方企業を売上200倍＆上場に導いた実践的経営バイブル『小さな会社は戦略が9割』出版決定しました。発売キャンペーンとして、Amazon予約限定で特別オンラインセミナーに無料ご招待！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11aFZoVmtzTTdCT3BZWUM1Q3puUm5rdDdLOGVOSTljMm5qWmd2amczWUprMG1td0MwSExrWjQ3VzlsLVg4RG52UnZPaEpYSk1VOUZNZTF3VmZ4dnFYV3g3MVo2eUdZRjR6V2c?oc=5",
+      "totalScore": 16,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 5,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 5
       },
       "status": "未分析"
     }
@@ -625,6 +675,43 @@
       "intent": "デジタルマーケティング支援を手掛けるMacbee Planetは、急速に変化するSNS広告とインフルエンサーマーケティング市場において、自社の専門性とデータドリブンな知見を示すため、この大規模調査を行った。これにより、顧客（企業のマーケティング担当者）が抱える最新の課題とニーズを深く理解し、競合他社との差別化を図りつつ、効果的なソリューション提案とリード獲得につなげる意図がある。",
       "impact": "この調査はMacbee Planetがデジタルマーケティング領域におけるリーダーシップとデータに基づいた戦略策定能力をアピールする絶好の機会となる。得られた知見は、自社のサービス改善や新たなソリューション開発に直結し、顧客への説得力を高めるだろう。業界全体としては、SNS・インフルエンサーマーケティングの現状と課題に対する共通認識が深まり、各社の戦略見直しやサービス強化が促進される可能性がある。",
       "agenda": "この大規模調査で明らかになったSNS・インフルエンサーマーケティングのトレンド変化と顧客の潜在ニーズに対し、当社は今後どのような新たなサービス領域を確立し、具体的な投資戦略を講じるべきですか？"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "TORIHADA",
+      "title": "美健ファミリーに関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkpscjd4OHk5TFQtQlBtWkUzcHk4RkExdkVFSk9nd3ctZW4yY1lKYmY0RkdFU2Jldko0M01BMG9ndVUySzBHZlRQRW1lTHNMQ0kxQVFhSmxSaXVnX2hVanR1MVdFRHJXT1VfV3pKVmNqSjgxbHNzOUdzXzBMeS12M081OXl0Nm8zZmpJVkNmZGU1Ym5RSnQ3cFFzdFdqODV3cGhrdzctazg0eVhXOUtjblYzU2k5d2huSHFtTlNwQXV2Y29QU1VHMm9PTWR0Z1k?oc=5",
+      "totalScore": 14.67,
+      "tags": [
+        "#TORIHADA",
+        "#インフルエンサーマーケティング",
+        "#美容健康",
+        "#新規事業"
+      ],
+      "fact": "インフルエンサーマーケティング事業を展開するTORIHADAが、「美健ファミリー」というテーマでPR TIMESにてプレスリリースを発表した。",
+      "intent": "TORIHADAの主事業であるインフルエンサーマーケティングにおいて、美容・健康分野は消費者関心が高く、インフルエンサーとの親和性も高いため、成長が見込める領域である。同社は、この分野での新たな取り組みを通じて事業領域の拡大や収益源の多様化、または既存事業とのシナジー創出を図っていると考えられる。競合他社も特定の高成長分野への特化や差別化を進めており、TORIHADAもこの市場動向に対応している可能性が高い。",
+      "impact": "TORIHADAが「美健ファミリー」というキーワードでプレスリリースを発表したことは、美容・健康・家族といったライフスタイル分野への事業拡大を示唆しており、これは同社の主力であるインフルエンサーマーケティングの適用領域を広げ、高まる消費者ニーズとインフルエンサーマーケティングの相乗効果を狙う戦略と解釈できる。この展開は、既存のインフルエンサーネットワークを活用しつつ新たな顧客層やブランドを獲得する機会となる一方で、具体的なサービス内容やターゲット層が不明であるため、市場でのポジショニングと実行計画が成功の鍵となる。",
+      "agenda": "「美健ファミリー」事業の具体的なサービス内容、ターゲット顧客、収益モデルを明確にし、既存のインフルエンサーマーケティング事業とのシナジーをどのように最大化して市場競争力を確立するのか。"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "株式会社Natee",
+      "title": "WOWsに所属するウンパルンパが「TikTok Awards Japan」2024でSports Creator of the Year受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYVlzcW1oT3hndHVjaFFMYlpZdEgxZmh5aHVqZUduMFpkQ1lGbzJNTWg5WGR2MkdCalN2Nk9Hem00WS1lVTZYeGJZRTBjQ1pGbXIxcUY4aE0yajhzSTcteXhtM2tRWFNrUXc?oc=5",
+      "totalScore": 14.44,
+      "tags": [
+        "#クリエイターエコノミー",
+        "#TikTok",
+        "#MCN",
+        "#Natee",
+        "#事業戦略"
+      ],
+      "fact": "株式会社Nateeが運営するクリエイターネットワーク「WOWs」所属のクリエイター「ウンパルンパ」が、「TikTok Awards Japan 2024」で「Sports Creator of the Year」を受賞した。",
+      "intent": "NateeがTikTokに特化したクリエイター支援とネットワーク「WOWs」で培った発掘・育成能力が評価されたものであり、TikTok側もアワードを通じてクリエイターエコノミーを活性化させ、プラットフォームへのエンゲージメントを高める意図がある。",
+      "impact": "Nateeのクリエイター支援事業のブランド価値と信頼性が向上し、今後のクリエイター獲得や企業案件誘致において強力な訴求材料となると同時に、ショート動画プラットフォームにおけるMCNの専門性と影響力の高まりを業界に示す。",
+      "agenda": "ウンパルンパ氏の受賞を契機に、特定のプラットフォームに依存しないNateeのクリエイターエコノミーにおける持続的な成長戦略と、新規事業展開の可能性をどう深掘りすべきか？"
     }
   ],
   "competitors": [
@@ -659,8 +746,8 @@
   ],
   "home": {
     "monthLabel": "2026年5月",
-    "thisMonthNewsCount": 24,
-    "thisMonthAnalysisCount": 4,
+    "thisMonthNewsCount": 26,
+    "thisMonthAnalysisCount": 6,
     "highlights": [
       {
         "id": "Tau3bHNPZeBTrmVoTgpB4E",
@@ -683,40 +770,55 @@
       {
         "id": "",
         "date": "2026-05-19",
-        "company": "Macbee Planet",
-        "title": "マーケティング担当者1,200名に聞く「SNS広告・インフルエンサーマーケティングの過去／現在比較調査」を実施 - PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBobG5JRkt2YXplYlh4YWt1WXFrbzZla3VHVHJDVVFPUDRpMlVlQThNNWVkQVA4S1JJMjlab2lJOUhqTEdUclNvUl8xbXVFelZkYUZNOGYzWU8tWWdsV1VPQzhDLUkzcURhdWc?oc=5",
-        "totalScore": 13,
+        "company": "TORIHADA",
+        "title": "美健ファミリーに関するプレスリリース・ニュースリリース - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkpscjd4OHk5TFQtQlBtWkUzcHk4RkExdkVFSk9nd3ctZW4yY1lKYmY0RkdFU2Jldko0M01BMG9ndVUySzBHZlRQRW1lTHNMQ0kxQVFhSmxSaXVnX2hVanR1MVdFRHJXT1VfV3pKVmNqSjgxbHNzOUdzXzBMeS12M081OXl0Nm8zZmpJVkNmZGU1Ym5RSnQ3cFFzdFdqODV3cGhrdzctazg0eVhXOUtjblYzU2k5d2huSHFtTlNwQXV2Y29QU1VHMm9PTWR0Z1k?oc=5",
+        "totalScore": 14.67,
         "tags": [
-          "#マーケティング調査"
+          "#TORIHADA",
+          "#インフルエンサーマーケティング",
+          "#美容健康",
+          "#新規事業"
         ],
-        "fact": "Macbee Planetがマーケティング担当者1,200名を対象に「SNS広告・インフルエンサーマーケティングの過去／現在比較調査」を実施した。",
-        "intent": "デジタルマーケティング支援を手掛けるMacbee Planetは、急速に変化するSNS広告とインフルエンサーマーケティング市場において、自社の専門性とデータドリブンな知見を示すため、この大規模調査を行った。これにより、顧客（企業のマーケティング担当者）が抱える最新の課題とニーズを深く理解し、競合他社との差別化を図りつつ、効果的なソリューション提案とリード獲得につなげる意図がある。",
-        "impact": "この調査はMacbee Planetがデジタルマーケティング領域におけるリーダーシップとデータに基づいた戦略策定能力をアピールする絶好の機会となる。得られた知見は、自社のサービス改善や新たなソリューション開発に直結し、顧客への説得力を高めるだろう。業界全体としては、SNS・インフルエンサーマーケティングの現状と課題に対する共通認識が深まり、各社の戦略見直しやサービス強化が促進される可能性がある。",
-        "agenda": "この大規模調査で明らかになったSNS・インフルエンサーマーケティングのトレンド変化と顧客の潜在ニーズに対し、当社は今後どのような新たなサービス領域を確立し、具体的な投資戦略を講じるべきですか？"
+        "fact": "インフルエンサーマーケティング事業を展開するTORIHADAが、「美健ファミリー」というテーマでPR TIMESにてプレスリリースを発表した。",
+        "intent": "TORIHADAの主事業であるインフルエンサーマーケティングにおいて、美容・健康分野は消費者関心が高く、インフルエンサーとの親和性も高いため、成長が見込める領域である。同社は、この分野での新たな取り組みを通じて事業領域の拡大や収益源の多様化、または既存事業とのシナジー創出を図っていると考えられる。競合他社も特定の高成長分野への特化や差別化を進めており、TORIHADAもこの市場動向に対応している可能性が高い。",
+        "impact": "TORIHADAが「美健ファミリー」というキーワードでプレスリリースを発表したことは、美容・健康・家族といったライフスタイル分野への事業拡大を示唆しており、これは同社の主力であるインフルエンサーマーケティングの適用領域を広げ、高まる消費者ニーズとインフルエンサーマーケティングの相乗効果を狙う戦略と解釈できる。この展開は、既存のインフルエンサーネットワークを活用しつつ新たな顧客層やブランドを獲得する機会となる一方で、具体的なサービス内容やターゲット層が不明であるため、市場でのポジショニングと実行計画が成功の鍵となる。",
+        "agenda": "「美健ファミリー」事業の具体的なサービス内容、ターゲット顧客、収益モデルを明確にし、既存のインフルエンサーマーケティング事業とのシナジーをどのように最大化して市場競争力を確立するのか。"
       },
       {
-        "id": "SpP3QHLpqLvj7RaJPnsozx",
+        "id": "",
         "date": "2026-05-19",
-        "company": "株式会社ナハト",
-        "title": "ナハト、X（旧Twitter）広告特化代理店「株式会社ニュービルド」をM&Aした理由とは？ - PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZQkdVTmFDYkRCOGt0cy03UU5qVXFxUTNzRy1vYS1ENVlOOTdiaGhpNklreF92NU1VN01MTmMzeURoSkVtejFhZE5PdWZPY3lWZWJqdUpB?oc=5",
-        "totalScore": 12.22,
+        "company": "株式会社Natee",
+        "title": "WOWsに所属するウンパルンパが「TikTok Awards Japan」2024でSports Creator of the Year受賞 - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYVlzcW1oT3hndHVjaFFMYlpZdEgxZmh5aHVqZUduMFpkQ1lGbzJNTWg5WGR2MkdCalN2Nk9Hem00WS1lVTZYeGJZRTBjQ1pGbXIxcUY4aE0yajhzSTcteXhtM2tRWFNrUXc?oc=5",
+        "totalScore": 14.44,
         "tags": [
-          "#M&A",
-          "#X広告",
-          "#デジタルマーケティング"
+          "#クリエイターエコノミー",
+          "#TikTok",
+          "#MCN",
+          "#Natee",
+          "#事業戦略"
         ],
-        "fact": "株式会社ナハトは、X（旧Twitter）広告に特化した代理店である株式会社ニュービルドをM&Aした。",
-        "intent": "ナハトは、デジタル広告市場において競争が激化するX（旧Twitter）広告領域の専門ノウハウと顧客基盤を迅速に獲得し、事業ポートフォリオの強化・拡大を図る狙いがあると推測される。近年、特定のプラットフォームに最適化された広告運用が重要度を増しており、ナハトの既存事業におけるX広告領域の専門性不足がボトルネックであった可能性が高い。",
-        "impact": "本件M&Aにより、ナハトはX広告市場における競争優位性を確立し、より多角的なデジタルマーケティングソリューションを顧客に提供できるようになる。業界全体としては、特定の高成長領域における専門性獲得のためのM&Aが今後も加速する可能性が高い一方、M&A後の組織統合と専門性の維持・発展がナハトの主要課題となる。",
-        "agenda": "今回のM&Aで獲得したX広告の専門性と顧客基盤を、既存事業へいかに迅速に統合し、全社的な成長戦略に組み込むか？"
+        "fact": "株式会社Nateeが運営するクリエイターネットワーク「WOWs」所属のクリエイター「ウンパルンパ」が、「TikTok Awards Japan 2024」で「Sports Creator of the Year」を受賞した。",
+        "intent": "NateeがTikTokに特化したクリエイター支援とネットワーク「WOWs」で培った発掘・育成能力が評価されたものであり、TikTok側もアワードを通じてクリエイターエコノミーを活性化させ、プラットフォームへのエンゲージメントを高める意図がある。",
+        "impact": "Nateeのクリエイター支援事業のブランド価値と信頼性が向上し、今後のクリエイター獲得や企業案件誘致において強力な訴求材料となると同時に、ショート動画プラットフォームにおけるMCNの専門性と影響力の高まりを業界に示す。",
+        "agenda": "ウンパルンパ氏の受賞を契機に、特定のプラットフォームに依存しないNateeのクリエイターエコノミーにおける持続的な成長戦略と、新規事業展開の可能性をどう深掘りすべきか？"
       }
     ],
     "ranking": [
       {
         "company": "GROVE株式会社",
         "totalScore": 15.89,
+        "count": 1
+      },
+      {
+        "company": "TORIHADA",
+        "totalScore": 14.67,
+        "count": 1
+      },
+      {
+        "company": "株式会社Natee",
+        "totalScore": 14.44,
         "count": 1
       },
       {
@@ -737,6 +839,18 @@
     ],
     "topTags": [
       {
+        "tag": "#インフルエンサーマーケティング",
+        "count": 2
+      },
+      {
+        "tag": "#クリエイターエコノミー",
+        "count": 2
+      },
+      {
+        "tag": "#新規事業",
+        "count": 2
+      },
+      {
         "tag": "#M&A",
         "count": 1
       },
@@ -749,10 +863,6 @@
         "count": 1
       },
       {
-        "tag": "#インフルエンサーマーケティング",
-        "count": 1
-      },
-      {
         "tag": "#コンテンツ戦略",
         "count": 1
       },
@@ -761,15 +871,7 @@
         "count": 1
       },
       {
-        "tag": "#クリエイターエコノミー",
-        "count": 1
-      },
-      {
         "tag": "#HRテック",
-        "count": 1
-      },
-      {
-        "tag": "#新規事業",
         "count": 1
       },
       {
