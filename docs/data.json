@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T23:46:38.155Z",
-    "generatedAtJst": "2026-05-20 08:46:38",
+    "generatedAt": "2026-05-20T01:55:35.620Z",
+    "generatedAtJst": "2026-05-20 10:55:35",
     "totalNews": 137,
     "totalAnalyses": 6,
     "totalCompetitors": 7
@@ -341,7 +341,7 @@
       "company": "アソビシステム",
       "title": "fav meが1周年ライブで堂々の14曲連続パフォーマンス、新たな未来を切り開く新曲「Trust me ...",
       "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -1630,7 +1630,7 @@
         "coreBusiness": 1,
         "benchmark": 2
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     },
     {
       "id": "",
@@ -1647,7 +1647,7 @@
         "coreBusiness": 1,
         "benchmark": 3
       },
-      "status": "未分析"
+      "status": "スコア低のため対象外"
     },
     {
       "id": "",
@@ -1663,6 +1663,839 @@
         "directRivalry": 5,
         "coreBusiness": 4,
         "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "アソビシステム",
+      "title": "fav meが1周年ライブで堂々の14曲連続パフォーマンス、新たな未来を切り開く新曲「Trust me ...",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 5.78,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "縦型ショートドラマの日本最大級のコンテスト「マイナビ ショードラアワード 2026」",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 27,
+      "breakdown": {
+        "finance": 4,
+        "platform": 5,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "アソビシステム",
+      "title": "fav meが1周年ライブで堂々の14曲連続パフォーマンス、新曲「Trust me」配信",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 26,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "アソビシステム",
+      "title": "8人体制の“完全体”で迎えたデビュー1周年公演を完遂 新曲2曲＆新衣装披露",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 26,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-04-01",
+      "company": "業界トレンド",
+      "title": "【完売御礼】TikTokライブコマース「燕チャンネル」、ボディメイクジェルが完売",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 24,
+      "breakdown": {
+        "finance": 4,
+        "platform": 5,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-04-01",
+      "company": "TORIHADA",
+      "title": "オリジナル商品続々！総フォロワー100万超「ポテトのタカタク」オリジナルスパイス",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 23,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "サイバーエージェント縦型アワード ファイナリスト１２作品を発表",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 23,
+      "breakdown": {
+        "finance": 4,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "株式会社Natee",
+      "title": "次世代クリエイターエージェンシーWOWs、Nateeから分社化しアカツキへ参画",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 22,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "株式会社Natee",
+      "title": "花君に関するプレスリリース・ニュースリリース",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 22,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "動画内で見つけたスポットの予約ができるTikTokの新機能「TikTok GO」",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 21,
+      "breakdown": {
+        "finance": 4,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "VTuberアプリ「Avvy」開発のAnotherball、メガバンク3行から25億円を調達",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 21,
+      "breakdown": {
+        "finance": 5,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "韓国映像産業24兆ウォンの全貌 オックスフォード・エコノミクス最新調査",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 21,
+      "breakdown": {
+        "finance": 5,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "ohpner、福岡みなみ氏が代表を務めるTikTok LIVE事務所「like me」の広告",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 20,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "飯田祐基が完全成果保証に対応したSNS運用代行サービス\"BUNSHIN\"正式リリース",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 20,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-03-01",
+      "company": "業界トレンド",
+      "title": "なぜ「アセドロン」は2年で300万枚売れたのか？ グンゼが構築した新機軸",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 20,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "札幌 SNS運用代行で問い合わせ殺到--株式会社キングプロテアが一気通貫支援",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 19,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-03-01",
+      "company": "業界トレンド",
+      "title": "2026 SNS インフルエンサーマーケティング 完全ガイド",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 19,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "アソビシステム",
+      "title": "Le Sserafim、新AL「Pureflow」ハイライトメドレー公開",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "「ブス」と炎上した美容外科医が写真集発売→“顔面国宝級”の表紙に",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "渡韓なしで憧れの一枚が叶う！ちゃんみなの結婚式も担当した韓国ウェディング",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "グルメ特化型プラットフォーム「ユニット」導入、阪神梅田本店の本格中華",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "「ホロライブ」運営のカバー、メタバース事業撤退で30億円超減損",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 5,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "【コラム】「ホロアース」とは何だったのか？ これまでの変遷と問題点",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 5,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-04-01",
+      "company": "株式会社ナハト",
+      "title": "ポテンシャル採用｜既存事業のKPI管理〜実行まで一貫して担うPM募集",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "GROVE株式会社",
+      "title": "『Instagram運用代行会社カオスマップ【2026年版】』を公開",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "グラディアント、AI等インフラ事業拡大のため、20億ドルの評価額で調達完了",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 5,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "「なぜ俳優が謝るのか」韓国ドラマ炎上で主演2人が謝罪、海外ファンは反発",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "VTuber事務所初オンラインくじ『FAPON』テレビCMに出演権",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 16,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "トレンダーズ",
+      "title": "「TVer Sales AWARD 2025」発表、電通／セプテーニ／博報堂ＤＹ受賞",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 16,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "インフルエンサー向けPR案件マッチングサービス「UZU広告」クーポン導入",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "伊原六花が「だーい好き！」なのは？／フタバ食品",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "最新デジタルマーケティングを学べる無料勉強会を開催―某メーカー事例",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "18s(エイティーンズ) ／「321社」提携事務所 18s Vライバーオーディション",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "ネトフリ大ヒット『地獄に堕ちるわよ』細木数子を“怪物”にしたテレビ局",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 3,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-04-01",
+      "company": "業界トレンド",
+      "title": "polygros、光学式スタジオ”モカスタ”で、個人VTuber向けプラン開始",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "「Gガイド」番組表、芸能事務所「MERTONE」所属のタレント情報表示",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "海外インフルエンサーマーケティングとは？国別施策と失敗しない進め方",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "滝川商工会議所主催セミナーに登壇｜中小企業のAI活用による経営改革",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "【VIPOインタビュー公開】俳優からプロデューサーへ。コロナ禍の女性二人",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-06-01",
+      "company": "アソビシステム",
+      "title": "声優・速水 奨さんが特別審査、AMGオープンキャンパスでオーディション",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 12,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "DMO・自治体の今後狙いたい市場、1位はシンガポール 課題は二次交通",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 12,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "鷹司冴の夏休み - VTuberを支えるためにマネージャーとして事務所に入社",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 12,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "アシスタントディレクター募集！Vtuber事務所でのイベントに携われる仕事",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 12,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "「お店を救って」コンサルに３０万円を支払った店主→絶望したワケ",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "TORIHADA",
+      "title": "九州サンヨーに関するプレスリリース・ニュースリリース",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "市川市動植物園・パンチくんの猿山に侵入・逮捕されたアメリカ人観光客",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 5
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "東ブクロ かつて共演のインフルエンサーに憤慨「偉そうな…」",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "脅威の兆候",
+      "title": "“炎上芸人”さらば・東ブクロ「こっちに来るんちゃうんか」他人の炎上",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 4
+      },
+      "status": "未分析"
+    },
+    {
+      "id": "",
+      "date": "2026-05-01",
+      "company": "業界トレンド",
+      "title": "日本円ステーブルコイン「JPYC」を活用したサブスク決済インフラを発表",
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://news.nicovideo.jp/watch/nw19317596%3Fnews_ref%3D20_20&ct=ga&cd=CAIyHGE2MWI0YmQ4NTFiMjJiZTY6Y29tOmphOkpQOlI&usg=AOvVaw0GYID8mJmOfa2toF1Lj4ah",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 2
       },
       "status": "未分析"
     }
@@ -1786,31 +2619,31 @@
   ],
   "competitors": [
     {
-      "id": "HySHeTQPHUFcXZevei3Fdo",
+      "id": "",
       "name": "GROVE株式会社"
     },
     {
-      "id": "UYjyaf5a1UKBw5HqFELMuH",
+      "id": "",
       "name": "アソビシステム"
     },
     {
-      "id": "NnmhdPjNFGxVcWnZyNeSr3",
+      "id": "",
       "name": "トレンダーズ"
     },
     {
-      "id": "FPyHCuGc1LQsCKPVdwSPU5",
+      "id": "",
       "name": "株式会社ナハト"
     },
     {
-      "id": "U1ZaRrXWHih4VVynQr3awv",
+      "id": "",
       "name": "Macbee Planet"
     },
     {
-      "id": "91qPCdSm9PnCmNBahm24tX",
+      "id": "",
       "name": "株式会社Natee"
     },
     {
-      "id": "97vWuGBGPDyLoHs1sDmLsx",
+      "id": "",
       "name": "TORIHADA"
     }
   ],
