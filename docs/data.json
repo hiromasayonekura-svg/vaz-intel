@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-05-20T05:24:21.587Z",
-    "generatedAtJst": "2026-05-20 14:24:21",
+    "generatedAt": "2026-05-20T05:32:30.294Z",
+    "generatedAtJst": "2026-05-20 14:32:30",
     "totalNews": 149,
-    "totalAnalyses": 6,
+    "totalAnalyses": 10,
     "totalCompetitors": 7
   },
   "news": [
@@ -1386,7 +1386,7 @@
         "coreBusiness": 4,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "分析済"
     },
     {
       "id": "",
@@ -1403,7 +1403,7 @@
         "coreBusiness": 4,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1454,7 +1454,7 @@
         "coreBusiness": 4,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "分析済"
     },
     {
       "id": "",
@@ -1471,7 +1471,7 @@
         "coreBusiness": 4,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1522,7 +1522,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1573,7 +1573,7 @@
         "coreBusiness": 4,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1590,7 +1590,7 @@
         "coreBusiness": 4,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "分析済"
     },
     {
       "id": "",
@@ -1607,7 +1607,7 @@
         "coreBusiness": 4,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1709,7 +1709,7 @@
         "coreBusiness": 4,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1760,7 +1760,7 @@
         "coreBusiness": 4,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "分析済"
     },
     {
       "id": "",
@@ -1794,7 +1794,7 @@
         "coreBusiness": 5,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1811,7 +1811,7 @@
         "coreBusiness": 5,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1828,7 +1828,7 @@
         "coreBusiness": 5,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1845,7 +1845,7 @@
         "coreBusiness": 5,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1862,7 +1862,7 @@
         "coreBusiness": 5,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1879,7 +1879,7 @@
         "coreBusiness": 5,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1896,7 +1896,7 @@
         "coreBusiness": 4,
         "benchmark": 3
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1913,7 +1913,7 @@
         "coreBusiness": 4,
         "benchmark": 3
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1930,7 +1930,7 @@
         "coreBusiness": 5,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1947,7 +1947,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1964,7 +1964,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1981,7 +1981,7 @@
         "coreBusiness": 3,
         "benchmark": 2
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1998,7 +1998,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -2015,7 +2015,7 @@
         "coreBusiness": 5,
         "benchmark": 5
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -2032,7 +2032,7 @@
         "coreBusiness": 3,
         "benchmark": 4
       },
-      "status": "未分析"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -2711,6 +2711,82 @@
       "agenda": "ウンパルンパ氏の受賞を契機に、特定のプラットフォームに依存しないNateeのクリエイターエコノミーにおける持続的な成長戦略と、新規事業展開の可能性をどう深掘りすべきか？",
       "summary": "",
       "axis": "業界全般"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "株式会社ナハト",
+      "title": "ナハト、X広告に特化した株式会社ニュービルドをM&Aによりグループ化 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5MnJUWkdaTXJjUll0Q2Z2XzRqTmFQd0prUmw4TTg1eXAyRUs4SW5UblZrMVZwUU5MVTRUYVpJUjJCUm9KQkF1R3Z2TVB4NkVUamdZUUUwN2Z0QWJ2OWoyUGFRcFZlei0yQXc?oc=5",
+      "totalScore": 14.67,
+      "tags": [
+        "#資金調達・M&A",
+        "#プラットフォーム動向",
+        "#広告主動向"
+      ],
+      "fact": "株式会社ナハトがX広告に特化した株式会社ニュービルドをM&Aによりグループ化した。",
+      "intent": "競合ナハトは、特定のプラットフォーム（X）での広告運用専門性をM&Aで迅速に取り込み、広告主への提案力強化と市場での優位性確立を図ったと推測される。これは、インフルエンサーマーケティング市場において、各プラットフォームに特化した高度な広告戦略提供が求められ、そのための専門人材・ノウハウ獲得が業界のボトルネックとなっていることを示唆している。",
+      "impact": "ナハトのM&Aは、インフルエンサーマーケティング業界における専門性強化のトレンドを示しており、VAZも注力領域であるTikTokショップや美容UGC生成（Instagram親和性）において、特定のプラットフォームでの広告・マーケティング専門性をどのように高めていくか再検討する必要がある。これはVAZの「新規マネタイズ事業の立ち上げ」や「インフルエンサーネットワーク」戦略において、外部連携やM&Aも視野に入れるべきであることを示唆する。",
+      "agenda": "VAZが注力するTikTokやInstagramにおいて、特定のプラットフォームに特化したM&A戦略を検討し、専門性を早期に獲得すべきではないか？",
+      "summary": "ナハトがX広告専門企業をM&Aし事業強化。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "Macbee Planet",
+      "title": "マーケティング担当者1,000名に聞く2026年の「投資シフトマップ調査」を実施 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjMlI4UmFFdjZCMXJJTk1VQkw4VjQwbDhKRnJXZDJfby1FWExnSFRWVHJHOW1ZYXYxRVlrdjBPdURSeXB5V1JQT1czYkcwQko5WFhiUUZjWEpSZFRKWUV1aEJWaWlYazAyX1E?oc=5",
+      "totalScore": 10.67,
+      "tags": [
+        "#広告主動向",
+        "#市場規模・調査",
+        "#ECコマース"
+      ],
+      "fact": "Macbee Planetが2026年のマーケティング投資動向に関する1,000名のマーケティング担当者向け調査を実施した。",
+      "intent": "デジタルマーケティング市場の急速な変化と投資先の多様化により、広告主は効果的な戦略立案に苦慮しており、Macbee Planetは市場ニーズを深く把握し、自社ソリューション提案への接続と市場でのプレゼンス強化を狙っている。",
+      "impact": "この調査結果は、VAZが広告主に対してより戦略的な提案を行う上で極めて重要な示唆を与える。特にVAZの2026年注力領域であるTikTokショップ、美容UGC生成、インフルエンサーネットワークなどは広告主の投資シフトの主要検討対象となる可能性が高く、VAZのリソース配分や新規サービス開発の優先順位決定に直結する。",
+      "agenda": "2026年の広告主投資シフト予測を踏まえ、VAZのアカウントDivは注力領域への提案戦略をどのように再構築すべきか？",
+      "summary": "広告主の2026年マーケティング投資動向調査。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": "",
+      "date": "2026-05-19",
+      "company": "トレンダーズ",
+      "title": "借金2億円の地方企業を売上200倍＆上場に導いた実践的経営バイブル『小さな会社は戦略が9割』出版決定しました。発売キャンペーンとして、Amazon予約限定で特別オンラインセミナーに無料ご招待！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11aFZoVmtzTTdCT3BZWUM1Q3puUm5rdDdLOGVOSTljMm5qWmd2amczWUprMG1td0MwSExrWjQ3VzlsLVg4RG52UnZPaEpYSk1VOUZNZTF3VmZ4dnFYV3g3MVo2eUdZRjR6V2c?oc=5",
+      "totalScore": 16,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#資金調達・M&A",
+        "#プランニング・企画"
+      ],
+      "fact": "トレンダーズが、借金2億円の地方企業を売上200倍・上場に導いた経営戦略に関する書籍を出版する。",
+      "intent": "トレンダーズはインフルエンサーマーケティング業界の先駆者の一社として、その経営ノウハウや成功体験を広く共有することで、企業ブランド価値向上、採用力強化、新たな収益源確保（書籍・セミナー）を図る意図がある。業界全体としては、インフルエンサーマーケティングが成熟し、効果的な戦略立案が差別化の鍵となる中で、具体的な成功事例への需要が高まっている。",
+      "impact": "本ニュースは、VAZにとって競合他社であるトレンダーズの経営戦略のエッセンスを学ぶ貴重な機会を提供する。特にVAZが2026年注力領域とする「TikTokショップ」「タレントIPグッズ」といった新規マネタイズ事業や「アイドルグループ」展開において、事業を拡大・上場に導いた戦略的思考や実践的なノウハウは非常に参考になるだろう。競合が具体的な成功体験を公開することで、業界全体の競争レベルが引き上げられる可能性もあるため、VAZも自社の戦略を見直すきっかけとなる。",
+      "agenda": "トレンダーズの上場までの成長戦略から、VAZが2026年注力領域の事業を加速させ、持続的な成長を実現するための具体的な戦略的示唆やアクションプランは何か？",
+      "summary": "トレンダーズが上場までの経営戦略本を出版",
+      "axis": "両方"
+    },
+    {
+      "id": "",
+      "date": "2024-04-25",
+      "company": "株式会社Natee",
+      "title": "Natee、みずほ銀行が主催する「Mizuho Innovation Award」を受賞！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pblZrZGtmZmhfX1FOTVRUREkyRXUybmxzcWlQTVkwRUYzRUYxNDcwcUxxSnpWOU5LYmd0a053Z0hwZmhHM012U1J6ckZEV1BTU0ZDT1FjTjV4OG1aU19ybHZRRUVnenlHTGc?oc=5",
+      "totalScore": 10.89,
+      "tags": [
+        "#資金調達・M&A",
+        "#新規マネタイズ事業",
+        "#コンテンツ制作"
+      ],
+      "fact": "株式会社Nateeがみずほ銀行主催の「Mizuho Innovation Award」を受賞した。",
+      "intent": "金融機関がインフルエンサーマーケティング領域の企業を評価する背景には、この市場の成長性とNateeの事業モデルの新規性や将来性への期待がある。NateeがTikTokなどのショート動画プラットフォームを活用したマーケティングに強みを持つことから、その独自のデータ活用や効果測定の手法が評価された可能性が高い。これは、従来の広告代理店モデルとは異なる、データドリブンなアプローチが金融機関からも注目されていることを示唆する。",
+      "impact": "Nateeが金融機関から事業のイノベーション性を評価されたことは、インフルエンサーマーケティング業界全体の社会的信用性を高めると同時に、競争の激化を示す。VAZにとっては、新規マネタイズ事業の立ち上げやTikTokショップ、美容UGC生成といった注力領域において、事業モデルの独自性や収益性をさらに高める必要性が増す。金融機関が評価するNateeのビジネスモデルは、今後のVAZの戦略策定においてベンチマークとなり得る。",
+      "agenda": "Nateeが受賞した「Mizuho Innovation Award」の評価ポイントを分析し、VAZの新規マネタイズ事業や各注力領域で金融機関から評価されるための具体的な戦略をどう構築すべきか？",
+      "summary": "Nateeがみずほ銀行主催アワード受賞",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -2746,8 +2822,27 @@
   "home": {
     "monthLabel": "2026年5月",
     "thisMonthNewsCount": 142,
-    "thisMonthAnalysisCount": 6,
+    "thisMonthAnalysisCount": 9,
     "highlights": [
+      {
+        "id": "",
+        "date": "2026-05-19",
+        "company": "トレンダーズ",
+        "title": "借金2億円の地方企業を売上200倍＆上場に導いた実践的経営バイブル『小さな会社は戦略が9割』出版決定しました。発売キャンペーンとして、Amazon予約限定で特別オンラインセミナーに無料ご招待！ - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11aFZoVmtzTTdCT3BZWUM1Q3puUm5rdDdLOGVOSTljMm5qWmd2amczWUprMG1td0MwSExrWjQ3VzlsLVg4RG52UnZPaEpYSk1VOUZNZTF3VmZ4dnFYV3g3MVo2eUdZRjR6V2c?oc=5",
+        "totalScore": 16,
+        "tags": [
+          "#新規マネタイズ事業",
+          "#資金調達・M&A",
+          "#プランニング・企画"
+        ],
+        "fact": "トレンダーズが、借金2億円の地方企業を売上200倍・上場に導いた経営戦略に関する書籍を出版する。",
+        "intent": "トレンダーズはインフルエンサーマーケティング業界の先駆者の一社として、その経営ノウハウや成功体験を広く共有することで、企業ブランド価値向上、採用力強化、新たな収益源確保（書籍・セミナー）を図る意図がある。業界全体としては、インフルエンサーマーケティングが成熟し、効果的な戦略立案が差別化の鍵となる中で、具体的な成功事例への需要が高まっている。",
+        "impact": "本ニュースは、VAZにとって競合他社であるトレンダーズの経営戦略のエッセンスを学ぶ貴重な機会を提供する。特にVAZが2026年注力領域とする「TikTokショップ」「タレントIPグッズ」といった新規マネタイズ事業や「アイドルグループ」展開において、事業を拡大・上場に導いた戦略的思考や実践的なノウハウは非常に参考になるだろう。競合が具体的な成功体験を公開することで、業界全体の競争レベルが引き上げられる可能性もあるため、VAZも自社の戦略を見直すきっかけとなる。",
+        "agenda": "トレンダーズの上場までの成長戦略から、VAZが2026年注力領域の事業を加速させ、持続的な成長を実現するための具体的な戦略的示唆やアクションプランは何か？",
+        "summary": "トレンダーズが上場までの経営戦略本を出版",
+        "axis": "両方"
+      },
       {
         "id": "",
         "date": "2026-05-19",
@@ -2787,30 +2882,29 @@
         "agenda": "「美健ファミリー」事業の具体的なサービス内容、ターゲット顧客、収益モデルを明確にし、既存のインフルエンサーマーケティング事業とのシナジーをどのように最大化して市場競争力を確立するのか。",
         "summary": "",
         "axis": "業界全般"
-      },
-      {
-        "id": "",
-        "date": "2026-05-19",
-        "company": "株式会社Natee",
-        "title": "WOWsに所属するウンパルンパが「TikTok Awards Japan」2024でSports Creator of the Year受賞 - PR TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYVlzcW1oT3hndHVjaFFMYlpZdEgxZmh5aHVqZUduMFpkQ1lGbzJNTWg5WGR2MkdCalN2Nk9Hem00WS1lVTZYeGJZRTBjQ1pGbXIxcUY4aE0yajhzSTcteXhtM2tRWFNrUXc?oc=5",
-        "totalScore": 14.44,
-        "tags": [
-          "#クリエイターエコノミー",
-          "#TikTok",
-          "#MCN",
-          "#Natee",
-          "#事業戦略"
-        ],
-        "fact": "株式会社Nateeが運営するクリエイターネットワーク「WOWs」所属のクリエイター「ウンパルンパ」が、「TikTok Awards Japan 2024」で「Sports Creator of the Year」を受賞した。",
-        "intent": "NateeがTikTokに特化したクリエイター支援とネットワーク「WOWs」で培った発掘・育成能力が評価されたものであり、TikTok側もアワードを通じてクリエイターエコノミーを活性化させ、プラットフォームへのエンゲージメントを高める意図がある。",
-        "impact": "Nateeのクリエイター支援事業のブランド価値と信頼性が向上し、今後のクリエイター獲得や企業案件誘致において強力な訴求材料となると同時に、ショート動画プラットフォームにおけるMCNの専門性と影響力の高まりを業界に示す。",
-        "agenda": "ウンパルンパ氏の受賞を契機に、特定のプラットフォームに依存しないNateeのクリエイターエコノミーにおける持続的な成長戦略と、新規事業展開の可能性をどう深掘りすべきか？",
-        "summary": "",
-        "axis": "業界全般"
       }
     ],
     "ranking": [
+      {
+        "company": "トレンダーズ",
+        "totalScore": 28.22,
+        "count": 2
+      },
+      {
+        "company": "株式会社ナハト",
+        "totalScore": 26.89,
+        "count": 2
+      },
+      {
+        "company": "株式会社Natee",
+        "totalScore": 25.33,
+        "count": 2
+      },
+      {
+        "company": "Macbee Planet",
+        "totalScore": 23.67,
+        "count": 2
+      },
       {
         "company": "GROVE株式会社",
         "totalScore": 15.89,
@@ -2820,29 +2914,13 @@
         "company": "TORIHADA",
         "totalScore": 14.67,
         "count": 1
-      },
-      {
-        "company": "株式会社Natee",
-        "totalScore": 14.44,
-        "count": 1
-      },
-      {
-        "company": "Macbee Planet",
-        "totalScore": 13,
-        "count": 1
-      },
-      {
-        "company": "株式会社ナハト",
-        "totalScore": 12.22,
-        "count": 1
-      },
-      {
-        "company": "トレンダーズ",
-        "totalScore": 12.22,
-        "count": 1
       }
     ],
     "topTags": [
+      {
+        "tag": "#資金調達・M&A",
+        "count": 3
+      },
       {
         "tag": "#インフルエンサーマーケティング",
         "count": 2
@@ -2853,6 +2931,14 @@
       },
       {
         "tag": "#新規事業",
+        "count": 2
+      },
+      {
+        "tag": "#広告主動向",
+        "count": 2
+      },
+      {
+        "tag": "#新規マネタイズ事業",
         "count": 2
       },
       {
@@ -2870,24 +2956,12 @@
       {
         "tag": "#コンテンツ戦略",
         "count": 1
-      },
-      {
-        "tag": "#ショート動画",
-        "count": 1
-      },
-      {
-        "tag": "#HRテック",
-        "count": 1
-      },
-      {
-        "tag": "#マーケティング調査",
-        "count": 1
       }
     ],
     "axisCounts": {
       "タレント軸": 0,
-      "マーケティング軸": 0,
-      "両方": 0,
+      "マーケティング軸": 2,
+      "両方": 2,
       "業界全般": 6
     },
     "tagMaster": {
