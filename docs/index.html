@@ -51,6 +51,37 @@
     border-bottom-color: var(--accent);
     font-weight: 600;
   }
+  /* スマホでnav-tabの間隔を詰める */
+  @media (max-width: 768px) {
+    .nav-tab {
+      padding: 12px 4px;
+      margin-right: 18px;
+      font-size: 13px;
+    }
+  }
+  /* タグ選択ボタン（トピックフィルター） */
+  .tag-filter {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: white;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+  .tag-filter:hover {
+    border-color: var(--border-strong);
+    color: var(--text);
+  }
+  .tag-filter.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
   /* カード */
   .card {
     background: var(--bg);
@@ -58,6 +89,9 @@
     border-radius: 12px;
     padding: 20px;
     transition: all 0.15s ease;
+  }
+  @media (max-width: 768px) {
+    .card { padding: 16px; border-radius: 10px; }
   }
   .card-hover { cursor: pointer; }
   .card-hover:hover {
@@ -146,42 +180,40 @@
 
 <!-- ヘッダー -->
 <header class="sticky top-0 z-40 bg-white border-b border-stone-200">
-  <div class="max-w-7xl mx-auto px-8 py-5 flex items-center justify-between">
-    <div class="flex items-center gap-4">
-      <div class="w-9 h-9 bg-stone-900 rounded-lg flex items-center justify-center">
-        <span class="text-white font-bold text-sm tracking-tight">VAZ</span>
+  <div class="max-w-7xl mx-auto px-4 md:px-8 py-3 md:py-5 flex items-center justify-between gap-2">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="w-8 h-8 md:w-9 md:h-9 bg-stone-900 rounded-lg flex items-center justify-center flex-shrink-0">
+        <span class="text-white font-bold text-xs md:text-sm tracking-tight">VAZ</span>
       </div>
-      <div>
-        <h1 class="text-base font-semibold tracking-tight">Intel Platform</h1>
-        <p class="text-xs text-stone-500 mt-0.5">競合インテリジェンス</p>
+      <div class="min-w-0">
+        <h1 class="text-sm md:text-base font-semibold tracking-tight truncate">Intel Platform</h1>
+        <p class="text-[10px] md:text-xs text-stone-500 mt-0.5 hidden sm:block">競合インテリジェンス</p>
       </div>
     </div>
-    <div class="flex items-center gap-4">
-      <div class="text-xs text-stone-400" id="last-updated">Loading...</div>
-      <button onclick="reloadData()" class="px-3 py-1.5 text-xs font-medium text-stone-600 border border-stone-200 rounded-md hover:bg-stone-50 hover:border-stone-300 transition">
-        Refresh
+    <div class="flex items-center gap-2 md:gap-4 flex-shrink-0">
+      <div class="text-[10px] md:text-xs text-stone-400 hidden md:block" id="last-updated">Loading...</div>
+      <button onclick="reloadData()" class="px-2 md:px-3 py-1 md:py-1.5 text-[11px] md:text-xs font-medium text-stone-600 border border-stone-200 rounded-md hover:bg-stone-50 hover:border-stone-300 transition">
+        ↻ Refresh
       </button>
     </div>
   </div>
-  <nav class="max-w-7xl mx-auto px-8 flex items-center overflow-x-auto">
+  <nav class="max-w-7xl mx-auto px-4 md:px-8 flex items-center overflow-x-auto scrollbar-thin">
     <div class="nav-tab active" data-view="home">ホーム</div>
     <div class="nav-tab" data-view="axis">軸別ビュー</div>
-    <div class="nav-tab" data-view="company">企業別カルテ</div>
-    <div class="nav-tab" data-view="topic">トピック別</div>
+    <div class="nav-tab" data-view="company">企業別</div>
     <div class="nav-tab" data-view="timeline">タイムライン</div>
-    <div class="nav-tab" data-view="ranking">スコアランキング</div>
+    <div class="nav-tab" data-view="agenda">アジェンダ</div>
     <div class="nav-tab" data-view="search">検索</div>
-    <div class="nav-tab" data-view="agenda">アジェンダボード</div>
   </nav>
 </header>
 
-<main class="max-w-7xl mx-auto px-8 py-10">
+<main class="max-w-7xl mx-auto px-4 md:px-8 py-6 md:py-10">
   <div id="view-container"></div>
 </main>
 
-<div id="modal" class="fixed inset-0 z-50 hidden modal-bg flex items-start justify-center p-4 overflow-y-auto" onclick="closeModal(event)">
-  <div class="bg-white rounded-2xl max-w-3xl w-full my-8 fade-in" onclick="event.stopPropagation()">
-    <div id="modal-body" class="p-8"></div>
+<div id="modal" class="fixed inset-0 z-50 hidden modal-bg flex items-start justify-center p-2 md:p-4 overflow-y-auto" onclick="closeModal(event)">
+  <div class="bg-white rounded-xl md:rounded-2xl max-w-3xl w-full my-2 md:my-8 fade-in" onclick="event.stopPropagation()">
+    <div id="modal-body" class="p-5 md:p-8"></div>
   </div>
 </div>
 
@@ -268,13 +300,14 @@ function renderView(view) {
     case 'home':     renderHome(container); break;
     case 'axis':     renderAxis(container); break;
     case 'company':  renderCompany(container); break;
-    case 'topic':    renderTopic(container); break;
     case 'timeline': renderTimeline(container); break;
-    case 'ranking':  renderRanking(container); break;
     case 'search':   renderSearch(container); break;
     case 'agenda':   renderAgenda(container); break;
   }
 }
+
+// 軸別ビューのトピックフィルター状態
+let CURRENT_TAG_FILTER = 'all';
 
 /* ホーム */
 function renderHome(c) {
@@ -290,20 +323,22 @@ function renderHome(c) {
     if (axisCounts[ax] !== undefined) axisCounts[ax]++;
   });
 
-  // ハイライト：フィルター後のTOP3
+  // ハイライト：フィルター後のTOP10
   const highlights = [...analyses]
     .sort((a, b) => b.totalScore - a.totalScore)
-    .slice(0, 3);
+    .slice(0, 10);
+  // アジェンダ抜粋：TOP3
+  const topAgenda = highlights.slice(0, 3);
 
   c.innerHTML = `
     <div class="mb-8 flex items-start justify-between gap-4">
       <div>
-        <h2 class="text-3xl font-bold tracking-tight">${escapeHtml(monthLabel)} 競合動向</h2>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">${escapeHtml(monthLabel)} 競合動向</h2>
         <p class="text-stone-500 mt-2 text-sm">タレント軸とマーケティング軸の2軸で、競合・業界の動きを俯瞰します</p>
       </div>
       <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
     </div>
-    <div class="grid grid-cols-4 gap-3 mb-10">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mb-10">
       ${axisKpi('タレント軸', axisCounts['タレント軸'], 'talent')}
       ${axisKpi('マーケティング軸', axisCounts['マーケティング軸'], 'marketing')}
       ${axisKpi('両方', axisCounts['両方'], 'both')}
@@ -317,24 +352,21 @@ function renderHome(c) {
           : highlights.map(a => highlightCard(a)).join('')}
       </div>
     </section>
-    <section class="mb-12 grid grid-cols-1 md:grid-cols-3 gap-5">
-      <div class="card md:col-span-2">
-        <div class="section-title">タグ別件数</div>
-        <canvas id="tagChart" height="240"></canvas>
-      </div>
+    <section class="mb-12">
       <div class="card">
-        <div class="section-title">競合警戒度ランキング</div>
-        <div class="space-y-1">
-          ${h.ranking.slice(0, 7).map((r, i) => rankingRow(r, i)).join('')}
+        <div class="flex items-center justify-between mb-3">
+          <div class="section-title mb-0">タグ別件数（傾向把握）</div>
+          <span class="text-xs text-stone-400">企業別ランキングは「企業別」タブへ</span>
         </div>
+        <canvas id="tagChart" height="220"></canvas>
       </div>
     </section>
     <section class="mb-12">
-      <div class="section-title">経営アジェンダ</div>
+      <div class="section-title">経営アジェンダ（TOP3）</div>
       <div class="space-y-3">
-        ${highlights.length === 0
+        ${topAgenda.length === 0
           ? `<div class="card text-stone-400 text-center py-10 text-sm">アジェンダはありません</div>`
-          : highlights.map(a => agendaRow(a)).join('')}
+          : topAgenda.map(a => agendaRow(a)).join('')}
       </div>
     </section>
   `;
@@ -348,19 +380,19 @@ function axisKpi(label, count, type) {
         <span class="text-xs font-medium text-stone-500">${label}</span>
         <span class="axis-badge axis-${type}">${label.replace('軸','')}</span>
       </div>
-      <div class="text-3xl font-bold tracking-tight">${count}</div>
+      <div class="text-2xl md:text-3xl font-bold tracking-tight">${count}</div>
       <div class="text-xs text-stone-400 mt-1">分析件数</div>
     </div>`;
 }
 
-/* ハイライトカード：要旨＋背景＋インサイト＋軸の4要素 */
+/* ハイライトカード：要旨＋ニュース内容＋軸 */
 function highlightCard(a) {
   const axisCls = axisToClass(a.axis);
   return `
     <div class="card card-hover axis-border-${axisCls}" onclick='showDetail(${JSON.stringify(a.id)})'>
-      <div class="flex items-start justify-between gap-4 mb-3">
+      <div class="flex items-start justify-between gap-3 mb-3">
         <div class="flex-1 min-w-0">
-          <div class="flex items-center gap-2 mb-2">
+          <div class="flex items-center gap-2 mb-2 flex-wrap">
             <span class="axis-badge axis-${axisCls}">${escapeHtml(a.axis || '業界全般')}</span>
             <span class="text-xs text-stone-400">${escapeHtml(a.company)} ・ ${escapeHtml(a.date)}</span>
           </div>
@@ -368,22 +400,16 @@ function highlightCard(a) {
         </div>
         ${scoreBadge(a.totalScore)}
       </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-3">
-        <div>
-          <div class="text-xs font-semibold text-stone-500 mb-1">背景</div>
-          <p class="text-sm text-stone-700 line-clamp-3">${escapeHtml(a.intent || '—')}</p>
-        </div>
-        <div>
-          <div class="text-xs font-semibold text-stone-500 mb-1">インサイト</div>
-          <p class="text-sm text-stone-700 line-clamp-3">${escapeHtml(a.impact || '—')}</p>
-        </div>
+      <div class="mb-3">
+        <div class="text-xs font-semibold text-stone-500 mb-1">ニュース内容</div>
+        <p class="text-sm text-stone-700 line-clamp-3">${escapeHtml(a.fact || '—')}</p>
       </div>
-      <div class="flex flex-wrap">
-        ${a.tags.slice(0, 5).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+      <div class="flex items-center gap-1.5 flex-wrap mt-3">
+        ${(a.tags || []).slice(0, 3).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
       </div>
     </div>`;
 }
-
+        <div>
 function rankingRow(r, idx) {
   const num = String(idx + 1).padStart(2, '0');
   return `
@@ -430,40 +456,87 @@ function drawTagChart(tags) {
   });
 }
 
-/* 軸別ビュー */
+/* 軸別ビュー（トピック絞り込み統合版） */
 function renderAxis(c) {
   const filter = CURRENT_AXIS_FILTER;
   const analyses = getFilteredAnalyses();
-  const filtered = filter === 'all' ? analyses : analyses.filter(a => a.axis === filter);
+  const axisFiltered = filter === 'all' ? analyses : analyses.filter(a => a.axis === filter);
+
+  // タグ集計（軸絞り込み後のデータから）
+  const tagCount = {};
+  axisFiltered.forEach(a => (a.tags || []).forEach(t => {
+    if (!t) return;
+    tagCount[t] = (tagCount[t] || 0) + 1;
+  }));
+  const topTags = Object.entries(tagCount)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 20);
+
+  // タグでさらに絞り込み
+  const tagFiltered = CURRENT_TAG_FILTER === 'all'
+    ? axisFiltered
+    : axisFiltered.filter(a => (a.tags || []).includes(CURRENT_TAG_FILTER));
+
   const now = new Date();
   const monthLabel = SHOW_ALL_MONTHS ? '全期間' : `${now.getFullYear()}年${now.getMonth()+1}月`;
 
   c.innerHTML = `
-    <div class="mb-8 flex items-start justify-between gap-4">
+    <div class="mb-6 flex items-start justify-between gap-4 flex-wrap">
       <div>
-        <h2 class="text-3xl font-bold tracking-tight">軸別ビュー</h2>
-        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel)} ・ タレント軸／マーケティング軸で分析を絞り込みます</p>
+        <h2 class="text-2xl md:text-2xl md:text-3xl font-bold tracking-tight">軸別ビュー</h2>
+        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel)} ・ 軸とトピックで分析を絞り込みます</p>
       </div>
       <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
     </div>
-    <div class="flex gap-2 mb-6 flex-wrap">
-      ${axisFilterButton('all', '全て', filter)}
-      ${axisFilterButton('タレント軸', 'タレント軸', filter)}
-      ${axisFilterButton('マーケティング軸', 'マーケティング軸', filter)}
-      ${axisFilterButton('両方', '両方', filter)}
-      ${axisFilterButton('業界全般', '業界全般', filter)}
+
+    <div class="mb-4">
+      <div class="text-xs font-semibold text-stone-500 mb-2 uppercase tracking-wider">軸で絞り込み</div>
+      <div class="flex gap-2 flex-wrap">
+        ${axisFilterButton('all', '全て', filter)}
+        ${axisFilterButton('タレント軸', 'タレント軸', filter)}
+        ${axisFilterButton('マーケティング軸', 'マーケティング軸', filter)}
+        ${axisFilterButton('両方', '両方', filter)}
+        ${axisFilterButton('業界全般', '業界全般', filter)}
+      </div>
     </div>
+
+    ${topTags.length > 0 ? `
+    <div class="mb-6">
+      <div class="text-xs font-semibold text-stone-500 mb-2 uppercase tracking-wider">トピックで絞り込み</div>
+      <div class="flex gap-2 flex-wrap">
+        <button class="tag-filter ${CURRENT_TAG_FILTER === 'all' ? 'active' : ''}" data-tag-filter="all">全トピック</button>
+        ${topTags.map(([tag, count]) => `
+          <button class="tag-filter ${CURRENT_TAG_FILTER === tag ? 'active' : ''}" data-tag-filter="${escapeAttr(tag)}">
+            ${escapeHtml(tag)} <span class="opacity-60">${count}</span>
+          </button>`).join('')}
+      </div>
+    </div>
+    ` : ''}
+
+    <div class="text-xs text-stone-500 mb-3">${tagFiltered.length}件の分析</div>
     <div class="space-y-3">
-      ${filtered.length === 0
+      ${tagFiltered.length === 0
         ? `<div class="card text-stone-400 text-center py-10 text-sm">${escapeHtml(monthLabel)}の該当する分析がありません</div>`
-        : filtered.sort((a, b) => b.totalScore - a.totalScore).map(a => highlightCard(a)).join('')}
+        : tagFiltered.sort((a, b) => b.totalScore - a.totalScore).map(a => highlightCard(a)).join('')}
     </div>`;
+
   document.querySelectorAll('[data-axis-filter]').forEach(btn => {
     btn.addEventListener('click', () => {
       CURRENT_AXIS_FILTER = btn.dataset.axisFilter;
+      CURRENT_TAG_FILTER = 'all';  // 軸を変えたらタグはリセット
       renderView('axis');
     });
   });
+  document.querySelectorAll('[data-tag-filter]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      CURRENT_TAG_FILTER = btn.dataset.tagFilter;
+      renderView('axis');
+    });
+  });
+}
+
+function escapeAttr(s) {
+  return String(s || '').replace(/"/g, '&quot;');
 }
 
 function axisFilterButton(value, label, current) {
@@ -472,98 +545,85 @@ function axisFilterButton(value, label, current) {
   return `<button data-axis-filter="${value}" class="${cls} px-4 py-2 rounded-md text-xs font-medium transition">${escapeHtml(label)}</button>`;
 }
 
-/* 企業別カルテ */
+/* 企業別（スコアランキング統合版） */
 function renderCompany(c) {
+  // 全期間で集計（企業の蓄積を見るため月次フィルターは適用しない）
   const companies = DATA.competitors.map(co => {
     const analyses = DATA.analyses.filter(a => a.company === co.name);
     const news = DATA.news.filter(n => n.company === co.name);
     const totalScore = analyses.reduce((s, a) => s + a.totalScore, 0);
-    return { ...co, analyses, news, totalScore };
+    const avgScore = analyses.length > 0 ? totalScore / analyses.length : 0;
+    const maxScore = analyses.length > 0 ? Math.max(...analyses.map(a => a.totalScore)) : 0;
+    return { ...co, analyses, news, totalScore, avgScore, maxScore };
   }).sort((a, b) => b.totalScore - a.totalScore);
 
   c.innerHTML = `
-    <div class="mb-8">
-      <h2 class="text-3xl font-bold tracking-tight">企業別カルテ</h2>
-      <p class="text-stone-500 mt-2 text-sm">競合7社の動向を1社ずつ詳しく確認できます</p>
+    <div class="mb-6">
+      <h2 class="text-2xl md:text-2xl md:text-3xl font-bold tracking-tight">企業別</h2>
+      <p class="text-stone-500 mt-2 text-sm">競合各社のニュース動向と警戒度スコアを統合表示します（全期間）</p>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
-      ${companies.map(co => companyCard(co)).join('')}
+
+    <div class="card mb-8 overflow-x-auto">
+      <div class="section-title">警戒度ランキング</div>
+      <table class="w-full min-w-[480px]">
+        <thead class="border-b border-stone-200">
+          <tr class="text-left text-xs text-stone-500 uppercase tracking-wider">
+            <th class="py-3 px-2 w-10">#</th>
+            <th class="py-3 px-2">企業名</th>
+            <th class="py-3 px-2 text-right">分析</th>
+            <th class="py-3 px-2 text-right">累積</th>
+            <th class="py-3 px-2 text-right">平均</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${companies.map((co, i) => `
+            <tr class="border-b border-stone-100 hover:bg-stone-50 cursor-pointer" onclick="document.getElementById('company-${i}').scrollIntoView({behavior:'smooth', block:'start'})">
+              <td class="py-3 px-2 text-xs text-stone-400 font-mono">${String(i + 1).padStart(2, '0')}</td>
+              <td class="py-3 px-2 font-medium text-sm">${escapeHtml(co.name)}</td>
+              <td class="py-3 px-2 text-right text-stone-600 text-sm tabular-nums">${co.analyses.length}</td>
+              <td class="py-3 px-2 text-right font-semibold text-sm tabular-nums">${co.totalScore.toFixed(1)}</td>
+              <td class="py-3 px-2 text-right text-stone-600 text-sm tabular-nums">${co.avgScore.toFixed(1)}</td>
+            </tr>`).join('')}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-title">各社の詳細</div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      ${companies.map((co, i) => companyCard(co, i)).join('')}
     </div>`;
 }
 
-function companyCard(co) {
+function companyCard(co, idx) {
   return `
-    <div class="card">
-      <div class="flex items-start justify-between mb-4">
-        <h3 class="text-lg font-semibold tracking-tight">${escapeHtml(co.name)}</h3>
-        ${co.totalScore > 0 ? `<span class="score-badge score-${scoreColor(co.totalScore)}">${co.totalScore.toFixed(1)}</span>` : ''}
+    <div id="company-${idx}" class="card scroll-mt-32">
+      <div class="flex items-start justify-between mb-3 gap-2">
+        <div class="min-w-0">
+          <div class="text-xs text-stone-400 mb-1">#${String(idx+1).padStart(2,'0')}</div>
+          <h3 class="text-base md:text-lg font-semibold tracking-tight truncate">${escapeHtml(co.name)}</h3>
+        </div>
+        ${co.totalScore > 0 ? `<span class="score-badge score-${scoreColor(co.totalScore)} flex-shrink-0">${co.totalScore.toFixed(1)}</span>` : ''}
       </div>
-      <div class="flex gap-4 text-xs text-stone-500 mb-4">
+      <div class="flex gap-3 text-xs text-stone-500 mb-4">
         <span>ニュース ${co.news.length}件</span>
         <span>分析 ${co.analyses.length}件</span>
+        ${co.avgScore > 0 ? `<span>平均 ${co.avgScore.toFixed(1)}</span>` : ''}
       </div>
       ${co.analyses.length === 0
         ? `<p class="text-sm text-stone-400">分析レポートはまだありません</p>`
         : `<div class="space-y-2">
-            ${co.analyses.slice(0, 3).map(a => `
+            ${co.analyses.slice(0, 5).map(a => `
               <div class="text-sm border-l-2 border-stone-200 pl-3 py-1.5 hover:border-stone-900 cursor-pointer transition" onclick='showDetail(${JSON.stringify(a.id)})'>
-                <div class="flex items-center gap-2 mb-1">
+                <div class="flex items-center gap-2 mb-1 flex-wrap">
                   <span class="axis-badge axis-${axisToClass(a.axis)}">${escapeHtml(a.axis || '業界全般')}</span>
                   <span class="text-xs text-stone-400">${escapeHtml(a.date)}</span>
+                  ${scoreBadge(a.totalScore)}
                 </div>
                 <div class="line-clamp-2 text-stone-700">${escapeHtml(a.summary || a.title)}</div>
               </div>`).join('')}
+            ${co.analyses.length > 5 ? `<div class="text-xs text-stone-400 pl-3 pt-1">他 ${co.analyses.length - 5}件</div>` : ''}
           </div>`}
     </div>`;
-}
-
-/* トピック別 */
-function renderTopic(c) {
-  const tagMaster = DATA.home.tagMaster || {};
-  const tagToCategory = {};
-  Object.entries(tagMaster).forEach(([category, tags]) => {
-    tags.forEach(t => { tagToCategory[t] = category; });
-  });
-  const categoryGroups = {};
-  Object.keys(tagMaster).forEach(cat => { categoryGroups[cat] = {}; });
-  DATA.analyses.forEach(a => {
-    a.tags.forEach(t => {
-      const cat = tagToCategory[t] || '共通・業界全般';
-      if (!categoryGroups[cat]) categoryGroups[cat] = {};
-      if (!categoryGroups[cat][t]) categoryGroups[cat][t] = [];
-      categoryGroups[cat][t].push(a);
-    });
-  });
-
-  c.innerHTML = `
-    <div class="mb-8">
-      <h2 class="text-3xl font-bold tracking-tight">トピック別</h2>
-      <p class="text-stone-500 mt-2 text-sm">統制タグで分類された分析を、カテゴリ別に確認します</p>
-    </div>
-    ${Object.entries(categoryGroups).map(([cat, tags]) => `
-      <div class="mb-10">
-        <h3 class="text-base font-semibold mb-4">${escapeHtml(cat)}</h3>
-        ${Object.keys(tags).length === 0
-          ? `<p class="text-sm text-stone-400 py-4">該当タグの分析はありません</p>`
-          : Object.entries(tags).map(([tag, items]) => `
-            <div class="card mb-3">
-              <div class="flex items-center justify-between mb-3">
-                <span class="text-sm font-medium">${escapeHtml(tag)}</span>
-                <span class="text-xs text-stone-400">${items.length}件</span>
-              </div>
-              <div class="space-y-2">
-                ${items.map(a => `
-                  <div class="border-l-2 border-stone-200 pl-3 py-1.5 hover:border-stone-900 cursor-pointer transition" onclick='showDetail(${JSON.stringify(a.id)})'>
-                    <div class="flex items-center gap-2 mb-1">
-                      <span class="axis-badge axis-${axisToClass(a.axis)}">${escapeHtml(a.axis || '業界全般')}</span>
-                      <span class="text-xs text-stone-400">${escapeHtml(a.company)} ・ ${escapeHtml(a.date)}</span>
-                      ${scoreBadge(a.totalScore)}
-                    </div>
-                    <p class="text-sm text-stone-700 line-clamp-2">${escapeHtml(a.summary || a.title)}</p>
-                  </div>`).join('')}
-              </div>
-            </div>`).join('')}
-      </div>`).join('')}`;
 }
 
 /* タイムライン */
@@ -574,7 +634,7 @@ function renderTimeline(c) {
   c.innerHTML = `
     <div class="mb-8 flex items-start justify-between gap-4">
       <div>
-        <h2 class="text-3xl font-bold tracking-tight">タイムライン</h2>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">タイムライン</h2>
         <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel)} ・ 時系列で全競合の動きを俯瞰します</p>
       </div>
       <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
@@ -601,44 +661,11 @@ function renderTimeline(c) {
     </div>`;
 }
 
-/* スコアランキング */
-function renderRanking(c) {
-  const ranking = DATA.home.ranking;
-  c.innerHTML = `
-    <div class="mb-8">
-      <h2 class="text-3xl font-bold tracking-tight">競合警戒度ランキング</h2>
-      <p class="text-stone-500 mt-2 text-sm">累積スコアで競合を順位づけします</p>
-    </div>
-    <div class="card">
-      <table class="w-full">
-        <thead class="border-b border-stone-200">
-          <tr class="text-left text-xs text-stone-500 uppercase tracking-wider">
-            <th class="py-3 px-2 w-12">順位</th>
-            <th class="py-3 px-2">企業名</th>
-            <th class="py-3 px-2 text-right">分析件数</th>
-            <th class="py-3 px-2 text-right">累積スコア</th>
-            <th class="py-3 px-2 text-right">平均スコア</th>
-          </tr>
-        </thead>
-        <tbody>
-          ${ranking.map((r, i) => `
-            <tr class="border-b border-stone-100 hover:bg-stone-50">
-              <td class="py-3 px-2 text-xs text-stone-400 font-mono">${String(i + 1).padStart(2, '0')}</td>
-              <td class="py-3 px-2 font-medium text-sm">${escapeHtml(r.company)}</td>
-              <td class="py-3 px-2 text-right text-stone-600 text-sm tabular-nums">${r.count}</td>
-              <td class="py-3 px-2 text-right font-semibold text-sm tabular-nums">${r.totalScore.toFixed(2)}</td>
-              <td class="py-3 px-2 text-right text-stone-600 text-sm tabular-nums">${(r.totalScore / r.count).toFixed(2)}</td>
-            </tr>`).join('')}
-        </tbody>
-      </table>
-    </div>`;
-}
-
 /* 検索 */
 function renderSearch(c) {
   c.innerHTML = `
     <div class="mb-8">
-      <h2 class="text-3xl font-bold tracking-tight">検索</h2>
+      <h2 class="text-2xl md:text-3xl font-bold tracking-tight">検索</h2>
       <p class="text-stone-500 mt-2 text-sm">企業名・タイトル・本文を横断検索します</p>
     </div>
     <div class="card mb-4">
@@ -683,7 +710,7 @@ function renderAgenda(c) {
   c.innerHTML = `
     <div class="mb-8 flex items-start justify-between gap-4">
       <div>
-        <h2 class="text-3xl font-bold tracking-tight">経営アジェンダボード</h2>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">経営アジェンダボード</h2>
         <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel)} ・ 経営陣への問いかけを一覧で議論できます</p>
       </div>
       <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
@@ -714,7 +741,8 @@ function renderAgenda(c) {
 
 /* 詳細モーダル */
 function showDetail(id) {
-  const a = DATA.analyses.find(x => x.id === id);
+  // ★ IDは数値（インデックス）なので型変換して比較
+  const a = DATA.analyses.find(x => x.id == id);
   if (!a) return;
   const axisCls = axisToClass(a.axis);
   document.getElementById('modal-body').innerHTML = `
