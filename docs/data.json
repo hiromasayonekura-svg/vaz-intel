@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-06-10T00:31:23.915Z",
-    "generatedAtJst": "2026-06-10 09:31:23",
-    "totalNews": 936,
-    "totalAnalyses": 293,
+    "generatedAt": "2026-06-11T00:31:25.099Z",
+    "generatedAtJst": "2026-06-11 09:31:25",
+    "totalNews": 994,
+    "totalAnalyses": 307,
     "totalCompetitors": 7
   },
   "news": [
@@ -1141,7 +1141,7 @@
       "company": "業界トレンド",
       "title": "YouTuberマッチングプラットフォーム「Talema.」、再生回数保証プランを提供開始 - 時事通信",
       "url": "https://www.jiji.com/jc/article?k=000000627.000005365&g=prt",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1253,7 +1253,7 @@
       "company": "業界トレンド",
       "title": "ソーシャルメディアにおける人工知能（AI）<b>市場</b>は、2035年にら103億4000万米ドルへ",
       "url": "https://www.reportocean.co.jp/industry-reports/artificial-intelligence-ai-in-social-media-market",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1261,7 +1261,7 @@
       "company": "業界トレンド",
       "title": "株式会社アシスト AIO・GEO・LLMO・MEOを網羅したローカル検索対策サービスの販売代理店 ...",
       "url": "https://ascii.jp/elem/000/004/404/4404126/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1301,7 +1301,7 @@
       "company": "業界トレンド",
       "title": "マイクロ<b>インフルエンサー</b>マーケティング完全ガイド｜フォロワー1万人以下でも高エンゲージの理由",
       "url": "https://contentai.jp/blog/micro-influencer-marketing-2026",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1309,7 +1309,7 @@
       "company": "業界トレンド",
       "title": "美容・コスメが好きな人必見！｜<b>インフルエンサー</b>PR担当募集！ - Wantedly",
       "url": "https://www.wantedly.com/projects/2438605",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1317,7 +1317,7 @@
       "company": "業界トレンド",
       "title": "6.新規事業 の求人一覧 - 株式会社High Link - HERP Careers",
       "url": "https://herp.careers/v1/highlink/requisition-groups/cb056faa-3955-48b6-a0da-5f8d738a3e20",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -1325,7 +1325,7 @@
       "company": "業界トレンド",
       "title": "フォロワー数は関係ない——美容コミュニティが仕掛ける、PR<b>案件</b>の民主化 – shiritomo",
       "url": "https://hashout.jp/sns/1281/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3069,7 +3069,7 @@
       "company": "脅威の兆候",
       "title": "EU、違法商品リスク放置でTemuに2億ユーロ制裁 - LOGISTICS TODAY",
       "url": "https://www.logi-today.com/957683",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3077,7 +3077,7 @@
       "company": "脅威の兆候",
       "title": "フリュー(6238) 人気<b>インフルエンサー</b>・しなこさんプロデュース“ハデカワ”な世界観の中で、撮影 ...",
       "url": "https://minkabu.jp/news/4531535",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3085,7 +3085,7 @@
       "company": "脅威の兆候",
       "title": "撮影も落書きもとことん楽しめる！最新プリ機『PURICO（プリコ）』6月5日より登場 - フリュー",
       "url": "https://www.furyu.jp/news/2026/05/purico/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3093,7 +3093,7 @@
       "company": "脅威の兆候",
       "title": "金属加工油剤で世界を牽引する<b>独立</b>系メーカー、PBR0.9倍台で推移かつ安定した株主還元を志向",
       "url": "https://diamond.jp/zai/articles/-/1068023",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3277,7 +3277,7 @@
       "company": "業界トレンド",
       "title": "ソーシャルワイヤー＜3929＞、<b>広告</b>運用支援のSEIRYOを子会社化（M&amp;A Online）",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/maonline/business/maonline-20260529c",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3285,7 +3285,7 @@
       "company": "業界トレンド",
       "title": "〈インタビュー〉ASTERISK.LIVEライバー・あくあ、<b>TikTok</b>ロワイヤル敗者復活戦で見せた成長 ...",
       "url": "https://livetimes.jp/article/53253/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3293,7 +3293,7 @@
       "company": "業界トレンド",
       "title": "【神奈川県横浜市】<b>TikTok</b>累計20万再生の料理人がラーメン感覚で気軽に食べられるピザ屋を日吉 ...",
       "url": "https://getnews.jp/archives/3720774",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3301,7 +3301,7 @@
       "company": "業界トレンド",
       "title": "[Ｇ－ソーシャルワイヤ 3929.T] 株式会社SEIRYOの株式取得（完全子会社化）に関するお知らせ",
       "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260525547269",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3341,7 +3341,7 @@
       "company": "業界トレンド",
       "title": "Noisy 新アイドルオーディション",
       "url": "https://audition.nerim.info/audition-202606/audition-2026052839.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3365,7 +3365,7 @@
       "company": "脅威の兆候",
       "title": "日本<b>M&amp;A</b>センター、「ベガルタ仙台」とパートナー契約更新 | ニコニコニュース",
       "url": "https://news.nicovideo.jp/watch/nw19365038?news_ref=watch_20_nw19352825",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3373,7 +3373,7 @@
       "company": "脅威の兆候",
       "title": "事業承継の現場に迫るヒューマンドキュメント第1５弾「THE 事業承継 その灯を消すな！」テレ東 ...",
       "url": "https://news.livedoor.com/article/detail/31403185/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3389,7 +3389,7 @@
       "company": "脅威の兆候",
       "title": "PRYME1周年を記念した 4thシングル「純愛可能性(ぴゅあらぶぽっしぶる)」5月31日より各種音楽 ...",
       "url": "https://prtimes.jp/main/html/rd/p/000000015.000130244.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3397,7 +3397,7 @@
       "company": "脅威の兆候",
       "title": "ジーニーのグループ会社 JAPAN AI、シリーズCラウンド ファーストクローズで総額11億円を<b>調達</b> ...",
       "url": "https://www.zakzak.co.jp/pressrelease/atpress/PRWTJJUVT5JGXAHBTRARKKVDKU/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -3405,7 +3405,7 @@
       "company": "脅威の兆候",
       "title": "PRYME1周年を記念した 4thシングル「純愛可能性(ぴゅあらぶぽっしぶる)」5 ... - ニコニコニュース",
       "url": "https://news.nicovideo.jp/watch/nw19362206?news_ref=top_newComments",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5613,7 +5613,7 @@
       "company": "業界トレンド",
       "title": "レイングッズブランド「because(ビコーズ)」が韓国本格進出！新世界百貨店にて初のPOP-UP ...",
       "url": "https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDA2Mi4wMDAwNjIwNTkuaHRtbA==",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5621,7 +5621,7 @@
       "company": "業界トレンド",
       "title": "“日常を彩る”ライフスタイル傘ブランド「because」6月5日(金)から 韓国<b>市場</b>へ本格進出",
       "url": "https://newscast.jp/smart/news/9991649",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5629,7 +5629,7 @@
       "company": "業界トレンド",
       "title": "美容系<b>インフルエンサー</b>「渡邉菜ノ葉」がUUに所属決定！ | 株式会社Suuのプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000000051.000125574.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5637,7 +5637,7 @@
       "company": "業界トレンド",
       "title": "株式会社Kiii、「2025 TikTok User Growth TOP 8 傑出素材パートナー」に選出 - PR TIMES",
       "url": "https://prtimes.jp/main/html/rd/p/000000133.000027277.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5645,7 +5645,7 @@
       "company": "業界トレンド",
       "title": "AIが統治する仮想社会の実験、Grokは4日で社会が崩壊 - DG Lab Haus",
       "url": "https://media.dglab.com/2026/06/04-reuters-01/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5653,7 +5653,7 @@
       "company": "業界トレンド",
       "title": "代表取締役社長の交代に関するお知らせ | 株式会社ClaN Entertainmentのプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000000275.000100939.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5661,7 +5661,7 @@
       "company": "業界トレンド",
       "title": "「アニメ・ファンタジスタ・ジャパン2026」開催決定！「超かぐや姫！」山下清悟",
       "url": "https://branc.jp/article/2026/06/04/2778.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5669,7 +5669,7 @@
       "company": "業界トレンド",
       "title": "アニメ・アーカイブの国内事例は？国際シンポ「メディア芸術ナショナルセンター（仮称）への ...",
       "url": "https://branc.jp/article/2026/06/04/2777.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5693,7 +5693,7 @@
       "company": "業界トレンド",
       "title": "工藤美桜が熊本の魅力を全力体験！「秘密のケンミンSHOW極」発<b>ショートドラマ</b>「推し活女子の ...",
       "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c16381_r40",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5701,7 +5701,7 @@
       "company": "業界トレンド",
       "title": "長浜広奈・平松想乃・向井怜衣・多田梨音らZ世代スターが“おとぎ話のヒロイン”に！新感覚 ...",
       "url": "https://prtimes.jp/main/html/rd/p/000000053.000118235.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5709,7 +5709,7 @@
       "company": "業界トレンド",
       "title": "縦型<b>ショートドラマ</b>『放課後演技派クラブ supported by O.K.THANKS. Season 1』30秒CM",
       "url": "https://prtimes.jp/main/html/rd/p/000000186.000020107.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5717,7 +5717,7 @@
       "company": "業界トレンド",
       "title": "ゆいかれん＆藤林泰也「ドライな同期の溺愛癖」“胸キュン”オフィスラブストーリーでW主演！",
       "url": "https://article.auone.jp/detail/1/5/9/490_9_r_20260605_1780607654142324",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5725,7 +5725,7 @@
       "company": "業界トレンド",
       "title": "ゆいかれん、藤林泰也がＢＳテレ東連ドラＷ主演 他人の心読む女性と同期男性のオフィスラブ ...",
       "url": "https://article.auone.jp/detail/1/5/9/202_9_r_20260605_1780606857405057",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5733,7 +5733,7 @@
       "company": "業界トレンド",
       "title": "Tribesigns×<b>TikTok</b>、「スーパーウィッシュシーズン2026」でタイムズスクエアのビルボードに初登場",
       "url": "https://jp.acrofan.com/detail.php?number=119364",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5765,7 +5765,7 @@
       "company": "業界トレンド",
       "title": "カードゲームVTuber<b>事務所</b>「かどげブイ！」第2期生のオーディションを６月4日（木）より開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000000011.000044610.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5789,7 +5789,7 @@
       "company": "業界トレンド",
       "title": "【最新口コミ<b>調査</b>】ヴィアインに寄せられた口コミを分析！  4.28を獲得した高評価ホテルの人気 ...",
       "url": "https://prtimes.jp/main/html/rd/p/000001283.000024246.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5797,7 +5797,7 @@
       "company": "業界トレンド",
       "title": "株式会社Kiii、「2025 TikTok User Growth TOP 8 傑出素材パートナー」に選出（PR TIMES）",
       "url": "https://mainichi.jp/articles/20260605/pr2/00m/020/367000c",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5805,7 +5805,7 @@
       "company": "業界トレンド",
       "title": "売上につながるUGCはどう生み出すか ウィングリットが示す、PGC×UGCの戦略設計",
       "url": "https://www.advertimes.com/20260605/article545432/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5813,7 +5813,7 @@
       "company": "業界トレンド",
       "title": "「実名・顔出しの<b>インフルエンサー</b>」でなくてもSNSで稼ぐには - ライブドアニュース - livedoor",
       "url": "https://news.livedoor.com/topics/detail/31464333/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5861,7 +5861,7 @@
       "company": "脅威の兆候",
       "title": "ナマコから切り離された組織が3年生存中 口がないのに養分を吸収(1/2) - CNN.co.jp",
       "url": "https://www.cnn.co.jp/fringe/35248448.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -5925,7 +5925,7 @@
       "company": "脅威の兆候",
       "title": "てんちむ「広告塔のゆいぴすちゃんより責任とるべき人たちいる」マンジャロ騒動で苦言",
       "url": "https://news.yahoo.co.jp/articles/493bc905c4cc5d238416d6750c65c8548f81b3fe",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6093,7 +6093,7 @@
       "company": "業界トレンド",
       "title": "新卒向け情報発信メディア「就活hack」との業務提携に関するお知らせ - PR TIMES - RBB TODAY",
       "url": "https://www.rbbtoday.com/release/prtimes2-today/20260605/1288816.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6125,7 +6125,7 @@
       "company": "業界トレンド",
       "title": "ユニバーサル ミュージック パブリッシング アジア音楽出版事業の新社長に元Twitch、Spotifyの ...",
       "url": "https://www.musically.jp/universal-music-publishing-appoints-sunita-kaur-as-president-of-asia-publishing",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6133,7 +6133,7 @@
       "company": "業界トレンド",
       "title": "セルシスの「CLIP STUDIO PAINT」サブスクリプション事業 ARRが60億円超え ～継続課金型 ...",
       "url": "https://news.nicovideo.jp/watch/nw19386606?news_ref=top_newComments",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6205,7 +6205,7 @@
       "company": "業界トレンド",
       "title": "Tribesigns×<b>TikTok</b>、「スーパーウィッシュシーズン2026」でタイムズスクエアのビルボードに初登場",
       "url": "https://www.chiba-tv.com/plus/detail/2026061707902",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6221,7 +6221,7 @@
       "company": "業界トレンド",
       "title": "萌えの供給過多   交際5年目の【先輩彼女が可愛すぎる！】が語る“彼女の好きなところ”をネホハホ！",
       "url": "https://news.livedoor.com/topics/detail/31468920/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6245,7 +6245,7 @@
       "company": "業界トレンド",
       "title": "パチンコ・パチスロ・ボートレース好きのための<b>VTuber事務所</b>「バニクラ」 - ｄメニューニュース",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/entertainment/mycom_3193819",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6293,7 +6293,7 @@
       "company": "脅威の兆候",
       "title": "スペースX 新規株式公開で過去最大12兆円規模の<b>資金調達</b>計画を発表 - ライブドアニュース",
       "url": "https://news.livedoor.com/topics/detail/31462436/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6301,7 +6301,7 @@
       "company": "脅威の兆候",
       "title": "幼少期に劇団四季『ライオンキング』ヤングシンバを経験、20歳過ぎにWEBスカウトで俳優復帰 ...",
       "url": "https://news.nicovideo.jp/watch/nw19385987?news_ref=watch_50_nw19355924",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6309,7 +6309,7 @@
       "company": "脅威の兆候",
       "title": "カゼミロの後任を探すマンU。ターゲットはポルトガル代表MF ウェストハムの評価額は170億円",
       "url": "https://news.livedoor.com/article/detail/31469246/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6317,7 +6317,7 @@
       "company": "脅威の兆候",
       "title": "未経験者の創業お手伝いします 高山市で初、商議所や金融機関4者が連携",
       "url": "https://topics.smt.docomo.ne.jp/article/chuplus/region/chuplus-1262181?fm=latestnews",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6325,7 +6325,7 @@
       "company": "脅威の兆候",
       "title": "ＤｅＮＡ戦 客席観戦の人気アイドルが中継に映りまくる ＳＮＳ騒然「びっくり笑」「こんな普通に ...",
       "url": "https://sportsbull.jp/p/2347361/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6333,7 +6333,7 @@
       "company": "脅威の兆候",
       "title": "ＤｅＮＡが一発攻勢でソフトバンクに完勝 牧が逆転３ラン 五回に度会ら３発で突き放す 篠木は２ ...",
       "url": "https://sportsbull.jp/p/2347294/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6341,7 +6341,7 @@
       "company": "脅威の兆候",
       "title": "Ｚ世代に大人気 “おひなさま”長浜広奈、俳優業に意欲「ドラマのチャンピオンになりたい」",
       "url": "https://www.chiba-tv.com/plus/detail/amp/2026061708098",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -6597,7 +6597,7 @@
       "company": "業界トレンド",
       "title": "長浜広奈・平松想乃・向井怜衣・多田梨音らZ世代スターが“おとぎ話のヒロイン”に！新感覚 ...",
       "url": "https://news.nicovideo.jp/watch/nw19386322?news_ref=50_50",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -7493,6 +7493,470 @@
       "company": "脅威の兆候",
       "title": "溝口勇児氏、マンジャロビジネスから事実上の撤退か？ ゆいぴす降板の処方サイト「ダイエット ...",
       "url": "https://www.zakzak.co.jp/article/20260608-OCBPMELSE5AK3PU24NH7RKZ6WM/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、“依存的な愛”を描くダークな恋愛ソング「君依存症」リリース＆MV公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nUjRNMV8wZ1lMUURhV0NZaW55VTBYNU44VFl6VmFicXNhWURndF93MU0zS1loQVNjNmotamY3QURRY0ZzNXJOQWYxVnRKTnd5Rmp1YWdSUXZMbG5qbnotNEdkQ2xMVFhrTUE?oc=5",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "ALL iN FAZE、原点を振り返る新体制初の楽曲「Ciel」を配信リリース、LuckyFes’26の出演も決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVExMVHcxWDcwVE1MWnlYQ2FnM1p0c092SFFYdi1DbGtsci1YMEphWnAyRlQ4WUx5TDY3RXdXZVlIdjR3WTJxMEZDbWFOZE1SckItLWRLWlJfYUhPM3V4M0RJNm1WcDY3NkE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-08",
+      "company": "トレンダーズ",
+      "title": "黒川書店に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORzR6a0dXTnl4cWVSUXdRX2tvQlJFZDZmR010RGVJSWpnMXZock5KVmNZN051UXdFcTdRZU9SV2JmNm84Y2taT0VpbjJnUGQ2enJ0ZlFjSl9nMVJLWWtxN1JabkczSkE2M3pkUElFU0Z4bE1yTFZNdTdON09lWEpianVKejZTRElIN1YwbmlaM1pMNUtIcXA0d0VXaGRjYldfSHZhaGxHeTlNalE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2020-11-24",
+      "company": "トレンダーズ",
+      "title": "「ママトレンド2021予測＆2020トレンドランキング」を発表／2021年のおうち時間は「充実志向」から「ストイック化」!?「教育系YouTuber」、「楽ちんホムパ」などに注目 | トレンダーズ株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xd2d4SjNWQjFlWEloTzNjMTByTXNmS1NhUEVDZzBidzQtZlEyZDQycGlUZGgxQjQ4UGc2Skt5WmQ4dnFvVFlsYVNUSno1RUZzUVphYWczX08ySC1vWU5BQlo1OEI1TUdzMUE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "株式会社ナハト",
+      "title": "インフルエンサーマーケは本当に”オワコン”か？ナハト流・再現性重視の運用ノウハウを「Commerce NEXT」で限定公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRzBfbjZqc1BxRnlrS0lySUpnVXVQR0ZscjVIQ0dvcWZfV2Q5Z3NLTHpxa292X3hsWTM1eGZNUVNFS05jcDRtSzlFZU14aWx4Rm11TkJ3RmcwZEFRSkd6c1V5cnpCanhndmc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "TORIHADA",
+      "title": "【阪急うめだ本店】「阪急 植物博覧会」6月24日(水)より初開催！国内屈指の10店舗や、熱帯植物界のツートップによるスペシャルトークショーも - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85QV9PckR3dnNPZk5Eb0JwNGpib1ZZTDNzZnViMG1fMFU2RUFxd2Y2ejVtNGFUdTg2OTZqS1RhV0NCVWFhcklObTVlME1JUW9GeVdxYmppeUctZlFHUndkMmY1Rkg5aHpqbUE?oc=5",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "高橋ジョージ、盆踊りとロックを融合させたTHE虎舞竜の<b>新曲</b>発表 「全国の夏祭りに呼んで ...",
+      "url": "https://www.sanspo.com/article/20260609-KP2J2EHJUBNV5MPCXQ55SCQWLE/photo/WTH6KQOM5VOAPOBGTPSWO2H6EY/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "韓国バズを支えた存在とは <b>アソビシステム</b>代表取締役は韓国の“キッチンカー文化”に ... - 山形新聞",
+      "url": "https://www.yamagata-np.jp/oricon/photo.php?id=2459935",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "(画像6/15) <b>アソビシステム</b>中川社長、K-POP文化で“相当驚いた”こと「逆にしちゃいけないと思っ ...",
+      "url": "https://mdpr.jp/photo/detail/20151305",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "(画像14/15) <b>アソビシステム</b>中川社長、K-POP文化で“相当驚いた”こと「逆にしちゃいけないと思っ ...",
+      "url": "https://mdpr.jp/photo/detail/20151309",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "<b>アソビ</b>中川悠介氏がCUTIE STREETの韓国進出の裏側明かす「グローバルに広げるために ...",
+      "url": "https://news.nicovideo.jp/watch/nw19399851?news_ref=50_50",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b> (6069) : 時系列の株価推移 [Trenders] - みんかぶ",
+      "url": "https://s.minkabu.jp/stock/6069/daily_bar?page=86",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "株式会社ナハト",
+      "title": "<b>株式会社ナハト</b> の求人｜WEBマーケター（クリエイター）｜【公式】ハープキャリア - HERP Career",
+      "url": "https://herp.careers/careers/companies/nahato/jobs/S9I69iSqkVvj",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキャリア】",
+      "url": "https://onecareer.jp/companies/95530?utm_source=oc&utm_medium=company_details&utm_campaign=selection_recommend_event",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "Onono Village、モンゴルにてブラックサンダーのポップアップイベントを実施。ブース来場約 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19404619?news_ref=watch_20_nw18819551",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "CAGR 6.3％が示す高機能・環境対応需要の拡大 | Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 | プレス ...",
+      "url": "https://www.dreamnews.jp/press/0000351869",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>インフルエンサー</b>マーケは本当に”オワコン”か？ナハト流・再現性重視の運用ノウハウを ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000113.000063127.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "自己投資の目的が年代で変わる？若者の「年収アップ」と、シニアが求める「健康と若さ」",
+      "url": "https://www.agara.co.jp/article/646118?rct=pr_times",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "日本・台湾で<b>マーケティング</b>事業を展開する「WAKEI」と資本業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000255.000064055.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "TikTok発行の調査レポート「TikTok Socio-Economic Impact Report」にBcode運営「<b>Creator</b> ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000072917.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "ライブ 配信 で横行する「視聴数水増し偽装」がマーケティングに与える損害 - DIGIDAY［<b>日本</b>版］",
+      "url": "https://digiday.jp/platforms/wtf-is-viewbotting/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "【カンヌ現地レポート】濱口竜介監督作『急に具合が悪くなる』が示す、作家性を起点とした越境 ...",
+      "url": "https://branc.jp/article/img/2026/06/09/2792/12601.html",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>における経済効果を発表。2025年、TikTokによって生まれた推定消費額は ... - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19402196?news_ref=top_newComments",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "TikTok、<b>日本</b>における経済効果を発表。2025年、TikTokによって生まれた推定消費額 ... - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000001309.000030435.html",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "道枝駿佑に心配の声も…長尾謙杜、“熱愛報道後に「CDTV」生出演”も「なにわ男子 ... - アサジョ",
+      "url": "https://asajo.jp/excerpt/243522",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "出演作が途切れない赤間麻里子の魅力 山田美保子氏コラム - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/dailysports/entertainment/20260610051",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "「男が払うもんでしょ」合コンで“割り勘を拒否”する女性→見かねた店員が放った、“ - TRILL",
+      "url": "https://trilltrill.jp/articles/4710920",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "ＢＳスペシャル 縦の支配 中国 <b>ショートドラマ</b>の光と影 −NHKオンデマンド - はてなブックマーク",
+      "url": "https://b.hatena.ne.jp/entry/s/www.nhk-ondemand.jp/goods/G2026157576SA000/?np_banID=top_nw_m_157576&fbclid=IwZnRzaASVk4BleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe38cPP5iatGkudsTWv7Eo-3ytEVY2vX82BZiU9EAFuSJWCWmh3fZ6sZa4xRg_aem_SonXl0k1gW9aIv91I3azxQ",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "RIDI、ウェブ小説『異世界勘違いハンター』のe-book・フォントを発売 - KORIT",
+      "url": "https://www.korit.jp/news/entertainment/platum-ridi-bakey-web-novel-ebook-260610/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b> Japan「<b>TikTok</b> Socio-Economic Impact Report〜<b>日本</b>における経済的・社会的影響",
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000010980.html",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>における経済効果を発表 <b>TikTok</b>によって生まれた推定消費額は3468億円 「紹介した小説が ...",
+      "url": "https://news.yahoo.co.jp/articles/878e0260ac131dec906b727abe77b30924d5286e",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "もう若者だけのアプリじゃない！30〜40代に浸透する<b>TikTok</b>とワンタップ予約「<b>TikTok</b> GO」の威力",
+      "url": "https://dxmagazine.jp/news/2623ty-10/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>、推定消費額は3468億円 地域の来訪や販路拡大で - 旅行新聞",
+      "url": "https://www.ryoko-net.co.jp/?p=167628",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "「<b>TikTok日本</b>一」になっても…25歳アーティスト、壮絶な半生あった - ライブドアニュース",
+      "url": "https://news.livedoor.com/topics/detail/31505093/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "音楽制作レーベル「Arte Refact」所属<b>クリエイター</b>全員退所でファン驚き - 佐賀新聞",
+      "url": "https://www.saga-s.co.jp/articles/-/1725722",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "美人<b>クリエイター</b>、『同棲はじめました』と報告「アンチを嘲笑うようなタイトル」「わいが同棲 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/allaboutnews/entertainment/allaboutnews-157259",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "音楽制作レーベル「Arte Refact」所属<b>クリエイター</b>全員、一斉退所へ 代表・桑原聖の不適切な行動 ...",
+      "url": "https://news.livedoor.com/article/detail/31497149/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "Arte Refact所属の全<b>クリエイター</b>が一斉退所へ 代表の不適切行動が物議 - ライブドアニュース",
+      "url": "https://news.livedoor.com/topics/detail/31497149/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "美人<b>クリエイター</b>、『同棲はじめました』と報告「アンチを嘲笑うようなタイトル」「わいが同棲 ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/allaboutnews/entertainment/allaboutnews-157259",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "法人向け一体型VRヘッドセット「DPVR P1 Max」発表、研修施設やVRアーケードでの安定運用を ...",
+      "url": "https://www.moguravr.com/dpvr-p1-max-launch/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "『ホロドリ』スナックvol.2が発売！百鬼あやめ、癒月ちょこら16名のイラストシールを封入",
+      "url": "https://www.chiba-tv.com/plus/detail/amp/2026061722082",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "業界トレンド",
+      "title": "中朝首脳が友好確認 - 日本橋経済新聞",
+      "url": "https://nihombashi.keizai.biz/gpnews/1724159/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "動画広告vsゲーム内体験。約6割がゲーム内体験のほうが好感を抱きやすいと ... - 愛媛新聞ONLINE",
+      "url": "https://www.ehime-np.co.jp/article/prtimes94206",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "【新潟県妙高市】地域おこし(のこし)協力隊「すみます！<b>インフルエンサー</b>」を募集。地域の魅力を ...",
+      "url": "https://getnews.jp/archives/3723156",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "【売上300億円超のナハトが語る”<b>インフルエンサー</b>マーケの極意”】参加無料「Commerce NEXT ...",
+      "url": "https://www.minpo.jp/ud/prtimes/6a28d7267079c8b272000002",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "エルグラム総アカウント数29000件突破！収益化を実現した<b>活用事例</b>を紹介 - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000412.000059114&g=prt",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "OpenAIが非公開でIPO申請、生成AI競争と<b>資金調達</b>が新たなステージへ - 東京報道新聞",
+      "url": "https://tokyonewsmedia.com/archives/23645",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "史上最大規模の時価総額１兆ドル超も…新規株式公開で<b>資金調達</b>し開発競争を優位に",
+      "url": "https://news.livedoor.com/article/detail/31497465/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "脅威の兆候",
+      "title": "ボードゲームラボ復活のためクラウドファンディング始動 - サンスポ",
+      "url": "https://www.sanspo.com/pressrelease/atpress/Q6XWADYRRVOALBCU4HU4R7WIGE/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "脅威の兆候",
+      "title": "ジム経営の現在「ここが正念場」 亀田大毅との“反則騒動”の裏側とその後を語る「今は何もない」",
+      "url": "https://news.nicovideo.jp/watch/nw19396269",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "COZUCHI・COMMOSUS、両社代表が相互顧問に就任 事業体制の強化と発信力向上を目指す",
+      "url": "https://www.zakzak.co.jp/pressrelease/atpress/VFNUY2ZP55LRFHOJRIH7KNNVAY/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "【独占密着】遠藤航につきまとう“<b>移籍</b>の噂”… リヴァプールで出場機会が減少、揺らぐ立場 その時",
+      "url": "https://news.livedoor.com/article/detail/31506777/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "イラン攻撃で米側の被害情報なしと報道（共同通信） - ｄメニューニュース - NTTドコモ",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/kyodo_nor/world/kyodo_nor-2026061001000814",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "アシックス、オニツカタイガーを分社化 <b>独立</b>性の高い運営体制に - モデルプレス",
+      "url": "https://mdpr.jp/other/detail/4796191",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "脅威の兆候",
+      "title": "訪日外国人旅行者向け「日本の食」体験イベント事例集を公開 | 記事一覧 - J-Net21",
+      "url": "https://j-net21.smrj.go.jp/news/nskto60000020s43.html",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "脅威の兆候",
+      "title": "日本代表の初戦相手・オランダに非常事態！ 守護神の負傷交代＆DF一発退場…大荒れ最終 ...",
+      "url": "https://www.zakzak.co.jp/article/20260609-VTSAN2DPVZF4PCJ6HC32JSTH3A/photo/7LKAQKHWNFNOVNHD3I2KEJ52JU/",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "脅威の兆候",
+      "title": "【SNS広告・<b>インフルエンサー</b>マーケティングの実態】流入・獲得・継続を重視する設計へ",
+      "url": "https://netshop.impress.co.jp/n/2026/06/09/16208",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "脅威の兆候",
+      "title": "【SNS広告・<b>インフルエンサー</b>マーケティングの実態】流入・獲得・継続を重視する設計へ",
+      "url": "https://news.yahoo.co.jp/articles/acd40d60fc0babf6564fc335de27f4ceccabb1f9?page=3",
       "status": "エラー・要再試行"
     }
   ],
@@ -14160,6 +14624,312 @@
         "benchmark": 2
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "ALL iN FAZE、原点を振り返る新体制初の楽曲「Ciel」を配信リリース、LuckyFes’26の出演も決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVExMVHcxWDcwVE1MWnlYQ2FnM1p0c092SFFYdi1DbGtsci1YMEphWnAyRlQ4WUx5TDY3RXdXZVlIdjR3WTJxMEZDbWFOZE1SckItLWRLWlJfYUhPM3V4M0RJNm1WcDY3NkE?oc=5",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "株式会社ナハト",
+      "title": "インフルエンサーマーケは本当に”オワコン”か？ナハト流・再現性重視の運用ノウハウを「Commerce NEXT」で限定公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRzBfbjZqc1BxRnlrS0lySUpnVXVQR0ZscjVIQ0dvcWZfV2Q5Z3NLTHpxa292X3hsWTM1eGZNUVNFS05jcDRtSzlFZU14aWx4Rm11TkJ3RmcwZEFRSkd6c1V5cnpCanhndmc?oc=5",
+      "totalScore": 15.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "高橋ジョージ、盆踊りとロックを融合させたTHE虎舞竜の<b>新曲</b>発表 「全国の夏祭りに呼んで ...",
+      "url": "https://www.sanspo.com/article/20260609-KP2J2EHJUBNV5MPCXQ55SCQWLE/photo/WTH6KQOM5VOAPOBGTPSWO2H6EY/",
+      "totalScore": 5.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "韓国バズを支えた存在とは <b>アソビシステム</b>代表取締役は韓国の“キッチンカー文化”に ... - 山形新聞",
+      "url": "https://www.yamagata-np.jp/oricon/photo.php?id=2459935",
+      "totalScore": 18.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2020-11-24",
+      "company": "トレンダーズ",
+      "title": "「ママトレンド2021予測＆2020トレンドランキング」を発表／2021年のおうち時間は「充実志向」から「ストイック化」!?「教育系YouTuber」、「楽ちんホムパ」などに注目 | トレンダーズ株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xd2d4SjNWQjFlWEloTzNjMTByTXNmS1NhUEVDZzBidzQtZlEyZDQycGlUZGgxQjQ4UGc2Skt5WmQ4dnFvVFlsYVNUSno1RUZzUVphYWczX08ySC1vWU5BQlo1OEI1TUdzMUE?oc=5",
+      "totalScore": 9.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "(画像14/15) <b>アソビシステム</b>中川社長、K-POP文化で“相当驚いた”こと「逆にしちゃいけないと思っ ...",
+      "url": "https://mdpr.jp/photo/detail/20151309",
+      "totalScore": 18.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "<b>アソビ</b>中川悠介氏がCUTIE STREETの韓国進出の裏側明かす「グローバルに広げるために ...",
+      "url": "https://news.nicovideo.jp/watch/nw19399851?news_ref=50_50",
+      "totalScore": 20.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b> (6069) : 時系列の株価推移 [Trenders] - みんかぶ",
+      "url": "https://s.minkabu.jp/stock/6069/daily_bar?page=86",
+      "totalScore": 11.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "株式会社ナハト",
+      "title": "<b>株式会社ナハト</b> の求人｜WEBマーケター（クリエイター）｜【公式】ハープキャリア - HERP Career",
+      "url": "https://herp.careers/careers/companies/nahato/jobs/S9I69iSqkVvj",
+      "totalScore": 16.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-09",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキャリア】",
+      "url": "https://onecareer.jp/companies/95530?utm_source=oc&utm_medium=company_details&utm_campaign=selection_recommend_event",
+      "totalScore": 16.5,
+      "breakdown": {
+        "finance": 4,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 5,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-08",
+      "company": "トレンダーズ",
+      "title": "黒川書店に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORzR6a0dXTnl4cWVSUXdRX2tvQlJFZDZmR010RGVJSWpnMXZock5KVmNZN051UXdFcTdRZU9SV2JmNm84Y2taT0VpbjJnUGQ2enJ0ZlFjSl9nMVJLWWtxN1JabkczSkE2M3pkUElFU0Z4bE1yTFZNdTdON09lWEpianVKejZTRElIN1YwbmlaM1pMNUtIcXA0d0VXaGRjYldfSHZhaGxHeTlNalE?oc=5",
+      "totalScore": 11.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "Onono Village、モンゴルにてブラックサンダーのポップアップイベントを実施。ブース来場約 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19404619?news_ref=watch_20_nw18819551",
+      "totalScore": 12.75,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "CAGR 6.3％が示す高機能・環境対応需要の拡大 | Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社 | プレス ...",
+      "url": "https://www.dreamnews.jp/press/0000351869",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>インフルエンサー</b>マーケは本当に”オワコン”か？ナハト流・再現性重視の運用ノウハウを ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000113.000063127.html",
+      "totalScore": 19.75,
+      "breakdown": {
+        "finance": 5,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "自己投資の目的が年代で変わる？若者の「年収アップ」と、シニアが求める「健康と若さ」",
+      "url": "https://www.agara.co.jp/article/646118?rct=pr_times",
+      "totalScore": 6.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "日本・台湾で<b>マーケティング</b>事業を展開する「WAKEI」と資本業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000255.000064055.html",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "TikTok発行の調査レポート「TikTok Socio-Economic Impact Report」にBcode運営「<b>Creator</b> ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000072917.html",
+      "totalScore": 14.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "ライブ 配信 で横行する「視聴数水増し偽装」がマーケティングに与える損害 - DIGIDAY［<b>日本</b>版］",
+      "url": "https://digiday.jp/platforms/wtf-is-viewbotting/",
+      "totalScore": 10.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 4,
+        "benchmark": 1
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -19692,6 +20462,270 @@
       "agenda": "高単価商材やIP関連事業におけるインフルエンサーマーケティングで、プロモーションと顧客の客観的評価のギャップを最小化し、ブランド毀損リスクを回避するための効果的な戦略を策定すべきではないか？",
       "summary": "堀江氏プロデュース高額ラーメン店の評価とYouTuber活用",
       "axis": "マーケティング軸"
+    },
+    {
+      "id": 293,
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "ALL iN FAZE、原点を振り返る新体制初の楽曲「Ciel」を配信リリース、LuckyFes’26の出演も決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVExMVHcxWDcwVE1MWnlYQ2FnM1p0c092SFFYdi1DbGtsci1YMEphWnAyRlQ4WUx5TDY3RXdXZVlIdjR3WTJxMEZDbWFOZE1SckItLWRLWlJfYUhPM3V4M0RJNm1WcDY3NkE?oc=5",
+      "totalScore": 16.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属グループALL iN FAZEが新体制初の楽曲「Ciel」を配信リリースし、LuckyFes’26への出演も決定した。",
+      "intent": "アソビシステムはアーティスト・クリエイターの育成・プロデュースに強みを持つ企業であり、所属グループの新曲リリースはアーティスト活動の活性化、IP価値向上、ファンエンゲージメント強化を目的としている。「新体制初の楽曲」はグループとしての再起動や方向性転換を示唆し、フェス出演は露出機会の増加とライブを通じたファン獲得に直結する重要なプロモーション戦略である。",
+      "impact": "このニュースは、VAZが注力する「アイドルグループ」および「所属タレントのグッズ（IP）」戦略と直接的に重なる。競合であるアソビシステムが音楽コンテンツを通じてどのようにタレントのIP価値を向上させ、ファンエンゲージメントを高めているかを学ぶ良い機会となる。楽曲リリースとそれに伴うフェス出演は、アイドルグループの認知度向上、ファン層拡大、ひいてはグッズ販売やファンクラブ収益への寄与が期待される典型的な戦略である。",
+      "agenda": "VAZのアイドルプロジェクトにおけるIPとしての楽曲戦略と、音楽フェス等のオフラインイベントへの露出計画をどのように位置づけ、実行すべきか？",
+      "summary": "アソビシステム所属ALL iN FAZEが新体制楽曲をリリースしフェス出演決定",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 294,
+      "date": "2026-06-10",
+      "company": "株式会社ナハト",
+      "title": "インフルエンサーマーケは本当に”オワコン”か？ナハト流・再現性重視の運用ノウハウを「Commerce NEXT」で限定公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRzBfbjZqc1BxRnlrS0lySUpnVXVQR0ZscjVIQ0dvcWZfV2Q5Z3NLTHpxa292X3hsWTM1eGZNUVNFS05jcDRtSzlFZU14aWx4Rm11TkJ3RmcwZEFRSkd6c1V5cnpCanhndmc?oc=5",
+      "totalScore": 15.75,
+      "tags": [
+        "#プランニング・企画",
+        "#新規マネタイズ事業",
+        "#ECコマース"
+      ],
+      "fact": "株式会社ナハトが「Commerce NEXT」でインフルエンサーマーケティングの再現性重視の運用ノウハウを限定公開すると発表した。",
+      "intent": "インフルエンサーマーケティング業界では効果測定や再現性の課題が指摘される中、ナハトは「再現性重視」を打ち出すことで、広告主の信頼獲得と差別化を図り、特にEC事業者からの案件獲得を強化する狙いがある。",
+      "impact": "VAZのマーケティング軸にとって、競合が再現性のあるノウハウを公開することは案件獲得競争の激化を意味する。特にVAZが注力するTikTokショップやタレントIPグッズ、美容UGC生成において、再現性のある効果測定や運用モデルの提示は不可欠であり、ナハトの動向はVAZの事業戦略に直接的な影響を与える可能性がある。",
+      "agenda": "競合が提唱する「再現性重視」の運用ノウハウに対し、VAZの強みである「広告っぽくない」コンテンツ制作力とZ世代リーチを活かした独自の再現性指標や効果測定モデルをどう構築し、注力領域での競争優位性を確立するか？",
+      "summary": "競合ナハトが再現性重視のインフルエンサーマーケ運用ノウハウを公開",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 295,
+      "date": "2026-06-10",
+      "company": "アソビシステム",
+      "title": "韓国バズを支えた存在とは <b>アソビシステム</b>代表取締役は韓国の“キッチンカー文化”に ... - 山形新聞",
+      "url": "https://www.yamagata-np.jp/oricon/photo.php?id=2459935",
+      "totalScore": 18.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#プラットフォーム動向"
+      ],
+      "fact": "アソビシステム代表の中川悠介氏が、自社アイドルグループ「CUTIE STREET」の韓国でのバズを支えた要因として、韓国の「キッチンカー文化」に言及している。",
+      "intent": "競合のアソビシステムは、K-POPが世界を席巻する中で、自社アイドルグループを韓国でバズらせることに成功した。これは単なるSNSでの拡散に留まらず、韓国独自のファンカルチャー（キッチンカー文化など）を理解し、現地のプラットフォームやコミュニティに合わせた戦略を展開した結果と見られる。彼らの意図は、グローバル市場でのIP価値向上と、新たなファン層の獲得、さらにその成功事例を足がかりにした事業拡大だろう。業界のボトルネックとしては、日本発のエンターテインメントが海外、特にK-POPが強い韓国市場で成功を収めるには、深い文化理解に基づくローカライズと現地に根差したファンエンゲージメント戦略が不可欠である点が挙げられる。",
+      "impact": "VAZが2026年注力領域とする「アイドルグループ」の展開において、競合のアソビシステムが既に韓国市場で「バズ」を創出している事実は、市場の可能性と同時に競争の激しさを強く示唆する。アソビシステムの成功は、TikTokやWeverseといったプラットフォームを活用しつつ、現地のファン文化（キッチンカーなど）を深く理解し、それを取り込んだ戦略が重要であることを示唆している。これはVAZの「Z世代・若年層へのリーチ力」や「インフルエンサーネットワーク」の活用方法、さらには「タレントIPグッズ」のグローバル展開にも応用できる視点を提供する。特に、VAZが目指す「アイドルプロジェクト」のグローバル展開を考える上で、単なるコンテンツ制作だけでなく、海外のファン文化を取り込んだプロモーション戦略の立案が急務であることを浮き彫りにする。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、韓国の「キッチンカー文化」のような、現地に根差したファンエンゲージメント戦略をどのように設計し、グローバルなバズを創出するか？",
+      "summary": "アソビシステム、アイドル韓国バズ成功要因を考察",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 296,
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "(画像14/15) <b>アソビシステム</b>中川社長、K-POP文化で“相当驚いた”こと「逆にしちゃいけないと思っ ...",
+      "url": "https://mdpr.jp/photo/detail/20151309",
+      "totalScore": 18.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステムの中川社長がK-POP文化における日韓の違いへの「驚き」を語り、自社アイドルグループCUTIE STREETの韓国版MVがバズった経緯を明かした。",
+      "intent": "K-POPが世界的な成功を収める中で、アソビシステムは自社アイドル事業の成長戦略としてその成功要因を深く分析している。中川社長の「逆にしちゃいけないと思っていた」という発言は、従来の日本のアイドル育成やファンビジネスの常識を疑い、新しいアプローチを模索する競合の意図を示唆しており、グローバルな視点を取り入れる必要性を感じていると推察される。",
+      "impact": "アソビシステムがK-POP文化から学び、自社アイドルグループ「CUTIE STREET」のコンテンツ制作に活かしていることは、VAZの「アイドルグループ」注力領域にとって極めて重要な示唆となる。特に、日本の既存概念に捉われず海外の成功事例からインサイトを得て事業戦略に組み込む姿勢は、VAZが「Z世代・若年層へのリーチ力」や「所属タレントのグッズ（IP）」を強化する上で、K-POPが持つ高品質なコンテンツ力や強力なIP戦略、ファンとの関係構築手法をベンチマークすべきことを強く示唆している。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、K-POP文化の「逆にしちゃいけないと思っていた」要素を具体的に特定し、現状の企画やマネジメント戦略にどう反映させるべきか議論せよ。",
+      "summary": "アソビシステム社長がK-POP文化の日韓差異を分析し自社アイドルMV制作に活用",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 297,
+      "date": "2026-06-09",
+      "company": "アソビシステム",
+      "title": "<b>アソビ</b>中川悠介氏がCUTIE STREETの韓国進出の裏側明かす「グローバルに広げるために ...",
+      "url": "https://news.nicovideo.jp/watch/nw19399851?news_ref=50_50",
+      "totalScore": 20.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステムの中川悠介氏が、プロデュースするアイドルグループ「CUTIE STREET」の韓国進出について言及し、グローバル展開を視野に入れていることを明かした。",
+      "intent": "アソビシステムがアイドルプロジェクトのグローバル展開、特に韓国進出を目指す背景には、国内市場の競争激化と、K-POP市場を中心としたアジアのエンターテインメント市場の成長がある。韓国の洗練されたプロモーション戦略やグローバルファンベース構築のノウハウを取り入れ、IPの価値を最大化し、海外での新たな収益源を確立する狙いがあると考えられる。",
+      "impact": "本ニュースは、VAZの2026年注力領域である「アイドルグループ」および「所属タレントのグッズ（IP）」と強く合致し、直接的な競合の動きとして捉えられる。競合が先行してグローバル、特にK-POP市場の中心である韓国に進出することは、VAZが今後アイドル事業で海外展開を検討する際の具体的な先行事例となる。グローバル展開によってIP価値が高まり、新たな収益源を確立する可能性を示唆しており、市場全体としても日本のコンテンツの海外展開の重要性が増していることを示唆する。",
+      "agenda": "VAZのアイドルプロジェクトは、国内市場だけでなく、韓国市場も視野に入れたグローバル戦略をいつまでにどのように構築すべきか？",
+      "summary": "アソビシステムがアイドルIPを韓国進出させグローバル展開へ",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 298,
+      "date": "2026-06-09",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b> (6069) : 時系列の株価推移 [Trenders] - みんかぶ",
+      "url": "https://s.minkabu.jp/stock/6069/daily_bar?page=86",
+      "totalScore": 11.25,
+      "tags": [
+        "#資金調達・M&A",
+        "#市場規模・調査",
+        "#広告主動向"
+      ],
+      "fact": "競合であるトレンダーズの時系列株価が「みんかぶ」で公開されている。",
+      "intent": "トレンダーズの株価変動は、インフルエンサーマーケティング市場全体の景況感や広告主の投資意欲、同社の事業戦略や業績が市場に評価されている結果である。",
+      "impact": "トレンダーズの株価動向はインフルエンサーマーケティング業界全体の市場環境と投資家心理を反映し、VAZの企業価値向上や資金調達戦略に間接的に影響を与える。特にVAZの注力領域である美容UGC生成やTikTokショップなどEC関連事業における市場の期待値を測る上で、競合上場企業の市場評価は重要な先行指標となり得る。",
+      "agenda": "競合トレンダーズの株価動向から、インフルエンサーマーケティング市場の現状評価とVAZの注力領域への投資機会について、どのような戦略的示唆が得られるか？",
+      "summary": "トレンダーズの株価動向が市場評価を示す",
+      "axis": "業界全般"
+    },
+    {
+      "id": 299,
+      "date": "2026-06-09",
+      "company": "株式会社ナハト",
+      "title": "<b>株式会社ナハト</b> の求人｜WEBマーケター（クリエイター）｜【公式】ハープキャリア - HERP Career",
+      "url": "https://herp.careers/careers/companies/nahato/jobs/S9I69iSqkVvj",
+      "totalScore": 16.5,
+      "tags": [
+        "#プランニング・企画",
+        "#コンテンツ制作",
+        "#広告主動向"
+      ],
+      "fact": "株式会社ナハトが、SNS広告のクリエイティブ企画・制作・分析改善およびLPOを担当するWEBマーケター（クリエイター）の求人を公開した。",
+      "intent": "競合ナハトは急成長するSNS広告事業のさらなる強化のため、データに基づいたクリエイティブ制作とLPOによる広告効果最大化を担う専門人材の獲得を目指している。これは、拡大するSNS広告市場において、単なる露出だけでなく、質の高いコンテンツと効果的な運用による成果を広告主が強く求める業界トレンドを反映している。",
+      "impact": "ナハトがSNS広告のクリエイティブ力とLPOによる効果最大化を重視し、専門人材で体制を強化する動きは、VAZのマーケティング軸、特にプランニングチームにとって直接的な競合となり、広告主獲得競争の激化を意味する。VAZの「TikTokショップ」や「美容UGC生成」といった注力領域においても、単なるコンテンツ制作に留まらず、広告としての効果最大化や購入・アクションへのLPO知見が不可欠であり、ナハトのこの動きはVAZの注力領域における競争優位性確保への課題を突きつける。",
+      "agenda": "VAZは、競合ナハトのようにSNS広告のLPOスキルを持つ専門人材の採用・育成を強化し、TikTokショップや美容UGC生成を含む注力領域における広告効果最大化戦略をどのように推進すべきか？",
+      "summary": "ナハトがSNS広告クリエイティブ・LPO強化の人材を募集",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 300,
+      "date": "2026-06-09",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>の新卒採用・就職・会社概要とクチコミ｜就活サイト【ワンキャリア】",
+      "url": "https://onecareer.jp/companies/95530?utm_source=oc&utm_medium=company_details&utm_campaign=selection_recommend_event",
+      "totalScore": 16.5,
+      "tags": [
+        "#タイアップ案件",
+        "#インフルエンサーネットワーク",
+        "#資金調達・M&A"
+      ],
+      "fact": "株式会社ナハトは2023年3月期で売上高127億円、従業員数約250名、インフルエンサーマーケティングとSNS広告を主力事業とし、1万5000人以上のインフルエンサー登録数を誇る。",
+      "intent": "ナハトが新卒採用を強化している背景には、インフルエンサーマーケティング市場の拡大と、その中で競争優位性を確立するための人材確保が急務である現状がある。売上127億円という規模は、安定した収益基盤を持ちながらも、データと感覚を兼ね備えたマーケターを育成し、さらなる事業成長と市場シェア拡大を目指していることを示唆している。",
+      "impact": "ナハトの強固なインフルエンサーネットワーク（1万5000人以上）と高い売上規模は、VAZが注力する「インフルエンサーネットワーク」領域における直接的な競合であり、VAZの「新規マネタイズ事業の立ち上げ」にも影響を与える可能性がある。ナハトの動向は、VAZが強みとする「美容・コスメ領域」や「広告っぽくないSNSコンテンツ制作」での競争激化を招く可能性があり、自社の強みを活かした差別化戦略が求められる。",
+      "agenda": "ナハトの売上規模とインフルエンサーネットワーク構築能力をベンチマークとして、VAZはどのようにインフルエンサーネットワークを拡大し、データドリブンな案件獲得・実行力を強化すべきか？",
+      "summary": "ナハトが売上127億円・従業員250名規模で新卒採用を強化し、インフルエンサーマーケティング事業を拡大。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 301,
+      "date": "2026-06-08",
+      "company": "トレンダーズ",
+      "title": "黒川書店に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORzR6a0dXTnl4cWVSUXdRX2tvQlJFZDZmR010RGVJSWpnMXZock5KVmNZN051UXdFcTdRZU9SV2JmNm84Y2taT0VpbjJnUGQ2enJ0ZlFjSl9nMVJLWWtxN1JabkczSkE2M3pkUElFU0Z4bE1yTFZNdTdON09lWEpianVKejZTRElIN1YwbmlaM1pMNUtIcXA0d0VXaGRjYldfSHZhaGxHeTlNalE?oc=5",
+      "totalScore": 11.75,
+      "tags": [
+        "#自社IP・グッズ",
+        "#新規マネタイズ事業",
+        "#コンテンツ制作"
+      ],
+      "fact": "インフルエンサーマーケティングを手掛けるトレンダーズが、『黒川書店』と称する事業に関するプレスリリースを公開した。",
+      "intent": "トレンダーズが持つインフルエンサーマーケティングやPRの知見を活かし、コンテンツやIP領域、または特定のコミュニティ形成への多角化を図り、新たな顧客エンゲージメントと収益源の確立を目指していると考えられる。",
+      "impact": "競合トレンダーズの新規事業『黒川書店』は、詳細不明ながらもコンテンツ・IP関連であれば、VAZの注力領域であるタレントIPグッズや美容UGC生成と競合する可能性がある。特にVAZの強みである\"広告っぽくない\"コンテンツ制作と重なる部分があり、事業モデルや顧客層の奪い合いに繋がるリスクを孕むため、その動向は要注視である。",
+      "agenda": "トレンダーズの『黒川書店』事業が具体的にどのような内容か、VAZのIP・アイドル・美容UGC注力領域とどう競合しうるのかを早急に調査し、VAZが取るべき具体的な戦略的アクションを検討すべきではないか？",
+      "summary": "トレンダーズ、黒川書店事業に関するプレスリリースを発表",
+      "axis": "両方"
+    },
+    {
+      "id": 302,
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "Onono Village、モンゴルにてブラックサンダーのポップアップイベントを実施。ブース来場約 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19404619?news_ref=watch_20_nw18819551",
+      "totalScore": 12.75,
+      "tags": [
+        "#タイアップ案件",
+        "#新規マネタイズ事業",
+        "#コンテンツ制作"
+      ],
+      "fact": "Onono Villageがモンゴルにて大手菓子ブランド「ブラックサンダー」のポップアップイベントを実施し、多くの来場があった。",
+      "intent": "大手ブランドが海外市場でのブランド認知拡大や販売促進のため、現地のインフルエンサーマーケティングに強みを持つ企業と連携したと考えられる。体験価値を提供するポップアップイベント形式は、SNSでのUGC創出を促し、従来の広告とは異なる「広告っぽくない」プロモーションとして効果的である。",
+      "impact": "VAZのアカウントDivにとって、大手ブランドの海外市場におけるオフラインイベント展開は、新たなタイアップ案件や新規マネタイズ事業の可能性を示す事例となる。VAZの強みである「広告っぽくない」SNSコンテンツ制作力を活かし、国内に留まらず、将来的な海外でのブランド体験施策や、注力領域である「所属タレントのグッズ（IP）」や「アイドルグループ」の海外展開におけるイベント戦略のヒントになり得る。",
+      "agenda": "海外市場でのオフライン体験型イベントを、VAZの新規マネタイズ事業としてどのように構築し、所属タレントやアイドルプロジェクトのIPと連携させていくべきか？",
+      "summary": "Onono Village、モンゴルでブラックサンダーのポップアップ展開",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 303,
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "<b>インフルエンサー</b>マーケは本当に”オワコン”か？ナハト流・再現性重視の運用ノウハウを ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000113.000063127.html",
+      "totalScore": 19.75,
+      "tags": [
+        "#ECコマース",
+        "#プランニング・企画",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "株式会社ナハトが、ECイベント「Commerce NEXT」にて、創業8年で売上300億円超を達成した再現性重視のインフルエンサーマーケティング運用ノウハウを公開することを発表した。",
+      "intent": "競合ナハトは、インフルエンサーマーケティングの効果が属人的になりがちという業界のボトルネックに対し、「再現性重視の運用ノウハウ」を提示することで、広告主の不安を払拭し、EC市場の拡大に伴うインフルエンサー活用ニーズを効率的に取り込みたい意図がある。",
+      "impact": "本ニュースは、VAZの「マーケティング軸」における「新規マネタイズ事業」と「プランニングチーム」の戦略に直接的な影響を与える。特にナハトがEC領域での知見を強調していることは、VAZの注力領域である「TikTokショップ」戦略において、競合が体系的なノウハウを構築している可能性を示唆し、VAZの「インフルエンサーネットワーク」を活用した再現性のある施策展開の必要性を高める。",
+      "agenda": "ナハトの「再現性重視の運用ノウハウ」とEC連携の知見に対し、VAZの「TikTokショップ」を含む新規マネタイズ事業でどのように差別化し、売上300億円超の成長をトレースすべきか？",
+      "summary": "ナハト、売上300億超の再現性あるインフルエンサー施策をECイベントで公開",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 304,
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "日本・台湾で<b>マーケティング</b>事業を展開する「WAKEI」と資本業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000255.000064055.html",
+      "totalScore": 13,
+      "tags": [
+        "#資金調達・M&A",
+        "#新規マネタイズ事業",
+        "#広告主動向"
+      ],
+      "fact": "株式会社マイクロアドは、日本・台湾でデジタルマーケティング支援を展開する和慧株式会社（WAKEI）に資本参加し業務提携を締結、台湾の投資会社とも協業し日台間のクロスボーダーマーケティング支援事業を拡大する。",
+      "intent": "マイクロアドは成長市場であるデジタルマーケティング、特にクロスボーダー領域の潜在的な機会を捉え、WAKEIの地域専門性と実績を活用することで事業規模の拡大と新たな収益源の確保を目指している。WAKEIはマイクロアドの資金力とネットワークを得て、サービス提供範囲の拡大と事業基盤強化を図ることが狙い。",
+      "impact": "この提携は、日本のデジタルマーケティング企業が海外、特にアジア市場へ事業を拡大する動きを示しており、VAZのインフルエンサーネットワークやアイドルプロジェクトの海外展開、およびTikTokショップ等の新規マネタイズ事業を検討する上で重要な先行事例となる。特にクロスボーダーマーケティング支援の強化は、VAZの所属タレントのIPグッズの海外販売や、美容UGC生成コンテンツの海外展開における新たな広告主獲得の機会を創出する可能性がある。",
+      "agenda": "VAZの注力領域（IPグッズ、アイドル、美容UGC）の海外展開を加速させるために、どのようなクロスボーダーマーケティング戦略を構築すべきか？",
+      "summary": "マイクロアド、日台マーケティング企業WAKEIと資本業務提携し海外展開強化",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 305,
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "TikTok発行の調査レポート「TikTok Socio-Economic Impact Report」にBcode運営「<b>Creator</b> ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000072917.html",
+      "totalScore": 14.25,
+      "tags": [
+        "#プラットフォーム動向",
+        "#コンテンツ制作",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "AnyMind Group傘下のBcode運営「Creator Agency Alpha」所属の料理系クリエイター「神社あゆ」が、2026年6月発行のTikTok公式調査レポート「TikTok Socio-Economic Impact Report」に成功事例として掲載された。",
+      "intent": "TikTokがプラットフォームとしての経済的・社会的インパクトを訴求する目的で、成功事例を積極的に紹介している背景がある。Bcodeとしては、所属クリエイターの成功を通じて自社のマネジメント力やプラットフォーム適応力をアピールし、クリエイター獲得や企業からの案件獲得に繋げたい意図がある。VAZ視点では、特定のクリエイターがTikTok上で顕著な成果を出し、プラットフォームから公に認められることは、クリエイターの専門性やコンテンツ品質、プラットフォーム戦略が非常に優れていることを示唆している。",
+      "impact": "VAZにとって、このニュースはTikTokプラットフォームにおける成功事例の示唆であり、特に「TikTokショップ」や「美容UGC生成」といった注力領域において、どのようにクリエイターを育成し、コンテンツを制作すれば効果的なのかを検討する機会となる。料理系クリエイターの成功は、特定の専門分野に特化したクリエイターがTikTokで大きな影響力と経済的価値を生み出せることを示しており、VAZの所属タレントマネジメントやコンテンツ戦略に示唆を与える。",
+      "agenda": "TikTok公式レポートに掲載されるようなクリエイター成功事例をVAZが創出し、プラットフォーム価値を最大化するには、どのような戦略とリソースが必要か？",
+      "summary": "Bcode所属クリエイター、TikTok公式レポートの成功事例に",
+      "axis": "両方"
+    },
+    {
+      "id": 306,
+      "date": "2026-06-10",
+      "company": "業界トレンド",
+      "title": "ライブ 配信 で横行する「視聴数水増し偽装」がマーケティングに与える損害 - DIGIDAY［<b>日本</b>版］",
+      "url": "https://digiday.jp/platforms/wtf-is-viewbotting/",
+      "totalScore": 10.25,
+      "tags": [
+        "#広告主動向",
+        "#ECコマース",
+        "#プラットフォーム動向"
+      ],
+      "fact": "ライブ配信においてAIを利用した高度な視聴数水増し（ビューボット）が横行し、配信者のアカウント停止やスポンサー契約料の不当な吊り上げ、市場の汚染を引き起こしている。",
+      "intent": "インフルエンサーマーケティングにおいて視聴数やエンゲージメントが重要な指標となるため、短期的な利益目的でこれを人為的に水増しする悪質な行為が横行している。AIの進化により手口が巧妙化し、プラットフォーム側の検知を困難にさせており、広告主が不正確なデータに基づいて投資を判断せざるを得ないという業界全体のボトルネックとなっている。",
+      "impact": "VAZの「インフルエンサーネットワーク」を通じたタイアップ案件や、「TikTokショップ」でのライブコマースにおいて、パフォーマンス指標の信頼性が損なわれるリスクがある。特にVAZが注力するアイドルプロジェクトのライブ配信においても、この問題はコンテンツの正当な評価を阻害し、クライアントやファンからの信頼を失う要因となり得る。",
+      "agenda": "ライブ配信の視聴数偽装リスクに対し、VAZが自社タレントやクライアントを守るために取り得る具体的な対策（データ分析強化、不正検知ツール導入、透明性確保のガイドライン策定など）は何があるか？",
+      "summary": "ライブ配信視聴数水増しが市場を汚染、信頼性低下のリスク",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -19726,8 +20760,8 @@
   ],
   "home": {
     "monthLabel": "2026年6月",
-    "thisMonthNewsCount": 434,
-    "thisMonthAnalysisCount": 85,
+    "thisMonthNewsCount": 491,
+    "thisMonthAnalysisCount": 99,
     "highlights": [
       {
         "id": 0,
@@ -19790,18 +20824,18 @@
     "ranking": [
       {
         "company": "アソビシステム",
-        "totalScore": 1084.25,
-        "count": 63
+        "totalScore": 1158,
+        "count": 67
       },
       {
         "company": "業界トレンド",
-        "totalScore": 1079.25,
-        "count": 73
+        "totalScore": 1149.25,
+        "count": 78
       },
       {
         "company": "トレンダーズ",
-        "totalScore": 498.22,
-        "count": 36
+        "totalScore": 521.22,
+        "count": 38
       },
       {
         "company": "TORIHADA",
@@ -19809,14 +20843,14 @@
         "count": 28
       },
       {
+        "company": "株式会社ナハト",
+        "totalScore": 423.64,
+        "count": 29
+      },
+      {
         "company": "株式会社Natee",
         "totalScore": 391.83,
         "count": 24
-      },
-      {
-        "company": "株式会社ナハト",
-        "totalScore": 374.89,
-        "count": 26
       },
       {
         "company": "GROVE株式会社",
@@ -19837,50 +20871,50 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 146
+        "count": 153
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 103
+        "count": 106
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 85
+        "count": 91
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 80
+        "count": 84
       },
       {
         "tag": "#広告主動向",
-        "count": 71
+        "count": 75
       },
       {
         "tag": "#プランニング・企画",
-        "count": 57
+        "count": 60
+      },
+      {
+        "tag": "#プラットフォーム動向",
+        "count": 53
       },
       {
         "tag": "#タレント発掘・育成",
         "count": 53
       },
       {
-        "tag": "#プラットフォーム動向",
-        "count": 50
-      },
-      {
         "tag": "#タイアップ案件",
-        "count": 45
+        "count": 47
       },
       {
         "tag": "#ECコマース",
-        "count": 39
+        "count": 42
       }
     ],
     "axisCounts": {
-      "タレント軸": 88,
-      "マーケティング軸": 99,
-      "両方": 100,
-      "業界全般": 6
+      "タレント軸": 92,
+      "マーケティング軸": 105,
+      "両方": 103,
+      "業界全般": 7
     },
     "tagMaster": {
       "タレント軸": [
