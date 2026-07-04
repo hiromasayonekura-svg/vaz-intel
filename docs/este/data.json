@@ -1,170 +1,567 @@
 {
   "meta": {
-    "generatedAt": "2026-07-04T00:00:00.000Z",
-    "generatedAtJst": "2026-07-04 09:00:00 (サンプルデータ)",
-    "totalNews": 8,
-    "totalAnalyses": 8,
-    "note": "これは表示確認用のサンプルデータです。GASのexportToGitHub実行で実データに置き換わります。"
+    "generatedAt": "2026-07-04T05:27:56.237Z",
+    "generatedAtJst": "2026-07-04 14:27:56",
+    "totalNews": 35,
+    "totalAnalyses": 5
   },
   "news": [
-    {"date": "2026-07-01", "category": "クライアント動向", "company": "ヤーマン", "title": "【サンプル】ヤーマン、業務用新型フェイシャル機器を発表", "url": "https://example.com/1", "status": "処理済"},
-    {"date": "2026-07-01", "category": "エステ業界", "company": "ミス・パリ・グループ", "title": "【サンプル】ミス・パリ、メンズエステ新業態を都心に出店", "url": "https://example.com/2", "status": "処理済"},
-    {"date": "2026-07-02", "category": "隣接プロ美容", "company": "SBCメディカルグループ", "title": "【サンプル】SBC、エステ領域との連携プログラムを開始", "url": "https://example.com/3", "status": "処理済"},
-    {"date": "2026-07-02", "category": "出版・ビジネス", "company": "(キーワード)業界紙デジタル化", "title": "【サンプル】老舗業界紙が有料会員制オンラインサロンで増収", "url": "https://example.com/4", "status": "処理済"},
-    {"date": "2026-07-03", "category": "クライアント動向", "company": "ビューティガレージ", "title": "【サンプル】ビューティガレージ、エステサロン向け開業支援を拡充", "url": "https://example.com/5", "status": "処理済"},
-    {"date": "2026-07-03", "category": "エステ業界", "company": "(キーワード)エステ市場", "title": "【サンプル】痩身エステ市場、前年比プラス成長との調査", "url": "https://example.com/6", "status": "処理済"},
-    {"date": "2026-07-03", "category": "隣接プロ美容", "company": "松風", "title": "【サンプル】松風、まつげエクステ新商材とスクール事業を強化", "url": "https://example.com/7", "status": "処理済"},
-    {"date": "2026-07-04", "category": "出版・ビジネス", "company": "アイスタイル", "title": "【サンプル】アイスタイル、プロ向けデータサービスを発表", "url": "https://example.com/8", "status": "処理済"}
+    {
+      "date": "2026-07-02",
+      "category": "エステ業界",
+      "company": "スリムビューティハウス",
+      "title": "スリムビューティハウスのイメージキャラクターに河北麻友子さんが就任 - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13ZlNqOVJyNEdHb3JULWZMYjZINW9IZDY2X1NvdVdkekZyYzZONHRiN3Y2RGZJdUFhcXFJa096NzFNNDZrdy02RXVRMTgwRTBSTjB4UnlGMFR6X09kRUg0?oc=5",
+      "status": "エラー"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "エステ業界",
+      "company": "ミュゼプラチナム",
+      "title": "ミュゼプラチナム創業24周年を記念し、Aidle「SHINE」のデビュー曲「ミュゼサンシャイン」を本日正式リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DMGR3Wjk2ZzlxUDFNRmdRcW9UQUZqU2h6Q1NSNGVtR0JjT3hPMGRGRlNPNnZkLTU1cTBnX0p5YWFVZE5iN0ZHSXYtRG16aDZ0RWJ1Z1poVElhcEcybjJZUzg1bzRJX04yeUE?oc=5",
+      "status": "エラー"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "エステ業界",
+      "company": "ミュゼプラチナム",
+      "title": "ミュゼプラチナム創業24周年を記念し、Aidle「SHINE」のデビュー曲「ミュゼサンシャイン」を本日正式リリース - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXlSVWJ2N3NlZUVPeDBscnFmaTRlNWhua2IwNjJ0ZlNOM1hlNlA1RWVOcnhyOXZTYTJJWFJsZ3YyWDJSSldHamNwUkRrOHJjMFQwRVpUeEo4cTBNbTFaMU96ekVjWGxMQmRNdjNNdVlqY0ZidTBPRG5OOS1WZ0Q5NThRa3lTQndz?oc=5",
+      "status": "エラー"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "ヤーマン",
+      "title": "[ヤーマン] 毛穴ケアスチーマー ブライトクリーン 発売日 [2022/08/22] - 美的.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fanZmMEk1V0plY1VDLUpYQ3RXUjNQblJzQ2ZLd2ZCeVZaNWczQ050bUpHOWZzYVlIbnhaRlNOamdGZ0NBX3N1NlYzRjA?oc=5",
+      "status": "エラー"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "急成長する美容ブランド「ReFa」 訪日客の心もつかむ戦略に迫る - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za1BwQWZId1dTVmdSMVJnOXc0UElEeF9SZk9pTE1mNVNfSDk2VnF1QnZUR3ZaZms0N2ZxdUxQRl9NTEotakFIS2d4VlRMcWpRcVJVeGNfRlhRNHRWTENPX3B4SXBYdm8?oc=5",
+      "status": "処理済"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "美容タオルから生まれた、肌にやさしく心ときめくハートハンドタオル「ReFa HEART HAND TOWEL Aira（リファハートハンドタオルアイラ）」2026年7月22日（水）新発売 - 美ST ONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0tqazlzM1NSNE1xdDFiWGxia1ZueG0ycDdlcHFrTnRNRUh1c1RLRVczaTBXNHBkWUloWEJ3VTVhUU5zM3JVd0JYdw?oc=5",
+      "status": "処理済"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "広島・八丁堀のまつげパーマ専門店「ケイトステージラッシュ」がReFa正規取扱店として取り扱いを開始 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGaGlSbDh0d3BYSnhTMEVvV0NoWWdYVnhWbmh2MWRXTHktZXpXZFozT2ZxSU11eHg2cTd4cUdnM243S1RMRnh1QlpNTjhKRzI0RjQtekY4ZGtQNFZfWTRjMEpXV093UndkVlEwb0ZJTQ?oc=5",
+      "status": "処理済"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "[ReFa] リファトリートメントアイロン 発売日 [2026/04/15] - 美的.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aTzJjM2RJMzJhWWlJcUg1S0taZUx6dENCaWo4X0tiRkJqbXBpX3gwMllZWVlGX3pua29VV3g5UXJMTTlvQzdndG1fUVY?oc=5",
+      "status": "処理済"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "タカラベルモント シャンプー台 部品 USED タカラベルモント 理美容 シャンプー台 シャワーヘッド ホース A 商品细节 JDirectItems Auction One Map by FROM JAPAN - richardajkeys.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZM0NhYThyakt1NmJqZjdMaEF6M3BqMFpZVzRId1ZXYVJOcGNPV0lpWm5xVEFzeVI1LTJQLTNKal8zOGFlLVZHdlRfLVVDUmN0c2c?oc=5",
+      "status": "処理済"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "大阪・関西万博の“美の体験”が東京に！タカラベルモント万博展示、1日限りの一般公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3eXByZmpZVmpfazQxN19hUk5fMEJFMk8zeVdNa2dCd2FTaGZSdnFaTVZNMlFUVGJMbk81ZTJUMDRrN1lmaUw1c1M5RFhyWFN3cWVHZG5EZUdFS01JYTVUaXBvaVZYYWZjQkE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "コシノジュンコさん“アシンメトリー”神戸の洋裁学校へ タカラベルモント《Expo Legacy》 - jocr.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YOWV5bFh5VW5hTnlyWTUyc0NHYUZlNndMNk9OOVJVMFlVV1V3Vy1sT0pDWldfbV96SkpIcHNrQ0hkMDQ2M29HazVqX21mMUtCNmZOb1RR?oc=5",
+      "status": "エラー"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "コシノジュンコさん“アシンメトリー”神戸の洋裁学校へ タカラベルモント《Expo Legacy》（ラジトピ ラジオ関西トピックス） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ueWp1cktLN1R2aTA0TzB2c3piSThJUDNiUVpydjJrT0sxUVZmQllmWEttM2FIcEkxLWprY19EbjRYS1RENjhId2hMeEdRZGlzQXF4NVVqenU1eW0zbGt5WVNic0FGLTFHeGVDbzg1TFVCR1dWeXhDdUw2TlZiOGc?oc=5",
+      "status": "エラー"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "万博の感動が東京に！タカラベルモント展示会8月8日限定公開 - Koubo",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9GTmtvRmp2R29GYk1hZmhiX20zeWtwVFB3ck52VWJBN3pWdWs4Q0JKT0NvWVZYXzVRWFFNZDNZYjFoc1B2?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "コシノジュンコさん“アシンメトリー”神戸の洋裁学校へ タカラベルモント《Expo Legacy》 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjBzcHk3OWxwbkcxQzM2QzFPeURoSm9JVExwY1RwQjJjTC1mZ0tHcHlRM3o3YU1BU2xsLXlEWTl5V24wOGFzLXJaamtlUzctaXhzUUZyRTJVX0NGRGdveHRaRG5veUN1YjE5aEI2RjMtdkUzdlRHYnFad2o2czlxMkw5cmXSAYABQVVfeXFMTmFhRFFtamRhdm0tVFRBbGZUVlNqMnBoMzZ4YWV3bWZHLVY0UEl2Z0dPMEQ5bE1VT3BoQkZMMGtfLU9ya1BjaGk0OExBQUx5VFJVVHZNMTFOcEtkRjYweHlKZkUxVno4OEstM0hlenlXSUtnbnFxdkZpUGtOY2Q2WGs?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "コシノジュンコさん“アシンメトリー”神戸の洋裁学校へ タカラベルモント《Expo Legacy》 (ラジトピ ラジオ関西トピックス) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUl9ob0hJVFhCNFFPQk1ud1VReU9fUFNBb1U2MTZDaHJsSmw4OGc4SDFhZ1ZEU3MwY183eVdiWThOX29SenFfV0FDNi1YNEFPR2lVRnJ6a2twSzJUYzVuTURFXzlwZ3lhODJhcEJXemtVRG5jRWVEZW9QMnVXazV2aTY4V0ZGUzc5WjNVUnVR?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "ビューティガレージ",
+      "title": "【ブランド初サロン専売品】PHOEBE BEAUTY UP「アイラッシュ コーティング セラム」新発売！同時に「LUMERE BEAUTY」サロン本格展開 - 繊研新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemk2UzFpUDhIaERmbm1tcFoyWmVKTUczN3J6YXE4Z2R1ZzNlckRvVkxLYmZPVFBrM1luNlIxSGJyWUZ0Ukx5VEVuSG4wN2VobUxwekg1TVJLbld1dkpRX2RnQWVPaDhfMlo1b25WT0VWVngyMWVGSDUzVndmbS1nQjR1azZXUkVleFFTTi1zaW5nY2FCb000VnVuTXV5bUlLd3VBLWRzU1FVVzR4OHc?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "日本エステティック協会",
+      "title": "岡山県初、最短3か月で資格取得を目指せる 一般社団法人日本エステティック協会 AJESTHE登録教室が誕生 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZQzVPUHJDUlVscW80VklrWVo2S0M1RjM4V0dNcnY2RHE0eUh1SVQwaFJRbFJuekc0bTdpMDYtQWNnb2taNWU4MkFma3JwM3c?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "日本エステティック協会",
+      "title": "岡山県初となる日本エステティック協会登録教室「LumaBelle」が開校 - J-CAST ニュース",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSEh1Q2lmdktvQzdLWDhUQ0F5YzIxbkliN2VZd0FiTVdfZk9ITnoySW1FT0lsT0VqcUxQYTNIZ3V4ODA0TDFfWXp4MXRqMTllM2xyLTM4QkljLW9XWVVIdDBNLURzT3VNUU5SQQ?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "隣接プロ美容",
+      "company": "リクルート(HPB)",
+      "title": "ホットペッパービューティー、「ビビビ祭」第2弾開催決定 リピート予約＆来店でポイント最大30％還元 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY05NbmdZNHlvbEFuQUtGU3JuT19uU2hncGhfYWxmSGdEaGJ5VG5aUGhDaXlKNWRhRHFTX1I5Tmc5Q1I0UHFJSzJ1WkwtYmtXSmJINFJFWDhjbnNRaF8weDN0RW1kUmdoZS1GNVRERHZGaEhtNzVLLURyOThpYmotb0VqT19tQzlfT1hyMHY4Ym1ZR0hiMWY2VWs0Nmc?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "隣接プロ美容",
+      "company": "リクルート(HPB)",
+      "title": "吉川愛＆桜田ひより、仲良し2人がキュートな決めポーズ!? 「ホットペッパービューティー」新CM Gruppo San Donato (YxFv2n2cgl) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UM2tzX2tIcWFCMjVYZ1JNYThjTGFjUnphYjNqcmI2SWVxTkkxSjRLLWhWSVJITEtLY1ZxSTBSRllFaThjTjE0ZkJKaUVHSDFoelNwTjZReDJMTDg?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "隣接プロ美容",
+      "company": "ヤマノHD",
+      "title": "ヤマノＨＤ Research Memo（2）：「美道五原則」を源流に、美と暮らしの事業を展開 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVJIeWQtWVJqcHdXa2Q1SWJDTEhXZ3RQOHhueDdzX1B1dWpCaFV5T0ItMnV5eDhlWVM4aHJpWTZpMW93bGpReXNCTUlxS0VYZmxvTl9mdkx6RDJWaVZyX3hBRFdObGJkQWR2SmllVFdUdC1pRmNQdklUaFlzNGtoYnBrUWhfbVZ4V2xDdNIBjAFBVV95cUxNLVJIeWQtWVJqcHdXa2Q1SWJDTEhXZ3RQOHhueDdzX1B1dWpCaFV5T0ItMnV5eDhlWVM4aHJpWTZpMW93bGpReXNCTUlxS0VYZmxvTl9mdkx6RDJWaVZyX3hBRFdObGJkQWR2SmllVFdUdC1pRmNQdklUaFlzNGtoYnBrUWhfbVZ4V2xDdA?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "隣接プロ美容",
+      "company": "ヤマノHD",
+      "title": "ヤマノＨＤ Research Memo（1）：既存事業の収益改善と成長領域の拡大により、EBITDA成長が進展 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlZZMVFOZFZ4T3dtSGFBNnIyUVRKZHFVNXk2a2JJelVIeDA1d0FtdVN6QjFrS3VyRmNHcm9yTHY3NnQwY3FNYTBoc3ZjQU5NcE94d05RdWZINk5iUUlpRTNBdEc0SWdjdHpWN3JwVEFpQ0haV3dveERhU3NSTGRGdTVmUHgyRmxueHBIetIBjAFBVV95cUxQSlZZMVFOZFZ4T3dtSGFBNnIyUVRKZHFVNXk2a2JJelVIeDA1d0FtdVN6QjFrS3VyRmNHcm9yTHY3NnQwY3FNYTBoc3ZjQU5NcE94d05RdWZINk5iUUlpRTNBdEc0SWdjdHpWN3JwVEFpQ0haV3dveERhU3NSTGRGdTVmUHgyRmxueHBIeg?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "隣接プロ美容",
+      "company": "ヤマノHD",
+      "title": "ヤマノＨＤ Research Memo（4）：長年の企業活動を通じて蓄積されてきた知的財産が競争優位の源泉 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNURYN1FPZFFOb3hWdjhhUWVGU0wtOXF0ZU5OSi1DOGduUk55WktkWlpPNks4NVY1TjZ5RUdkaS13dTU1SHozWUpuMzF3clg3OWs0a2d3MlpPUGs0WmZnLVhwaDZRRVlfWDlPb3FicnJrU0pNSF83SXRuOW9rRWdGN3RQS25LLWPSAYwBQVVfeXFMUHI4Y2xJX2JRVUs5aXkwelpVYndyWUJPWkZ4am1ockJUYy1wSjY3ejdUZTltbkxkaUNjQlQyWlMyMXkxdEhXUXNZUlI0RGU4Qkt0MXdVdXJrbjNQQ2VUNFlCMVpSOEl0UHQyNGJ6emxCQUFya3VZMTd4MlM0dk56Q1VaRjBweXRkd21EUDA?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "隣接プロ美容",
+      "company": "TCB東京中央美容外科",
+      "title": "韓国発の美容医療カンファレンス「ASLS Tokyo 2026」にTCB理事長・寺西宏王医師が参加・登壇。 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dFVKeXNjckFzdmdOQklWOXRoRDJzWTJKYTQ2M2o2b3JIMS1YOWg4Sms5X0hLT3d5VG9QZ3M5aV9sTGNsejduOF9tRElOYjNvYkJsZzRIaTFicTkydTlwdGxhWld0RTQ2Umc?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "隣接プロ美容",
+      "company": "TCB東京中央美容外科",
+      "title": "TCB松村圭祐医師・山本展生医師らの顎下脂肪吸引に関する研究が「Aesthetic Plastic Surgery」に掲載。「吸引量」を事前に予測するモデルを構築。 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lRTU5UDFHY1poSzNzZFBULW1KWXFvZmZvZDRCMU05STJJRnlOU2FfaXlxTDZGT19nVmxkMzhqVDN4cC1GamZBc3hLYS1OdGIzZi0wbGNqNTkzSTdZOXpOYXFfOTJrbExYbnVz?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "出版・ビジネス",
+      "company": "アイスタイル",
+      "title": "「@cosme NAGOYA」が誕生1周年！ 感謝を込めた特別イベント「1st Anniversary with Thanks!」を開催 ～全品10%ポイントバック、ガラポン大抽選会など、お得で楽しい7日間～ - istyle.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pQU1sQXFpZG5Wd0phbjFmRTFjdFZtLWdZVXhZU1hoTTU0RVA3QWdaQWhnVWw3RlpmbGVFV3NxMm81clM3MEtNNmZLS0ZPQjhXbE9BUi1ySHVPYllHLXNrNmlB?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "出版・ビジネス",
+      "company": "アイスタイル",
+      "title": "「@cosme STORE TSUTAYA 函館蔦屋書店」初の全面改装を実施、2026 年 11 月にリニューアルオープン - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kTnB1Q1JwUGZreC1xSy1VdjFMQWJsSmk4bHBPV2Y0eUZDMHNVemFLQmNmeXE5blhwWWJJVTVuRXdLOFNmdlhva3FWSXlQUU9kR0FMUg?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "出版・ビジネス",
+      "company": "美容経済新聞",
+      "title": "エポラ、頭皮美容液がヒット ヘマチン配合、4年弱で109万本販売（日本ネット経済新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MbHRSLWtlWm04VkxNT3BGdDdiUW8wbnZRYkluT0lJNXVNLUc2UzZENmk1akhBZ1ZEd05tQVlNR3ZnVzNaRmlPeHVwS3RrUGpyMWpwSE4zMjkxSkZOdWwtbUpOb0QybXBIeGRaU1FLX2tCN0ZiU3psZk5YNFRQNms?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "隣接プロ美容",
+      "company": "(キーワード)美容医療規制",
+      "title": "「エクソソーム」治療の規制検討 再生医療安全確保法見直し（共同通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkc3ZvUU1tOWxWb2luOEpKYjJidG43YVNkWlV4SDdrZ0VLVER5SGQ1U1FxSngzZzk1eG1ZRFgwb2ZTZFM5SDB6Q25YYjF0MGMzT1NwMjQtZEp0S1Zib09kMnpsSFFxbmRxOEVNN1FmV1pzZExTdjc5Vkd2WEI5MnM?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "隣接プロ美容",
+      "company": "(キーワード)美容医療規制",
+      "title": "民間医療機関の運営に対する規制を強化する。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWXBWNk9SakJwTTZLc1ZNTmxyM3NabExKa0lpZ0o2Y1ZqZjQtaGE4VWNCT2p5WmJaY0tkdzJVRmpQTkJxNWFJQXlDdXJ0TGJtNWcyZG52dFF4TmhKcWcwRnpRTXZKLWNsRWczUTRn?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-01",
+      "category": "隣接プロ美容",
+      "company": "(キーワード)ネイル市場",
+      "title": "【2026年版】大分県内の開店(ニューオープン)・閉店情報まとめ！ - フレーズ大分",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OOUlRN004N09PUFc1U0p0MUhYUk81MDJibmtJcEE2dXZ2SE1DY2Itbjk1UUNSczdMcXlPWl80TmF3dTdm?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-04",
+      "category": "エステ業界",
+      "company": "TBCグループ",
+      "title": "＜画像7 / 12＞前田敦子、大島優子がお洒落な“パリジェンヌ”に変身!? - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UzlBM29rckM0M29xTktydnBPTnhlSkxtNDczN2NqcE9WaDNoR3hib01oZVYwTlZkbklXZDUxNlJlbXNla19fRjZaSW1KODZ1cHlqTW1SYmVXTWNReVV0VENFeWplazZX?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "ヤーマン",
+      "title": "画像1 / 17＞フラッグシップストア『YA-MAN the store GINZA』を通して描く、美容機器ブランド「ヤーマン」の世界戦略ビジョン - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OMEJ0RWV6UGl2LXk4ZXJsOXNIN1dDZ1pOc1ROSVZsak9mSGppVVNPaUJhTE0wMVNZM3hSNnhpM205S2U0VTFwTGZHRnRRWDBKeTFWNThvc1pIb3hNOUZMTUVXQ3ZRZTNaOFlWV2ln?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-02",
+      "category": "出版・ビジネス",
+      "company": "アイスタイル",
+      "title": "「@cosme NAGOYA」が誕生1周年！ 感謝を込めた特別イベント「1st Anniversary with Thanks!」を開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYcDdLU01sN0N2QWNpSFdTOTBKTzEyUlJvM1dST2Q3dXNHZV9Cd3BYVGpFWHF2VFRHVzZkZWI1WTRJQ3Z6THpZVEg5MHlJc2JtcVg2cXFOalUtb0ZIVXR6d0JvSHF1WHZ3ZzhBUks4UDlac1BKZTFqeEhKRQ?oc=5",
+      "status": "未処理"
+    },
+    {
+      "date": "2026-07-03",
+      "category": "出版・ビジネス",
+      "company": "美容経済新聞",
+      "title": "エポラ、頭皮美容液がヒット ヘマチン配合、4年弱で109万本販売 (日本ネット経済新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXBieG9aUUlERjIyZ2VneTg3NnYyUnUtdnB4cG5WWVVVWkdESU1FQmljQjdiZnJGemdRVWlVMURhR3pMaldmc1p3NElrZm5ydC1XSXlfeU1WX3k3R1dISXdzVzFnWEZ6cVFpYXdwUGpGWVNZTDd6dktLVXNwcEp0NUFvX3lhUjlmZ19FTzhn?oc=5",
+      "status": "未処理"
+    }
   ],
   "analyses": [
     {
-      "id": 0, "date": "2026-07-01", "category": "クライアント動向", "company": "ヤーマン",
-      "title": "【サンプル】ヤーマン、業務用新型フェイシャル機器を発表",
-      "summary": "ヤーマンが業務用フェイシャル新機器を投入",
-      "url": "https://example.com/1",
-      "totalScore": 24.0, "salesScore": 9.0, "editScore": 8.0, "bizScore": 7.0,
-      "tags": ["#業務用機器", "#新製品", "#フェイシャル"],
-      "fact": "ヤーマンがサロン向けの新型フェイシャル機器を発表した。秋からサロン向け販売を開始する。",
-      "intent": "家庭用で培ったブランド力を業務用市場に展開し、サロンチャネルでの売上構成比を高める狙いとみられる。",
-      "salesAngle": "新製品ローンチ期は広告・タイアップ予算が最も動くタイミング。発売前の今こそ、体験レポ企画とセットで出稿提案を持ち込むべき。",
-      "editorialAngle": "「業務用×家庭用ブランドの逆流入」をテーマに、サロンが家庭用ブランド機器を導入するメリット・注意点の特集が組める。",
-      "bizAngle": "機器メーカーとサロンのマッチングイベントやレビューDBは、当社がハブになれる領域。",
-      "agenda": "機器メーカーの新製品発表を収益機会に変える定型パッケージ(記事+広告+イベント)を持っているか？"
+      "id": 0,
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "急成長する美容ブランド「ReFa」 訪日客の心もつかむ戦略に迫る - 朝日新聞",
+      "summary": "美容ブランドReFaが急成長、訪日客獲得戦略も展開",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za1BwQWZId1dTVmdSMVJnOXc0UElEeF9SZk9pTE1mNVNfSDk2VnF1QnZUR3ZaZms0N2ZxdUxQRl9NTEotakFIS2d4VlRMcWpRcVJVeGNfRlhRNHRWTENPX3B4SXBYdm8?oc=5",
+      "totalScore": 25,
+      "salesScore": 10,
+      "editScore": 7,
+      "bizScore": 8,
+      "tags": [
+        "#ReFa",
+        "#MTG",
+        "#美容機器",
+        "#インバウンド",
+        "#ブランド戦略",
+        "#成長企業"
+      ],
+      "fact": "美容ブランドReFa（MTG）が急成長しており、訪日客の心をつかむ戦略を展開していることが報じられた。",
+      "intent": "MTGはReFaブランドの市場シェアとブランド価値をさらに高めることを意図している。訪日客市場への注力は、成長を加速させ、収益源を多様化するための戦略的な動きと推察される。",
+      "salesAngle": "MTGに対し、ReFa製品がエステサロンの施術効果向上や物販強化にどう貢献するかを切り口に、タイアップ記事や広告出稿を提案する。特にインバウンド需要を取り込みたいサロンへのアプローチを強調する。",
+      "editorialAngle": "「ReFaに学ぶ！サロンが取り入れるべきインバウンド集客術と物販強化戦略」といった企画で、人気ブランドの成功事例からサロン経営者が実践できるヒントを深掘りする。",
+      "bizAngle": "エステサロン向けに、インバウンド顧客対応（多言語メニュー、決済システム導入支援など）や、人気美容機器・化粧品の物販ノウハウを提供する新規事業を検討する。",
+      "agenda": "MTG/ReFaのインバウンド戦略から、エステティック通信がサロン向けに提供できる新たな価値や、自社の広告・新規事業のヒントを具体的に洗い出せるか。"
     },
     {
-      "id": 1, "date": "2026-07-01", "category": "エステ業界", "company": "ミス・パリ・グループ",
-      "title": "【サンプル】ミス・パリ、メンズエステ新業態を都心に出店",
-      "summary": "ミス・パリがメンズ特化の新業態を出店",
-      "url": "https://example.com/2",
-      "totalScore": 21.5, "salesScore": 6.5, "editScore": 9.0, "bizScore": 6.0,
-      "tags": ["#メンズエステ", "#新業態", "#出店"],
-      "fact": "ミス・パリ・グループがメンズ向けの新業態サロンを都心に出店した。",
-      "intent": "成長が続くメンズ美容市場を取り込み、既存ブランドと分離した業態で新規客層を開拓する狙い。",
-      "salesAngle": "メンズ市場に参入するサロンが増えれば、メンズ向け機器・化粧品メーカーの出稿意欲も上がる。関連メーカーへの営業の追い風として使える。",
-      "editorialAngle": "「メンズエステ最前線」特集。大手の業態設計・単価・メニュー構成を分解すれば、読者サロンの参入判断材料になる。",
-      "bizAngle": "メンズエステ開業セミナーや専門ムックなど、テーマ特化型の商品化余地がある。",
-      "agenda": "メンズ美容の波を、単発記事でなく事業(セミナー・ムック・広告枠)として取りにいくか？"
+      "id": 1,
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "美容タオルから生まれた、肌にやさしく心ときめくハートハンドタオル「ReFa HEART HAND TOWEL Aira（リファハートハンドタオルアイラ）」2026年7月22日（水）新発売 - 美ST ONLINE",
+      "summary": "MTGのReFaが美容タオル発想のハートハンドタオルを発売",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kQ0tqazlzM1NSNE1xdDFiWGxia1ZueG0ycDdlcHFrTnRNRUh1c1RLRVczaTBXNHBkWUloWEJ3VTVhUU5zM3JVd0JYdw?oc=5",
+      "totalScore": 17,
+      "salesScore": 7,
+      "editScore": 6,
+      "bizScore": 4,
+      "tags": [
+        "#MTG",
+        "#ReFa",
+        "#新製品",
+        "#美容雑貨",
+        "#ブランド戦略"
+      ],
+      "fact": "MTGは、美容ブランドReFaから「ReFa HEART HAND TOWEL Aira」を2026年7月22日に新発売すると発表した。この製品は、美容タオルから着想を得た肌に優しいハート型のハンドタオルである。",
+      "intent": "MTGは、ReFaブランドの顧客接点を拡大し、日常使いのアイテムを通じてブランドの世界観を浸透させることを意図していると推察される。既存の美容機器や化粧品だけでなく、美容雑貨分野への展開により、ブランドの多角化と収益源の多様化を図る狙いがあるだろう。",
+      "salesAngle": "MTGに対し、ReFaブランドの総合的なプロモーションの一環として、サロン向け製品と連携したタイアップ記事や広告出稿を提案する。特に、サロンでの顧客向け物販やノベルティとしての活用を切り口に、サロン経営者向けの訴求を強化する企画を提案できる。",
+      "editorialAngle": "「ReFaブランドの最新戦略：日常に溶け込む美容アイテムで顧客接点を拡大」といった切り口で、MTGのブランド戦略を深掘りする記事が考えられる。また、「サロン物販のヒントに！大手美容ブランドに学ぶ、顧客の心をつかむ美容雑貨開発の視点」として、サロン経営者向けに物販戦略の参考事例として紹介するのも良い。",
+      "bizAngle": "エステティック通信として、サロン向けオリジナル物販商品の開発支援や、美容雑貨メーカーとの連携による共同企画を検討するヒントになる。例えば、サロンの顧客満足度向上に繋がるような、美容専門誌監修のオリジナルタオルやアメニティグッズの開発などが考えられる。",
+      "agenda": "MTGのような大手美容ブランドが一般消費者向け美容雑貨に注力する背景と、それがエステ・プロ美容市場に与える間接的な影響について、どのように捉え、戦略に活かすべきか。"
     },
     {
-      "id": 2, "date": "2026-07-02", "category": "隣接プロ美容", "company": "SBCメディカルグループ",
-      "title": "【サンプル】SBC、エステ領域との連携プログラムを開始",
-      "summary": "SBCがエステサロンとの連携プログラムを開始",
-      "url": "https://example.com/3",
-      "totalScore": 25.0, "salesScore": 7.0, "editScore": 9.0, "bizScore": 9.0,
-      "tags": ["#美容医療", "#提携", "#集客"],
-      "fact": "SBCメディカルグループがエステサロンとの相互送客を含む連携プログラムを開始した。",
-      "intent": "美容医療の競争激化を受け、エステ顧客層を獲得チャネルとして取り込む狙い。エステ側には医療との棲み分けによる安心感を提供する。",
-      "salesAngle": "医療×エステ連携は美容医療側にサロン向け認知ニーズを生む。クリニックグループの広告出稿・タイアップを新規開拓できる好機。",
-      "editorialAngle": "「エステと美容医療は競合か、共存か」。連携プログラムの実像と読者サロンが取るべきスタンスを解説する企画は関心が高い。",
-      "bizAngle": "エステと医療をつなぐカンファレンスやマッチング事業は、業界メディアである当社の中立性が最大の武器になる。",
-      "agenda": "美容医療マネーが業界に流れ込む今、当社は「つなぎ役」のポジションを取りにいくべきではないか？"
+      "id": 2,
+      "date": "2026-07-03",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "広島・八丁堀のまつげパーマ専門店「ケイトステージラッシュ」がReFa正規取扱店として取り扱いを開始 - 山陽新聞",
+      "summary": "まつげパーマ専門店がReFa正規取扱を開始",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGaGlSbDh0d3BYSnhTMEVvV0NoWWdYVnhWbmh2MWRXTHktZXpXZFozT2ZxSU11eHg2cTd4cUdnM243S1RMRnh1QlpNTjhKRzI0RjQtekY4ZGtQNFZfWTRjMEpXV093UndkVlEwb0ZJTQ?oc=5",
+      "totalScore": 22,
+      "salesScore": 8,
+      "editScore": 7,
+      "bizScore": 7,
+      "tags": [
+        "#MTG",
+        "#ReFa",
+        "#まつげパーマ",
+        "#サロン経営",
+        "#物販強化",
+        "#多角化"
+      ],
+      "fact": "広島のまつげパーマ専門店「ケイトステージラッシュ」が、MTG社の美容ブランドReFaの正規取扱店となった。これにより、同店はまつげパーマサービスに加え、ReFa製品の販売を開始する。",
+      "intent": "ケイトステージラッシュは、専門サービスに加えてReFa製品の物販を導入することで、顧客単価向上と新たな収益源の確保を目指していると推察される。MTG社としては、ReFaの販路を多様な美容専門サロンに拡大し、ブランドの浸透と売上増を図る戦略の一環と考えられる。",
+      "salesAngle": "MTG社に対し、まつげパーマ専門店などニッチな美容サロンへのReFa導入事例を特集するタイアップ記事を提案し、新たな販路開拓を支援する。また、同様の物販強化を検討するサロン向けに、ReFa以外の美容機器・化粧品メーカーへの広告出稿を促す。",
+      "editorialAngle": "「まつげパーマ専門店がReFaで物販強化！成功の秘訣と導入メリット」といったタイトルで、ニッチサロンの多角化戦略と物販による収益向上事例を深掘りする記事を企画する。",
+      "bizAngle": "サロンが物販を強化するための「ブランド・製品マッチングプラットフォーム」や、ReFaのような人気ブランドと中小サロンを繋ぐ「共同プロモーション支援サービス」の可能性を検討する。",
+      "agenda": "ニッチな専門サロンにおける物販強化のトレンドに対し、エステティック通信としてどのような情報提供やビジネス支援が可能か。"
     },
     {
-      "id": 3, "date": "2026-07-02", "category": "出版・ビジネス", "company": "(キーワード)業界紙デジタル化",
-      "title": "【サンプル】老舗業界紙が有料会員制オンラインサロンで増収",
-      "summary": "他業界の業界紙が有料コミュニティで増収",
-      "url": "https://example.com/4",
-      "totalScore": 22.0, "salesScore": 3.0, "editScore": 5.0, "bizScore": 10.0,
-      "tags": ["#出版ビジネス", "#サブスク", "#コミュニティ"],
-      "fact": "他業界の老舗業界紙が、経営者向け有料コミュニティとオンライン講座を柱に増収を達成したと報じられた。",
-      "intent": "広告依存モデルから、読者課金・教育事業へ収益源を分散する出版社の典型的な転換例。",
-      "salesAngle": "—",
-      "editorialAngle": "サロン経営者向けの学びコンテンツ(経営・採用・集客)の需要検証として、まず連載企画でテスト可能。",
-      "bizAngle": "エステサロン経営者向け有料コミュニティ+講座は当社の読者基盤とそのまま重なる。最有力の新規事業候補として検討価値が高い。",
-      "agenda": "広告収益に次ぐ第2の柱として、読者課金型コミュニティ事業の検討を始めるか？"
+      "id": 3,
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "MTG",
+      "title": "[ReFa] リファトリートメントアイロン 発売日 [2026/04/15] - 美的.com",
+      "summary": "ReFaが髪質改善を訴求するトリートメントアイロンを発売",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aTzJjM2RJMzJhWWlJcUg1S0taZUx6dENCaWo4X0tiRkJqbXBpX3gwMllZWVlGX3pua29VV3g5UXJMTTlvQzdndG1fUVY?oc=5",
+      "totalScore": 24,
+      "salesScore": 9,
+      "editScore": 8,
+      "bizScore": 7,
+      "tags": [
+        "#MTG",
+        "#ReFa",
+        "#美容機器",
+        "#新製品",
+        "#ホームケア",
+        "#店販"
+      ],
+      "fact": "MTGの美容ブランドReFaが「リファトリートメントアイロン」を2026年4月15日に発売した。",
+      "intent": "ReFaは、ホームケア市場における美容機器のラインナップを強化し、顧客の多様な美容ニーズに応えることで、市場シェアの拡大とブランド価値の向上を図っていると推察される。特に「トリートメント」を冠することで、単なるスタイリングだけでなく、髪質改善への訴求を強化する意図があるだろう。",
+      "salesAngle": "MTGの広告営業担当者に対し、新製品のプロモーション強化として「エステティック通信」でのタイアップ記事や広告出稿を提案する。特に、サロンでの店販や顧客へのホームケア提案に繋がる切り口を強調する。",
+      "editorialAngle": "「プロが解説！リファトリートメントアイロンの活用術とサロンでの店販戦略」といった切り口で、サロン経営者やエステティシャンが顧客に提案できる価値を深掘りする記事を企画する。",
+      "bizAngle": "ホームケア美容機器のトレンド分析記事を定期的に掲載し、読者の購買意欲を高めることで、メーカーからの広告収入増に繋げる。また、読者向けに新製品体験イベントを企画し、メーカーとの連携を深める可能性も検討する。",
+      "agenda": "ホームケア美容機器市場の拡大が、エステサロンのサービス提供や店販戦略にどのような影響を与えるか、今後の事業戦略にどう組み込むべきか議論すべきではないか。"
     },
     {
-      "id": 4, "date": "2026-07-03", "category": "クライアント動向", "company": "ビューティガレージ",
-      "title": "【サンプル】ビューティガレージ、エステサロン向け開業支援を拡充",
-      "summary": "ビューティガレージが開業支援サービスを拡充",
-      "url": "https://example.com/5",
-      "totalScore": 20.0, "salesScore": 8.0, "editScore": 6.0, "bizScore": 6.0,
-      "tags": ["#開業支援", "#ディーラー", "#EC"],
-      "fact": "ビューティガレージがエステサロン向けの開業支援サービスを拡充した。",
-      "intent": "機器・商材ECから開業・経営支援まで押さえ、サロンのライフサイクル全体を囲い込むプラットフォーム戦略。",
-      "salesAngle": "開業支援の認知拡大フェーズにあり、開業特集へのタイアップ出稿ニーズが高いはず。開業カテゴリの広告企画を持ち込みたい。",
-      "editorialAngle": "「開業1年目のリアル」企画。開業支援サービスの比較記事は独立志望のエステティシャン読者に刺さる。",
-      "bizAngle": "当社も求人・開業情報のマッチング領域で協業または自前展開の余地がある。",
-      "agenda": "サロンのライフサイクル(就職→独立→多店舗化)のどの段階を当社の収益ポイントにするか？"
-    },
-    {
-      "id": 5, "date": "2026-07-03", "category": "エステ業界", "company": "(キーワード)エステ市場",
-      "title": "【サンプル】痩身エステ市場、前年比プラス成長との調査",
-      "summary": "痩身エステ市場がプラス成長との調査結果",
-      "url": "https://example.com/6",
-      "totalScore": 18.0, "salesScore": 5.0, "editScore": 8.0, "bizScore": 5.0,
-      "tags": ["#市場調査", "#痩身", "#業界動向"],
-      "fact": "調査会社のレポートで、痩身エステ市場が前年比プラス成長と報じられた。",
-      "intent": "医療ダイエットの台頭で縮小が懸念されていた痩身市場の底堅さを示すデータであり、機器・商材メーカーの投資判断に影響する。",
-      "salesAngle": "市場成長データは広告営業の説得材料になる。痩身関連メーカーへの提案資料に引用し、出稿の後押しに使う。",
-      "editorialAngle": "市場データ+現場サロンの実感値を突き合わせる「痩身市場の真実」企画。データ系記事は保存性が高く読者の信頼を積める。",
-      "bizAngle": "業界データを継続収集・販売するリサーチ事業(ミニ白書)の種になる。",
-      "agenda": "業界データの一次発信元(白書・調査レポート)のポジションを当社が取るべきではないか？"
-    },
-    {
-      "id": 6, "date": "2026-07-03", "category": "隣接プロ美容", "company": "松風",
-      "title": "【サンプル】松風、まつげエクステ新商材とスクール事業を強化",
-      "summary": "松風がアイラッシュ商材とスクールを強化",
-      "url": "https://example.com/7",
-      "totalScore": 16.5, "salesScore": 7.0, "editScore": 5.5, "bizScore": 4.0,
-      "tags": ["#アイラッシュ", "#スクール", "#商材"],
-      "fact": "松風がまつげエクステの新商材を発表し、技術者向けスクール事業も強化した。",
-      "intent": "アイラッシュ市場の技術者不足を背景に、商材販売と教育をセットで囲い込むモデルを強化する狙い。",
-      "salesAngle": "エステサロンのアイラッシュ複合化が進めば商材メーカーの広告ニーズも拡大。複合メニュー特集との連動出稿を提案できる。",
-      "editorialAngle": "「エステ×アイラッシュ複合サロンの収益モデル」企画。メニュー追加の投資対効果を具体的な数字で示すと刺さる。",
-      "bizAngle": "技術教育とメディアの連携(認定講座の告知パートナー等)に展開余地。",
-      "agenda": "隣接カテゴリ(アイラッシュ・ネイル)の読者・広告主を取り込む編集方針に舵を切るか？"
-    },
-    {
-      "id": 7, "date": "2026-07-04", "category": "出版・ビジネス", "company": "アイスタイル",
-      "title": "【サンプル】アイスタイル、プロ向けデータサービスを発表",
-      "summary": "アイスタイルがプロ向けデータ事業を発表",
-      "url": "https://example.com/8",
-      "totalScore": 19.5, "salesScore": 4.0, "editScore": 6.5, "bizScore": 9.0,
-      "tags": ["#BeautyTech", "#データ事業", "#メディア"],
-      "fact": "アイスタイルが美容プロフェッショナル向けのデータ提供サービスを発表した。",
-      "intent": "消費者クチコミデータをB2B商材化し、メディア企業からデータ企業への転換を進める動き。",
-      "salesAngle": "—",
-      "editorialAngle": "消費者トレンドデータをサロンメニュー開発にどう活かすか、という実用記事に翻訳できる。",
-      "bizAngle": "メディアが持つ業界接点をデータ事業に転換した好例。当社の読者調査・サロンデータも同様に商品化できる可能性がある。",
-      "agenda": "当社が保有する読者・サロン・広告主データを「売れる資産」に変える構想はあるか？"
+      "id": 4,
+      "date": "2026-07-02",
+      "category": "クライアント動向",
+      "company": "タカラベルモント",
+      "title": "大阪・関西万博の“美の体験”が東京に！タカラベルモント万博展示、1日限りの一般公開 - PR TIMES",
+      "summary": "タカラベルモントが万博の美の体験展示を東京で一般公開。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3eXByZmpZVmpfazQxN19hUk5fMEJFMk8zeVdNa2dCd2FTaGZSdnFaTVZNMlFUVGJMbk81ZTJUMDRrN1lmaUw1c1M5RFhyWFN3cWVHZG5EZUdFS01JYTVUaXBvaVZYYWZjQkE?oc=5",
+      "totalScore": 24,
+      "salesScore": 9,
+      "editScore": 8,
+      "bizScore": 7,
+      "tags": [
+        "#タカラベルモント",
+        "#大阪関西万博",
+        "#美容機器",
+        "#体験型イベント",
+        "#未来の美容"
+      ],
+      "fact": "タカラベルモントが大阪・関西万博で展示する「美の体験」を、東京で1日限定で一般公開する。これは、万博のテーマである「いのち輝く未来社会のデザイン」に基づいた、未来の美容を提案する内容である。",
+      "intent": "タカラベルモントは、万博での展示を東京でも披露することで、より多くの業界関係者や一般消費者に対し、同社の技術力と未来の美容に対するビジョンをアピールしたい意図がある。これにより、ブランドイメージの向上と、将来的な製品・サービスへの関心喚起を図る狙いがあるだろう。",
+      "salesAngle": "タカラベルモントに対し、万博展示の反響や来場者データを活用したタイアップ記事や、未来の美容サロン像をテーマにした広告企画を提案する。",
+      "editorialAngle": "万博展示の内容を深掘りし、「未来のサロン体験」や「タカラベルモントが描く美容の未来」といった切り口で、サロン経営者が自店舗の差別化や新規サービス開発のヒントを得られる記事を企画する。",
+      "bizAngle": "エステティック通信も、読者向けに「未来の美容体験イベント」を企画し、機器メーカーやIT企業と連携して、新しい技術やサービスを体験できる場を提供する。",
+      "agenda": "業界のリーディングカンパニーが示す「未来の美容体験」を、当社はどのように読者に届け、新たな事業機会に繋げられるか？"
     }
   ],
   "competitors": [
-    {"name": "TBCグループ", "category": "エステ業界"},
-    {"name": "ミス・パリ・グループ", "category": "エステ業界"},
-    {"name": "ソシエ・ワールド", "category": "エステ業界"},
-    {"name": "不二ビューティ", "category": "エステ業界"},
-    {"name": "スリムビューティハウス", "category": "エステ業界"},
-    {"name": "エルセーヌ", "category": "エステ業界"},
-    {"name": "ジェイエステティック", "category": "エステ業界"},
-    {"name": "ラ・パルレ", "category": "エステ業界"},
-    {"name": "ミュゼプラチナム", "category": "エステ業界"},
-    {"name": "シーズ・ラボ", "category": "エステ業界"},
-    {"name": "ヤーマン", "category": "クライアント動向"},
-    {"name": "MTG", "category": "クライアント動向"},
-    {"name": "タカラベルモント", "category": "クライアント動向"},
-    {"name": "ワム", "category": "クライアント動向"},
-    {"name": "ビューティガレージ", "category": "クライアント動向"},
-    {"name": "ドクターリセラ", "category": "クライアント動向"},
-    {"name": "シーボン", "category": "クライアント動向"},
-    {"name": "ポーラ", "category": "クライアント動向"},
-    {"name": "コンフォートジャパン", "category": "クライアント動向"},
-    {"name": "日本エステティック協会", "category": "クライアント動向"},
-    {"name": "リクルート(HPB)", "category": "隣接プロ美容"},
-    {"name": "アデランス", "category": "隣接プロ美容"},
-    {"name": "アルテサロンHD", "category": "隣接プロ美容"},
-    {"name": "AB&Company", "category": "隣接プロ美容"},
-    {"name": "ヤマノHD", "category": "隣接プロ美容"},
-    {"name": "SBCメディカルグループ", "category": "隣接プロ美容"},
-    {"name": "TCB東京中央美容外科", "category": "隣接プロ美容"},
-    {"name": "品川美容外科", "category": "隣接プロ美容"},
-    {"name": "ネイルクイック", "category": "隣接プロ美容"},
-    {"name": "松風", "category": "隣接プロ美容"},
-    {"name": "アイスタイル", "category": "出版・ビジネス"},
-    {"name": "女性モード社", "category": "出版・ビジネス"},
-    {"name": "髪書房", "category": "出版・ビジネス"},
-    {"name": "新美容出版", "category": "出版・ビジネス"},
-    {"name": "美容経済新聞", "category": "出版・ビジネス"}
+    {
+      "name": "TBCグループ",
+      "category": "エステ業界"
+    },
+    {
+      "name": "ミス・パリ・グループ",
+      "category": "エステ業界"
+    },
+    {
+      "name": "ソシエ・ワールド",
+      "category": "エステ業界"
+    },
+    {
+      "name": "不二ビューティ",
+      "category": "エステ業界"
+    },
+    {
+      "name": "スリムビューティハウス",
+      "category": "エステ業界"
+    },
+    {
+      "name": "エルセーヌ",
+      "category": "エステ業界"
+    },
+    {
+      "name": "ジェイエステティック",
+      "category": "エステ業界"
+    },
+    {
+      "name": "ラ・パルレ",
+      "category": "エステ業界"
+    },
+    {
+      "name": "ミュゼプラチナム",
+      "category": "エステ業界"
+    },
+    {
+      "name": "シーズ・ラボ",
+      "category": "エステ業界"
+    },
+    {
+      "name": "ヤーマン",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "MTG",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "タカラベルモント",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "ワム",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "ビューティガレージ",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "ドクターリセラ",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "シーボン",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "ポーラ",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "コンフォートジャパン",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "日本エステティック協会",
+      "category": "クライアント動向"
+    },
+    {
+      "name": "リクルート(HPB)",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "アデランス",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "アルテサロンHD",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "AB&Company",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "ヤマノHD",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "SBCメディカルグループ",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "TCB東京中央美容外科",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "品川美容外科",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "ネイルクイック",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "松風",
+      "category": "隣接プロ美容"
+    },
+    {
+      "name": "アイスタイル",
+      "category": "出版・ビジネス"
+    },
+    {
+      "name": "女性モード社",
+      "category": "出版・ビジネス"
+    },
+    {
+      "name": "髪書房",
+      "category": "出版・ビジネス"
+    },
+    {
+      "name": "新美容出版",
+      "category": "出版・ビジネス"
+    },
+    {
+      "name": "美容経済新聞",
+      "category": "出版・ビジネス"
+    }
   ]
 }
