@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>エステティック通信 Intel | 業界インテリジェンス</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-subtle: #fafaf9;
+    --border: #e7e5e4;
+    --border-strong: #d6d3d1;
+    --text: #1c1917;
+    --text-muted: #78716c;
+    --accent: #0f172a;
+    /* カテゴリカラー */
+    --esthe: #e11d48;        --esthe-soft: #fff1f2;
+    --client: #7c3aed;       --client-soft: #f5f3ff;
+    --adjacent: #0ea5e9;     --adjacent-soft: #f0f9ff;
+    --publish: #d97706;      --publish-soft: #fffbeb;
+    --industry: #64748b;     --industry-soft: #f8fafc;
+    /* 部署カラー */
+    --sales: #16a34a;        --sales-soft: #f0fdf4;
+    --edit: #db2777;         --edit-soft: #fdf2f8;
+    --biz: #4f46e5;          --biz-soft: #eef2ff;
+  }
+  body {
+    font-family: 'Inter', 'Noto Sans JP', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.01em;
+  }
+  .nav-tab {
+    padding: 14px 4px;
+    margin-right: 24px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-muted);
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s ease;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .nav-tab:hover { color: var(--text); }
+  .nav-tab.active {
+    color: var(--text);
+    border-bottom-color: var(--accent);
+    font-weight: 600;
+  }
+  @media (max-width: 768px) {
+    .nav-tab { padding: 12px 4px; margin-right: 16px; font-size: 13px; }
+  }
+  .tag-filter {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: white;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.15s ease;
+    white-space: nowrap;
+  }
+  .tag-filter:hover { border-color: var(--border-strong); color: var(--text); }
+  .tag-filter.active { background: var(--accent); color: white; border-color: var(--accent); }
+  .card {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    transition: all 0.15s ease;
+  }
+  @media (max-width: 768px) {
+    .card { padding: 16px; border-radius: 10px; }
+  }
+  .card-hover { cursor: pointer; }
+  .card-hover:hover { border-color: var(--border-strong); box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+  .cat-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 10px;
+    font-size: 11px;
+    font-weight: 600;
+    border-radius: 6px;
+    letter-spacing: 0.02em;
+  }
+  .cat-esthe    { background: var(--esthe-soft);    color: var(--esthe); }
+  .cat-client   { background: var(--client-soft);   color: var(--client); }
+  .cat-adjacent { background: var(--adjacent-soft); color: var(--adjacent); }
+  .cat-publish  { background: var(--publish-soft);  color: var(--publish); }
+  .cat-industry { background: var(--industry-soft); color: var(--industry); }
+  .cat-border-esthe    { border-left: 3px solid var(--esthe); }
+  .cat-border-client   { border-left: 3px solid var(--client); }
+  .cat-border-adjacent { border-left: 3px solid var(--adjacent); }
+  .cat-border-publish  { border-left: 3px solid var(--publish); }
+  .cat-border-industry { border-left: 3px solid var(--industry); }
+  /* 部署ミニスコア */
+  .dept-score {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 600;
+    border-radius: 5px;
+  }
+  .dept-sales { background: var(--sales-soft); color: var(--sales); }
+  .dept-edit  { background: var(--edit-soft);  color: var(--edit); }
+  .dept-biz   { background: var(--biz-soft);   color: var(--biz); }
+  .tag {
+    display: inline-block;
+    padding: 3px 8px;
+    font-size: 11px;
+    font-weight: 500;
+    background: var(--bg-subtle);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+  }
+  .score-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 6px;
+  }
+  .score-hot  { background: #fef2f2; color: #b91c1c; }
+  .score-warm { background: #fffbeb; color: #b45309; }
+  .score-cool { background: #f1f5f9; color: #475569; }
+  .section-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 12px;
+  }
+  .modal-bg { background: rgba(28, 25, 23, 0.5); backdrop-filter: blur(8px); }
+  .line-clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  .fade-in { animation: fadeIn 0.25s ease-out; }
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(4px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .timeline-line { position: absolute; left: 11px; top: 0; bottom: 0; width: 2px; background: var(--border); }
+</style>
+</head>
+<body class="min-h-screen">
+
+<!-- ヘッダー -->
+<header class="sticky top-0 z-40 bg-white border-b border-stone-200">
+  <div class="max-w-7xl mx-auto px-4 md:px-8 py-3 md:py-5 flex items-center justify-between gap-2">
+    <div class="flex items-center gap-3 min-w-0">
+      <div class="w-8 h-8 md:w-9 md:h-9 bg-rose-700 rounded-lg flex items-center justify-center flex-shrink-0">
+        <span class="text-white font-bold text-xs md:text-sm tracking-tight">ET</span>
+      </div>
+      <div class="min-w-0">
+        <h1 class="text-sm md:text-base font-semibold tracking-tight truncate">エステティック通信 Intel</h1>
+        <p class="text-[10px] md:text-xs text-stone-500 mt-0.5 hidden sm:block">業界インテリジェンス</p>
+      </div>
+    </div>
+    <div class="flex items-center gap-2 md:gap-4 flex-shrink-0">
+      <div class="text-[10px] md:text-xs text-stone-400 hidden md:block" id="last-updated">Loading...</div>
+      <button onclick="reloadData()" class="px-2 md:px-3 py-1 md:py-1.5 text-[11px] md:text-xs font-medium text-stone-600 border border-stone-200 rounded-md hover:bg-stone-50 hover:border-stone-300 transition">
+        ↻ Refresh
+      </button>
+    </div>
+  </div>
+  <nav class="max-w-7xl mx-auto px-4 md:px-8 flex items-center overflow-x-auto scrollbar-thin">
+    <div class="nav-tab active" data-view="home">ホーム</div>
+    <div class="nav-tab" data-view="sales">営業</div>
+    <div class="nav-tab" data-view="editorial">編集</div>
+    <div class="nav-tab" data-view="category">カテゴリ別</div>
+    <div class="nav-tab" data-view="company">企業別</div>
+    <div class="nav-tab" data-view="timeline">タイムライン</div>
+    <div class="nav-tab" data-view="agenda">経営アジェンダ</div>
+    <div class="nav-tab" data-view="search">検索</div>
+  </nav>
+</header>
+
+<main class="max-w-7xl mx-auto px-4 md:px-8 py-6 md:py-10">
+  <div id="view-container"></div>
+</main>
+
+<div id="modal" class="fixed inset-0 z-50 hidden modal-bg flex items-start justify-center p-2 md:p-4 overflow-y-auto" onclick="closeModal(event)">
+  <div class="bg-white rounded-xl md:rounded-2xl max-w-3xl w-full my-2 md:my-8 fade-in" onclick="event.stopPropagation()">
+    <div id="modal-body" class="p-5 md:p-8"></div>
+  </div>
+</div>
+
+<script>
+let DATA = null;
+let CURRENT_VIEW = 'home';
+let CURRENT_CAT_FILTER = 'all';
+let CURRENT_TAG_FILTER = 'all';
+let SHOW_ALL_MONTHS = false;
+let SORT_BY = 'score';
+let SORT_ORDER = 'desc';
+
+const CATEGORIES = ['エステ業界', 'クライアント動向', '隣接プロ美容', '出版・ビジネス'];
+
+/* ========== データ読み込み ========== */
+
+async function loadData() {
+  try {
+    const res = await fetch('./data.json?_=' + Date.now());
+    DATA = await res.json();
+    document.getElementById('last-updated').textContent = `Updated: ${DATA.meta.generatedAtJst}`;
+    renderView(CURRENT_VIEW);
+  } catch (e) {
+    document.getElementById('view-container').innerHTML = `
+      <div class="card text-center py-16">
+        <p class="text-stone-500">data.json を読み込めませんでした</p>
+        <p class="text-xs text-stone-400 mt-2">${e.message}</p>
+      </div>`;
+  }
+}
+
+function reloadData() { loadData(); }
+
+document.querySelectorAll('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    CURRENT_VIEW = tab.dataset.view;
+    renderView(CURRENT_VIEW);
+  });
+});
+
+function renderView(view) {
+  const container = document.getElementById('view-container');
+  container.innerHTML = '';
+  void container.offsetWidth;
+  container.classList.add('fade-in');
+  if (!DATA) return;
+  switch (view) {
+    case 'home':      renderHome(container); break;
+    case 'sales':     renderSales(container); break;
+    case 'editorial': renderEditorial(container); break;
+    case 'category':  renderCategory(container); break;
+    case 'company':   renderCompany(container); break;
+    case 'timeline':  renderTimeline(container); break;
+    case 'agenda':    renderAgenda(container); break;
+    case 'search':    renderSearch(container); break;
+  }
+}
+
+/* ========== フィルター/ソート ========== */
+
+function getFilteredAnalyses() {
+  if (!DATA) return [];
+  if (SHOW_ALL_MONTHS) return DATA.analyses;
+  const now = new Date();
+  const y = now.getFullYear(), m = now.getMonth() + 1;
+  return DATA.analyses.filter(a => {
+    if (!a.date) return false;
+    const parts = a.date.replace(/-/g, '/').split('/');
+    return parseInt(parts[0]) === y && parseInt(parts[1]) === m;
+  });
+}
+
+function monthLabel() {
+  const now = new Date();
+  return SHOW_ALL_MONTHS ? '全期間' : `${now.getFullYear()}年${now.getMonth()+1}月`;
+}
+
+function monthToggleButton() {
+  const now = new Date();
+  const label = `${now.getFullYear()}年${now.getMonth()+1}月`;
+  if (SHOW_ALL_MONTHS) {
+    return `<button onclick="setMonthFilter(false)" class="px-3 py-1.5 text-xs font-medium bg-stone-900 text-white rounded-md transition">
+      全期間表示中 → ${label}のみに戻す
+    </button>`;
+  }
+  return `<button onclick="setMonthFilter(true)" class="px-3 py-1.5 text-xs font-medium text-stone-600 border border-stone-200 rounded-md hover:bg-stone-50 transition">
+    過去のデータも見る
+  </button>`;
+}
+
+function setMonthFilter(showAll) {
+  SHOW_ALL_MONTHS = showAll;
+  renderView(CURRENT_VIEW);
+}
+
+function applySort(arr, scoreKey) {
+  const key = scoreKey || 'totalScore';
+  const sorted = [...arr];
+  sorted.sort((a, b) => {
+    let va, vb;
+    if (SORT_BY === 'date') {
+      va = String(a.date || '').replace(/[\/\-]/g, '');
+      vb = String(b.date || '').replace(/[\/\-]/g, '');
+    } else {
+      va = Number(a[key]) || 0;
+      vb = Number(b[key]) || 0;
+    }
+    if (va < vb) return SORT_ORDER === 'asc' ? -1 : 1;
+    if (va > vb) return SORT_ORDER === 'asc' ? 1 : -1;
+    return 0;
+  });
+  return sorted;
+}
+
+function sortControls(viewName) {
+  const btn = (label, by, order) => {
+    const active = SORT_BY === by && SORT_ORDER === order;
+    const cls = active
+      ? 'bg-stone-900 text-white border-stone-900'
+      : 'bg-white text-stone-600 border-stone-200 hover:border-stone-400';
+    return `<button onclick="setSortAndRender('${viewName}','${by}','${order}')"
+      class="${cls} px-3 py-1.5 rounded-md text-xs font-medium border transition">${label}</button>`;
+  };
+  return `
+    <div class="flex items-center gap-2 flex-wrap mb-4">
+      <span class="text-xs font-semibold text-stone-500 mr-1">並び替え：</span>
+      ${btn('スコア高い順', 'score', 'desc')}
+      ${btn('スコア低い順', 'score', 'asc')}
+      ${btn('新しい順', 'date', 'desc')}
+      ${btn('古い順', 'date', 'asc')}
+    </div>`;
+}
+
+function setSortAndRender(viewName, by, order) {
+  SORT_BY = by;
+  SORT_ORDER = order;
+  renderView(viewName);
+}
+
+function getTrendWords(analyses) {
+  const count = {};
+  analyses.forEach(a => (a.tags || []).forEach(t => {
+    if (!t) return;
+    count[t] = (count[t] || 0) + 1;
+  }));
+  return Object.entries(count).sort((a, b) => b[1] - a[1]).slice(0, 5);
+}
+
+/* ========== ホーム ========== */
+
+function renderHome(c) {
+  const analyses = getFilteredAnalyses();
+
+  // カテゴリ別件数
+  const catCounts = {};
+  CATEGORIES.forEach(cat => catCounts[cat] = 0);
+  analyses.forEach(a => {
+    if (catCounts[a.category] !== undefined) catCounts[a.category]++;
+  });
+
+  const highlights = applySort(analyses).slice(0, 10);
+  const trendWords = getTrendWords(analyses);
+
+  // 今日の打ち手: 各部署スコアTOP1
+  const topSales = [...analyses].sort((a, b) => b.salesScore - a.salesScore)[0];
+  const topEdit = [...analyses].sort((a, b) => b.editScore - a.editScore)[0];
+  const topBiz = [...analyses].sort((a, b) => b.bizScore - a.bizScore)[0];
+
+  c.innerHTML = `
+    <div class="mb-8 flex items-start justify-between gap-4">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">${escapeHtml(monthLabel())} 業界動向</h2>
+        <p class="text-stone-500 mt-2 text-sm">エステ業界・クライアント・隣接プロ美容・出版ビジネスの動きを俯瞰します</p>
+      </div>
+      <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
+    </div>
+
+    <section class="mb-8 grid grid-cols-2 md:grid-cols-4 gap-3">
+      ${CATEGORIES.map(cat => catKpi(cat, catCounts[cat])).join('')}
+    </section>
+
+    <section class="mb-8">
+      <div class="card">
+        <div class="text-xs font-semibold text-stone-500 mb-3 uppercase tracking-wider">🔥 トレンドワード TOP5</div>
+        <div class="flex flex-wrap gap-2">
+          ${trendWords.length === 0
+            ? `<span class="text-sm text-stone-400">データが集まり次第表示されます</span>`
+            : trendWords.map(([tag, count], i) => `
+              <span class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-stone-100 rounded-md text-sm">
+                <span class="text-stone-400 text-xs font-mono">${i+1}</span>
+                <span class="font-medium text-stone-900">${escapeHtml(tag)}</span>
+                <span class="text-stone-500 text-xs">×${count}</span>
+              </span>`).join('')}
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-10">
+      <div class="section-title">今月の打ち手(部署別TOP)</div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+        ${topSales ? deptPickCard('営業', 'sales', topSales, topSales.salesAngle) : ''}
+        ${topEdit ? deptPickCard('編集', 'edit', topEdit, topEdit.editorialAngle) : ''}
+        ${topBiz ? deptPickCard('新規事業', 'biz', topBiz, topBiz.bizAngle) : ''}
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="section-title">ハイライト</div>
+      ${sortControls('home')}
+      <div class="space-y-3">
+        ${highlights.length === 0
+          ? `<div class="card text-stone-400 text-center py-10 text-sm">${escapeHtml(monthLabel())}の重要分析はまだありません</div>`
+          : highlights.map(a => highlightCard(a)).join('')}
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <div class="card">
+        <div class="section-title">タグ別件数(傾向把握)</div>
+        <canvas id="tagChart" height="220"></canvas>
+      </div>
+    </section>
+  `;
+
+  const allTags = {};
+  analyses.forEach(a => (a.tags || []).forEach(t => { allTags[t] = (allTags[t] || 0) + 1; }));
+  const topTags = Object.entries(allTags).map(([tag, count]) => ({ tag, count }))
+    .sort((a, b) => b.count - a.count).slice(0, 10);
+  if (topTags.length > 0) drawTagChart(topTags);
+}
+
+function catKpi(cat, count) {
+  const cls = catToClass(cat);
+  return `
+    <div class="card">
+      <span class="cat-badge cat-${cls} mb-3">${escapeHtml(cat)}</span>
+      <div class="text-2xl md:text-3xl font-bold tracking-tight mt-2">${count}</div>
+      <div class="text-xs text-stone-400 mt-1">分析件数</div>
+    </div>`;
+}
+
+function deptPickCard(deptLabel, deptCls, a, angle) {
+  return `
+    <div class="card card-hover" onclick='showDetail(${JSON.stringify(a.id)})'>
+      <div class="flex items-center justify-between mb-2">
+        <span class="dept-score dept-${deptCls}">${deptLabel}</span>
+        <span class="text-xs text-stone-400">${escapeHtml(a.company)}</span>
+      </div>
+      <h4 class="font-semibold text-sm mb-2 line-clamp-2">${escapeHtml(a.summary || a.title)}</h4>
+      <p class="text-xs text-stone-600 line-clamp-3">${escapeHtml(angle || '—')}</p>
+    </div>`;
+}
+
+function highlightCard(a) {
+  const cls = catToClass(a.category);
+  return `
+    <div class="card card-hover cat-border-${cls}" onclick='showDetail(${JSON.stringify(a.id)})'>
+      <div class="flex items-start justify-between gap-3 mb-3">
+        <div class="flex-1 min-w-0">
+          <div class="flex items-center gap-2 mb-2 flex-wrap">
+            <span class="cat-badge cat-${cls}">${escapeHtml(a.category || '業界全般')}</span>
+            <span class="text-xs text-stone-400">${escapeHtml(a.company)} ・ ${escapeHtml(a.date)}</span>
+          </div>
+          <h4 class="font-semibold text-base leading-snug mb-3">${escapeHtml(a.summary || a.title)}</h4>
+        </div>
+        ${scoreBadge(a.totalScore)}
+      </div>
+      <div class="mb-3">
+        <div class="text-xs font-semibold text-stone-500 mb-1">ニュース内容</div>
+        <p class="text-sm text-stone-700 line-clamp-3">${escapeHtml(a.fact || '—')}</p>
+      </div>
+      <div class="flex items-center gap-1.5 flex-wrap mt-3">
+        <span class="dept-score dept-sales">営 ${fmt1(a.salesScore)}</span>
+        <span class="dept-score dept-edit">編 ${fmt1(a.editScore)}</span>
+        <span class="dept-score dept-biz">事 ${fmt1(a.bizScore)}</span>
+        ${(a.tags || []).slice(0, 3).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+      </div>
+    </div>`;
+}
+
+function drawTagChart(tags) {
+  const ctx = document.getElementById('tagChart');
+  if (!ctx) return;
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: tags.map(t => t.tag.replace(/^#/, '')),
+      datasets: [{ data: tags.map(t => t.count), backgroundColor: '#be123c', borderRadius: 3, barThickness: 12 }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { beginAtZero: true, ticks: { stepSize: 1, font: { size: 11 } }, grid: { color: '#f5f5f4' } },
+        y: { grid: { display: false }, ticks: { font: { size: 11 } } }
+      }
+    }
+  });
+}
+
+/* ========== 営業ビュー ========== */
+
+function renderSales(c) {
+  const analyses = getFilteredAnalyses();
+
+  // 攻め先ランキング: 企業別に営業スコアを累積
+  const byCompany = {};
+  analyses.forEach(a => {
+    if (!a.company) return;
+    if (!byCompany[a.company]) byCompany[a.company] = { company: a.company, category: a.category, score: 0, count: 0, best: null };
+    byCompany[a.company].score += a.salesScore;
+    byCompany[a.company].count++;
+    if (!byCompany[a.company].best || a.salesScore > byCompany[a.company].best.salesScore) {
+      byCompany[a.company].best = a;
+    }
+  });
+  const ranking = Object.values(byCompany).sort((a, b) => b.score - a.score).slice(0, 10);
+
+  const list = [...analyses].filter(a => a.salesScore > 0 && a.salesAngle && a.salesAngle !== '—')
+    .sort((a, b) => b.salesScore - a.salesScore);
+
+  c.innerHTML = `
+    <div class="mb-6 flex items-start justify-between gap-4">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">営業インテリジェンス</h2>
+        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel())} ・ 出稿ポテンシャル×成長投資の動きから「攻めるべき企業」を提示します</p>
+      </div>
+      <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
+    </div>
+
+    <div class="card mb-8 overflow-x-auto">
+      <div class="section-title">🎯 攻め先ランキング(営業スコア累積)</div>
+      ${ranking.length === 0
+        ? `<p class="text-sm text-stone-400 py-4">データが集まり次第表示されます</p>`
+        : `<table class="w-full min-w-[480px]">
+        <thead class="border-b border-stone-200">
+          <tr class="text-left text-xs text-stone-500 uppercase tracking-wider">
+            <th class="py-3 px-2 w-10">#</th>
+            <th class="py-3 px-2">企業名</th>
+            <th class="py-3 px-2">カテゴリ</th>
+            <th class="py-3 px-2 text-right">動き</th>
+            <th class="py-3 px-2 text-right">営業スコア</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${ranking.map((r, i) => `
+            <tr class="border-b border-stone-100 hover:bg-stone-50 cursor-pointer" onclick='showDetail(${JSON.stringify(r.best.id)})'>
+              <td class="py-3 px-2 text-xs text-stone-400 font-mono">${String(i + 1).padStart(2, '0')}</td>
+              <td class="py-3 px-2 font-medium text-sm">${escapeHtml(r.company)}</td>
+              <td class="py-3 px-2"><span class="cat-badge cat-${catToClass(r.category)}">${escapeHtml(r.category)}</span></td>
+              <td class="py-3 px-2 text-right text-stone-600 text-sm tabular-nums">${r.count}件</td>
+              <td class="py-3 px-2 text-right font-semibold text-sm tabular-nums text-green-700">${r.score.toFixed(1)}</td>
+            </tr>`).join('')}
+        </tbody>
+      </table>`}
+    </div>
+
+    <div class="section-title">💼 営業への示唆つきニュース(営業スコア順)</div>
+    <div class="space-y-3">
+      ${list.length === 0
+        ? `<div class="card text-stone-400 text-center py-10 text-sm">該当する分析はまだありません</div>`
+        : list.map(a => angleCard(a, 'sales', '営業への示唆', a.salesAngle, a.salesScore)).join('')}
+    </div>`;
+}
+
+/* ========== 編集ビュー ========== */
+
+function renderEditorial(c) {
+  const analyses = getFilteredAnalyses();
+  const trendWords = getTrendWords(analyses);
+  const list = [...analyses].filter(a => a.editScore > 0)
+    .sort((a, b) => b.editScore - a.editScore);
+
+  c.innerHTML = `
+    <div class="mb-6 flex items-start justify-between gap-4">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">編集インテリジェンス</h2>
+        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel())} ・ 読者関心×話題性から「記事にすべきネタ」を提示します</p>
+      </div>
+      <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
+    </div>
+
+    <section class="mb-8">
+      <div class="card">
+        <div class="text-xs font-semibold text-stone-500 mb-3 uppercase tracking-wider">📈 いま読者に刺さるキーワード</div>
+        <div class="flex flex-wrap gap-2">
+          ${trendWords.length === 0
+            ? `<span class="text-sm text-stone-400">データが集まり次第表示されます</span>`
+            : trendWords.map(([tag, count], i) => `
+              <span class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-pink-50 rounded-md text-sm">
+                <span class="text-pink-400 text-xs font-mono">${i+1}</span>
+                <span class="font-medium text-stone-900">${escapeHtml(tag)}</span>
+                <span class="text-stone-500 text-xs">×${count}</span>
+              </span>`).join('')}
+        </div>
+      </div>
+    </section>
+
+    <div class="section-title">📝 記事ネタ候補(編集スコア順)</div>
+    <div class="space-y-3">
+      ${list.length === 0
+        ? `<div class="card text-stone-400 text-center py-10 text-sm">該当する分析はまだありません</div>`
+        : list.map(a => angleCard(a, 'edit', '編集への示唆(企画の切り口)', a.editorialAngle, a.editScore)).join('')}
+    </div>`;
+}
+
+/** 部署別ビュー共通のカード(示唆を前面に出す) */
+function angleCard(a, deptCls, angleLabel, angleText, deptScore) {
+  const cls = catToClass(a.category);
+  return `
+    <div class="card card-hover cat-border-${cls}" onclick='showDetail(${JSON.stringify(a.id)})'>
+      <div class="flex items-center justify-between gap-2 mb-2 flex-wrap">
+        <div class="flex items-center gap-2 flex-wrap">
+          <span class="cat-badge cat-${cls}">${escapeHtml(a.category || '業界全般')}</span>
+          <span class="text-xs text-stone-400">${escapeHtml(a.company)} ・ ${escapeHtml(a.date)}</span>
+        </div>
+        <span class="dept-score dept-${deptCls}">${fmt1(deptScore)} / 10</span>
+      </div>
+      <h4 class="font-semibold text-sm mb-3">${escapeHtml(a.summary || a.title)}</h4>
+      <div class="bg-stone-50 p-3 rounded-md">
+        <div class="text-xs font-semibold text-stone-500 mb-1">${escapeHtml(angleLabel)}</div>
+        <p class="text-sm text-stone-800 leading-relaxed">${escapeHtml(angleText || '—')}</p>
+      </div>
+    </div>`;
+}
+
+/* ========== カテゴリ別 ========== */
+
+function renderCategory(c) {
+  const analyses = getFilteredAnalyses();
+  const catFiltered = CURRENT_CAT_FILTER === 'all'
+    ? analyses : analyses.filter(a => a.category === CURRENT_CAT_FILTER);
+
+  const tagCount = {};
+  catFiltered.forEach(a => (a.tags || []).forEach(t => {
+    if (!t) return;
+    tagCount[t] = (tagCount[t] || 0) + 1;
+  }));
+  const topTags = Object.entries(tagCount).sort((a, b) => b[1] - a[1]).slice(0, 20);
+
+  const tagFiltered = CURRENT_TAG_FILTER === 'all'
+    ? catFiltered : catFiltered.filter(a => (a.tags || []).includes(CURRENT_TAG_FILTER));
+
+  c.innerHTML = `
+    <div class="mb-6 flex items-start justify-between gap-4 flex-wrap">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">カテゴリ別</h2>
+        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel())} ・ カテゴリとトピックで分析を絞り込みます</p>
+      </div>
+      <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
+    </div>
+
+    <div class="mb-4">
+      <div class="text-xs font-semibold text-stone-500 mb-2 uppercase tracking-wider">カテゴリで絞り込み</div>
+      <div class="flex gap-2 flex-wrap">
+        ${catFilterButton('all', '全て')}
+        ${CATEGORIES.map(cat => catFilterButton(cat, cat)).join('')}
+      </div>
+    </div>
+
+    ${CURRENT_CAT_FILTER !== 'all' && topTags.length > 0 ? `
+    <div class="mb-6">
+      <div class="text-xs font-semibold text-stone-500 mb-2 uppercase tracking-wider">トピックで絞り込み</div>
+      <div class="flex gap-2 flex-wrap">
+        <button class="tag-filter ${CURRENT_TAG_FILTER === 'all' ? 'active' : ''}" data-tag-filter="all">全トピック</button>
+        ${topTags.map(([tag, count]) => `
+          <button class="tag-filter ${CURRENT_TAG_FILTER === tag ? 'active' : ''}" data-tag-filter="${escapeAttr(tag)}">
+            ${escapeHtml(tag)} <span class="opacity-60">${count}</span>
+          </button>`).join('')}
+      </div>
+    </div>` : ''}
+
+    ${sortControls('category')}
+
+    <div class="text-xs text-stone-500 mb-3">${tagFiltered.length}件の分析</div>
+    <div class="space-y-3">
+      ${tagFiltered.length === 0
+        ? `<div class="card text-stone-400 text-center py-10 text-sm">${escapeHtml(monthLabel())}の該当する分析がありません</div>`
+        : applySort(tagFiltered).map(a => highlightCard(a)).join('')}
+    </div>`;
+
+  document.querySelectorAll('[data-cat-filter]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      CURRENT_CAT_FILTER = btn.dataset.catFilter;
+      CURRENT_TAG_FILTER = 'all';
+      renderView('category');
+    });
+  });
+  document.querySelectorAll('[data-tag-filter]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      CURRENT_TAG_FILTER = btn.dataset.tagFilter;
+      renderView('category');
+    });
+  });
+}
+
+function catFilterButton(value, label) {
+  const active = value === CURRENT_CAT_FILTER;
+  const cls = active ? 'bg-stone-900 text-white' : 'bg-white text-stone-600 border border-stone-200 hover:border-stone-400';
+  return `<button data-cat-filter="${escapeAttr(value)}" class="${cls} px-4 py-2 rounded-md text-xs font-medium transition">${escapeHtml(label)}</button>`;
+}
+
+/* ========== 企業別 ========== */
+
+function renderCompany(c) {
+  const companies = (DATA.competitors || []).map(co => {
+    const analyses = DATA.analyses.filter(a => a.company === co.name);
+    const news = (DATA.news || []).filter(n => n.company === co.name);
+    const totalScore = analyses.reduce((s, a) => s + a.totalScore, 0);
+    const salesScore = analyses.reduce((s, a) => s + a.salesScore, 0);
+    const avgScore = analyses.length > 0 ? totalScore / analyses.length : 0;
+    return { ...co, analyses, news, totalScore, salesScore, avgScore };
+  }).sort((a, b) => b.totalScore - a.totalScore);
+
+  c.innerHTML = `
+    <div class="mb-6">
+      <h2 class="text-2xl md:text-3xl font-bold tracking-tight">企業別</h2>
+      <p class="text-stone-500 mt-2 text-sm">監視対象各社のニュース動向と注目度スコアを統合表示します(全期間)</p>
+    </div>
+
+    <div class="card mb-8 overflow-x-auto">
+      <div class="section-title">注目度ランキング</div>
+      <table class="w-full min-w-[520px]">
+        <thead class="border-b border-stone-200">
+          <tr class="text-left text-xs text-stone-500 uppercase tracking-wider">
+            <th class="py-3 px-2 w-10">#</th>
+            <th class="py-3 px-2">企業名</th>
+            <th class="py-3 px-2">カテゴリ</th>
+            <th class="py-3 px-2 text-right">分析</th>
+            <th class="py-3 px-2 text-right">累積</th>
+            <th class="py-3 px-2 text-right">営業累積</th>
+          </tr>
+        </thead>
+        <tbody>
+          ${companies.map((co, i) => `
+            <tr class="border-b border-stone-100 hover:bg-stone-50 cursor-pointer" onclick="document.getElementById('company-${i}').scrollIntoView({behavior:'smooth', block:'start'})">
+              <td class="py-3 px-2 text-xs text-stone-400 font-mono">${String(i + 1).padStart(2, '0')}</td>
+              <td class="py-3 px-2 font-medium text-sm">${escapeHtml(co.name)}</td>
+              <td class="py-3 px-2"><span class="cat-badge cat-${catToClass(co.category)}">${escapeHtml(co.category || '')}</span></td>
+              <td class="py-3 px-2 text-right text-stone-600 text-sm tabular-nums">${co.analyses.length}</td>
+              <td class="py-3 px-2 text-right font-semibold text-sm tabular-nums">${co.totalScore.toFixed(1)}</td>
+              <td class="py-3 px-2 text-right text-green-700 text-sm tabular-nums">${co.salesScore.toFixed(1)}</td>
+            </tr>`).join('')}
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section-title">各社の詳細</div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      ${companies.map((co, i) => companyCard(co, i)).join('')}
+    </div>`;
+}
+
+function companyCard(co, idx) {
+  return `
+    <div id="company-${idx}" class="card scroll-mt-32">
+      <div class="flex items-start justify-between mb-3 gap-2">
+        <div class="min-w-0">
+          <div class="text-xs text-stone-400 mb-1">#${String(idx+1).padStart(2,'0')}</div>
+          <h3 class="text-base md:text-lg font-semibold tracking-tight truncate">${escapeHtml(co.name)}</h3>
+        </div>
+        ${co.totalScore > 0 ? `<span class="score-badge score-${scoreColor(co.avgScore)} flex-shrink-0">${co.totalScore.toFixed(1)}</span>` : ''}
+      </div>
+      <div class="flex gap-3 text-xs text-stone-500 mb-4">
+        <span>ニュース ${co.news.length}件</span>
+        <span>分析 ${co.analyses.length}件</span>
+        ${co.avgScore > 0 ? `<span>平均 ${co.avgScore.toFixed(1)}</span>` : ''}
+      </div>
+      ${co.analyses.length === 0
+        ? `<p class="text-sm text-stone-400">分析レポートはまだありません</p>`
+        : `<div class="space-y-2">
+            ${co.analyses.slice(0, 5).map(a => `
+              <div class="text-sm border-l-2 border-stone-200 pl-3 py-1.5 hover:border-stone-900 cursor-pointer transition" onclick='showDetail(${JSON.stringify(a.id)})'>
+                <div class="flex items-center gap-2 mb-1 flex-wrap">
+                  <span class="text-xs text-stone-400">${escapeHtml(a.date)}</span>
+                  ${scoreBadge(a.totalScore)}
+                </div>
+                <div class="line-clamp-2 text-stone-700">${escapeHtml(a.summary || a.title)}</div>
+              </div>`).join('')}
+            ${co.analyses.length > 5 ? `<div class="text-xs text-stone-400 pl-3 pt-1">他 ${co.analyses.length - 5}件</div>` : ''}
+          </div>`}
+    </div>`;
+}
+
+/* ========== タイムライン ========== */
+
+function renderTimeline(c) {
+  const sorted = [...getFilteredAnalyses()].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+  c.innerHTML = `
+    <div class="mb-8 flex items-start justify-between gap-4">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">タイムライン</h2>
+        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel())} ・ 時系列で業界の動きを俯瞰します</p>
+      </div>
+      <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
+    </div>
+    <div class="relative pl-8">
+      <div class="timeline-line"></div>
+      ${sorted.length === 0
+        ? `<div class="card text-stone-400 text-center py-10 text-sm">${escapeHtml(monthLabel())}のデータはありません</div>`
+        : sorted.map(a => `
+        <div class="relative mb-5">
+          <div class="absolute -left-7 top-3 w-4 h-4 bg-rose-700 rounded-full border-4 border-white"></div>
+          <div class="card card-hover cat-border-${catToClass(a.category)}" onclick='showDetail(${JSON.stringify(a.id)})'>
+            <div class="flex items-center justify-between mb-2">
+              <div class="flex items-center gap-2 flex-wrap">
+                <span class="cat-badge cat-${catToClass(a.category)}">${escapeHtml(a.category || '業界全般')}</span>
+                <span class="text-xs text-stone-500">${escapeHtml(a.date)} ・ ${escapeHtml(a.company)}</span>
+              </div>
+              ${scoreBadge(a.totalScore)}
+            </div>
+            <h4 class="font-semibold text-sm mb-2">${escapeHtml(a.summary || a.title)}</h4>
+            <p class="text-xs text-stone-600 line-clamp-2">${escapeHtml(a.fact)}</p>
+          </div>
+        </div>`).join('')}
+    </div>`;
+}
+
+/* ========== 経営アジェンダ ========== */
+
+function renderAgenda(c) {
+  const sorted = [...getFilteredAnalyses()]
+    .filter(a => a.agenda && a.agenda !== '—')
+    .sort((a, b) => b.bizScore - a.bizScore);
+  c.innerHTML = `
+    <div class="mb-6 flex items-start justify-between gap-4">
+      <div>
+        <h2 class="text-2xl md:text-3xl font-bold tracking-tight">経営アジェンダボード</h2>
+        <p class="text-stone-500 mt-2 text-sm">${escapeHtml(monthLabel())} ・ 新規事業の種とリーダー陣への問いかけを一覧できます(事業スコア順)</p>
+      </div>
+      <div class="mt-1 flex-shrink-0">${monthToggleButton()}</div>
+    </div>
+    <div class="space-y-4">
+      ${sorted.length === 0
+        ? `<div class="card text-stone-400 text-center py-10 text-sm">${escapeHtml(monthLabel())}のアジェンダはありません</div>`
+        : sorted.map(a => `
+        <div class="card cat-border-${catToClass(a.category)}">
+          <div class="flex items-start justify-between mb-3">
+            <div class="flex items-center gap-2 flex-wrap">
+              <span class="cat-badge cat-${catToClass(a.category)}">${escapeHtml(a.category || '業界全般')}</span>
+              <span class="text-xs text-stone-500">${escapeHtml(a.company)} ・ ${escapeHtml(a.date)}</span>
+            </div>
+            <span class="dept-score dept-biz">事業 ${fmt1(a.bizScore)} / 10</span>
+          </div>
+          <h4 class="font-semibold text-sm mb-3">${escapeHtml(a.summary || a.title)}</h4>
+          ${a.bizAngle && a.bizAngle !== '—' ? `
+          <div class="bg-indigo-50 p-3 rounded-md mb-3">
+            <div class="text-xs font-semibold text-indigo-500 mb-1">新規事業への示唆</div>
+            <p class="text-sm text-stone-800 leading-relaxed">${escapeHtml(a.bizAngle)}</p>
+          </div>` : ''}
+          <div class="bg-stone-50 border-l-4 border-stone-900 p-4 rounded-r-md">
+            <div class="text-xs font-semibold text-stone-500 mb-1.5 uppercase tracking-wider">リーダー陣への問い</div>
+            <p class="text-sm leading-relaxed">${escapeHtml(a.agenda)}</p>
+          </div>
+          <button class="mt-3 text-xs text-stone-500 hover:text-stone-900 transition" onclick='showDetail(${JSON.stringify(a.id)})'>
+            詳細を見る →
+          </button>
+        </div>`).join('')}
+    </div>`;
+}
+
+/* ========== 検索 ========== */
+
+function renderSearch(c) {
+  c.innerHTML = `
+    <div class="mb-8">
+      <h2 class="text-2xl md:text-3xl font-bold tracking-tight">検索</h2>
+      <p class="text-stone-500 mt-2 text-sm">企業名・タイトル・本文を横断検索します(全期間)</p>
+    </div>
+    <div class="card mb-4">
+      <input id="search-input" type="text" placeholder="キーワードを入力..." class="w-full px-4 py-3 text-sm border border-stone-200 rounded-md focus:outline-none focus:border-stone-900 transition">
+    </div>
+    <div id="search-results" class="space-y-3"></div>`;
+
+  const input = document.getElementById('search-input');
+  input.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    const results = document.getElementById('search-results');
+    if (!q) { results.innerHTML = ''; return; }
+    const hits = DATA.analyses.filter(a =>
+      (a.company || '').toLowerCase().includes(q) ||
+      (a.title || '').toLowerCase().includes(q) ||
+      (a.summary || '').toLowerCase().includes(q) ||
+      (a.fact || '').toLowerCase().includes(q) ||
+      (a.intent || '').toLowerCase().includes(q) ||
+      (a.salesAngle || '').toLowerCase().includes(q) ||
+      (a.editorialAngle || '').toLowerCase().includes(q) ||
+      (a.tags || []).some(t => t.toLowerCase().includes(q))
+    );
+    results.innerHTML = hits.length === 0
+      ? `<div class="card text-center text-stone-400 py-8 text-sm">該当する分析は見つかりませんでした</div>`
+      : hits.map(a => highlightCard(a)).join('');
+  });
+  input.focus();
+}
+
+/* ========== 詳細モーダル ========== */
+
+function showDetail(id) {
+  const a = DATA.analyses.find(x => x.id == id);
+  if (!a) return;
+  const cls = catToClass(a.category);
+  document.getElementById('modal-body').innerHTML = `
+    <div class="flex items-start justify-between mb-6">
+      <div class="flex-1 pr-4">
+        <div class="flex items-center gap-2 mb-3 flex-wrap">
+          <span class="cat-badge cat-${cls}">${escapeHtml(a.category || '業界全般')}</span>
+          <span class="text-xs text-stone-500">${escapeHtml(a.company)} ・ ${escapeHtml(a.date)}</span>
+        </div>
+        <h3 class="text-xl font-bold leading-snug mb-2">${escapeHtml(a.summary || a.title)}</h3>
+        <p class="text-xs text-stone-500">${escapeHtml(a.title)}</p>
+      </div>
+      <button onclick="closeModal()" class="text-stone-400 hover:text-stone-900 text-2xl">×</button>
+    </div>
+    <div class="flex items-center gap-2 mb-6 flex-wrap">
+      ${scoreBadge(a.totalScore)}
+      <span class="dept-score dept-sales">営業 ${fmt1(a.salesScore)}</span>
+      <span class="dept-score dept-edit">編集 ${fmt1(a.editScore)}</span>
+      <span class="dept-score dept-biz">事業 ${fmt1(a.bizScore)}</span>
+      ${(a.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+    </div>
+    ${section('客観的ファクト', a.fact)}
+    ${section('背景・意図', a.intent)}
+    ${sectionColored('営業への示唆', a.salesAngle, 'green')}
+    ${sectionColored('編集への示唆', a.editorialAngle, 'pink')}
+    ${sectionColored('新規事業への示唆', a.bizAngle, 'indigo')}
+    ${section('リーダー陣への問いかけ', a.agenda, true)}
+    <div class="mt-6 pt-6 border-t border-stone-100">
+      <a href="${escapeHtml(a.url)}" target="_blank" rel="noopener" class="text-xs text-stone-500 hover:text-stone-900">
+        元記事を開く →
+      </a>
+    </div>`;
+  document.getElementById('modal').classList.remove('hidden');
+}
+
+function section(title, body, highlight = false) {
+  const cls = highlight ? 'bg-stone-50 border-l-4 border-stone-900' : 'bg-stone-50';
+  return `
+    <div class="${cls} p-4 rounded-md mb-3">
+      <div class="text-xs font-semibold text-stone-500 mb-2 uppercase tracking-wider">${title}</div>
+      <p class="text-sm leading-relaxed text-stone-800">${escapeHtml(body || '—')}</p>
+    </div>`;
+}
+
+function sectionColored(title, body, color) {
+  if (!body || body === '—') return '';
+  return `
+    <div class="bg-${color}-50 p-4 rounded-md mb-3">
+      <div class="text-xs font-semibold text-${color}-600 mb-2 uppercase tracking-wider">${title}</div>
+      <p class="text-sm leading-relaxed text-stone-800">${escapeHtml(body)}</p>
+    </div>`;
+}
+
+function closeModal(e) {
+  if (e && e.target.id !== 'modal') return;
+  document.getElementById('modal').classList.add('hidden');
+}
+
+/* ========== ユーティリティ ========== */
+
+function escapeHtml(str) {
+  if (str === null || str === undefined) return '';
+  return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+function escapeAttr(s) {
+  return String(s || '').replace(/"/g, '&quot;');
+}
+
+function fmt1(n) {
+  return (Number(n) || 0).toFixed(1);
+}
+
+function scoreBadge(score) {
+  return `<span class="score-badge score-${scoreColor(score)}">${(Number(score)||0).toFixed(1)}</span>`;
+}
+
+/* 総合スコアは30点満点: 20以上=hot / 14以上=warm */
+function scoreColor(score) {
+  if (score >= 20) return 'hot';
+  if (score >= 14) return 'warm';
+  return 'cool';
+}
+
+function catToClass(cat) {
+  switch (cat) {
+    case 'エステ業界':     return 'esthe';
+    case 'クライアント動向': return 'client';
+    case '隣接プロ美容':   return 'adjacent';
+    case '出版・ビジネス': return 'publish';
+    default:               return 'industry';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
