@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-18T00:31:23.842Z",
-    "generatedAtJst": "2026-07-18 09:31:23",
-    "totalNews": 2768,
-    "totalAnalyses": 838,
+    "generatedAt": "2026-07-19T00:31:25.714Z",
+    "generatedAtJst": "2026-07-19 09:31:25",
+    "totalNews": 2817,
+    "totalAnalyses": 849,
     "totalCompetitors": 7
   },
   "news": [
@@ -20797,7 +20797,7 @@
       "company": "業界トレンド",
       "title": "ファミマTV、電通の「クロスメディア・プランナー」とデータ連携 | RTB SQUARE",
       "url": "https://rtbsquare.work/archives/60977",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -20805,7 +20805,7 @@
       "company": "業界トレンド",
       "title": "渡部建「鬼越さん的にはどういうこっちゃねんみたいな」鬼越良ちゃんとの騒動を説明",
       "url": "https://www.nikkansports.com/entertainment/news/202607130000727.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -20813,7 +20813,7 @@
       "company": "業界トレンド",
       "title": "ゲーム実況<b>クリエイター</b>とのプールコラボが間もなく開催！本コラボのために制作された新曲も ...",
       "url": "https://www.okinawatimes.co.jp/articles/-/1879470",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21549,7 +21549,7 @@
       "company": "業界トレンド",
       "title": "サムシングファン、「動画DX・<b>クリエイター</b>活用」の提供価値強化へ    森浩昭氏が顧問に就任",
       "url": "https://news.nicovideo.jp/watch/nw19547238?news_ref=watch_20_nw19236487",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21557,7 +21557,7 @@
       "company": "業界トレンド",
       "title": "ゲーム実況グループ「ドズル社」、ローソンとのコラボキャンペーンを7月21日(火)より開催！",
       "url": "https://www.minpo.jp/ud/prtimes/6a5725d77079c8bfe800000d",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21565,7 +21565,7 @@
       "company": "業界トレンド",
       "title": "公演当日に急遽発表、ENHYPENソヌがワールドツアーのメキシコシティ公演を体調不良で欠席",
       "url": "https://www.rbbtoday.com/article/2026/07/15/250742.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21637,7 +21637,7 @@
       "company": "脅威の兆候",
       "title": "<b>インフルエンサー</b>「宮崎麗果」の犯行手口明らかに 会社役員の男にキックバック1180万円も",
       "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260715-202607150000599",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -21645,7 +21645,7 @@
       "company": "脅威の兆候",
       "title": "“<b>インフルエンサー</b>”宮崎麗果被告に執行猶予付き有罪判決 約1.5億円の脱税（ORICON NEWS）",
       "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2467970",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21661,7 +21661,7 @@
       "company": "脅威の兆候",
       "title": "「ReENEグリーンボンドIII」発行に関するお知らせ:PR TIMES:福島民友新聞社",
       "url": "https://www.minyu-net.com/release/prtimes/detail/47320",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21685,7 +21685,7 @@
       "company": "脅威の兆候",
       "title": "<b>インフルエンサー</b>コラボ販売の始め方｜相手選びと<b>ステマ規制</b>の注意点 - EC現場メモ",
       "url": "https://ec-genba-memo.com/articles/influencer-collab-hanbai/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21701,7 +21701,7 @@
       "company": "脅威の兆候",
       "title": "「日本の恥」「ライン超えてる」W杯でバズったYouTuberが大<b>炎上</b>！メッシの“低身長症”を嘲笑か …",
       "url": "https://news.yahoo.co.jp/articles/8dbd77a9d15f6051bdf4eca929f8b7466a72b88e",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -21709,7 +21709,7 @@
       "company": "脅威の兆候",
       "title": "「宮崎麗果」懲役2年6カ月猶予付き有罪判決「1.5億脱税」セレブなぜ崩壊 - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20260715-CL6NDKI7UJGRBFL34PBBCKDTPU/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -21717,7 +21717,7 @@
       "company": "脅威の兆候",
       "title": "“<b>インフルエンサー</b>”宮崎麗果被告に執行猶予付き有罪判決 約1.5億円の脱税（ORICON NEWS）",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/oricon/entertainment/oricon-2467970",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -22149,6 +22149,398 @@
       "company": "脅威の兆候",
       "title": "<b>炎上</b>や誹謗中傷は「どれだけ気をつけていても、いつくるかわからない」――やす子が語るSNS ...",
       "url": "https://news.yahoo.co.jp/articles/5de91535aa2c5a6f9cec053de266f7c8e9cf67ae?page=3",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "アソビシステム",
+      "title": "［リアル無料イベント］7/29開催 日経エンタテインメント！Night アソビシステム中川代表登壇 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TTXBMeVRBQVpqUE9aTjRpZTZvTlloeklrRWRKUkVCNVpQTmZPZnJRM1NMN0J6TzQxQ1hyQWxqVlNTRTBGamFmYVpQZWpjVW5pd193dzRHSnlmUQ?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "fav me、2ndシングルCD表題曲「にゃんてずるいの！」先行配信 CDジャケット写真も解禁 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQW5JUFJrS3RnVDBOWHlzbWlSWjR0czVtb3hjYUI4aldQeHVXN1FEX0VGYXFwRXp2N2Z0VlB0dlpXNXhxZ1E3clZYTWZ6TFByLThwODVtR01SdFRRQkFaMnkwZTVhZmU5Q0E?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-16",
+      "company": "株式会社ナハト",
+      "title": "「Mission・Vision・Value」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03UlZmY1dtaDRKcmRkb1VkSDZGLV91MTJwaUgydW9VWUNtcHBkcU5wTUpTT29WVENQUWozbkpMWUhuQU9rU3VDa1B2eUktMlZlaWozaVNzRVphZzJlTFR3OXpGRkZBU2tSeEppQ0tvUVZGZzFlSzg3Z0FnSQ?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "TORIHADA",
+      "title": "棚橋産業に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGVPSTM2STlTRXo4YmxDTVpPZ2JsdGpXQlJDd0JYTHg2TTR3RmhpOUFwYnZXVE9QVWtQdE5IczBVNkJ4dnNaQmJoQ2JKNXBQWHczTWRVamJfdGZrMHRKZGFDOFRHbGJTZFBNMXgxa2ZNcnFlaGR4WFdkdDJfd0d6REFQZlNYcnc0U01wLVJXSjlZMWg3cjBneGEzTThtSlcteHR2S0ZSUk1IQUE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、<b>ライブ</b>で盛り上がる全力前進ソング「DASH!!!」を配信<b>リリース</b> - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000828.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "新進気鋭のシンガー・司音(jio)、夢への覚悟を歌に込めた<b>新曲</b>「TOKYOユメイク」配信<b>リリース</b>",
+      "url": "https://prtimes.jp/main/html/rd/p/000000826.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "トレンダーズ",
+      "title": "AMPULE career｜SERVICE｜<b>トレンダーズ</b>株式会社",
+      "url": "https://www.trenders.co.jp/media_t/ampulecareer/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>－ | トレーダーズ・ウェブ",
+      "url": "https://www.traders.co.jp/stocks/63_6069/news/2058657",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、ワンキャリア主催「採用ウルトラキャンプ」のスポンサーセッション詳細を公開！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000123.000063127.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "株式会社ナハト",
+      "title": "ワンキャリア主催「採用ウルトラキャンプ2026 in 京都」DIAMONDスポンサーによるセッションが ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000357.000035321.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、ワンキャリア主催「採用ウルトラキャンプ」のスポンサーセッション詳細を公開！",
+      "url": "https://www.agara.co.jp/article/662418?rct=pr_times",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "Macbee Planet",
+      "title": "【広告運用者】大型案件の広告運用スペシャリスト募集！ | 株式会社<b>Macbee Planet</b>の採用募集",
+      "url": "https://youtrust.jp/recruitment_posts/19e944af6798f87663d6fe8a886c51b1",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "「広告が消せず記事を読むのをやめた」投稿に4万いいね、その先にある広告ブロッカーの現実",
+      "url": "https://hashout.jp/sns/3695/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "SNS運用会社の知見とクリエイティブ力で圧倒的成果：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=000000161.000021425&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "人気VTuber「月影ほたる」のオリジナル限定グッズが当たる！オンラインくじ「TaPrize」に登場 ...",
+      "url": "https://mainichikirei.jp/prtimes/article/20260718prt00m100000035a.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "日本<b>市場</b>に最適な<b>インフルエンサー</b>戦略を築く仕掛け人募集中！外資消費財大手 - ムービン",
+      "url": "https://www.movin.co.jp/executive/jobs/EX3861",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "ストリーム、「ECカレント」でTikTok Shop活用 <b>インフルエンサー</b>動画による販売チャネルを開始",
+      "url": "https://netkeizai.com/articles/detail/19261",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "『KPOPガールズ! デーモン・ハンターズ』『ズートピア 2』参加<b>クリエイター</b>が登壇。「Tokyo ...",
+      "url": "https://branc.jp/article/2026/07/17/2912.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "Z世代のスポーツファン、3分の2が試合前後にYouTubeで<b>クリエイター</b>動画を視聴か - 財経新聞",
+      "url": "https://www.zaikei.co.jp/article/20260717/861776.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "没入型体験イベント：ウルトラマン ストーリーダイブ展』オリジナルグッズ＆EC販売情報を公開",
+      "url": "https://news.nicovideo.jp/watch/nw19557745?news_ref=20_20",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "なにわ男子・藤原丈一郎＆AKB48・伊藤百花ら、テレ東「隅田川花火大会2026」ゲスト一挙解禁 ...",
+      "url": "https://www.thenews.ne.jp/detail/3287628/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "「独占生中継 隅田川花火大会 ２０２６」豪華ゲスト一挙解禁＆コメントが到着！ - テレ東",
+      "url": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202607/19604.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "プレスリリース：『Mr.都市伝説 関暁夫の裏都市伝説』、新作「ダークウェブ～裏社会とつながる ...",
+      "url": "https://mainichi.jp/articles/20260718/pr2/00m/020/012000c",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "人気武侠「少年歌行」シリーズ最新作「君有雲」、ヤン・ズーらキャスト候補も注目 - Record China",
+      "url": "https://www.recordchina.co.jp/newsinfo?id=985582",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "BUMPで好評独占配信中の人気<b>ショートドラマ</b>『ポンコツ部下は俺様ホスト』、Season1に続き",
+      "url": "https://news.nicovideo.jp/watch/nw19560034?news_ref=watch_60_nw19224955",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "ecforceが<b>TikTok</b> for Businessと連携開始、<b>広告</b>配信から効果測定まで一元管理が可能に",
+      "url": "https://www.commercepick.com/archives/98017",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "【公開から68日間で再生回数100万回突破！】ゲーム実況グループ「ドズル社」の大人気動画 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000224.000078713.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "ライバー・<b>クリエイター</b>が所属するオーガナイザー表彰制度「ミクチャ BEST ORGANIZER ...",
+      "url": "https://www.donuts.ne.jp/news/2026/0717_mixch_bestorganizeraward_vol3/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "ライバー・<b>クリエイター</b>が所属するオーガナイザー表彰制度「ミクチャ BEST ORGANIZER ...",
+      "url": "https://mainichi.jp/articles/20260717/pr2/00m/020/350000c",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "活動するたびに育ち続ける&quot;次世代CD&quot;「MELOKEY（メロキー）」受注受付開始 - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000049.000110924&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "超特急リョウガ、当面休養へ 疲労蓄積とヘルニア症状「超特急で戻ってくるから待っとけよ」",
+      "url": "https://article.auone.jp/detail/1/5/9/37_9_r_20260717_1784245756998541",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "業界トレンド",
+      "title": "<b>ＶＴｕｂｅｒ</b>・桃鈴ねね「２０００％楽しくなって」 ２９日・初ソロライブでエナジー注入！",
+      "url": "https://news.infoseek.co.jp/amp/article/hochi_20260716-OHT1T51428/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "「ecforce」、TikTokの広告配信サービス「TikTok for Business」と連携 ... - 日本ネット経済新聞",
+      "url": "https://netkeizai.com/articles/detail/19262",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "「知育菓子の日」に無関係な企業アカウントが続々便乗する理由",
+      "url": "https://hashout.jp/sns/3663/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "IDC<b>調査</b>で世界No.1を2冠獲得Gausium（高仙ロボット）、グローバル規模での横展開フェーズへ",
+      "url": "https://shinagawa.keizai.biz/release/614496/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "業界トレンド",
+      "title": "フジテレビ、「バレーボール アジア選手権 2026」男女日本代表戦全戦をFODプレミアムで生中継 ...",
+      "url": "https://www.screens-lab.jp/article/31333/intro",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "キオクシアに「なぜ株価暴落」全株売却ベイン“動機の空白”追う（2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260717-B3E56RRE7FFGDKUROIKETBZWYE/2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "脅威の兆候",
+      "title": "譲渡企業の着手金・中間金・成功報酬0円、株式会社<b>M&amp;A</b> Doが「SNSM&amp;A総合センター」を開設",
+      "url": "https://news.livedoor.com/pr_topics/detail/31850348/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "原発の建て替え 公的融資可能に 改正電気事業法成立 | 沖縄タイムス＋プラス",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1883208",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "脅威の兆候",
+      "title": "北洋銀行「サステナブル経営支援ローン」を活用した<b>資金調達</b>を実施 - ライブドアニュース",
+      "url": "https://news.livedoor.com/pr_topics/detail/31851640/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "脅威の兆候",
+      "title": "フィッチ・レーティングス、HDバンクに初の信用格付けを付与、堅固な財務プロファイルを評価",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1882634",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "脅威の兆候",
+      "title": "原発建て替えの公的融資を可能に 改正電気事業法が成立 - 沖縄タイムス＋プラス",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1882856",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "脅威の兆候",
+      "title": "北洋銀行「サステナブル経営支援ローン」を活用した<b>資金調達</b>を実施 - iZA（イザ）",
+      "url": "https://www.iza.ne.jp/pressrelease/prtimes/L6PAC5QFRNNBLNADG25STD3NHI/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "伊勢・外宮参道に新組織GPT発足 <b>インフルエンサー</b>夫婦が「令和の御師」に",
+      "url": "https://iseshima.keizai.biz/headline/4440/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "ドイツ、フランス軍核演習に初参加へ - 品川経済新聞",
+      "url": "https://shinagawa.keizai.biz/gpnews/1740655/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "アルゼンチンの守護神としてW杯連覇に王手 アストン・ヴィラ<b>移籍</b>から一気に花開いたE ...",
+      "url": "https://www.theworldmagazine.jp/20260718/02national_team/497563?amp=1",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "堺雅人『VIVANT』7・26始動の2クール放送だけじゃない｢漏れ出す規格外話｣＆テレビ各局 ...",
+      "url": "https://pinzuba.news/articles/-/16908",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "脅威の兆候",
+      "title": "プーチン氏が主張する偽りの戦果、ロシア軍の惨状と前進の遅れが浮き彫りに - CNN.co.jp",
+      "url": "https://www.cnn.co.jp/world/35250743.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "脅威の兆候",
+      "title": "「日本のメッシになる男！」塩貝健人が木梨憲武のインスタグラムに登場、ブラジル戦前には<b>炎上</b>も",
+      "url": "https://www.nikkansports.com/soccer/worldcup2026/photonews/photonews_nsInc_202607170000335-1.html",
       "status": "未処理"
     }
   ],
@@ -41209,6 +41601,346 @@
         "benchmark": 1
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "アソビシステム",
+      "title": "［リアル無料イベント］7/29開催 日経エンタテインメント！Night アソビシステム中川代表登壇 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TTXBMeVRBQVpqUE9aTjRpZTZvTlloeklrRWRKUkVCNVpQTmZPZnJRM1NMN0J6TzQxQ1hyQWxqVlNTRTBGamFmYVpQZWpjVW5pd193dzRHSnlmUQ?oc=5",
+      "totalScore": 11.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-16",
+      "company": "株式会社ナハト",
+      "title": "「Mission・Vision・Value」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03UlZmY1dtaDRKcmRkb1VkSDZGLV91MTJwaUgydW9VWUNtcHBkcU5wTUpTT29WVENQUWozbkpMWUhuQU9rU3VDa1B2eUktMlZlaWozaVNzRVphZzJlTFR3OXpGRkZBU2tSeEppQ0tvUVZGZzFlSzg3Z0FnSQ?oc=5",
+      "totalScore": 7.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "fav me、2ndシングルCD表題曲「にゃんてずるいの！」先行配信 CDジャケット写真も解禁 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQW5JUFJrS3RnVDBOWHlzbWlSWjR0czVtb3hjYUI4aldQeHVXN1FEX0VGYXFwRXp2N2Z0VlB0dlpXNXhxZ1E3clZYTWZ6TFByLThwODVtR01SdFRRQkFaMnkwZTVhZmU5Q0E?oc=5",
+      "totalScore": 16.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "TORIHADA",
+      "title": "棚橋産業に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGVPSTM2STlTRXo4YmxDTVpPZ2JsdGpXQlJDd0JYTHg2TTR3RmhpOUFwYnZXVE9QVWtQdE5IczBVNkJ4dnNaQmJoQ2JKNXBQWHczTWRVamJfdGZrMHRKZGFDOFRHbGJTZFBNMXgxa2ZNcnFlaGR4WFdkdDJfd0d6REFQZlNYcnc0U01wLVJXSjlZMWg3cjBneGEzTThtSlcteHR2S0ZSUk1IQUE?oc=5",
+      "totalScore": 7,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、<b>ライブ</b>で盛り上がる全力前進ソング「DASH!!!」を配信<b>リリース</b> - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000828.000017258.html",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "新進気鋭のシンガー・司音(jio)、夢への覚悟を歌に込めた<b>新曲</b>「TOKYOユメイク」配信<b>リリース</b>",
+      "url": "https://prtimes.jp/main/html/rd/p/000000826.000017258.html",
+      "totalScore": 18.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 5,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "トレンダーズ",
+      "title": "AMPULE career｜SERVICE｜<b>トレンダーズ</b>株式会社",
+      "url": "https://www.trenders.co.jp/media_t/ampulecareer/",
+      "totalScore": 7,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>－ | トレーダーズ・ウェブ",
+      "url": "https://www.traders.co.jp/stocks/63_6069/news/2058657",
+      "totalScore": 7.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、ワンキャリア主催「採用ウルトラキャンプ」のスポンサーセッション詳細を公開！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000123.000063127.html",
+      "totalScore": 9.75,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 4
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "株式会社ナハト",
+      "title": "ワンキャリア主催「採用ウルトラキャンプ2026 in 京都」DIAMONDスポンサーによるセッションが ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000357.000035321.html",
+      "totalScore": 8.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、ワンキャリア主催「採用ウルトラキャンプ」のスポンサーセッション詳細を公開！",
+      "url": "https://www.agara.co.jp/article/662418?rct=pr_times",
+      "totalScore": 9.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-17",
+      "company": "Macbee Planet",
+      "title": "【広告運用者】大型案件の広告運用スペシャリスト募集！ | 株式会社<b>Macbee Planet</b>の採用募集",
+      "url": "https://youtrust.jp/recruitment_posts/19e944af6798f87663d6fe8a886c51b1",
+      "totalScore": 10.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "業界トレンド",
+      "title": "サムシングファン、「動画DX・<b>クリエイター</b>活用」の提供価値強化へ    森浩昭氏が顧問に就任",
+      "url": "https://news.nicovideo.jp/watch/nw19547238?news_ref=watch_20_nw19236487",
+      "totalScore": 11.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "業界トレンド",
+      "title": "ゲーム実況グループ「ドズル社」、ローソンとのコラボキャンペーンを7月21日(火)より開催！",
+      "url": "https://www.minpo.jp/ud/prtimes/6a5725d77079c8bfe800000d",
+      "totalScore": 16,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "業界トレンド",
+      "title": "公演当日に急遽発表、ENHYPENソヌがワールドツアーのメキシコシティ公演を体調不良で欠席",
+      "url": "https://www.rbbtoday.com/article/2026/07/15/250742.html",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "脅威の兆候",
+      "title": "“<b>インフルエンサー</b>”宮崎麗果被告に執行猶予付き有罪判決 約1.5億円の脱税（ORICON NEWS）",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2467970",
+      "totalScore": 6.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "脅威の兆候",
+      "title": "「ReENEグリーンボンドIII」発行に関するお知らせ:PR TIMES:福島民友新聞社",
+      "url": "https://www.minyu-net.com/release/prtimes/detail/47320",
+      "totalScore": 7.25,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "脅威の兆候",
+      "title": "<b>インフルエンサー</b>コラボ販売の始め方｜相手選びと<b>ステマ規制</b>の注意点 - EC現場メモ",
+      "url": "https://ec-genba-memo.com/articles/influencer-collab-hanbai/",
+      "totalScore": 17.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-15",
+      "company": "脅威の兆候",
+      "title": "「日本の恥」「ライン超えてる」W杯でバズったYouTuberが大<b>炎上</b>！メッシの“低身長症”を嘲笑か …",
+      "url": "https://news.yahoo.co.jp/articles/8dbd77a9d15f6051bdf4eca929f8b7466a72b88e",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-14",
+      "company": "業界トレンド",
+      "title": "ゲーム実況<b>クリエイター</b>とのプールコラボが間もなく開催！本コラボのために制作された新曲も ...",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1879470",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -57015,6 +57747,213 @@
       "agenda": "過激化するSNSコンテンツの中で、VAZが目指す「広告っぽくない」コンテンツとタレント・アイドルのプライバシー保護やリスク回避を両立させるための具体的なガイドラインと教育体制をどう構築すべきか？",
       "summary": "ユーチューバーのアイドル事務所突撃が炎上、リスク管理の重要性を示す。",
       "axis": "タレント軸"
+    },
+    {
+      "id": 838,
+      "date": "2026-07-15",
+      "company": "アソビシステム",
+      "title": "［リアル無料イベント］7/29開催 日経エンタテインメント！Night アソビシステム中川代表登壇 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TTXBMeVRBQVpqUE9aTjRpZTZvTlloeklrRWRKUkVCNVpQTmZPZnJRM1NMN0J6TzQxQ1hyQWxqVlNTRTBGamFmYVpQZWpjVW5pd193dzRHSnlmUQ?oc=5",
+      "totalScore": 11.75,
+      "tags": [
+        "#プランニング・企画",
+        "#コンテンツ制作",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステムの中川代表が日経エンタテインメント！主催のリアル無料イベントに登壇する。",
+      "intent": "アソビシステムはアーティストのIP活用やイベント企画に強みを持つ。日経エンタテインメント！での登壇は、彼らが築いてきたカルチャーベースの事業戦略やコンテンツビジネスの成功事例を発信し、企業プレゼンス向上や新たなビジネスパートナーシップ獲得を狙う意図がある。",
+      "impact": "アソビシステムはアーティストIP活用やファンエンゲージメント構築でVAZの注力領域「アイドルグループ」「所属タレントのグッズ（IP）」の先行事例。代表の登壇は、その事業戦略やコンテンツ制作、ファンビジネスに関する示唆が得られ、VAZがこれらの注力領域の戦略を練る上で重要なベンチマークとなり得る。",
+      "agenda": "アソビシステムの事業戦略から、VAZの「アイドルグループ」および「タレントIPグッズ」の競争力強化に繋がる具体的なヒントをどう抽出し、施策へ落とし込むべきか？",
+      "summary": "アソビシステム代表が日経エンタテインメント！イベントに登壇",
+      "axis": "両方"
+    },
+    {
+      "id": 839,
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "fav me、2ndシングルCD表題曲「にゃんてずるいの！」先行配信 CDジャケット写真も解禁 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQW5JUFJrS3RnVDBOWHlzbWlSWjR0czVtb3hjYUI4aldQeHVXN1FEX0VGYXFwRXp2N2Z0VlB0dlpXNXhxZ1E3clZYTWZ6TFByLThwODVtR01SdFRRQkFaMnkwZTVhZmU5Q0E?oc=5",
+      "totalScore": 16.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "競合であるアソビシステムのアイドルIP「fav me」が2ndシングルCDの表題曲を先行配信し、CDジャケット写真も解禁した。",
+      "intent": "アソビシステムは音楽・ファッション・カルチャー領域に強みを持ち、独自のIP育成・展開戦略を推進している。若年層市場においてアイドルIPは強いファンエンゲージメントを生み出し、グッズ販売やイベント展開など多角的なマネタイズが可能であり、今回のリリースはIPの世界観を構築し、ファンの期待感を高めるプロモーションサイクルの一環と推察される。",
+      "impact": "VAZが2026年に注力する「アイドルグループ」および「所属タレントのグッズ（IP）」領域において、競合のアソビシステムが具体的なIP展開を進めていることを示唆する。このニュースは、VAZのアイドルプロジェクトが目指す若年層市場での競合の活発さ、また、IPの音楽展開がファンエンゲージメントとマネタイズの重要な手段であることを再認識させる。特にCDリリースは物理的なIPグッズ展開の一環であり、VAZのIPグッズ戦略においても多様なフォーマットでの展開を検討する上で参考となる。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、音楽IPと連動した具体的なファンエンゲージメント戦略やIPグッズ展開のロードマップは競合と比べて優位性があるか。",
+      "summary": "アソビシステムのアイドルIPが新曲リリースで活動強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 840,
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、<b>ライブ</b>で盛り上がる全力前進ソング「DASH!!!」を配信<b>リリース</b> - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000828.000017258.html",
+      "totalScore": 15.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属アイドルグループSWEET STEADYが新曲「DASH!!!」を配信リリースし、幕張メッセでの単独公演2DAYSも成功させた。",
+      "intent": "アソビシステムは長年にわたりアイドルやアーティストのマネジメント実績を持ち、ファンを獲得し、大規模ライブを成功させるノウハウを蓄積している。今回の新曲リリースは、既存ファンへの新たなコンテンツ提供と、ライブイベントでの盛り上がりを通じて新規ファン獲得を目指す、アイドル活動における継続的なIP育成戦略の一環とみられる。VAZがアイドルプロジェクトを推進する上で、このような継続的なコンテンツ供給とファンエンゲージメントの戦略は重要となる。",
+      "impact": "VAZの2026年注力領域である「アイドルグループ」の育成・運営において、競合アソビシステムの成功事例として注視すべき。特に幕張メッセでの単独公演成功は、強力なファンベースとIP価値構築の証であり、VAZが目指すべき規模感とファンビジネスモデルを示唆している。音楽コンテンツの配信リリースを通じてファンとの接点を増やし、ライブに繋げる一連の流れは、VAZの「タレントIPグッズ」や「インフルエンサーネットワーク」活用を伴うアイドルプロジェクト推進に参考となる。",
+      "agenda": "VAZのアイドルプロジェクトは、競合アソビシステムのような大規模ライブ開催と継続的な楽曲リリースを実現するために、どのような段階的戦略とリソース配分が必要か？",
+      "summary": "アソビシステム所属アイドルが新曲を配信リリースし、ライブ成功。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 841,
+      "date": "2026-07-18",
+      "company": "アソビシステム",
+      "title": "新進気鋭のシンガー・司音(jio)、夢への覚悟を歌に込めた<b>新曲</b>「TOKYOユメイク」配信<b>リリース</b>",
+      "url": "https://prtimes.jp/main/html/rd/p/000000826.000017258.html",
+      "totalScore": 18.5,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステム所属のソロシンガー司音(jio)が、YouTubeでの「歌ってみた」動画投稿を経て、2ndデジタルシングル「TOKYOユメイク」を配信リリースした。",
+      "intent": "アソビシステムは、YouTube等の主要プラットフォームでのコンテンツ制作とファン獲得を足がかりに、才能あるアーティストを発掘・育成し、音楽制作・配信まで一貫してプロデュースするモデルを展開している。これは、インフルエンサーとしての影響力とアーティスト性を掛け合わせ、エンターテイメント業界におけるIP創出と収益化を狙う戦略の一環であり、特に若年層が音楽を消費する主要チャネルを活用することで、ファンダム形成を加速させる意図がある。",
+      "impact": "VAZのコンテンツビジネスDivにとっては、競合がYouTubeを効果的に活用して新進気鋭のシンガーを発掘・育成し、IP展開を進めている現状は注視すべきである。VAZが2026年注力領域とする「アイドルグループ」や「所属タレントのグッズ（IP）」戦略において、YouTubeを通じた短期間でのファンベース構築や音楽IPの創出プロセスは参考になる。VAZの強みである「Z世代・若年層へのリーチ力」や「コンテンツ制作力」を、音楽コンテンツやアーティスト育成により深く結びつけることで、新たなIP創出とマネタイズの可能性を探る機会となる。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、YouTubeの「歌ってみた」戦略はどのように適用し、短期間でのファン獲得とIP創出に繋げられるか？",
+      "summary": "アソビシステム所属シンガーがYouTube活用し新曲リリース",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 842,
+      "date": "2026-07-17",
+      "company": "Macbee Planet",
+      "title": "【広告運用者】大型案件の広告運用スペシャリスト募集！ | 株式会社<b>Macbee Planet</b>の採用募集",
+      "url": "https://youtrust.jp/recruitment_posts/19e944af6798f87663d6fe8a886c51b1",
+      "totalScore": 10.5,
+      "tags": [
+        "#広告主動向",
+        "#新規マネタイズ事業",
+        "#ECコマース"
+      ],
+      "fact": "Macbee Planetが、大型案件に対応できる広告運用スペシャリストの採用をYOUTRUSTで開始した。",
+      "intent": "Macbee Planetが大型案件のスペシャリストを募集する背景には、顧客ニーズの高度化と広告予算の規模拡大があり、戦略立案から実行、効果検証まで一貫して任せられる人材を確保し、顧客LTV最大化を図る意図があると考えられる。",
+      "impact": "Macbee Planetの広告運用強化は、広告市場における専門性需要の高まりを示唆し、VAZが注力する「TikTokショップ」や「美容UGC生成」の成果最大化に不可欠な広告運用において、VAZも運用能力の強化を迫られる可能性がある。",
+      "agenda": "VAZの「TikTokショップ」や「美容UGC生成」など新規事業において、高度な広告運用能力を社内で育成・確保すべきか、あるいは専門企業との戦略的提携を強化すべきか？",
+      "summary": "Macbee Planetが大型案件の広告運用スペシャリスト募集",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 843,
+      "date": "2026-07-15",
+      "company": "業界トレンド",
+      "title": "サムシングファン、「動画DX・<b>クリエイター</b>活用」の提供価値強化へ    森浩昭氏が顧問に就任",
+      "url": "https://news.nicovideo.jp/watch/nw19547238?news_ref=watch_20_nw19236487",
+      "totalScore": 11.75,
+      "tags": [
+        "#コンテンツ制作",
+        "#新規マネタイズ事業",
+        "#プラットフォーム動向"
+      ],
+      "fact": "サムシングファンが「動画DX・クリエイター活用」の提供価値強化のため森浩昭氏を顧問に招いた。",
+      "intent": "拡大する動画コンテンツ市場において、企業は動画を通じた顧客エンゲージメントと販促効果の最大化を求め、サムシングファンは制作プロセス全体のDX化と効果的なクリエイター活用による提供価値向上を目指している。",
+      "impact": "VAZにとって、動画コンテンツの質と効率が競争軸になっていることを示唆し、自社の強みであるコンテンツ制作力を「動画DX」の視点で進化させる重要性が高まる。特に「TikTokショップ」や「美容UGC生成」といった注力領域では、動画DXによる効率化とクリエイター活用が成功の鍵となる。",
+      "agenda": "自社の「コンテンツ制作力」を「動画DX」の視点からどう強化し、注力領域での競争優位性を確立すべきか？",
+      "summary": "サムシングファン、動画DX・クリエイター活用を強化",
+      "axis": "両方"
+    },
+    {
+      "id": 844,
+      "date": "2026-07-15",
+      "company": "業界トレンド",
+      "title": "ゲーム実況グループ「ドズル社」、ローソンとのコラボキャンペーンを7月21日(火)より開催！",
+      "url": "https://www.minpo.jp/ud/prtimes/6a5725d77079c8bfe800000d",
+      "totalScore": 16,
+      "tags": [
+        "#自社IP・グッズ",
+        "#新規マネタイズ事業",
+        "#ECコマース"
+      ],
+      "fact": "ゲーム実況グループ「ドズル社」が、2026年7月21日より全国のローソンでクリアファイルプレゼント、エンタメくじ、限定グッズ販売などのコラボキャンペーンを開催する。",
+      "intent": "今回のコラボは、ドズル社が確立したゲーム実況IPのブランド力を、コンビニエンスストアという広範な流通チャネルを通じて最大化し、ファン層へのエンゲージメント強化と新たな収益源の確保を目指すもの。WONDER DIVEとしては、オンラインコンテンツだけでなくオフラインでのファン体験を提供し、IPの多角的な価値創造を図る狙いがある。",
+      "impact": "本ニュースは、VAZが2026年に注力する「所属タレントのグッズ（IP）」の具体戦略を考える上で非常に参考になる事例。特に大手コンビニチェーンとの連携は、IPの認知度向上とオフラインでの顧客接点拡大に大きく寄与する。VAZの強みであるZ世代へのリーチ力を活かし、所属クリエイターのIPをいかに広範な流通で展開できるか、また「新規マネタイズ事業」として安定した収益源を確保できるかという視点を持つべきである。",
+      "agenda": "VAZの所属タレントIPを最大限に活用し、大手コンビニや小売チェーンとのコラボレーションを通じて、どのように「所属タレントのグッズ（IP）」の売上とブランド価値を向上させるべきか？",
+      "summary": "ゲーム実況グループ「ドズル社」がローソンと大規模コラボを実施し、IPグッズを展開。",
+      "axis": "両方"
+    },
+    {
+      "id": 845,
+      "date": "2026-07-15",
+      "company": "業界トレンド",
+      "title": "公演当日に急遽発表、ENHYPENソヌがワールドツアーのメキシコシティ公演を体調不良で欠席",
+      "url": "https://www.rbbtoday.com/article/2026/07/15/250742.html",
+      "totalScore": 13,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#タレント発掘・育成"
+      ],
+      "fact": "ENHYPENのソヌが体調不良のため、ワールドツアーのメキシコシティ公演を急遽欠席することが、所属事務所のBELIFT LABから発表された。",
+      "intent": "大型K-POPアイドルグループであるENHYPENは、世界規模で活動しており、多忙なスケジュールが常態化している。今回の体調不良は、過密スケジュールや異文化環境への適応に伴うストレス、疲労蓄積の結果と推測され、K-POP業界で長年の課題とされるアーティストへの負担を改めて浮き彫りにした。所属事務所はタレントIPの価値を最大化しつつ、活動リスクを最小化するための健康管理と活動継続性のマネジメントに常に直面している。",
+      "impact": "本ニュースは、VAZが注力する「アイドルグループ」および「所属タレントのグッズ（IP）」事業における、タレントの健康管理と活動継続性という重要なリスク要因を示唆している。K-POPのような世界的なアイドルビジネスでは、タレントの体調不良は公演中止や活動休止に直結し、IP価値の毀損だけでなく、ファン離れや経済的損失につながる可能性がある。VAZがアイドルプロジェクトを推進し、所属タレントのIP展開を強化する上で、タレントの心身の健康を維持するための徹底したマネジメント体制構築と、万一の事態に備えたリスクヘッジ戦略の必要性を再認識させる。",
+      "agenda": "VAZのアイドルプロジェクトや既存タレントのIP価値最大化のため、タレントの心身の健康を維持し活動継続性を担保する具体的なマネジメント戦略とリスクヘッジ体制をどう構築すべきか？",
+      "summary": "大型K-POPアイドルの体調不良による公演欠席リスク",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 846,
+      "date": "2026-07-15",
+      "company": "脅威の兆候",
+      "title": "<b>インフルエンサー</b>コラボ販売の始め方｜相手選びと<b>ステマ規制</b>の注意点 - EC現場メモ",
+      "url": "https://ec-genba-memo.com/articles/influencer-collab-hanbai/",
+      "totalScore": 17.75,
+      "tags": [
+        "#ECコマース",
+        "#規制・法令",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "インフルエンサーを活用したコラボ販売の開始方法と、ステルスマーケティング規制に関する注意点が取り上げられている。",
+      "intent": "インフルエンサーによるEC販売は、SNSプラットフォームのEC機能強化とD2Cトレンドの加速により収益性の高い事業機会として注目される一方、消費者庁によるステマ規制導入（2023年10月1日施行）により、広告表示の透明性が必須となった。これは、広告であることの不明瞭さによる消費者トラブル増加が背景にあり、VAZを含むインフルエンサーマーケティング企業は、規制を遵守しつつ、いかに自然でエンゲージメントの高いコンテンツを制作し続けるかという共通の課題に直面している。",
+      "impact": "VAZにとって、このニュースは脅威の兆候であり、2026年注力領域である「TikTokショップ」や「タレントIPグッズ」におけるインフルエンサーコラボ販売において、ステマ規制の遵守が不可欠であることを示唆している。特にVAZの強みである「広告っぽくない」SNSコンテンツ制作力を維持しつつ、規制をクリアすることが差別化の鍵となる。美容UGC生成も規制対象となり得るため、厳格なガイドライン設定と運用が急務であり、新規マネタイズ事業の立ち上げにおいても規制対応を織り込んだビジネスモデル構築が求められる。",
+      "agenda": "インフルエンサーコラボ販売を強化するにあたり、ステマ規制に完全準拠しつつ、VAZ独自の「広告っぽくない」コンテンツ制作力を維持・発展させるための具体的なガイドラインと教育体制をどう構築すべきか？",
+      "summary": "インフルエンサーECとステマ規制対応の重要性",
+      "axis": "両方"
+    },
+    {
+      "id": 847,
+      "date": "2026-07-15",
+      "company": "脅威の兆候",
+      "title": "「日本の恥」「ライン超えてる」W杯でバズったYouTuberが大<b>炎上</b>！メッシの“低身長症”を嘲笑か …",
+      "url": "https://news.yahoo.co.jp/articles/8dbd77a9d15f6051bdf4eca929f8b7466a72b88e",
+      "totalScore": 11.5,
+      "tags": [
+        "#炎上・リスク",
+        "#タレント発掘・育成"
+      ],
+      "fact": "W杯で話題になったYouTuberが、メッシの“低身長症”を嘲笑したとされ、SNSで大炎上している。",
+      "intent": "インフルエンサーの影響力拡大に伴い、彼らの発言や行動が社会的に大きな影響を持つようになっている。特に、公共性や倫理観に欠ける発言は、個人の問題に留まらず、所属事務所や起用ブランドにも波及し、深刻なイメージダウンやビジネス機会の喪失を招くリスクが高まっている。W杯という世界的な注目イベントと絡んだことで、炎上の規模が拡大した。",
+      "impact": "このニュースは、VAZが強みとする所属インフルエンサー起点でのコンテンツ制作やZ世代・若年層へのリーチ力、そして「広告っぽくない」SNSコンテンツの提供において、その裏にあるタレントのリスク管理の重要性を強く示唆している。VAZの注力領域であるタレントIPグッズやアイドルグループ、インフルエンサーネットワークは、タレントのイメージに大きく依存するため、炎上はこれらの事業に直接的な負の影響を与える可能性がある。信頼性維持とブランド毀損防止が喫緊の課題となる。",
+      "agenda": "所属タレントの炎上リスクを低減するため、倫理規定の見直しと教育体制の強化をどのように実施すべきか？",
+      "summary": "YouTuberの炎上から学ぶクリエイターリスク管理の重要性",
+      "axis": "両方"
+    },
+    {
+      "id": 848,
+      "date": "2026-07-14",
+      "company": "業界トレンド",
+      "title": "ゲーム実況<b>クリエイター</b>とのプールコラボが間もなく開催！本コラボのために制作された新曲も ...",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1879470",
+      "totalScore": 15.5,
+      "tags": [
+        "#自社IP・グッズ",
+        "#コンテンツ制作",
+        "#プランニング・企画"
+      ],
+      "fact": "人気ゲーム実況クリエイター『ウォーターチャレンジ』が東武動物公園と協業し、新曲制作やプール・動物園企画を含む大型コラボイベントを2026年夏に開催する。",
+      "intent": "Z世代・若年層へのリーチを強みとするインフルエンサーを活用した体験型コンテンツは、リアルイベント需要の回復と企業側の顧客獲得ニーズが合致した結果として加速している。クリエイター側はIPの多角化、企業側は新規顧客の獲得とブランドイメージの刷新を狙い、オフライン施設とのコラボレーションを通じて、クリエイターのファン層を直接的に施設へ呼び込み、エンゲージメントを深掘りする狙いがある。",
+      "impact": "本ニュースは、VAZの注力領域である「所属タレントのグッズ（IP）」「インフルエンサーネットワーク」「アイドルグループ」に直接関連する。VAZの強みである「コンテンツ制作力」と「Z世代・若年層へのリーチ力」を活かし、人気クリエイターのIPをリアルイベントや新曲制作と組み合わせることで、オフラインにおけるIP価値最大化と新たなマネタイズ手法の可能性を示唆している。これは「アイドルプロジェクト」や「タレントIPグッズ」展開において、ファンとの接触機会拡大と収益多角化のモデルとして非常に有効である。",
+      "agenda": "所属クリエイターやアイドルIPを最大限に活用し、オフライン施設との大型コラボレーションや新曲制作を通じた体験型コンテンツ事業をVAZとしてどう戦略的に展開すべきか？",
+      "summary": "ゲーム実況クリエイターと東武動物公園の大型コラボイベント開催",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -57049,8 +57988,8 @@
   ],
   "home": {
     "monthLabel": "2026年7月",
-    "thisMonthNewsCount": 782,
-    "thisMonthAnalysisCount": 191,
+    "thisMonthNewsCount": 831,
+    "thisMonthAnalysisCount": 202,
     "highlights": [
       {
         "id": 0,
@@ -57113,13 +58052,13 @@
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 4278.75,
-        "count": 290
+        "totalScore": 4335,
+        "count": 294
       },
       {
         "company": "アソビシステム",
-        "totalScore": 3242,
-        "count": 193
+        "totalScore": 3304.5,
+        "count": 197
       },
       {
         "company": "トレンダーズ",
@@ -57132,14 +58071,14 @@
         "count": 74
       },
       {
+        "company": "脅威の兆候",
+        "totalScore": 650,
+        "count": 48
+      },
+      {
         "company": "株式会社Natee",
         "totalScore": 629.5799999999999,
         "count": 39
-      },
-      {
-        "company": "脅威の兆候",
-        "totalScore": 620.75,
-        "count": 46
       },
       {
         "company": "TORIHADA",
@@ -57148,8 +58087,8 @@
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 577.9200000000001,
-        "count": 45
+        "totalScore": 588.4200000000001,
+        "count": 46
       },
       {
         "company": "GROVE株式会社",
@@ -57160,39 +58099,39 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 400
+        "count": 405
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 298
+        "count": 304
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 297
+        "count": 302
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 265
+        "count": 268
       },
       {
         "tag": "#広告主動向",
-        "count": 189
+        "count": 190
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 186
+        "count": 187
       },
       {
         "tag": "#ECコマース",
-        "count": 166
-      },
-      {
-        "tag": "#プランニング・企画",
-        "count": 134
+        "count": 169
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 134
+        "count": 137
+      },
+      {
+        "tag": "#プランニング・企画",
+        "count": 136
       },
       {
         "tag": "#タイアップ案件",
@@ -57200,9 +58139,9 @@
       }
     ],
     "axisCounts": {
-      "タレント軸": 279,
-      "マーケティング軸": 264,
-      "両方": 277,
+      "タレント軸": 283,
+      "マーケティング軸": 265,
+      "両方": 283,
       "業界全般": 17
     },
     "tagMaster": {
