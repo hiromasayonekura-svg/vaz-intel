@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-07-25T00:31:26.410Z",
-    "generatedAtJst": "2026-07-25 09:31:26",
-    "totalNews": 3082,
-    "totalAnalyses": 930,
+    "generatedAt": "2026-07-26T00:31:23.715Z",
+    "generatedAtJst": "2026-07-26 09:31:23",
+    "totalNews": 3141,
+    "totalAnalyses": 942,
     "totalCompetitors": 7
   },
   "news": [
@@ -23773,7 +23773,7 @@
       "company": "脅威の兆候",
       "title": "ゼレンスキー氏、ウクライナ軍の総司令官を解任 国防相更迭で抗議デモ、軍内部の対立露呈",
       "url": "https://www.cnn.co.jp/world/35250823.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -23781,7 +23781,7 @@
       "company": "脅威の兆候",
       "title": "ブラジル代表ビニシウスがあごの整形手術 破局した恋人と復縁披露の場でお披露目",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkansports/sports/f-sc-tp4-260722-202607220000255",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -23805,7 +23805,7 @@
       "company": "脅威の兆候",
       "title": "「これダンス？性行為じゃん」発言で<b>炎上</b>のAIKI、大バズり中のATEEZ『BAD』ダンスを披露",
       "url": "https://www.rbbtoday.com/article/2026/07/22/250960.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -23813,7 +23813,7 @@
       "company": "脅威の兆候",
       "title": "ヒカル、「オープンマリッジ」は「世の金持ちを代弁」のつもりが...「大<b>炎上</b>」 現在は考え方改め ...",
       "url": "https://news.yahoo.co.jp/articles/ff6ff42de9314f8c81ab7751e3614d92a196c22e",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -24661,6 +24661,478 @@
       "company": "脅威の兆候",
       "title": "「韓国の恥」メッシのユニフォームを雑巾にした女性ユーチューバー、世界中のサッカーファンの ...",
       "url": "https://www.rbbtoday.com/article/2026/07/22/250991.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETメンバーがナースや恋に悩む女子に変身！ 最新曲「Error404♡」MV解禁 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80YmNMaklFOHRqU3ktczc3YmJkeXpzRWkxUEtNdW9yX0FIU2J3QVJNZ2VaQU9SRWtUSl9ScFJOODZvYS1sUjR4TlFIRXNnV1llUzNBTk12b0l4SHBHT201X1IyenE4YkY2d2c?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "かわにしなつき、近藤夏子書き下ろし楽曲「あくびしてもう一回」リリース MVも公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSVh2Y2hsS0x5UXVZNGNodUxaQVlpZVJDdXM0OHNZMnI3SUd4ZE5qNHA2NmMtMkk0QnlhZUp0RndYbzNLbUVfbWJpZV9hdDhlYWxDNHh3ZjBJZUd4ek1xUHV1UU1iSUxLQ0E?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、「KURU KURU HARAJUKU」MV公開 田向潤と15周年イヤーの幕開けを飾る - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT0drRXdpbC1GOVBCMkV5N3RsaV9iX3VoRlp4UkR4dFhqU2h0S1hEZ1dKRkVIWUsyT0IzVmszMU1FcHFXQ0dINUJkZ1FtSlZRR1ZOQnlKajdPMEFZUnNTLUZlUjRYVDhPc0E?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-21",
+      "company": "Macbee Planet",
+      "title": "次世代医療推進協会に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeV9kUGNwdXhhbzYtM3FjbWxyWDFwYk5xSUhzeVBNRzBQVUNwQ3VvbUw4eXhDMWktaUJmTWliWndvcFVVUllBcGRtdDZWS0RQdGppOXJ4S1R6ZlM5T210cGcxNEVWcmlDLWltLWw2dThuTkFDTk94bGEwa0NqWW9RNG82ZU9YOXZwLUlLeEM3SzFZRDk4YzdJLWJEcXRkb0ZpYkZNbG9qWjZOcTVyYzJQM2hPNmVZc3VqSnRtV2dSY2Z4WktrMmIxR1BkNWtlSjRLRDhrZjN4Uk9IczB3cmxYZldENEVFSk0?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-23",
+      "company": "TORIHADA",
+      "title": "MT メタトロン『MT リペア グロウ ミスト』が25ans（ヴァンサンカン）「ビューティ・メダリスト賞」スキンケア部銀賞を受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdmxRa05oNW9TeDFLeVJWajNvTHJhbXFFOHpFdEc4LTBaVG1FdTlLMFFVLVk0VV93UnQxMHlCTTIyeVhzanZFeFRPMnQ0MG8wWVE2TTNxc2Q3STltNTFLUTBZbDdmMXFlOXc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETが韓国で大バズり！「私たちの“KAWAII”は信じていいんだ ... - 日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/culture/42cb15e114ae45b8b6ef8fe802a1d15d",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETメンバーがナースや恋に悩む女子に変身！ 最新曲「Error404  」MV解禁",
+      "url": "https://prtimes.jp/main/html/rd/p/000000837.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "JUICYJUICY、眩しくて甘酸っぱい夏の恋を描いた「太陽LOVER」配信<b>リリース</b> - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000833.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>のクリエイター28名が集結！『Akaku展』が9月1日より原宿で開催",
+      "url": "https://news.livedoor.com/topics/detail/31903578/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、「KURU KURU HARAJUKU」MV公開 田向潤と15周年イヤーの幕開けを ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000836.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "トレンダーズ",
+      "title": "「追い詰められているように見えた」有名女性起業家（53）が漏らした“多忙アピール”投稿で炎上 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/jisin/nation/jisin-https_jisin.jp_p_2592626?page=2",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "Macbee Planet",
+      "title": "スカラ、通信キャリアショップ向けシステム開発のテラを子会社化 | M&amp;A",
+      "url": "https://ma.kotora.jp/archives/ma-news/ma-news-5618",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "Macbee Planet",
+      "title": "ジャパンインベストメントアドバイザー、プレジャーボート販売のキーサイドを子会社化 | M&amp;A",
+      "url": "https://ma.kotora.jp/archives/ma-news/ma-news-5626",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "MAVEL、デジタル広告の掲載品質に関するJICDAQ認証を継続取得 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000190.000023647.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "営業責任者（部長）  プライム上場企業<b>マクビープラネット</b>G企業（東京都） | JobQ[ジョブキュー]",
+      "url": "https://recruitment.job-q.me/recruitments/109181478/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "MAVEL、デジタル広告の掲載品質に関するJICDAQ認証を継続取得 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19578604?news_ref=watch_20_nw18970014",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "<b>インフルエンサーマーケティング</b>の費用を可視化する「見積もりシミュレーション」を公開",
+      "url": "https://www.jiji.com/jc/article?k=000000100.000145240&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "「PROJECT 47 JAPAN Music and Dance Festival」チケット販売開始のお知らせ - エキサイト",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-25-148520-15/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "「PROJECT 47 JAPAN Music and Dance Festival」チケット販売開始のお知らせ",
+      "url": "https://news.nicovideo.jp/watch/nw19582629?news_ref=watch_20_nw19540974",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "ファッション・アパレル業界向けAI SaaS「Vestory」がGoogleスプレッドシートとの双方向データ ...",
+      "url": "https://www.commercepick.com/archives/98596",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "10代から20代が選ぶ2026年上半期トレンドランキング、平成リバイバルや共感体験が上位に",
+      "url": "https://www.commercepick.com/archives/98585",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "ASCII.jp：セルシス、アニメーション制作の汎用規格タイムシートフォーマットにより ...",
+      "url": "https://ascii.jp/elem/000/004/422/4422090/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "アニメーション業界の国際サステナビリティ認証「ANiMPACT」がパイロット段階へ、欧州3者が ...",
+      "url": "https://branc.jp/article/2026/07/24/2936.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>のアニメIPは“世界で最も見られているのに、最も稼げていないコンテンツのひとつ”!? <b>日本</b> ...",
+      "url": "https://animeanime.jp/article/2026/07/24/101377.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "【U-KNOCK 2026現地レポート】ファンダムを産業にする「ループ」エコシステムを韓国はどう ...",
+      "url": "https://branc.jp/article/2026/07/24/2935.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>エンタメの世界戦略を現地取材とデータで読み解く新刊『“アニメ”経済圏(<b>エコノミー</b>)』を",
+      "url": "https://www.inside-games.jp/release/prtimes/20260724/298012.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "星の四谷三丁目シアター、ライオンロックと初コラボ <b>ショートドラマ</b>「監督のSNS」配信開始",
+      "url": "https://entametalk.com/news/198404/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "「何で…」狂ったように鍵をガチャガチャする妻の”異変”→後日、判明した“ワケ”に「辛いよね ...",
+      "url": "https://trilltrill.jp/articles/4831528",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "星の四谷三丁目シアター、ライオンロックと初コラボ <b>ショートドラマ</b>「監督のSNS」配信開始",
+      "url": "https://news.nicovideo.jp/watch/nw19583301?news_ref=watch_50_nw19560067",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "櫻井佑樹主演、「ひとりかくれんぼ」をテーマに描く新感覚の縦型<b>ショートドラマ</b>が配信",
+      "url": "https://plus-msg.auone.jp/detail/1/5/9/10285_9_r_20260725_1784949358456769",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "櫻井佑樹主演、「ひとりかくれんぼ」をテーマに描く新感覚の縦型<b>ショートドラマ</b>が配信",
+      "url": "https://news.yahoo.co.jp/articles/447ed61f0b9f335e262feac55726760600fc7d0f",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>は「子ども保護不十分」 EU、IT規制違反と暫定見解 - <b>日本</b>経済新聞 - NewsPicks",
+      "url": "https://newspicks.com/news/17162888/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>で人気の福岡女子 新谷あやか、ほろ酔い＆タンクトップSにネットくぎづけ！「バリ可愛い」",
+      "url": "https://www.sponichi.co.jp/entertainment/news/2026/07/25/kiji/20260725s00041000084000c.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "<b>ＴｉｋＴｏｋ</b>が巨大ＩＴ規制違反 - 山陰中央新報デジタル",
+      "url": "https://www.sanin-chuo.co.jp/articles/-/1047822",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "<b>ＴｉｋＴｏｋ</b>が巨大ＩＴ規制違反 - 京都新聞",
+      "url": "https://www.kyoto-np.co.jp/articles/-/1757934",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "関西最大規模のママライバー<b>事務所</b>「Live Office KIRIN」の事務所内イベントを紹介。レベル別 ...",
+      "url": "https://livetimes.jp/topics/interview/58541/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "女優クォン・アルム、登録者414万人の人気YouTuber・G Movieと熱愛…所属<b>事務所</b>が認める",
+      "url": "https://www.hwaiting.me/wow/read/530038.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "カラフルピーチじゃぱぱのプロフィール！年齢や身長は？経歴や魅力も紹介 - うたてん",
+      "url": "https://utaten.com/specialArticle/index/10095",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "映像<b>クリエイター</b>、ケイン・パーソンズ×A24『バックルームズ』異空間への扉を出現させる ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/moviewalker/entertainment/moviewalker-1426802",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "映像<b>クリエイター</b>、ケイン・パーソンズ×A24『バックルームズ』異空間への扉を出現させる ...",
+      "url": "https://news.nicovideo.jp/watch/nw19578570?news_ref=top_newComments",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "スマホをかざすだけで推しをAR召喚-バーチャルリンクカード「SHIGLIA（シグリア）」受注受付開始",
+      "url": "https://www.jiji.com/jc/article?k=000000054.000110924&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "ホロライブ運営、示談成立を報告「きわめて悪質」SNSでの誹謗中傷対象１投稿につき150万円",
+      "url": "https://www.nikkansports.com/m/entertainment/news/amp/202607240001582.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "ホロライブ運営、示談成立を報告「きわめて悪質」SNSでの誹謗中傷対象１投稿につき150万円",
+      "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260724-202607240001582?fm=latestnews",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "東信地区初出店！綿半上田店に「ワールドマーケット」がオープン！ - 毎日キレイ",
+      "url": "https://mainichikirei.jp/prtimes/article/20260724prt00m100000692a.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "業界トレンド",
+      "title": "代々木アニメーション学院、『新劇場版 銀魂 -吉原大炎上-』コラボオープンキャンパスを期間限定 ...",
+      "url": "https://mainichikirei.jp/prtimes/article/20260724prt00m100000690a.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "<b>インフルエンサーマーケティング</b>の費用を可視化する「見積もりシミュレーション」を公開",
+      "url": "https://prtimes.jp/main/html/rd/p/000000100.000145240.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "Gemini Notebookのマインドマップが「神プロンプト」で仕事の地図に変わる理由 – shiritomo",
+      "url": "https://hashout.jp/ai/4372/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "ヤマサキとディセンシア、公式コミュニティで初のコラボ企画 - 日本ネット経済新聞",
+      "url": "https://netkeizai.com/articles/detail/19307",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "業界トレンド",
+      "title": "4児の父・織田信成、夏休みの部<b>活用</b>ボリューム満点手作り弁当公開「ぎっしり詰まってて最高 ...",
+      "url": "https://news.livedoor.com/article/detail/31901014/?from_page=internal",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "脅威の兆候",
+      "title": "株式会社テラの株式取得(子会社化)に関するお知らせ AI時代の業務オペレーション領域で競争 ...",
+      "url": "https://www.zakzak.co.jp/pressrelease/atpress/6N6PIQ7FB5ML7P5JUZLPSYHVVA/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "【8/26大阪開催】第47回IPO勉強会『IPO準備からのM&amp;A！』を開催 事業承継から<b>資金調達</b>",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-24-61436-101/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "「お金を借りる理由」2,000人調査｜最多は“浪費”ではなく「継続的な生活費の不足」23.0 ...",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-24-187326-3/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "脅威の兆候",
+      "title": "28歳・日本女子代表が自身初のスペインリーグ挑戦へ！リーグ屈指の<b>インフルエンサー</b>・松本直美 ...",
+      "url": "https://news.yahoo.co.jp/articles/837e17b7f8bc1f1b1e5aebdeb99035c2686130ee",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "脅威の兆候",
+      "title": "Number_i、9月23日リリースのシングルの収録内容を発表！Atlantic Records<b>移籍</b>第一弾のCD ...",
+      "url": "https://www.wws-channel.com/music2/657410.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "中村敬斗の去就巡り動きが！「代理人に接触」「ランスが退団容認」守田英正と共闘説も。<b>移籍</b>金 ...",
+      "url": "https://www.chiba-tv.com/plus/detail/amp/2026071839910",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "久保建英にリバプール<b>移籍</b>浮上！「115億円用意」佐野海舟・遠藤航と共闘か。ソシエダ残留報道も",
+      "url": "https://www.chiba-tv.com/plus/detail/amp/2026071839909",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "「BoAは“性病”」街中に誹謗中傷の落書き、38歳女性が在宅起訴 複数の前科あり - スポーツソウル",
+      "url": "https://sportsseoulweb.jp/star_topic/detail/id=155159",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "<b>インフルエンサー</b>犬が盗まれ180元で転売・食用に、飼い主は民事訴訟へ―中国 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19578422?news_ref=search_search",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "脅威の兆候",
+      "title": "“ほぼ骨”なのにさらなる減量を宣言…元巨人投手の娘の55kg減量韓国<b>インフルエンサー</b>",
+      "url": "https://sportsseoulweb.jp/star_topic/detail/id=155049",
       "status": "未処理"
     }
   ],
@@ -46101,6 +46573,346 @@
         "benchmark": 4
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-21",
+      "company": "Macbee Planet",
+      "title": "次世代医療推進協会に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeV9kUGNwdXhhbzYtM3FjbWxyWDFwYk5xSUhzeVBNRzBQVUNwQ3VvbUw4eXhDMWktaUJmTWliWndvcFVVUllBcGRtdDZWS0RQdGppOXJ4S1R6ZlM5T210cGcxNEVWcmlDLWltLWw2dThuTkFDTk94bGEwa0NqWW9RNG82ZU9YOXZwLUlLeEM3SzFZRDk4YzdJLWJEcXRkb0ZpYkZNbG9qWjZOcTVyYzJQM2hPNmVZc3VqSnRtV2dSY2Z4WktrMmIxR1BkNWtlSjRLRDhrZjN4Uk9IczB3cmxYZldENEVFSk0?oc=5",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-23",
+      "company": "TORIHADA",
+      "title": "MT メタトロン『MT リペア グロウ ミスト』が25ans（ヴァンサンカン）「ビューティ・メダリスト賞」スキンケア部銀賞を受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdmxRa05oNW9TeDFLeVJWajNvTHJhbXFFOHpFdEc4LTBaVG1FdTlLMFFVLVk0VV93UnQxMHlCTTIyeVhzanZFeFRPMnQ0MG8wWVE2TTNxc2Q3STltNTFLUTBZbDdmMXFlOXc?oc=5",
+      "totalScore": 12.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETが韓国で大バズり！「私たちの“KAWAII”は信じていいんだ ... - 日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/culture/42cb15e114ae45b8b6ef8fe802a1d15d",
+      "totalScore": 21.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETメンバーがナースや恋に悩む女子に変身！ 最新曲「Error404  」MV解禁",
+      "url": "https://prtimes.jp/main/html/rd/p/000000837.000017258.html",
+      "totalScore": 18.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "Macbee Planet",
+      "title": "スカラ、通信キャリアショップ向けシステム開発のテラを子会社化 | M&amp;A",
+      "url": "https://ma.kotora.jp/archives/ma-news/ma-news-5618",
+      "totalScore": 7.5,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-25",
+      "company": "Macbee Planet",
+      "title": "ジャパンインベストメントアドバイザー、プレジャーボート販売のキーサイドを子会社化 | M&amp;A",
+      "url": "https://ma.kotora.jp/archives/ma-news/ma-news-5626",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETメンバーがナースや恋に悩む女子に変身！ 最新曲「Error404♡」MV解禁 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80YmNMaklFOHRqU3ktczc3YmJkeXpzRWkxUEtNdW9yX0FIU2J3QVJNZ2VaQU9SRWtUSl9ScFJOODZvYS1sUjR4TlFIRXNnV1llUzNBTk12b0l4SHBHT201X1IyenE4YkY2d2c?oc=5",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "かわにしなつき、近藤夏子書き下ろし楽曲「あくびしてもう一回」リリース MVも公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSVh2Y2hsS0x5UXVZNGNodUxaQVlpZVJDdXM0OHNZMnI3SUd4ZE5qNHA2NmMtMkk0QnlhZUp0RndYbzNLbUVfbWJpZV9hdDhlYWxDNHh3ZjBJZUd4ek1xUHV1UU1iSUxLQ0E?oc=5",
+      "totalScore": 16,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、「KURU KURU HARAJUKU」MV公開 田向潤と15周年イヤーの幕開けを飾る - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT0drRXdpbC1GOVBCMkV5N3RsaV9iX3VoRlp4UkR4dFhqU2h0S1hEZ1dKRkVIWUsyT0IzVmszMU1FcHFXQ0dINUJkZ1FtSlZRR1ZOQnlKajdPMEFZUnNTLUZlUjRYVDhPc0E?oc=5",
+      "totalScore": 14.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "JUICYJUICY、眩しくて甘酸っぱい夏の恋を描いた「太陽LOVER」配信<b>リリース</b> - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000833.000017258.html",
+      "totalScore": 16.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>のクリエイター28名が集結！『Akaku展』が9月1日より原宿で開催",
+      "url": "https://news.livedoor.com/topics/detail/31903578/",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、「KURU KURU HARAJUKU」MV公開 田向潤と15周年イヤーの幕開けを ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000836.000017258.html",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "トレンダーズ",
+      "title": "「追い詰められているように見えた」有名女性起業家（53）が漏らした“多忙アピール”投稿で炎上 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/jisin/nation/jisin-https_jisin.jp_p_2592626?page=2",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "MAVEL、デジタル広告の掲載品質に関するJICDAQ認証を継続取得 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000190.000023647.html",
+      "totalScore": 9,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "営業責任者（部長）  プライム上場企業<b>マクビープラネット</b>G企業（東京都） | JobQ[ジョブキュー]",
+      "url": "https://recruitment.job-q.me/recruitments/109181478/",
+      "totalScore": 8.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "MAVEL、デジタル広告の掲載品質に関するJICDAQ認証を継続取得 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19578604?news_ref=watch_20_nw18970014",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-22",
+      "company": "脅威の兆候",
+      "title": "ゼレンスキー氏、ウクライナ軍の総司令官を解任 国防相更迭で抗議デモ、軍内部の対立露呈",
+      "url": "https://www.cnn.co.jp/world/35250823.html",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-22",
+      "company": "脅威の兆候",
+      "title": "ブラジル代表ビニシウスがあごの整形手術 破局した恋人と復縁披露の場でお披露目",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkansports/sports/f-sc-tp4-260722-202607220000255",
+      "totalScore": 6,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-22",
+      "company": "脅威の兆候",
+      "title": "「これダンス？性行為じゃん」発言で<b>炎上</b>のAIKI、大バズり中のATEEZ『BAD』ダンスを披露",
+      "url": "https://www.rbbtoday.com/article/2026/07/22/250960.html",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-22",
+      "company": "脅威の兆候",
+      "title": "ヒカル、「オープンマリッジ」は「世の金持ちを代弁」のつもりが...「大<b>炎上</b>」 現在は考え方改め ...",
+      "url": "https://news.yahoo.co.jp/articles/ff6ff42de9314f8c81ab7751e3614d92a196c22e",
+      "totalScore": 12.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -63645,6 +64457,233 @@
       "agenda": "キャラクターIPのSNSでの急成長モデルから、VAZのタレントIPやアイドルプロジェクトにおけるコンテンツ企画・SNS運用戦略で何を応用し、短期でのフォロワー獲得と収益化を加速させるべきか？",
       "summary": "ContentAgeのキャラIP、5ヶ月でフォロワー10万人突破",
       "axis": "タレント軸"
+    },
+    {
+      "id": 930,
+      "date": "2026-07-23",
+      "company": "TORIHADA",
+      "title": "MT メタトロン『MT リペア グロウ ミスト』が25ans（ヴァンサンカン）「ビューティ・メダリスト賞」スキンケア部銀賞を受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdmxRa05oNW9TeDFLeVJWajNvTHJhbXFFOHpFdEc4LTBaVG1FdTlLMFFVLVk0VV93UnQxMHlCTTIyeVhzanZFeFRPMnQ0MG8wWVE2TTNxc2Q3STltNTFLUTBZbDdmMXFlOXc?oc=5",
+      "totalScore": 12.75,
+      "tags": [
+        "#タイアップ案件",
+        "#広告主動向",
+        "#美容UGC生成"
+      ],
+      "fact": "競合TORIHADAが支援するブランド「MTメタトロン」の製品が、美容誌「25ans」の「ビューティ・メダリスト賞」スキンケア部銀賞を受賞した。",
+      "intent": "美容業界において、権威ある賞の受賞はブランド信頼性や製品認知度を大きく高める効果がある。TORIHADAがMTメタトロンのPRやインフルエンサーマーケティングを支援し、製品の魅力を効果的に伝えた結果、メディアでの露出や評価獲得に貢献したと考えられる。これは広告主である美容ブランドが、インフルエンサーマーケティングを通じて製品の権威付けを図る一般的な戦略であり、競合も同様の支援体制を強化していると推測される。",
+      "impact": "VAZは美容・コスメ領域に強みを持ち、美容UGC生成を注力領域としているため、競合TORIHADAによる美容ブランド支援とその成功事例は直接的な競合となり得る。クライアントは単なるインフルエンサーキャスティングだけでなく、ブランドイメージ向上や賞獲得に繋がる戦略的パートナーシップを求めており、VAZも「美容UGC生成」や「インフルエンサーネットワーク」の活用において、同様のサービス提供能力を強化する必要があることを示唆している。",
+      "agenda": "VAZの美容・コスメ領域のクライアントに対し、単なるインフルエンサー起用だけでなく、ブランドの権威付けやメディア露出を視野に入れた戦略的プランニングをどう強化していくべきか？",
+      "summary": "競合TORIHADAが支援する美容ブランドが美容賞受賞",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 931,
+      "date": "2026-07-25",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETが韓国で大バズり！「私たちの“KAWAII”は信じていいんだ ... - 日テレNEWS NNN",
+      "url": "https://news.ntv.co.jp/category/culture/42cb15e114ae45b8b6ef8fe802a1d15d",
+      "totalScore": 21.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "競合アソビシステム所属の8人組アイドルグループCUTIE STREETが、デビュー曲で韓国にて大ヒットし、海外からも注目を集めている。",
+      "intent": "K-POP人気の高まりや、SNSプラットフォームを通じたコンテンツの国境を越えた拡散力が背景にあると推測される。アソビシステムは、日本の「KAWAII」文化をグローバルに通用するIPとして戦略的に展開し、SNSを駆使したプロモーションでファンベース拡大を狙ったと考えられる。",
+      "impact": "VAZの2026年注力領域である「アイドルグループ」において、競合が海外で成功を収めていることは、グローバル展開の重要性を示す。特に「タレントIPグッズ」の海外市場での可能性や、インフルエンサーネットワークを活用した国際的なプロモーション戦略の再考が求められる。",
+      "agenda": "自社アイドルプロジェクトで海外でのバズをいかに創出し、グローバルIPとして「アイドルグループ」および「タレントIPグッズ」展開を加速させるか？",
+      "summary": "アソビシステムのアイドルが韓国でバズり海外展開成功",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 932,
+      "date": "2026-07-25",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETメンバーがナースや恋に悩む女子に変身！ 最新曲「Error404  」MV解禁",
+      "url": "https://prtimes.jp/main/html/rd/p/000000837.000017258.html",
+      "totalScore": 18.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属アイドルグループ「CUTIE STREET」が新曲「Error404♡」のMVを公開し、日本武道館2DAYS公演を完売させるなど高い注目を集めている。",
+      "intent": "アソビシステムは、長年培ってきたタレント育成・プロデュース力に加え、MV制作による楽曲の世界観表現と、音楽アワードノミネートや武道館完売といった明確な実績を積み重ねることで、アイドルグループのブランド価値向上とファン層の拡大に成功している。これはVAZがアイドル市場で成功を目指す上で、単なるタレントの育成だけでなく、具体的な成功体験をどう創出し、ファンダムを築くかの重要性を示す。",
+      "impact": "本ニュースは、VAZの2026年注力領域である「アイドルグループ」事業において、競合が既に大きな成功を収めていることを示唆する。アソビシステムは音楽面での質の高さとメディア露出、ライブ動員を両立しており、これはVAZが目指すアイドル事業において、コンテンツ制作力とファンエンゲージメントをいかに高めるかという課題を突きつける。特に、Z世代・若年層へのリーチ力を持つVAZにとって、アイドルの育成とファンコミュニティ形成のノウハウは重要なベンチマークとなる。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、アソビシステムの成功事例から学ぶべきコンテンツ制作やファンビジネス戦略は何で、具体的な差別化戦略をどう構築すべきか？",
+      "summary": "アソビシステム所属アイドルのMV公開と武道館完売成功",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 933,
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREETメンバーがナースや恋に悩む女子に変身！ 最新曲「Error404♡」MV解禁 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80YmNMaklFOHRqU3ktczc3YmJkeXpzRWkxUEtNdW9yX0FIU2J3QVJNZ2VaQU9SRWtUSl9ScFJOODZvYS1sUjR4TlFIRXNnV1llUzNBTk12b0l4SHBHT201X1IyenE4YkY2d2c?oc=5",
+      "totalScore": 16.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステムがプロデュースするアイドルグループCUTIE STREETが最新曲「Error404♡」のミュージックビデオを解禁した。",
+      "intent": "アソビシステムはIPプロデュースに強みを持ち、アイドルグループはファンコミュニティ形成と多角的なマネタイズを可能にする重要IPである。今回のMV解禁は、IP活性化とファン層拡大、エンゲージメント向上を目指す継続的なコンテンツ供給戦略の一環と考えられる。特定のコンセプト設定は若年層の共感とSNS拡散を意識したブランディングと推測される。",
+      "impact": "VAZの2026年注力テーマ「アイドルグループ」と直接競合する動向であり、アソビシステムのMV解禁はアイドルIP育成とファンベース拡大における具体的な施策として注目すべきである。楽曲コンセプトやMVの世界観構築は、VAZがアイドルプロデュースを進める上で参考になる可能性が高く、VAZの注力領域である「タレントIPグッズ」や「インフルエンサーネットワーク」の拡大にも繋がるヒントとなり得る。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、アソビシステムのように若年層に響く独自の世界観やコンテンツ戦略をどのように構築し、ファンを拡大していくべきか議論しよう。",
+      "summary": "アソビシステム所属アイドルCUTIE STREETが新曲MV公開",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 934,
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "かわにしなつき、近藤夏子書き下ろし楽曲「あくびしてもう一回」リリース MVも公開 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSVh2Y2hsS0x5UXVZNGNodUxaQVlpZVJDdXM0OHNZMnI3SUd4ZE5qNHA2NmMtMkk0QnlhZUp0RndYbzNLbUVfbWJpZV9hdDhlYWxDNHh3ZjBJZUd4ek1xUHV1UU1iSUxLQ0E?oc=5",
+      "totalScore": 16,
+      "tags": [
+        "#自社IP・グッズ",
+        "#コンテンツ制作",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "アソビシステム所属タレントかわにしなつきが、近藤夏子書き下ろし楽曲「あくびしてもう一回」をリリースし、ミュージックビデオも公開した。",
+      "intent": "インフルエンサー業界では、タレントの活動が多角的なIP展開へとシフトしており、楽曲リリースはタレント自身のブランド力向上、ファンエンゲージメントの深化、そして新たなマネタイズ機会創出を目指す動きと推察される。アソビシステムは音楽やファッション領域に強みを持つため、タレントの音楽活動を支援することで差別化を図っていると考えられる。",
+      "impact": "このニュースは、所属タレントのIPを多角的に展開することの重要性を示しており、VAZの「所属タレントのグッズ（IP）」や「アイドルグループ」という注力領域と強く関連する。音楽コンテンツはファンのエンゲージメントを高め、IP価値を向上させる強力な手段となるため、VAZもアイドルプロジェクトや既存タレントのIP強化において音楽活動を積極的に展開すべきだ。",
+      "agenda": "アイドルプロジェクトにおける楽曲・MV制作戦略を具体化し、既存タレントのIP強化に向けた音楽コンテンツ展開の可能性を検討すべきではないか？",
+      "summary": "アソビシステム所属タレントが楽曲とMVをリリース、IP強化へ",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 935,
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、「KURU KURU HARAJUKU」MV公開 田向潤と15周年イヤーの幕開けを飾る - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fT0drRXdpbC1GOVBCMkV5N3RsaV9iX3VoRlp4UkR4dFhqU2h0S1hEZ1dKRkVIWUsyT0IzVmszMU1FcHFXQ0dINUJkZ1FtSlZRR1ZOQnlKajdPMEFZUnNTLUZlUjRYVDhPc0E?oc=5",
+      "totalScore": 14.5,
+      "tags": [
+        "#自社IP・グッズ",
+        "#コンテンツ制作",
+        "#タレント発掘・育成"
+      ],
+      "fact": "アソビシステム所属のきゃりーぱみゅぱみゅが15周年イヤーの幕開けとして新曲「KURU KURU HARAJUKU」のMVを公開した。",
+      "intent": "アソビシステムはきゃりーぱみゅぱみゅという世界的に認知されたアーティストIPを長期的に育成し、ブランド価値を維持・向上させている。15周年という節目に新コンテンツを投入することで、既存ファンのエンゲージメントを深め、新たなファン層へのリーチを図り、IPの市場価値と鮮度を保つ戦略と考えられる。これは短期的な人気に依存しがちな業界において、強力なIPを継続的に成長させるアソビシステムの強みを示している。",
+      "impact": "VAZが注力する「アイドルグループ」の育成や「所属タレントのグッズ（IP）」戦略において、アソビシステムの長期的なIP育成・コンテンツ制作戦略は重要なベンチマークとなる。きゃりーぱみゅぱみゅのような強力なIPによる高品質なMVは、VAZの強みである「コンテンツ制作力」をさらに磨き、将来的に育成するアイドルグループやクリエイターのIP価値を高める上で参考になる。長期的なブランド力維持とファン獲得の視点はVAZの注力領域に直接影響を与える。",
+      "agenda": "VAZの注力するアイドルプロジェクトやタレントIPグッズにおいて、アソビシステムのような強力なIPを長期的に育成し、ブランド価値を最大化するためのコンテンツ制作・ファンエンゲージメント戦略をどう確立すべきか？",
+      "summary": "アソビシステム、きゃりーぱみゅぱみゅ15周年MVでIP戦略強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 936,
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "JUICYJUICY、眩しくて甘酸っぱい夏の恋を描いた「太陽LOVER」配信<b>リリース</b> - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000833.000017258.html",
+      "totalScore": 16.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#タレント発掘・育成",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステムが2021年オーディションから誕生した平均年齢15歳のダンス＆ボーカルユニットJUICYJUICYが、夏曲「太陽LOVER」を配信リリースした。",
+      "intent": "アソビシステムは、早くから原宿カルチャーを背景に若年層タレントの発掘・育成に強みを持つ企業であり、地方（沖縄）でのオーディション開催とローカルに根差したユニット活動を通じて、新たなZ世代層のファン獲得とIP育成を継続的に行っている。これは、若年層の多様な才能を掘り起こし、特定のコミュニティと結びつけることで持続的なファンベースを構築する戦略の一環と推察される。",
+      "impact": "VAZが2026年注力領域とする「アイドルグループ」育成において、競合アソビシステムの地方オーディションからのユニット組成、ティーンエイジャーをターゲットとした楽曲リリース戦略は直接的なベンチマークとなりうる。特に、平均年齢15歳という若年層をターゲットにしたIP開発と活動展開は、VAZの強みであるZ世代・若年層へのリーチ力と高い親和性があり、「所属タレントのグッズ（IP）」展開にも繋がる可能性を示唆している。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、特定地域でのオーディションや若年層ユニット育成モデルの導入、そしてその後のIPグッズ化を見据えた戦略をどのように構築すべきか？",
+      "summary": "アソビシステム、若年層ユニットが夏曲リリース。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 937,
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>のクリエイター28名が集結！『Akaku展』が9月1日より原宿で開催",
+      "url": "https://news.livedoor.com/topics/detail/31903578/",
+      "totalScore": 11.5,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステムは、所属クリエイター28名が参加する『Akaku展』を9月1日から原宿で開催する。",
+      "intent": "競合であるアソビシステムは、単なる広告案件だけでなく、所属クリエイターの創作活動を支援することで、彼らのアーティスト性やブランド価値を向上させ、ファンとの深いエンゲージメント構築を目指している。これは、クリエイター自身のIP価値を高め、将来的なグッズ販売や多角的なコンテンツ展開に繋がる布石であり、インフルエンサーマーケティングの成熟に伴う新たな収益源確保の動きと解釈できる。",
+      "impact": "本ニュースは、VAZが2026年注力領域とする「所属タレントのグッズ（IP）」および「インフルエンサーネットワーク」の強化に直接関連する。競合がリアルイベントを通じてクリエイターのIP価値向上とファンエンゲージメント強化を図る動きは、VAZが持つ「所属インフルエンサーを起点としたコンテンツ制作力」や「Z世代・若年層へのリーチ力」を活かし、デジタルだけでなくオフラインでのIP展開を検討する上で重要な示唆を与える。",
+      "agenda": "VAZは、所属クリエイターの創作活動を支援するリアルイベントを企画し、IP価値向上とファンエンゲージメント強化にどう繋げるべきか？",
+      "summary": "アソビシステム、所属クリエイター28名の作品展開催",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 938,
+      "date": "2026-07-24",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、「KURU KURU HARAJUKU」MV公開 田向潤と15周年イヤーの幕開けを ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000836.000017258.html",
+      "totalScore": 13,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のきゃりーぱみゅぱみゅが、新曲「KURU KURU HARAJUKU」のミュージックビデオを公開し、映像監督・田向潤と15周年イヤーを開始した。",
+      "intent": "アソビシステムは原宿カルチャーを基盤に強力なIPを育成しており、長期的な人気アーティストとのパートナーシップ（映像監督との継続的な共作）は、IPの価値を安定的に高め、ファンエンゲージメントを維持するための戦略的投資である。",
+      "impact": "このニュースは、競合アソビシステムが強力なIPを継続的なコンテンツ発信で維持していることを示す。VAZの2026年注力領域である「所属タレントのグッズ（IP）」や「アイドルグループ」において、きゃりーぱみゅぱみゅのような長寿IPの育成と価値最大化、継続的なコンテンツ制作戦略、そしてクリエイティブパートナーとの協業体制は、VAZが学ぶべき点が多い。",
+      "agenda": "VAZは、アイドルプロジェクトやIP育成において、長期的なファンエンゲージメントを維持するコンテンツ戦略と外部クリエイターとの協業体制をどのように構築すべきか？",
+      "summary": "きゃりーぱみゅぱみゅMV公開で15周年イヤー幕開け",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 939,
+      "date": "2026-07-24",
+      "company": "Macbee Planet",
+      "title": "MAVEL、デジタル広告の掲載品質に関するJICDAQ認証を継続取得 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19578604?news_ref=watch_20_nw18970014",
+      "totalScore": 10,
+      "tags": [
+        "#広告主動向",
+        "#新規マネタイズ事業",
+        "#規制・法令"
+      ],
+      "fact": "Macbee Planetの子会社MAVELがデジタル広告の掲載品質に関するJICDAQ認証を継続して取得した。",
+      "intent": "デジタル広告業界ではアドフラウドやブランドセーフティが課題であり、広告主は透明性と品質に高い関心を寄せる。MAVELがJICDAQ認証を継続した背景には、広告主からの信頼維持・向上と競争優位性確立の意図がある。特にインフルエンサーマーケティングは「広告っぽくない」強みを持つ一方で、広告表示の明確性や品質管理の重要性が増しており、第三者認証は安全な広告運用を求める広告主にとって重要な指標となる。",
+      "impact": "本ニュースは、デジタル広告、特にインフルエンサーマーケティングを含む領域において、広告の掲載品質と透明性が業界全体の重要課題であることを示唆する。VAZは「広告っぽくない」コンテンツを強みとしつつも、アカウントDivで広告案件を扱う以上、広告主からの信頼獲得は不可欠だ。競合が第三者認証で品質保証をアピールすることは、VAZが案件獲得競争において、同様の品質保証や透明性確保への取り組みを求められる可能性を高める。VAZの注力領域であるTikTokショップや美容UGC生成も、最終的には広告として機能するため、その品質や透明性はブランド毀損を防ぎ、持続的な収益に繋がる重要な要素となる。",
+      "agenda": "VAZのアカウントDivは、競合が第三者認証で品質を保証する中で、いかにして広告主への信頼性と透明性を高め、差別化を図るべきか？",
+      "summary": "MAVELがJICDAQ認証継続で広告品質を保証",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 940,
+      "date": "2026-07-22",
+      "company": "脅威の兆候",
+      "title": "「これダンス？性行為じゃん」発言で<b>炎上</b>のAIKI、大バズり中のATEEZ『BAD』ダンスを披露",
+      "url": "https://www.rbbtoday.com/article/2026/07/22/250960.html",
+      "totalScore": 11.5,
+      "tags": [
+        "#炎上・リスク",
+        "#コンテンツ制作",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "「性行為発言」で炎上したAIKIが、Instagramで大バズり中のATEEZのダンスを披露し、絶賛コメントを集めている。",
+      "intent": "AIKIは過去の炎上によるネガティブイメージを払拭するため、K-POPという時流に乗ったハイクオリティなダンスコンテンツでSNS上のポジティブな注目を集めようとした意図が考えられる。これは、SNS上で瞬時に炎上と再評価が起こり得る現代において、炎上後のイメージ回復やエンゲージメント再獲得のための一つの戦略として機能している。",
+      "impact": "VAZにとってこの事例は、所属タレントの炎上リスク管理に加え、「コンテンツ制作力」を活用したイメージリカバリーの可能性を示唆する。特にVAZが注力する「アイドルグループ」や「Z世代・若年層へのリーチ力」を考慮すると、K-POPトレンドと親和性の高いコンテンツ制作が、炎上からの回復や新たなファン獲得に繋がり得ることを示している。",
+      "agenda": "所属タレントの炎上発生時、K-POPダンスチャレンジのようなトレンドコンテンツを活用した効果的なイメージ回復戦略をどのように構築すべきか？",
+      "summary": "炎上後のK-POPダンスでAIKIが再バズり",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 941,
+      "date": "2026-07-22",
+      "company": "脅威の兆候",
+      "title": "ヒカル、「オープンマリッジ」は「世の金持ちを代弁」のつもりが...「大<b>炎上</b>」 現在は考え方改め ...",
+      "url": "https://news.yahoo.co.jp/articles/ff6ff42de9314f8c81ab7751e3614d92a196c22e",
+      "totalScore": 12.5,
+      "tags": [
+        "#炎上・リスク",
+        "#コンテンツ制作",
+        "#タイアップ案件"
+      ],
+      "fact": "人気YouTuberヒカルが過去に宣言した「オープンマリッジ」について、現在は「良くない」と考えを改めたことをYouTube動画で明かした。",
+      "intent": "トップインフルエンサーの個人的な言動は社会的な波紋を呼びやすく、ときに「炎上」という形でそのブランド価値や信頼性を大きく損ねるリスクを常に抱えている。これはインフルエンサーを起用する企業やマネジメント会社のリスクにも直結し、VAZのようなマネジメント会社はタレントのプライベートな言動に対するリスク管理の難しさと重要性を認識する必要がある。",
+      "impact": "このニュースは、VAZのインフルエンサーマネジメント事業において、タレントの個人的な言動が引き起こす炎上リスクと、それに対するリスクヘッジの重要性を浮き彫りにする。VAZの強みである「広告っぽくないSNSコンテンツ制作」はインフルエンサーの信頼性と密接に関わるため、炎上はコンテンツ価値を損ね、VAZの注力領域である「タレントIPグッズ」や「アイドルグループ」のイメージ戦略に直接的な影響を与える可能性がある。また、企業がインフルエンサーを起用する際の審査基準が厳格化する可能性があり、アカウントDivのタイアップ案件獲得にも影響しうる。",
+      "agenda": "所属タレントの個人的な言動に対するリスク管理体制をどのように強化し、VAZのブランド価値毀損を未然に防ぐべきか？",
+      "summary": "ヒカル炎上事例からインフルエンサーリスク管理の重要性が浮上",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -63679,8 +64718,8 @@
   ],
   "home": {
     "monthLabel": "2026年7月",
-    "thisMonthNewsCount": 1096,
-    "thisMonthAnalysisCount": 283,
+    "thisMonthNewsCount": 1155,
+    "thisMonthAnalysisCount": 295,
     "highlights": [
       {
         "id": 0,
@@ -63722,22 +64761,22 @@
       },
       {
         "id": 2,
-        "date": "2026-07-01",
-        "company": "業界トレンド",
-        "title": "東証グロース上場の株式会社Birdman、クリエイターマネジメント事務所「Birdman Enterprise」を ...",
-        "url": "https://entamerush.jp/697794/amp/",
-        "totalScore": 21,
+        "date": "2026-07-25",
+        "company": "アソビシステム",
+        "title": "CUTIE STREETが韓国で大バズり！「私たちの“KAWAII”は信じていいんだ ... - 日テレNEWS NNN",
+        "url": "https://news.ntv.co.jp/category/culture/42cb15e114ae45b8b6ef8fe802a1d15d",
+        "totalScore": 21.25,
         "tags": [
-          "#タレント発掘・育成",
-          "#プラットフォーム動向",
-          "#新規マネタイズ事業"
+          "#アイドル・ファンビジネス",
+          "#自社IP・グッズ",
+          "#コンテンツ制作"
         ],
-        "fact": "東証グロース上場のBirdmanが、TikTok LIVEトップライバーを中核とするクリエイターマネジメント事務所「Birdman Enterprise」を設立し、ライバーおよび次世代クリエイターの育成・マネジメント事業を開始した。",
-        "intent": "Birdmanは上場企業としての資金力とマーケティング戦略を活用し、成長著しいライブ配信市場、特にTikTok LIVEにおけるクリエイターエコノミーの可能性に着目。トップライバーを経営層に迎え、現場知見と企業リソースを融合させることで、クリエイターの持続可能なキャリア構築とライブ配信の新たな価値創造を狙う。VAZ視点では、上場企業による参入は、タレント獲得競争の激化や、ライブコマース・ファンビジネス領域における競合の強化を意味する。",
-        "impact": "本ニュースは、VAZの「タレント軸」と「マーケティング軸」の両方に直接的な影響を与える。Birdman EnterpriseがTikTok LIVEに特化しクリエイター育成を行うことは、VAZの「TikTokショップ」や「インフルエンサーネットワーク」において強力な競合となり、特に「女性向けレーベルLustar」はVAZの「美容UGC生成」とターゲットが重なり競争激化は避けられない。上場企業の参入により業界全体の競争が激化し、クリエイター報酬水準やサポート体制の高度化が求められ、VAZはライブ配信領域での専門性強化や新たな価値提供を早急に検討する必要がある。",
-        "agenda": "VAZはTikTokライブコマースやファンビジネス領域における競争優位性を確立するため、既存クリエイターのライブ配信スキル強化と新規ライバー育成戦略をどのように展開すべきか？",
-        "summary": "東証グロース上場BirdmanがTikTokライブ特化のクリエイター事務所を設立",
-        "axis": "両方"
+        "fact": "競合アソビシステム所属の8人組アイドルグループCUTIE STREETが、デビュー曲で韓国にて大ヒットし、海外からも注目を集めている。",
+        "intent": "K-POP人気の高まりや、SNSプラットフォームを通じたコンテンツの国境を越えた拡散力が背景にあると推測される。アソビシステムは、日本の「KAWAII」文化をグローバルに通用するIPとして戦略的に展開し、SNSを駆使したプロモーションでファンベース拡大を狙ったと考えられる。",
+        "impact": "VAZの2026年注力領域である「アイドルグループ」において、競合が海外で成功を収めていることは、グローバル展開の重要性を示す。特に「タレントIPグッズ」の海外市場での可能性や、インフルエンサーネットワークを活用した国際的なプロモーション戦略の再考が求められる。",
+        "agenda": "自社アイドルプロジェクトで海外でのバズをいかに創出し、グローバルIPとして「アイドルグループ」および「タレントIPグッズ」展開を加速させるか？",
+        "summary": "アソビシステムのアイドルが韓国でバズり海外展開成功",
+        "axis": "タレント軸"
       }
     ],
     "ranking": [
@@ -63748,8 +64787,8 @@
       },
       {
         "company": "アソビシステム",
-        "totalScore": 3537.5,
-        "count": 211
+        "totalScore": 3664.75,
+        "count": 219
       },
       {
         "company": "トレンダーズ",
@@ -63763,8 +64802,8 @@
       },
       {
         "company": "脅威の兆候",
-        "totalScore": 696.5,
-        "count": 51
+        "totalScore": 720.5,
+        "count": 53
       },
       {
         "company": "株式会社Natee",
@@ -63773,13 +64812,13 @@
       },
       {
         "company": "TORIHADA",
-        "totalScore": 663.6700000000001,
-        "count": 44
+        "totalScore": 676.4200000000001,
+        "count": 45
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 637.6700000000001,
-        "count": 50
+        "totalScore": 647.6700000000001,
+        "count": 51
       },
       {
         "company": "GROVE株式会社",
@@ -63790,23 +64829,23 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 444
+        "count": 445
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 336
+        "count": 345
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 329
+        "count": 336
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 295
+        "count": 302
       },
       {
         "tag": "#広告主動向",
-        "count": 209
+        "count": 211
       },
       {
         "tag": "#プラットフォーム動向",
@@ -63818,7 +64857,7 @@
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 153
+        "count": 156
       },
       {
         "tag": "#プランニング・企画",
@@ -63826,13 +64865,13 @@
       },
       {
         "tag": "#タイアップ案件",
-        "count": 106
+        "count": 108
       }
     ],
     "axisCounts": {
-      "タレント軸": 310,
-      "マーケティング軸": 294,
-      "両方": 308,
+      "タレント軸": 319,
+      "マーケティング軸": 296,
+      "両方": 309,
       "業界全般": 17
     },
     "tagMaster": {
