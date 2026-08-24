@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-08-23T00:31:24.526Z",
-    "generatedAtJst": "2026-08-23 09:31:24",
-    "totalNews": 4531,
-    "totalAnalyses": 1312,
+    "generatedAt": "2026-08-24T00:31:26.673Z",
+    "generatedAtJst": "2026-08-24 09:31:26",
+    "totalNews": 4567,
+    "totalAnalyses": 1328,
     "totalCompetitors": 7
   },
   "news": [
@@ -34709,7 +34709,7 @@
       "company": "業界トレンド",
       "title": "縦型<b>ショートドラマ</b>「Chat Boy」 - AERA DIGITAL（アエラデジタル） - 朝日新聞",
       "url": "https://dot.asahi.com/list/tag/%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%80%8CChat%20Boy%E3%80%8D",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -34765,7 +34765,7 @@
       "company": "業界トレンド",
       "title": "歌い手 天月、10年所属した<b>事務所</b>から独立 CRとホーリーピークには引き続き所属 - KAI-YOU.net",
       "url": "https://kai-you.net/article/96283",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -34773,7 +34773,7 @@
       "company": "業界トレンド",
       "title": "【開催報告】UUUM株式会社 梅景匡之氏が登壇。歩んできた経歴と動画ビジネスの最前線",
       "url": "https://news.nicovideo.jp/watch/nw19674541?news_ref=20_20",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -34781,7 +34781,7 @@
       "company": "業界トレンド",
       "title": "加藤清史郎“三井”＆駿河太郎“吉見”、吉村界人“亀貝”の<b>事務所</b>に忍び込む＜スピナーベイト",
       "url": "https://news.nicovideo.jp/watch/nw19671418?news_ref=top_newComments",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35237,7 +35237,7 @@
       "company": "業界トレンド",
       "title": "ファッションモデル兄妹ペア「ダンマヤ」活動開始！ - ニコニコニュース",
       "url": "https://news.nicovideo.jp/watch/nw19679416?news_ref=20_20",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35245,7 +35245,7 @@
       "company": "業界トレンド",
       "title": "「脱いでみろ」韓流四天王チャン・ドンゴン、“上半身裸”でモデル試験?!デビュー秘話を公開",
       "url": "https://www.rbbtoday.com/article/2026/08/19/252172.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35253,7 +35253,7 @@
       "company": "業界トレンド",
       "title": "[岐阜]「君が紡ぐPrimal Stories」出演者募集 - オーディションプラス",
       "url": "https://audition.nerim.info/audition-202609/audition-2026081824.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35261,7 +35261,7 @@
       "company": "業界トレンド",
       "title": "【ライブ×ダンス】新田恵海「LIVE 2026 Dance! Dance!! EMUSIC  」キービジュアル初公開！8月 ...",
       "url": "https://mainichikirei.jp/prtimes/article/20260819prt00m100000180a.html",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -35269,7 +35269,7 @@
       "company": "業界トレンド",
       "title": "「すみっコぐらし×あっとほぉーむカフェ」名古屋大須本店での追加開催が決定！",
       "url": "https://mainichikirei.jp/prtimes/article/20260819prt00m100000182a.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35317,7 +35317,7 @@
       "company": "脅威の兆候",
       "title": "会計業界に特化した国内最大級の総合展示会「会計<b>事務所</b>博覧会2026」へ出展",
       "url": "https://news.nicovideo.jp/watch/nw19678098?news_ref=watch_20_nw19143001",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35357,7 +35357,7 @@
       "company": "脅威の兆候",
       "title": "「バゲットtoi」 - 品川経済新聞",
       "url": "https://shinagawa.keizai.biz/photoflash/10144/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35365,7 +35365,7 @@
       "company": "脅威の兆候",
       "title": "「はち切れそう」172cm美女<b>インフルエンサー</b>、ビーチでサービスショットに反響「爆モテし ...",
       "url": "https://news.nicovideo.jp/watch/nw19679054?news_ref=watch_50_nw19661993",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35373,7 +35373,7 @@
       "company": "脅威の兆候",
       "title": "ヒロシ「焚き火台パクリ」告発に「待った」かかったワケ（2/2ページ） - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20260819-IWHGKI67K5CX5OJOR7V4XYNKBM/2/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -35381,7 +35381,7 @@
       "company": "脅威の兆候",
       "title": "「ラヴ上等2」出演ホストの「知り合い」名乗るアカウントから<b>インフルエンサー</b>に「脅迫 ...",
       "url": "https://news.yahoo.co.jp/articles/eb30cbb38cea4f7c0134dc475b35ce2aab15c65c",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36253,6 +36253,294 @@
       "company": "脅威の兆候",
       "title": "『マツコの知らない世界』婚活回で「年収 5000万希望」発言の<b>インフルエンサー</b>が<b>炎上</b>…“推定 K ...",
       "url": "https://news.yahoo.co.jp/articles/6bccb660b3b2f4fc4c8881b09c4ea51759a56a37",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2016-07-01",
+      "company": "GROVE株式会社",
+      "title": "資金調達実施のお知らせ | GROVE株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GLUdBcHlPakJabUxKUnpEcl9vb1ZqSElUNjd0VGs2b202MWdRdzdOYklzaTl6OFdQdjF0S3pwTFV3czYxajVsYXJSVm5zQmdmWjE5RGVNOXdBTnZOdXhiQm1KcS1wQkNaUkE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅがデビュー15周年イベント「PAMYU FES」開催 MONGOL800、氣志團、木村カエラ、新しい学校のリーダーズ、FRUITS ZIPPERが周年を祝福5年ぶりとなる - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SMWlhNjNzRF9MUXJiSzF2NjkxZlNMZ2lNOGlmaWJ2UkctSHNKUmdVMlp5aWs0aHpWOGpCeXZ5cDJreHJKdk5NdE4yT1ZQU09yVk16aWtlblpFVVdqM0pTWW9mdmZib19pbWc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "log you、自己肯定ソング「大天才フェスティバル」を配信リリース 11月にデビュー1周年公演開催決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YcU1pQnNRRUVwZXlPTGFLbUxFekpBVWlUYTBmNndmeGpocjhnZXM1ak1mdmxXZHRjeDJBRm0xZDJTMUZfQ0l1aTRaR0VmNzMxUmVTNW91aDJWTHdqNmJFc1VPRk5MOTFKVHc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2024-07-05",
+      "company": "株式会社Natee",
+      "title": "Nateeが運営するクリエイター事務所「WOWs」の「ウンパルンパ」3Dアバターを利用したデジタル広告制作サービス「AVATORS（アバターズ）」に追加！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1OGFDQ2V4LXdWZ3duZWtyMkhMazdPUDBMTVNCbkxraGtkTGxBbzdMUU1PVUNMX05WRDB4ZjJpd202QXdrMXJwMl9QcWJhRk12al9DdURxTWdfLWUySTZnbFpwOU9BUWdCbnc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅがデビュー15周年イベント「PAMYU FES」開催 MONGOL800、氣志團",
+      "url": "https://prtimes.jp/main/html/rd/p/000000863.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "log you、自己肯定ソング「大天才フェスティバル」を配信<b>リリース</b> 11月にデビュー1周年<b>公演</b>開催 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000862.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>19周年『ASOBIEXPO 2026』に88組集結 きゃりー、新しい学校のリーダーズ",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2677518",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "アソビシステム",
+      "title": "CANDY TUNEはうれし涙もカラフル、アートワークで“圧倒的感謝”を表現 | JOYSOUND 音楽 ...",
+      "url": "https://news.joysound.com/article/686259",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "アソビシステム",
+      "title": "CANDY TUNE 4thシングルCDのジャケット解禁 表題曲となる<b>新曲</b>「総意(ハート)So",
+      "url": "https://news.nicovideo.jp/watch/nw19689221?news_ref=watch_20_nw5683553",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "西野亮廣、“ゆうこす”菅本裕子の成長にしみじみ ライバーにアドバイスも「応援疲れさせないこと ...",
+      "url": "https://www.oricon.co.jp/news/2475595/full/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "【明日の好悪材料】を開示情報でチェック！ (8月21日発表分) - 株探",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608230039",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "西野亮廣、“ゆうこす”菅本裕子の成長にしみじみ ライバーにアドバイスも「応援疲れさせないこと ...",
+      "url": "https://www.oricon.co.jp/news/2475595/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "ナチュラルコスメ<b>市場</b>の規模とシェア：2026年から2033年までの14.3%の年間成長率 - Pando",
+      "url": "https://pando.life/article/4569085",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "ソーシャルワイヤー、1Q営業利益96％増 <b>インフルエンサー</b>PRがけん引しM&amp;Aで事業構造を転換",
+      "url": "https://media-innovation.jp/article/2026/08/23/143665.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "アニメーター等育成支援「現代版トキワ荘」、第1期生がプロトタイプ発表会を9月開催",
+      "url": "https://branc.jp/article/img/2026/08/22/3028/13551.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>映画撮影監督協会、「CQ : Academy Class 2026」第1回・第2回の受講者募集を受付中",
+      "url": "https://article.auone.jp/49bb4e22-391a-401a-82e5-4069cd5253f1",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "森山未唯＆小林ゆあ、イベント登場 | 朝日新聞デジタルマガジン＆[and]",
+      "url": "https://www.asahi.com/and/entertainment/16828707",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "第72弾 凌渊(男主)×池渔(女主)シリーズ | 中国縦型<b>ショートドラマ</b>限定！俳優&amp;女優図鑑",
+      "url": "https://ameblo.jp/ich-lovecnshortdrama/entry-12976516162.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "ヒラカワ サホさんの『隣人ガチャ 娘が危険に晒されている』がBookLiveの<b>ショートドラマ</b>アプリ ...",
+      "url": "https://www.tokiwa-so.net/news/23063",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "ヒット作「最弱無敗の転校生」などが全話無料！ SWIPEDRAMA2周年記念で新作も一挙発表",
+      "url": "https://news.yahoo.co.jp/articles/ff20376361ddefa39b5980f0282ef85e27ab3d27/images/002",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "<b>ＴｉｋＴｏｋ</b>が和解金４億ドル支払いへ :主要 - 福島民友新聞社",
+      "url": "https://www.minyu-net.com/newspack/detail/2026082201000305",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>が約636億円支払いで和解へ 子どものプライバシー違法侵害で米司法省が訴え 同様の ...",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2889949",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>が米司法省と和解、13歳未満の保護不備で636億円を支払いへ - ライブドアニュース",
+      "url": "https://news.livedoor.com/topics/detail/32129591/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>人の移住90年式典出席 秋篠宮ご夫妻、パラグアイ | チバテレ＋プラス",
+      "url": "https://www.chiba-tv.com/plus/detail/2026081927146",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "【写真】「<b>TikTok</b> TOHO Film Festival 2024」グランプリ受賞記念作品『豚の真珠』を本日公開 ...",
+      "url": "https://mantan-web.jp/prtimes/article/20260821prt00m200000429a/photopage/001.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "近藤亮太ほか各界著名人の“体験”コメントが続々！本編映像も（MOVIE WALKER PRESS）",
+      "url": "https://topics.smt.docomo.ne.jp/article/moviewalker/entertainment/moviewalker-1434840",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "【2026年最新】センイル広告OKな<b>事務所</b>5選。にじさんじ・ホロライブ・BMSG徹底比較 | 推し通信",
+      "url": "https://xs730765.xsrv.jp/birthday-ad-guidelines-nijisanji-hololive-bmsg/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "ソーシャルワイヤー、1Q営業利益96％増 <b>インフルエンサー</b>PRがけん引しM&amp;Aで事業構造を転換 1 ...",
+      "url": "https://media-innovation.jp/article/img/2026/08/23/143665/27773.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "業界トレンド",
+      "title": "QQz、てんちむプロデュースの新作ランジェリーを発売 500円引きなど特典",
+      "url": "https://netkeizai.com/articles/detail/19631",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "業界トレンド",
+      "title": "Z世代の84%が「恋愛したい」、一方34%は交際経験ゼロ。理想の出会いは「学校・職場など自然 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000104461.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "脅威の兆候",
+      "title": "新婚の女優ムン・グニョンが“9年ぶり”にスクリーン復帰！ヨン・サンホ監督とタッグを組む！",
+      "url": "https://trilltrill.jp/articles/4959018",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "脅威の兆候",
+      "title": "ケネス・テイラーとジェイド・アンナが大きな決断「とてつもなく大きな悲しみをもたらす」 - DAZN",
+      "url": "https://www.dazn.com/ja-JP/news/%E3%81%9D%E3%81%AE%E4%BB%96/%E3%82%B1%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%81%A8%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%8A%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%AA%E6%B1%BA%E6%96%AD%E3%80%8C%E3%81%A8%E3%81%A6%E3%81%A4%E3%82%82%E3%81%AA%E3%81%8F%E5%A4%A7%E3%81%8D%E3%81%AA%E6%82%B2%E3%81%97%E3%81%BF%E3%82%92%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E3%80%8D/1n3m3x7bw3epw10ntmuprhnuvk",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "脅威の兆候",
+      "title": "「お前のママ、<b>炎上</b>してるよ」家庭の幸福度が戦闘力のように数字で可視化される時代の悲劇 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/lettuceclub/life/lettuceclub-1400007",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "脅威の兆候",
+      "title": "「もう買わない」人気セレブ起用で人気ブランドに批判殺到「なぜ彼女？」（COORDiSNAP）",
+      "url": "https://topics.smt.docomo.ne.jp/article/coordisnap_fn/trend/coordisnap_fn-594f30a1001aedbd24ebd4c6822e87f9f341fc4f",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "脅威の兆候",
+      "title": "全員39歳「ふぉ～ゆ～」念願CDデビュー！コスパ真逆でも「anan」表紙の快進撃（写真・画像 1/1）",
+      "url": "https://www.zakzak.co.jp/article/20260822-HATBVNZX2JD2RDLGSDG7ZDUFIE/photo/O5MBYHTVAFNTTIHEYYA2KT42EU/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "脅威の兆候",
+      "title": "法務省コラボ中止でMEGUMI窮地か！『ラヴ上等』<b>炎上</b>でアウトロー系番組に潮目（写真・画像 1 ...",
+      "url": "https://www.zakzak.co.jp/article/20260821-EZPA6ASGPBGDFDMLPOFXQKGRXQ/photo/YH2WVVBZJRHZBIFN7WIHFQPRT4/",
       "status": "未処理"
     }
   ],
@@ -67315,6 +67603,346 @@
         "benchmark": 4
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅがデビュー15周年イベント「PAMYU FES」開催 MONGOL800、氣志團、木村カエラ、新しい学校のリーダーズ、FRUITS ZIPPERが周年を祝福5年ぶりとなる - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SMWlhNjNzRF9MUXJiSzF2NjkxZlNMZ2lNOGlmaWJ2UkctSHNKUmdVMlp5aWs0aHpWOGpCeXZ5cDJreHJKdk5NdE4yT1ZQU09yVk16aWtlblpFVVdqM0pTWW9mdmZib19pbWc?oc=5",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "log you、自己肯定ソング「大天才フェスティバル」を配信リリース 11月にデビュー1周年公演開催決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YcU1pQnNRRUVwZXlPTGFLbUxFekpBVWlUYTBmNndmeGpocjhnZXM1ak1mdmxXZHRjeDJBRm0xZDJTMUZfQ0l1aTRaR0VmNzMxUmVTNW91aDJWTHdqNmJFc1VPRk5MOTFKVHc?oc=5",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅがデビュー15周年イベント「PAMYU FES」開催 MONGOL800、氣志團",
+      "url": "https://prtimes.jp/main/html/rd/p/000000863.000017258.html",
+      "totalScore": 13.75,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "log you、自己肯定ソング「大天才フェスティバル」を配信<b>リリース</b> 11月にデビュー1周年<b>公演</b>開催 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000862.000017258.html",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>19周年『ASOBIEXPO 2026』に88組集結 きゃりー、新しい学校のリーダーズ",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2677518",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "アソビシステム",
+      "title": "CANDY TUNEはうれし涙もカラフル、アートワークで“圧倒的感謝”を表現 | JOYSOUND 音楽 ...",
+      "url": "https://news.joysound.com/article/686259",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-22",
+      "company": "アソビシステム",
+      "title": "CANDY TUNE 4thシングルCDのジャケット解禁 表題曲となる<b>新曲</b>「総意(ハート)So",
+      "url": "https://news.nicovideo.jp/watch/nw19689221?news_ref=watch_20_nw5683553",
+      "totalScore": 15.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2024-07-05",
+      "company": "株式会社Natee",
+      "title": "Nateeが運営するクリエイター事務所「WOWs」の「ウンパルンパ」3Dアバターを利用したデジタル広告制作サービス「AVATORS（アバターズ）」に追加！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1OGFDQ2V4LXdWZ3duZWtyMkhMazdPUDBMTVNCbkxraGtkTGxBbzdMUU1PVUNMX05WRDB4ZjJpd202QXdrMXJwMl9QcWJhRk12al9DdURxTWdfLWUySTZnbFpwOU9BUWdCbnc?oc=5",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2016-07-01",
+      "company": "GROVE株式会社",
+      "title": "資金調達実施のお知らせ | GROVE株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GLUdBcHlPakJabUxKUnpEcl9vb1ZqSElUNjd0VGs2b202MWdRdzdOYklzaTl6OFdQdjF0S3pwTFV3czYxajVsYXJSVm5zQmdmWjE5RGVNOXdBTnZOdXhiQm1KcS1wQkNaUkE?oc=5",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "ファッションモデル兄妹ペア「ダンマヤ」活動開始！ - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19679416?news_ref=20_20",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "「脱いでみろ」韓流四天王チャン・ドンゴン、“上半身裸”でモデル試験?!デビュー秘話を公開",
+      "url": "https://www.rbbtoday.com/article/2026/08/19/252172.html",
+      "totalScore": 7.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "[岐阜]「君が紡ぐPrimal Stories」出演者募集 - オーディションプラス",
+      "url": "https://audition.nerim.info/audition-202609/audition-2026081824.html",
+      "totalScore": 10.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "「すみっコぐらし×あっとほぉーむカフェ」名古屋大須本店での追加開催が決定！",
+      "url": "https://mainichikirei.jp/prtimes/article/20260819prt00m100000182a.html",
+      "totalScore": 11.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "会計業界に特化した国内最大級の総合展示会「会計<b>事務所</b>博覧会2026」へ出展",
+      "url": "https://news.nicovideo.jp/watch/nw19678098?news_ref=watch_20_nw19143001",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "「バゲットtoi」 - 品川経済新聞",
+      "url": "https://shinagawa.keizai.biz/photoflash/10144/",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "「はち切れそう」172cm美女<b>インフルエンサー</b>、ビーチでサービスショットに反響「爆モテし ...",
+      "url": "https://news.nicovideo.jp/watch/nw19679054?news_ref=watch_50_nw19661993",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "ヒロシ「焚き火台パクリ」告発に「待った」かかったワケ（2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260819-IWHGKI67K5CX5OJOR7V4XYNKBM/2/",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "「ラヴ上等2」出演ホストの「知り合い」名乗るアカウントから<b>インフルエンサー</b>に「脅迫 ...",
+      "url": "https://news.yahoo.co.jp/articles/eb30cbb38cea4f7c0134dc475b35ce2aab15c65c",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-18",
+      "company": "業界トレンド",
+      "title": "縦型<b>ショートドラマ</b>「Chat Boy」 - AERA DIGITAL（アエラデジタル） - 朝日新聞",
+      "url": "https://dot.asahi.com/list/tag/%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%80%8CChat%20Boy%E3%80%8D",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-08-18",
+      "company": "業界トレンド",
+      "title": "加藤清史郎“三井”＆駿河太郎“吉見”、吉村界人“亀貝”の<b>事務所</b>に忍び込む＜スピナーベイト",
+      "url": "https://news.nicovideo.jp/watch/nw19671418?news_ref=top_newComments",
+      "totalScore": 9.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
     }
   ],
   "analyses": [
@@ -92060,6 +92688,307 @@
       "agenda": "TikTok Shopのリピート型消費行動定着を踏まえ、所属タレントの「IPグッズ」や「美容UGC生成」と連動させた中長期的なTikTok Shop戦略をどのように強化し、先行者利益を最大化すべきか？",
       "summary": "TikTok Shopが定着しリピート購入が拡大",
       "axis": "両方"
+    },
+    {
+      "id": 1312,
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅがデビュー15周年イベント「PAMYU FES」開催 MONGOL800、氣志團、木村カエラ、新しい学校のリーダーズ、FRUITS ZIPPERが周年を祝福5年ぶりとなる - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SMWlhNjNzRF9MUXJiSzF2NjkxZlNMZ2lNOGlmaWJ2UkctSHNKUmdVMlp5aWs0aHpWOGpCeXZ5cDJreHJKdk5NdE4yT1ZQU09yVk16aWtlblpFVVdqM0pTWW9mdmZib19pbWc?oc=5",
+      "totalScore": 18,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のきゃりーぱみゅぱみゅがデビュー15周年を記念し、MONGOL800、氣志團、木村カエラ、新しい学校のリーダーズ、FRUITS ZIPPERなど豪華アーティストを招き「PAMYU FES」を5年ぶりに開催する。",
+      "intent": "アソビシステムは、きゃりーぱみゅぱみゅという強力なIPを長年にわたりマネジメントし、その価値を最大化する戦略を継続している。今回の15周年イベントは、過去のヒット曲やカルチャーアイコンとしての地位を再確認させるとともに、Z世代に人気のグループを巻き込むことで、幅広い層へのリーチとIPの鮮度維持を図り、ファンエンゲージメントを強化し、IPを軸とした多様な収益機会を創出する意図がある。",
+      "impact": "このニュースは、VAZの「所属タレントのグッズ（IP）」や「アイドルグループ」という2026年注力領域に強く関連する。アソビシステムの長期的なIP育成と大規模なファンエンゲージメント施策は、VAZのアイドルプロジェクトやIPグッズ展開にとってベンチマークとなる。特に、複数の人気アーティストを巻き込んだフェス形式でのIPプロモーションは、単一タレントのイベントを超えた波及効果を生み出し、VAZが目指す「インフルエンサーネットワーク」構築の参考となるだろう。",
+      "agenda": "自社アイドルグループや所属タレントのIP育成において、アソビシステムのように長期的な視点でブランド価値を高め、多様なアーティストを巻き込んだ大規模イベントを企画するには、どのような戦略とパートナーシップが必要か？",
+      "summary": "きゃりーぱみゅぱみゅが豪華アーティストと15周年FES開催",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1313,
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "log you、自己肯定ソング「大天才フェスティバル」を配信リリース 11月にデビュー1周年公演開催決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YcU1pQnNRRUVwZXlPTGFLbUxFekpBVWlUYTBmNndmeGpocjhnZXM1ak1mdmxXZHRjeDJBRm0xZDJTMUZfQ0l1aTRaR0VmNzMxUmVTNW91aDJWTHdqNmJFc1VPRk5MOTFKVHc?oc=5",
+      "totalScore": 17,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のユニットlog youが自己肯定ソングを配信リリースし、11月にデビュー1周年公演を開催することが決定した。",
+      "intent": "競合のアソビシステムは、所属ユニット「log you」の音楽活動を通じてIPの多角化とファンエンゲージメント強化を図っている。特にデビュー1周年という節目に公演を行うことで、ファンコミュニティの活性化と熱量向上を狙い、長期的なIP価値向上を目指していると考えられる。これは、単なるインフルエンサー活動に留まらず、タレントのアーティスト性やキャラクター性を深掘りし、マネタイズ機会（グッズ、ライブチケットなど）を創出する戦略の一環。VAZが注力する「アイドルプロジェクト」や「所属タレントのグッズ（IP）」と類似した戦略であり、Z世代・若年層のファンベース構築競争が激化している業界背景がある。",
+      "impact": "本ニュースは、VAZの「アイドルグループ」と「所属タレントのグッズ（IP）」という注力領域に直接的な示唆を与える。競合が音楽活動を軸にIP育成とファンビジネスを強化しており、これはVAZのアイドルプロジェクトやIPグッズ展開における具体的な戦略事例となる。単発的なコンテンツ制作だけでなく、継続的な活動と周年イベントを通じてファンとの関係性を深めるアプローチは、VAZがアイドルプロジェクトで目指すべき方向性の一つと考えられる。また、「自己肯定ソング」のように特定のメッセージ性を持つコンテンツは、VAZの「“広告っぽくない”SNSコンテンツ制作」の強みとも親和性が高く、コンテンツ企画の参考にできる。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、デビュー後のファンエンゲージメントを最大化し、IP価値を高めるための具体的な周年イベント戦略やコンテンツ軸をどう設計すべきか？",
+      "summary": "アソビシステム所属ユニットが楽曲配信と周年公演でIPを強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1314,
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅがデビュー15周年イベント「PAMYU FES」開催 MONGOL800、氣志團",
+      "url": "https://prtimes.jp/main/html/rd/p/000000863.000017258.html",
+      "totalScore": 13.75,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のきゃりーぱみゅぱみゅがデビュー15周年を記念し、ぴあアリーナMMで大規模フェスを開催し、全国ツアーと6thアルバム発売も発表した。",
+      "intent": "競合アソビシステムは、長期的な強力IPであるきゃりーぱみゅぱみゅの価値を最大化し、ファンエンゲージメントを再活性化することで、安定的な収益基盤とブランドイメージを強化する意図がある。周年イベントはファンに継続的な価値を提供し、グッズやコンテンツ販売、新たな層へのリーチへと繋げる重要な施策であり、特に大規模フェスは集客力と話題性を生み出しやすい。",
+      "impact": "本ニュースは、VAZの注力領域である「所属タレントのグッズ（IP）」および「アイドルグループ」にとって重要な示唆を与える。アソビシステムが長期IPを大規模イベントで活用し、複数のアーティストを巻き込むことでIP価値の向上と多様な収益化を図っている点は、VAZが今後アイドルグループや所属クリエイターのIPを育成・活用していく上で参考になる。特にZ世代をターゲットとするVAZにとって、リアルイベントを通じたファンとの直接的な接点創出は、グッズやコンテンツ需要喚起のモデルケースとなる。",
+      "agenda": "VAZのアイドルプロジェクトやタレントIP化において、競合の大規模イベントから学び、ファンエンゲージメントを高める長期的なIP育成・活用戦略をどう具体化し、収益拡大に繋げるか？",
+      "summary": "アソビシステム、きゃりー15周年フェスでIP強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1315,
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "log you、自己肯定ソング「大天才フェスティバル」を配信<b>リリース</b> 11月にデビュー1周年<b>公演</b>開催 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000862.000017258.html",
+      "totalScore": 18,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属の8人組アイドルグループlog youが、12thデジタルシングル「大天才フェスティバル」を2026年8月23日に配信リリースし、11月20日にはデビュー1周年公演『log you 1st ANNIVERSARY LIVE〜 Beyond the log 〜』をZepp Sで開催する。",
+      "intent": "アソビシステムは多様なIP育成・展開戦略の一環として、アイドル事業を継続的に推進しており、log youは既存グループに続く成功例を目指していると考えられる。競合の意図としては、アイドルグループの継続的な楽曲リリースと定期的なライブ公演により、ファンベースの拡大、IP価値の向上、及び収益化を図ることにあり、特に「自己肯定ソング」というメッセージ性はSNS時代の若年層ニーズを捉え、共感を通じてエンゲージメントを高める狙いがある。",
+      "impact": "本ニュースはVAZが2026年注力領域とする「アイドルグループ」および「所属タレントのグッズ（IP）」に直接合致する。競合のアソビシステムがアイドルグループの継続的な活動（楽曲リリース、周年公演）を通じてファンベースの確立・拡大を図っていることは、VAZのアイドルプロジェクト推進におけるベンチマークとなる。特に、若年層に響くメッセージ性のある楽曲を投入するアプローチは、VAZの強みであるZ世代・若年層へのリーチ力と親和性が高く、コンテンツ企画の参考にすべきである。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、競合が若年層の共感を呼ぶメッセージ性のある楽曲を展開しているが、VAZ独自のZ世代へのアプローチやコンテンツ戦略をどう構築すべきか？",
+      "summary": "アソビシステム、アイドルグループの新曲配信と1周年公演を発表",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1316,
+      "date": "2026-08-23",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>19周年『ASOBIEXPO 2026』に88組集結 きゃりー、新しい学校のリーダーズ",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2677518",
+      "totalScore": 15.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#タレント発掘・育成"
+      ],
+      "fact": "アソビシステムは19周年記念イベント『ASOBIEXPO 2026』に、きゃりーぱみゅぱみゅや新しい学校のリーダーズ、FRUITS ZIPPERなど88組の所属タレントを結集させた。",
+      "intent": "アソビシステムは大規模な周年イベントを通じて所属タレントのブランド価値を最大化し、ファンエンゲージメントを深める狙いがある。多数のIPとネットワークの強みを内外に示し、新規ファン獲得やIPビジネス拡大に繋げたい考えだ。インフルエンサー・タレント事務所はタレントの長期的なキャリア形成と収益化が課題であり、大規模イベントはその解決策の一つとなる。",
+      "impact": "直接競合であるアソビシステムによるタレントのIP価値向上とファンエンゲージメント強化は、VAZの「アイドルグループ」育成や「タレントIPグッズ」展開における競争激化を意味する。特にFRUITS ZIPPERのような人気アイドルが出演していることは、VAZのアイドルプロジェクト推進を加速させる必要性を示唆する。また、88組ものタレントを集めるネットワークは、VAZの「インフルエンサーネットワーク」構築目標においてベンチマークとなり、より大規模で戦略的なイベント企画の重要性が高まる。",
+      "agenda": "アソビシステムの大規模イベントを参考に、VAZの「アイドルプロジェクト」や既存所属タレントのIP価値を最大化するため、どのような大規模イベントやファンエンゲージメント施策を早期に実行すべきか？",
+      "summary": "アソビシステムが大規模イベントでIPとファンエンゲージメントを強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1317,
+      "date": "2026-08-22",
+      "company": "アソビシステム",
+      "title": "CANDY TUNEはうれし涙もカラフル、アートワークで“圧倒的感謝”を表現 | JOYSOUND 音楽 ...",
+      "url": "https://news.joysound.com/article/686259",
+      "totalScore": 15.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属アイドルCANDY TUNEが9月30日に両A面シングルをリリースし、ジャケット写真とYouTubeティザー映像を公開した。",
+      "intent": "競合アソビシステムは、既存アイドルグループのCANDY TUNEを通じて、音楽リリースという形でIPコンテンツを継続的に供給し、ファンとのエンゲージメント強化とIP価値向上を図っている。これは、アイドル市場におけるコンテンツサイクルを回し、ファン層を拡大・定着させるための基本的な戦略であり、競合他社が活発に活動しているアイドル市場で存在感を維持するための当然の活動と見られる。",
+      "impact": "VAZが2026年注力テーマとする「アイドルグループ」の育成・展開において、競合アソビシステムが既に活発な活動をしていることを再認識させる。特に、楽曲リリースとビジュアルコンテンツ（ジャケット写真、MVティザー）を通じたIPプロモーションは、VAZが今後アイドルプロジェクトでIP（グッズ）展開やファンビジネスを成功させる上で、避けて通れない活動であり、他社の成功事例やプロモーション手法を学ぶ良い機会となる。美容UGC生成との直接的な関連は薄いが、アイドルのビジュアル表現は美容・コスメ領域との親和性を生む可能性もある。",
+      "agenda": "我々の「アイドルプロジェクト」において、競合が実施しているような楽曲・ビジュアルを絡めたIPコンテンツ展開で差別化を図るには、どのような戦略とリソース配分が必要か？",
+      "summary": "アソビシステム所属CANDY TUNE、新シングルでアイドルIP強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1318,
+      "date": "2026-08-22",
+      "company": "アソビシステム",
+      "title": "CANDY TUNE 4thシングルCDのジャケット解禁 表題曲となる<b>新曲</b>「総意(ハート)So",
+      "url": "https://news.nicovideo.jp/watch/nw19689221?news_ref=watch_20_nw5683553",
+      "totalScore": 15.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のアイドルグループ「CANDY TUNE」が4thシングルCDのジャケットを解禁し、新曲を発表した。",
+      "intent": "競合のアソビシステムは、タレントマネジメントの一環としてアイドルグループを育成し、定期的な新曲リリースを通じてファンエンゲージメントを維持・拡大しようとしている。これは、長期的なIP育成と収益安定化を目指す戦略と見られ、現代の音楽市場においてCDリリースが熱量の高いファン層を囲い込むための有効な手段として機能している。",
+      "impact": "VAZが2026年注力領域として「アイドルグループ」を掲げる中で、競合が継続的にアイドル活動を展開していることは、VAZのアイドル事業への市場の活性度を示すと同時に、成功事例として分析すべき対象となる。特に「所属タレントのグッズ（IP）」にも注力しているVAZにとって、CDリリースという形でIPを具現化し、ファンとの接点を作る戦略は、自社アイドルプロジェクトのIP展開や収益化モデルを検討する上で重要な示唆を与える。",
+      "agenda": "VAZが注力するアイドル事業において、競合が実施するCDリリースやIP活用戦略を参考に、どのようなファンエンゲージメント施策と収益化モデルを構築すべきか？",
+      "summary": "競合アソビシステム、所属アイドルが新曲を発表",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1319,
+      "date": "2024-07-05",
+      "company": "株式会社Natee",
+      "title": "Nateeが運営するクリエイター事務所「WOWs」の「ウンパルンパ」3Dアバターを利用したデジタル広告制作サービス「AVATORS（アバターズ）」に追加！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1OGFDQ2V4LXdWZ3duZWtyMkhMazdPUDBMTVNCbkxraGtkTGxBbzdMUU1PVUNMX05WRDB4ZjJpd202QXdrMXJwMl9QcWJhRk12al9DdURxTWdfLWUySTZnbFpwOU9BUWdCbnc?oc=5",
+      "totalScore": 14.75,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "株式会社Nateeが運営するクリエイター事務所「WOWs」は、所属クリエイター「ウンパルンパ」の3Dアバターを、デジタル広告制作サービス「AVATORS」に追加した。",
+      "intent": "インフルエンサーマーケティング市場の競争激化の中、Nateeは3Dアバターという新しい表現手法で差別化と新規収益源の確保を目指している。これは、広告主に対して多様で効果的なデジタル広告ソリューションを提供し、クリエイターIPの価値を最大化する狙いがあり、メタバースやWeb3.0といった次世代テクノロジーへの適応も見据えている可能性が高い。",
+      "impact": "Nateeが3Dアバター広告制作に注力することで、デジタル広告市場における競合優位性を高める可能性があり、VAZのコンテンツ制作力強化や新規マネタイズ事業に新たな挑戦を促す。特にVAZの注力領域である「所属タレントのグッズ（IP）」において、NateeのデジタルIP活用事例は直接的な競合となり得るため、VAZも同様の技術導入やIP活用戦略の検討が急務となる。",
+      "agenda": "所属タレントのIPデジタル活用において、3Dアバターやメタバース連携など、Nateeの先行事例から何を学び、VAZとしてどのような新規マネタイズ戦略を構築すべきか？",
+      "summary": "Nateeがクリエイターの3Dアバターで広告制作強化",
+      "axis": "両方"
+    },
+    {
+      "id": 1320,
+      "date": "2016-07-01",
+      "company": "GROVE株式会社",
+      "title": "資金調達実施のお知らせ | GROVE株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GLUdBcHlPakJabUxKUnpEcl9vb1ZqSElUNjd0VGs2b202MWdRdzdOYklzaTl6OFdQdjF0S3pwTFV3czYxajVsYXJSVm5zQmdmWjE5RGVNOXdBTnZOdXhiQm1KcS1wQkNaUkE?oc=5",
+      "totalScore": 17,
+      "tags": [
+        "#資金調達・M&A"
+      ],
+      "fact": "監視対象競合のGROVE株式会社がプレスリリースで資金調達を実施したことを発表した。",
+      "intent": "GROVEはインフルエンサーマーケティング市場での競争激化に対応し、事業拡大や新たな成長戦略への投資を加速させるため、財務基盤の強化を図ったと推測される。市場のトレンドであるショート動画プラットフォームの台頭やD2Cビジネスへのインフルエンサーの活用拡大などに対応するための戦略的な動きである可能性が高い。",
+      "impact": "競合GROVEの資金調達は、VAZの事業展開、特に「TikTokショップ」「タレントIPグッズ」「インフルエンサーネットワーク」「アイドルグループ」「美容UGC生成」といった注力領域における競争激化を招く可能性が高い。GROVEがこれらの領域に先行投資する、またはより大規模に展開するリスクがあり、VAZも同様の領域で先行者優位を確立するためのスピードと投資戦略を再考する必要がある。",
+      "agenda": "競合GROVEの資金調達額と使途を深掘りし、VAZの2026年注力領域への投資戦略や資金調達の必要性について、どのように見直すべきか？",
+      "summary": "競合GROVEが資金調達し、事業拡大と競争力強化を図る",
+      "axis": "両方"
+    },
+    {
+      "id": 1321,
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "ファッションモデル兄妹ペア「ダンマヤ」活動開始！ - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19679416?news_ref=20_20",
+      "totalScore": 11.5,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "ファッションモデルの兄妹ペア「ダンマヤ」が新たに活動を開始した。",
+      "intent": "若年層向けコンテンツ市場では、TikTokなどのショート動画プラットフォームを中心に多様な個性を持つ新規タレントが継続的に登場しており、視聴者のニッチな需要に対応する傾向が強まっている。事務所としては、こうした新規参入者の中からいかに早く才能を見出し、獲得・育成するかが競争優位を築く上で重要なポイントとなる。",
+      "impact": "このニュースは、VAZが強みとするZ世代・若年層へのリーチやコンテンツ制作において、新たな競合となりうるタレントが市場に参入したことを示唆している。特に、ファッションモデルであることから、VAZの注力領域である「美容UGC生成」において親和性が高く、将来的に潜在的な競合またはコラボレーションの可能性を秘めている。また、「インフルエンサーネットワーク」の観点からも、新規有力インフルエンサーの動向は常に注視すべき対象であり、多様な形態のタレント発掘・育成戦略の必要性を再認識させる。",
+      "agenda": "新規性のあるペア型タレントの参入に対し、VAZは独自のタレント発掘・育成戦略をどのように強化し、今後のインフルエンサーネットワーク戦略に活かしていくべきか？",
+      "summary": "ファッションモデル兄妹ペア「ダンマヤ」が活動開始し、新規タレントが市場に参入。",
+      "axis": "両方"
+    },
+    {
+      "id": 1322,
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "[岐阜]「君が紡ぐPrimal Stories」出演者募集 - オーディションプラス",
+      "url": "https://audition.nerim.info/audition-202609/audition-2026081824.html",
+      "totalScore": 10.75,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "ステキコンテンツが有名声優出演・中村航監修のオリジナル声優朗読劇『君が紡ぐPrimal Stories』の出演者をプロ・アマ不問で募集開始した。",
+      "intent": "既存の人気IPクリエイターを活用し、新たなコンテンツ（朗読劇）とタレント（声優）を発掘・育成しようとする動きが背景にある。IPを核とした多角的なコンテンツ展開はファンエンゲージメントを高め、有名クリエイターの監修は作品の品質と集客力を担保する。VAZが注力するアイドルプロジェクトやタレントIPグッズにおいて、IPを起点としたタレントマネジメントやコンテンツ制作の動向は重要である。",
+      "impact": "このニュースはVAZの直接競合ではないが、注力領域である「アイドルグループ」や「所属タレントのグッズ（IP）」に対し間接的な示唆を与える。有名クリエイター監修によるIP開発と、それを通じたタレント発掘・育成の戦略は、VAZのアイドルプロジェクトにおける新規メンバー選定や将来的なIP展開のモデルケースとなり得る。特に、IPを核にコンテンツを制作し、人材を発掘する手法は、VAZが今後自社IPを育成する上で参考にすべき点である。",
+      "agenda": "有名クリエイターとのコラボレーションによるIP創出と、それに付随するタレント発掘・育成スキームを、VAZのアイドルプロジェクトや自社IP展開にどう応用できるか。",
+      "summary": "有名作家監修声優朗読劇の出演者募集開始",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1323,
+      "date": "2026-08-19",
+      "company": "業界トレンド",
+      "title": "「すみっコぐらし×あっとほぉーむカフェ」名古屋大須本店での追加開催が決定！",
+      "url": "https://mainichikirei.jp/prtimes/article/20260819prt00m100000182a.html",
+      "totalScore": 11.25,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "サンエックスの人気キャラクター「すみっコぐらし」とメイドカフェ「あっとほぉーむカフェ」のコラボカフェが、東京、大阪での好評を受け、2026年10月2日より名古屋大須本店で追加開催される。",
+      "intent": "本ニュースは、強力なキャラクターIPが持つブランド力とファンベースを最大限に活用し、オフラインの体験型コンテンツとして提供することで、顧客エンゲージメントの深化とIP価値の向上を図る戦略の一環と推察される。東京・大阪での成功実績に基づき、地方都市での展開を拡大することで、より広範なファン層へのリーチと収益機会の創出を目指している。",
+      "impact": "VAZは「所属タレントのグッズ（IP）」「アイドルグループ」を2026年注力領域としており、このニュースはIPを活用したファンビジネス展開の参考となる。人気のキャラクターIPがオフラインイベントを通じてファンとの接点を強化し、体験価値を提供することでIPのブランド力を高めているのは、VAZがタレントIPやアイドルIPを育成・活用する上で学ぶべき点が多い。",
+      "agenda": "自社のアイドルやタレントIPを活用した、ファンエンゲージメントを高める体験型オフラインイベント（例：コラボカフェ）の企画・実施可能性について、費用対効果と具体策を議論すべきではないか。",
+      "summary": "人気キャラクターIPによるコラボカフェが地方で追加開催決定",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1324,
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "「はち切れそう」172cm美女<b>インフルエンサー</b>、ビーチでサービスショットに反響「爆モテし ...",
+      "url": "https://news.nicovideo.jp/watch/nw19679054?news_ref=watch_50_nw19661993",
+      "totalScore": 11,
+      "tags": [
+        "#コンテンツ制作",
+        "#タレント発掘・育成",
+        "#自社IP・グッズ"
+      ],
+      "fact": "ある172cmの美女インフルエンサーがビーチでのコンテンツで大きな反響を得ている。",
+      "intent": "特定のインフルエンサーが自身の魅力を最大限に活かしたコンテンツで大きな反響を得ており、ビジュアル重視のコンテンツがSNSで高いエンゲージメントを生む傾向があることを示唆している。",
+      "impact": "VAZの強みであるコンテンツ制作力に加え、競合がタレントのビジュアルを活かしたコンテンツで大きな反響を得ており、これはVAZの注力領域である美容UGC生成やタレントIPグッズ化、アイドルグループ育成において、タレント個人の魅力とコンテンツ力の重要性を高めることを示唆する。",
+      "agenda": "VAZはタレント個人のビジュアル魅力を最大限に引き出すコンテンツ戦略をどのように強化し、注力領域であるIPグッズや美容UGC生成、アイドル育成に活かすべきか？",
+      "summary": "172cm美女インフルエンサーのコンテンツが反響獲得",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1325,
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "ヒロシ「焚き火台パクリ」告発に「待った」かかったワケ（2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260819-IWHGKI67K5CX5OJOR7V4XYNKBM/2/",
+      "totalScore": 14.75,
+      "tags": [
+        "#自社IP・グッズ",
+        "#規制・法令",
+        "#炎上・リスク"
+      ],
+      "fact": "タレントと焚き火台メーカーがIP譲渡を巡る契約で対立し、メーカー側が経緯をSNSで説明した。",
+      "intent": "タレントと外部企業が協業する際に、知的財産権の帰属や対価に関する初期段階での合意形成が不十分だったことがトラブルの根本原因。タレント側はIPを完全にコントロールしたい意図があったと推測される一方、メーカー側は無償での試作・開発を経て生じた知的財産に対する権利主張を当然と見なした。これはタレントIP活用において、契約の細部まで詰めないことで生じる業界共通のボトルネックを示唆している。",
+      "impact": "本ニュースはVAZの2026年注力領域である「所属タレントのグッズ（IP）」展開において、外部パートナーとの協業における知的財産権の明確な契約とリスク管理の重要性を示す。タレントIP活用事業を推進するVAZは、特に無償での企画・試作段階における権利帰属や対価に関する契約内容を厳格化する必要があり、トラブルがSNSで拡散されるリスクも考慮した対応が求められる。",
+      "agenda": "VAZとして、所属タレントのIPグッズ開発における外部パートナーとの契約基準と、知的財産権に関するトラブル発生時の社内外コミュニケーション戦略は確立されているか？",
+      "summary": "タレントとメーカー間でIPを巡る契約トラブル",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1326,
+      "date": "2026-08-19",
+      "company": "脅威の兆候",
+      "title": "「ラヴ上等2」出演ホストの「知り合い」名乗るアカウントから<b>インフルエンサー</b>に「脅迫 ...",
+      "url": "https://news.yahoo.co.jp/articles/eb30cbb38cea4f7c0134dc475b35ce2aab15c65c",
+      "totalScore": 10,
+      "tags": [
+        "#炎上・リスク",
+        "#タレント発掘・育成",
+        "#コンテンツ制作"
+      ],
+      "fact": "Netflix番組出演ホストの「知り合い」を名乗る人物がインフルエンサー「地雷チャン」を脅迫し、ホスト側は関与を否定したが、番組内容を巡る炎上も発生した。",
+      "intent": "SNSの匿名性を悪用したインフルエンサーへの直接的な攻撃、およびリアリティショーのようなコンテンツが持つ炎上リスクが顕在化した事案。インフルエンサーの影響力増大に伴い、ファンやアンチからの過度な干渉・攻撃リスクが高まり、タレントの過去発言や行動が火種となるボトルネックが業界全体に存在する。",
+      "impact": "VAZは所属インフルエンサーのマネジメントやアイドルプロジェクト、インフルエンサーネットワークを注力領域としており、今回の事件はタレントの活動に伴う安全確保と炎上リスクマネジメントの重要性を改めて浮き彫りにした。特に「アイドルグループ」や「インフルエンサーネットワーク」の構築において、所属タレントへの脅威からどのように保護するか、またコンテンツ制作におけるタレントの言動が炎上を招かないよう、より厳格な審査体制が必要となる。",
+      "agenda": "所属タレントのSNS活動における安全確保と、タレントが関わるコンテンツ制作・過去の言動に起因する炎上リスクに対し、現行のリスクマネジメント体制は十分か、具体的な強化策をどう講じるべきか？",
+      "summary": "インフルエンサーへの脅迫と番組炎上、タレント活動リスク。",
+      "axis": "両方"
+    },
+    {
+      "id": 1327,
+      "date": "2026-08-18",
+      "company": "業界トレンド",
+      "title": "縦型<b>ショートドラマ</b>「Chat Boy」 - AERA DIGITAL（アエラデジタル） - 朝日新聞",
+      "url": "https://dot.asahi.com/list/tag/%E7%B8%A6%E5%9E%8B%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%9E%E3%80%8CChat%20Boy%E3%80%8D",
+      "totalScore": 13,
+      "tags": [
+        "#コンテンツ制作",
+        "#アイドル・ファンビジネス",
+        "#プラットフォーム動向"
+      ],
+      "fact": "AERA DIGITALが、Aぇ! groupの正門良規を起用し、若年層のAI利用をテーマにした縦型ショートドラマ「Chat Boy」を公開した。",
+      "intent": "大手メディアが縦型ショートドラマに注力しているのは、若年層のメディア接触がテレビからSNS（特に縦型動画プラットフォーム）へと急速に移行しているためである。短尺で没入感のある縦型形式は、スキマ時間に視聴する若年層の行動に合致し、AIという時事性の高いテーマを織り交ぜることで関心を引き、コンテンツの深みを増している。これは、広告収入だけでなく、デジタルサブスクリプションやIP展開を見据えたコンテンツ戦略の一環と考えられる。",
+      "impact": "本ニュースは、VAZの「Z世代・若年層へのリーチ力」や「所属インフルエンサーを起点としたコンテンツ制作力」を活かす新たなコンテンツフォーマットの可能性を示唆する。特にVAZの「2026年注力領域」である「アイドルグループ」のメンバーが主演している点は重要で、アイドルグループの育成・展開において、縦型ショートドラマがファンエンゲージメントや新規ファン獲得の有効な手段となり得ると考えられる。また、「広告っぽくないSNSコンテンツ制作」という強みとも親和性が高く、VAZがこの領域に参入することで、質の高い独自コンテンツを創出し、タレントの新たな活躍の場とIP価値向上に繋がる可能性がある。",
+      "agenda": "若年層向け縦型ショートドラマ市場の成長を見据え、自社タレントやアイドルグループを起用したコンテンツ制作体制の強化及びマネタイズ戦略をどのように構築すべきか？",
+      "summary": "縦型ショートドラマ『Chat Boy』が若年層向けコンテンツとして注目",
+      "axis": "タレント軸"
     }
   ],
   "competitors": [
@@ -92094,8 +93023,8 @@
   ],
   "home": {
     "monthLabel": "2026年8月",
-    "thisMonthNewsCount": 1058,
-    "thisMonthAnalysisCount": 243,
+    "thisMonthNewsCount": 1092,
+    "thisMonthAnalysisCount": 257,
     "highlights": [
       {
         "id": 0,
@@ -92158,13 +93087,13 @@
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 7014.75,
-        "count": 477
+        "totalScore": 7061.25,
+        "count": 481
       },
       {
         "company": "アソビシステム",
-        "totalScore": 5377.75,
-        "count": 323
+        "totalScore": 5491.25,
+        "count": 330
       },
       {
         "company": "トレンダーズ",
@@ -92178,8 +93107,8 @@
       },
       {
         "company": "脅威の兆候",
-        "totalScore": 1040,
-        "count": 76
+        "totalScore": 1075.75,
+        "count": 79
       },
       {
         "company": "TORIHADA",
@@ -92188,13 +93117,13 @@
       },
       {
         "company": "株式会社Natee",
-        "totalScore": 792.3299999999999,
-        "count": 49
+        "totalScore": 807.0799999999999,
+        "count": 50
       },
       {
         "company": "GROVE株式会社",
-        "totalScore": 770.39,
-        "count": 50
+        "totalScore": 787.39,
+        "count": 51
       },
       {
         "company": "Macbee Planet",
@@ -92205,23 +93134,23 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 601
+        "count": 603
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 497
+        "count": 509
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 487
+        "count": 499
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 433
+        "count": 442
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 295
+        "count": 296
       },
       {
         "tag": "#広告主動向",
@@ -92233,7 +93162,7 @@
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 231
+        "count": 236
       },
       {
         "tag": "#プランニング・企画",
@@ -92245,9 +93174,9 @@
       }
     ],
     "axisCounts": {
-      "タレント軸": 476,
+      "タレント軸": 488,
       "マーケティング軸": 386,
-      "両方": 430,
+      "両方": 434,
       "業界全般": 19
     },
     "tagMaster": {
