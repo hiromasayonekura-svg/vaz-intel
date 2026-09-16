@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-09-15T00:31:25.948Z",
-    "generatedAtJst": "2026-09-15 09:31:25",
-    "totalNews": 5611,
-    "totalAnalyses": 1596,
+    "generatedAt": "2026-09-16T00:31:27.442Z",
+    "generatedAtJst": "2026-09-16 09:31:27",
+    "totalNews": 5619,
+    "totalAnalyses": 1610,
     "totalCompetitors": 7
   },
   "news": [
@@ -19317,7 +19317,7 @@
       "company": "業界トレンド",
       "title": "J-Docs Hub、釜山国際映画祭「WIPショーケース」参加ドキュメンタリー企画を募集。<b>日本</b>から3 ...",
       "url": "https://branc.jp/article/2026/07/09/2887.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19325,7 +19325,7 @@
       "company": "業界トレンド",
       "title": "カンヌの巨大マーケットに「ドキュメンタリーの居場所」をつくる、Cannes Docsディレクターが ...",
       "url": "https://branc.jp/article/2026/07/09/2886.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19349,7 +19349,7 @@
       "company": "業界トレンド",
       "title": "「<b>縦型ドラマ</b>」のYahoo!リアルタイム検索 - X（旧Twitter）をリアルタイム検索",
       "url": "https://search.yahoo.co.jp/realtime/search?rkf=1&p=%E7%B8%A6%E5%9E%8B%E3%83%89%E3%83%A9%E3%83%9E&btid=MjA3NTQxODIwNTEyOTIzNjUxNg%3D%3D&ifr=tp_bz",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19357,7 +19357,7 @@
       "company": "業界トレンド",
       "title": "プレスリリース：［本日公募スタート］製作資金1000万円！秋元康氏も審査参加「<b>ショートドラマ</b> ...",
       "url": "https://mainichi.jp/articles/20260710/pr2/00m/020/614000c",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19365,7 +19365,7 @@
       "company": "業界トレンド",
       "title": "秋元康氏らがクリエイター発掘へ 最優秀企画に製作資金1000万円を SSFF×日本直販×LIFE LOG ...",
       "url": "https://news.infoseek.co.jp/article/oricon_2466932/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19373,7 +19373,7 @@
       "company": "業界トレンド",
       "title": "秋元康氏らがクリエイター発掘へ 最優秀企画に製作資金1000万円を SSFF×日本直販×LIFE LOG ...",
       "url": "https://www.oricon.co.jp/news/2466932/full/?anc=343",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19381,7 +19381,7 @@
       "company": "業界トレンド",
       "title": "日本直販、製作資金1000万円の「<b>ショートドラマ</b>企画コンテスト」公募を開始 - PR TIMES",
       "url": "https://prtimes.jp/main/html/rd/p/000000054.000166086.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19389,7 +19389,7 @@
       "company": "業界トレンド",
       "title": "<b>TikTok</b> Shop から欧米や<b>日本</b>へ世界進出。3ブランドが明かすオムニチャネル戦略",
       "url": "https://digiday.jp/brands/how-3-brands-are-using-tiktok-shop-to-expand-abroad/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19397,7 +19397,7 @@
       "company": "業界トレンド",
       "title": "株式会社ExpreTech、<b>広告</b>運用のインハウス化をAIで支援する「<b>広告</b>代理店脱却AI」を正式リリース",
       "url": "https://www.rbbtoday.com/release/prtimes2-today/20260709/1313075.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19437,7 +19437,7 @@
       "company": "業界トレンド",
       "title": "<b>VTuber</b>・星街すいせい、ロッテvsソフトバンク戦のファーストピッチセレモニーに登場 ... - 佐賀新聞",
       "url": "https://www.saga-s.co.jp/articles/-/1746127",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19469,7 +19469,7 @@
       "company": "業界トレンド",
       "title": "TikTokとFIFAが実証する「W杯の舞台裏を <b>インフルエンサー</b> が発信」の威力 | DIGIDAY［日本版］",
       "url": "https://digiday.jp/brands/why-brands-are-bringing-creators-to-the-world-cup-sidelines/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19477,7 +19477,7 @@
       "company": "業界トレンド",
       "title": "カンヌライオンズ の主役に。<b>インフルエンサー</b>が広告の未来を変える理由 | DIGIDAY［日本版］",
       "url": "https://digiday.jp/brands/creators-arent-just-in-marketings-entertainment-era-theyre-driving-it/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -19485,7 +19485,7 @@
       "company": "業界トレンド",
       "title": "ChatGPT広告の登場 と AIエージェントによる運用自動化共同ウェビナー開催！ 【株式会社 ...",
       "url": "https://www.dreamnews.jp/press/0000355383",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -19493,7 +19493,7 @@
       "company": "業界トレンド",
       "title": "【サイバーエージェント】日テレ・KDDI共同制作エンタメコマース「びっくりSHOP WOW」公式 ...",
       "url": "https://times.abema.tv/visions/articles/-/10258553",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -44893,6 +44893,70 @@
       "company": "脅威の兆候",
       "title": "WEST.分裂の泥沼！藤井ら脱退の裏で桐山照史のカフェが「ホスト化」と<b>炎上</b>？（写真・画像 1/1）",
       "url": "https://www.zakzak.co.jp/article/20260913-ZTCN7N2KYVHLFGWDZADFDBTO2Q/photo/NKDKP7DSRBCI7MJO46P2K74N2M/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "アソビシステム",
+      "title": "TEAM KAWAII LAB.がB.LEAGUEを盛り上げるB祭応援団に就任！熱量あふれる応援ソング「Over Drive」配信リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nQWg4dHkyb0ZFU0dSSV9UaEV1N3p6c3BXOVdLRTVnQ0t3YkdsLWlvaW1LTENKakhMZGtNWVVTWm5yMGFETnNoQ3lmWFdMQk9oZmRScmRwc0lKbUxBWVBWRGJkamk4a1p4QVE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-14",
+      "company": "アソビシステム",
+      "title": "Licaxxx主宰「Tokyo Community Radio」、DJの思考と哲学を紐解く新コンテンツ『DJ’s CUE』を始動 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWWpaWGNTalRZeDl5Q1lyalZwUERBSzRjTUFrc29rcGdSMk9YYlpKNkkxN0tKM25lcFpjLVVsVEZwZGZfenlLU281WE90ck13TDBsdVhnNnFER0JfSjVyS1YydEFVNEtOcGc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-14",
+      "company": "Macbee Planet",
+      "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社Macbee Planet（証券コード:7095）に関する2027年4月期1Q決算アップデートレポートを発行 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bHhqZTl1eGd4SWptZjdXN1RNeDNaU2QwQ240TGJYMG9GTF9WT0p2V01OWGVvcFVlckUteUZPQnFuUDgyMWJOZ0lUamc1bmVzQzF1dWVaTUc4T0U2Zms1Rzl6eTRYOElRMUE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "Macbee Planet",
+      "title": "AIカスタマーサポートシステム「ヘルプドッグ」、Google タグ マネージャーとの連携機能を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHk0YWxoT1NhNzVyVEk3ZXBqWkhQRzJTYldQYmNnel9zTEkyaEhBUi01SGZTSUtONl9wanZvaG5lMDhDeHBZVmRjLW5rOWxGSHlpZ1Azd0FmTnJJOG1BVjRVM0M4bEdSaVlzcWxQLTdJSjQtWkFmcTgxUDFQdkRqNlVB?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "株式会社Natee",
+      "title": "【Project I-dreaM】優勝グループ「ウイバナ」のフル楽曲映像を公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNHpQdkowNGxxSlZQSFd4cldYUTJId1ltbF9LN3NBR20yR3BqRUI2aGNRanVCY0VTNzA1QTJYSUZXMWpfYlBEMHczTF9yT04xdkQ3azRvT2pPblM1bjU2WnNlN200WWtfU0E?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2025-07-07",
+      "company": "TORIHADA",
+      "title": "SNS総フォロワー数100万人超えの人気ショートドラマ「俺達のあざす。」初のオフラインイベント開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NNndMMjEzc01ZT0FqVTR0Ymx0dkRKWVpQREdwZEtRQ0xoNVpWNEl0b2NIQ0h6Ry1QcUFZbmt3bmVqNkNKNTI3SE9FZUdHWm5FX0Q2LUdUT01lcS1JYkx6ZU9TNTBCVGk0cEE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "アソビシステム",
+      "title": "Bリーグと<b>アソビシステム</b>が連携 FRUITS ZIPPER、CANDY TUNEらがB.LEAGUE「B祭応援団」に ...",
+      "url": "https://www.yamagata-np.jp/oricon/print.php?id=2480220",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "アソビシステム",
+      "title": "Licaxxx主宰「Tokyo Community Radio」、DJの思考と哲学を紐解く新コンテンツ『DJ&#39;s CUE』を ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000884.000017258.html",
       "status": "処理済"
     }
   ],
@@ -82262,6 +82326,346 @@
         "benchmark": 2
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "アソビシステム",
+      "title": "TEAM KAWAII LAB.がB.LEAGUEを盛り上げるB祭応援団に就任！熱量あふれる応援ソング「Over Drive」配信リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nQWg4dHkyb0ZFU0dSSV9UaEV1N3p6c3BXOVdLRTVnQ0t3YkdsLWlvaW1LTENKakhMZGtNWVVTWm5yMGFETnNoQ3lmWFdMQk9oZmRScmRwc0lKbUxBWVBWRGJkamk4a1p4QVE?oc=5",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "Macbee Planet",
+      "title": "AIカスタマーサポートシステム「ヘルプドッグ」、Google タグ マネージャーとの連携機能を提供開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHk0YWxoT1NhNzVyVEk3ZXBqWkhQRzJTYldQYmNnel9zTEkyaEhBUi01SGZTSUtONl9wanZvaG5lMDhDeHBZVmRjLW5rOWxGSHlpZ1Azd0FmTnJJOG1BVjRVM0M4bEdSaVlzcWxQLTdJSjQtWkFmcTgxUDFQdkRqNlVB?oc=5",
+      "totalScore": 6.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "株式会社Natee",
+      "title": "【Project I-dreaM】優勝グループ「ウイバナ」のフル楽曲映像を公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNHpQdkowNGxxSlZQSFd4cldYUTJId1ltbF9LN3NBR20yR3BqRUI2aGNRanVCY0VTNzA1QTJYSUZXMWpfYlBEMHczTF9yT04xdkQ3azRvT2pPblM1bjU2WnNlN200WWtfU0E?oc=5",
+      "totalScore": 19.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-15",
+      "company": "アソビシステム",
+      "title": "Licaxxx主宰「Tokyo Community Radio」、DJの思考と哲学を紐解く新コンテンツ『DJ&#39;s CUE』を ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000884.000017258.html",
+      "totalScore": 8.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-14",
+      "company": "アソビシステム",
+      "title": "Licaxxx主宰「Tokyo Community Radio」、DJの思考と哲学を紐解く新コンテンツ『DJ’s CUE』を始動 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWWpaWGNTalRZeDl5Q1lyalZwUERBSzRjTUFrc29rcGdSMk9YYlpKNkkxN0tKM25lcFpjLVVsVEZwZGZfenlLU281WE90ck13TDBsdVhnNnFER0JfSjVyS1YydEFVNEtOcGc?oc=5",
+      "totalScore": 7,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-14",
+      "company": "Macbee Planet",
+      "title": "アストリス・アドバイザリー・ジャパン株式会社が株式会社Macbee Planet（証券コード:7095）に関する2027年4月期1Q決算アップデートレポートを発行 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3bHhqZTl1eGd4SWptZjdXN1RNeDNaU2QwQ240TGJYMG9GTF9WT0p2V01OWGVvcFVlckUteUZPQnFuUDgyMWJOZ0lUamc1bmVzQzF1dWVaTUc4T0U2Zms1Rzl6eTRYOElRMUE?oc=5",
+      "totalScore": 9.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2025-07-07",
+      "company": "TORIHADA",
+      "title": "SNS総フォロワー数100万人超えの人気ショートドラマ「俺達のあざす。」初のオフラインイベント開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NNndMMjEzc01ZT0FqVTR0Ymx0dkRKWVpQREdwZEtRQ0xoNVpWNEl0b2NIQ0h6Ry1QcUFZbmt3bmVqNkNKNTI3SE9FZUdHWm5FX0Q2LUdUT01lcS1JYkx6ZU9TNTBCVGk0cEE?oc=5",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "J-Docs Hub、釜山国際映画祭「WIPショーケース」参加ドキュメンタリー企画を募集。<b>日本</b>から3 ...",
+      "url": "https://branc.jp/article/2026/07/09/2887.html",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "カンヌの巨大マーケットに「ドキュメンタリーの居場所」をつくる、Cannes Docsディレクターが ...",
+      "url": "https://branc.jp/article/2026/07/09/2886.html",
+      "totalScore": 5.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "「<b>縦型ドラマ</b>」のYahoo!リアルタイム検索 - X（旧Twitter）をリアルタイム検索",
+      "url": "https://search.yahoo.co.jp/realtime/search?rkf=1&p=%E7%B8%A6%E5%9E%8B%E3%83%89%E3%83%A9%E3%83%9E&btid=MjA3NTQxODIwNTEyOTIzNjUxNg%3D%3D&ifr=tp_bz",
+      "totalScore": 16.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "プレスリリース：［本日公募スタート］製作資金1000万円！秋元康氏も審査参加「<b>ショートドラマ</b> ...",
+      "url": "https://mainichi.jp/articles/20260710/pr2/00m/020/614000c",
+      "totalScore": 19,
+      "breakdown": {
+        "finance": 3,
+        "platform": 5,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "秋元康氏らがクリエイター発掘へ 最優秀企画に製作資金1000万円を SSFF×日本直販×LIFE LOG ...",
+      "url": "https://news.infoseek.co.jp/article/oricon_2466932/",
+      "totalScore": 16.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "秋元康氏らがクリエイター発掘へ 最優秀企画に製作資金1000万円を SSFF×日本直販×LIFE LOG ...",
+      "url": "https://www.oricon.co.jp/news/2466932/full/?anc=343",
+      "totalScore": 21.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "日本直販、製作資金1000万円の「<b>ショートドラマ</b>企画コンテスト」公募を開始 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000054.000166086.html",
+      "totalScore": 17.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 5,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b> Shop から欧米や<b>日本</b>へ世界進出。3ブランドが明かすオムニチャネル戦略",
+      "url": "https://digiday.jp/brands/how-3-brands-are-using-tiktok-shop-to-expand-abroad/",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "株式会社ExpreTech、<b>広告</b>運用のインハウス化をAIで支援する「<b>広告</b>代理店脱却AI」を正式リリース",
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20260709/1313075.html",
+      "totalScore": 10.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "<b>VTuber</b>・星街すいせい、ロッテvsソフトバンク戦のファーストピッチセレモニーに登場 ... - 佐賀新聞",
+      "url": "https://www.saga-s.co.jp/articles/-/1746127",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "TikTokとFIFAが実証する「W杯の舞台裏を <b>インフルエンサー</b> が発信」の威力 | DIGIDAY［日本版］",
+      "url": "https://digiday.jp/brands/why-brands-are-bringing-creators-to-the-world-cup-sidelines/",
+      "totalScore": 16,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "カンヌライオンズ の主役に。<b>インフルエンサー</b>が広告の未来を変える理由 | DIGIDAY［日本版］",
+      "url": "https://digiday.jp/brands/creators-arent-just-in-marketings-entertainment-era-theyre-driving-it/",
+      "totalScore": 20.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "【サイバーエージェント】日テレ・KDDI共同制作エンタメコマース「びっくりSHOP WOW」公式 ...",
+      "url": "https://times.abema.tv/visions/articles/-/10258553",
+      "totalScore": 21,
+      "breakdown": {
+        "finance": 5,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -112370,6 +112774,272 @@
       "agenda": "多様なキャリアを持つタレントのIP化戦略において、VAZは写真集以外のどのような「タレントIPグッズ」の可能性を追求すべきか？",
       "summary": "競合Seju所属タレントが写真集を発売し活動を多角化",
       "axis": "タレント軸"
+    },
+    {
+      "id": 1596,
+      "date": "2026-09-15",
+      "company": "アソビシステム",
+      "title": "TEAM KAWAII LAB.がB.LEAGUEを盛り上げるB祭応援団に就任！熱量あふれる応援ソング「Over Drive」配信リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nQWg4dHkyb0ZFU0dSSV9UaEV1N3p6c3BXOVdLRTVnQ0t3YkdsLWlvaW1LTENKakhMZGtNWVVTWm5yMGFETnNoQ3lmWFdMQk9oZmRScmRwc0lKbUxBWVBWRGJkamk4a1p4QVE?oc=5",
+      "totalScore": 16.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#タイアップ案件"
+      ],
+      "fact": "アソビシステムの「TEAM KAWAII LAB.」がB.LEAGUEの「B祭」応援団に就任し、応援ソング「Over Drive」を配信リリースした。",
+      "intent": "競合のアソビシステムは、自社が持つ「KAWAII」カルチャーとタレントを最大限に活用し、スポーツリーグという異業種との連携を通じて、IPの多角的な展開と新規ファン層（B.LEAGUEファン）の獲得を目指していると推測される。これは、タレントの活動領域を広げると共に、スポーツコンテンツにエンターテイメント性を付加することで双方のブランド価値を高める戦略と考えられる。",
+      "impact": "アソビシステムによる異業種連携と音楽コンテンツを通じたIP活用は、VAZの2026年注力領域である「アイドルグループ」や「所属タレントのグッズ（IP）」戦略において重要な示唆を与える。VAZのZ世代・若年層へのリーチ力と「広告っぽくない」コンテンツ制作力を活かし、単なるタイアップを超えたコンテンツ共創や共同IP開発の機会を他業界との連携で模索することで、VAZのIP価値向上と新規顧客層獲得に繋がりうる。",
+      "agenda": "VAZの「アイドルグループ」や「タレントIP」を、スポーツリーグや他エンタメ業界と連携させ、新たなファン層獲得とIP価値向上を図る具体的な戦略は何か？",
+      "summary": "アソビシステム傘下TEAM KAWAII LAB.がB.LEAGUE応援団就任、楽曲リリース。",
+      "axis": "両方"
+    },
+    {
+      "id": 1597,
+      "date": "2026-09-15",
+      "company": "株式会社Natee",
+      "title": "【Project I-dreaM】優勝グループ「ウイバナ」のフル楽曲映像を公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNHpQdkowNGxxSlZQSFd4cldYUTJId1ltbF9LN3NBR20yR3BqRUI2aGNRanVCY0VTNzA1QTJYSUZXMWpfYlBEMHczTF9yT04xdkQ3azRvT2pPblM1bjU2WnNlN200WWtfU0E?oc=5",
+      "totalScore": 19.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#タレント発掘・育成"
+      ],
+      "fact": "株式会社Nateeが主催するアイドル育成プロジェクト「Project I-dreaM」の優勝グループ「ウイバナ」のフル楽曲映像が公開された。",
+      "intent": "Nateeはインフルエンサーマーケティング事業を主軸としつつ、強力な新規IP創出と収益源の多角化を目指し、独自のアイドル育成プロジェクトを推進している。これはZ世代を中心とした熱量の高いファンコミュニティを構築し、グッズ販売やイベント展開など多角的なマネタイズを志向する動きであり、インフルエンサーの枠を超えたタレント事業強化の一環とVAZは認識している。",
+      "impact": "VAZの2026年注力領域である「アイドルグループ」および「タレントIPグッズ」と直接的に競合するNateeの動きであり、同社がこの領域で具体的なIP創出に成功していることを示す。これにより、Z世代・若年層のファンベース獲得競争が激化し、将来的なIP獲得やマネタイズにおいて競合優位性を築かれるリスクがある。",
+      "agenda": "Nateeのアイドルプロジェクト「Project I-dreaM」の成功要因を分析し、VAZの2026年アイドルプロジェクトにおける差別化戦略と具体的なファン獲得・IPマネタイズ計画をどう構築すべきか？",
+      "summary": "Natee、アイドル育成PJ優勝グループ「ウイバナ」の楽曲公開",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1598,
+      "date": "2025-07-07",
+      "company": "TORIHADA",
+      "title": "SNS総フォロワー数100万人超えの人気ショートドラマ「俺達のあざす。」初のオフラインイベント開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NNndMMjEzc01ZT0FqVTR0Ymx0dkRKWVpQREdwZEtRQ0xoNVpWNEl0b2NIQ0h6Ry1QcUFZbmt3bmVqNkNKNTI3SE9FZUdHWm5FX0Q2LUdUT01lcS1JYkx6ZU9TNTBCVGk0cEE?oc=5",
+      "totalScore": 18,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "TORIHADAの人気ショートドラマ「俺達のあざす。」がSNS総フォロワー数100万人超えを達成し、初のオフラインイベントを開催した。",
+      "intent": "競合TORIHADAは、SNSで人気を集めたショートドラマIPのファンエンゲージメントを強化し、オフラインでの収益機会（グッズ販売、イベントチケット等）を創出する意図がある。これは、オンラインでのコンテンツ消費だけでなく、リアルな体験を通じてファンのロイヤルティを高め、IP価値を最大化する業界の潮流に乗った動きと推察される。ショートドラマは若年層に響きやすく、TikTokなどのPF特性にも合致しているため、効果的なIP育成戦略と言える。",
+      "impact": "本ニュースは、VAZの「自社IP・グッズ」と「アイドルグループ」という注力領域に直接影響を与える。TORIHADAがSNS発のIPをオフラインイベントで収益化・ファンベース強化していることは、VAZがアイドルプロジェクトやタレントIPグッズ展開を進める上で、オンラインでのコンテンツ制作に留まらず、リアルな体験提供を通じたファンエンゲージメント戦略を構築する必要性を示唆している。特にZ世代・若年層へのリーチ力を強みとするVAZにとって、SNSで獲得したファンの熱量をオフラインで維持・拡大するモデルは非常に重要。",
+      "agenda": "SNSで獲得した若年層ファンを、どのようにオフラインイベントやIPグッズを通じて持続的な収益源かつ強固なコミュニティへと転換させるか、具体的なアクションプランを策定すべきではないか？",
+      "summary": "TORIHADAのSNSショートドラマが初のオフラインイベント開催",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1599,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "「<b>縦型ドラマ</b>」のYahoo!リアルタイム検索 - X（旧Twitter）をリアルタイム検索",
+      "url": "https://search.yahoo.co.jp/realtime/search?rkf=1&p=%E7%B8%A6%E5%9E%8B%E3%83%89%E3%83%A9%E3%83%9E&btid=MjA3NTQxODIwNTEyOTIzNjUxNg%3D%3D&ifr=tp_bz",
+      "totalScore": 16.5,
+      "tags": [
+        "#コンテンツ制作",
+        "#アイドル・ファンビジネス",
+        "#プラットフォーム動向"
+      ],
+      "fact": "Yahoo!リアルタイム検索で「縦型ドラマ」が話題となっており、エスドラの新作でアイドルグループの正門良規が主演を務めることが発表された。",
+      "intent": "Z世代・若年層の動画視聴習慣がテレビからSNSのショート動画コンテンツへ移行する中、視聴者の可処分時間を獲得するため、縦型に特化したドラマコンテンツの需要が高まっている。特に、TikTokやYouTube Shortsなどの縦型プラットフォームに最適化されたコンテンツは、視聴者のエンゲージメントを高めやすい。アイドルを起用することで、既存ファン層の獲得に加え、新しいファン層へのリーチを狙い、コンテンツの拡散力とIP価値の向上を図る意図があると考えられる。",
+      "impact": "縦型ドラマの活発化は、VAZの強みである「所属インフルエンサーを起点としたコンテンツ制作力」や「Z世代・若年層へのリーチ力」を最大限に活かすチャンス。VAZの「2026年注力領域」である「アイドルグループ」と「タレントIPグッズ」にとって、アイドルを起用した縦型コンテンツは新たな収益源やプロモーション手法となる。特に、ショート動画プラットフォームでのコンテンツ消費が主流となる中で、縦型ドラマは「\"広告っぽくない\"SNSコンテンツ制作」の理想形であり、ユーザーエンゲージメントの高いUGC生成（美容UGC含む）にも繋がりやすい。このトレンドは、コンテンツビジネスDivの戦略に直接的な影響を与える。",
+      "agenda": "VAZはZ世代に響く縦型ドラマを自社クリエイターやアイドルを起用して制作・運用し、IP化や広告収益化に繋げるための具体的な戦略をどう構築すべきか？",
+      "summary": "アイドル起用の縦型ドラマが配信開始",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1600,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "プレスリリース：［本日公募スタート］製作資金1000万円！秋元康氏も審査参加「<b>ショートドラマ</b> ...",
+      "url": "https://mainichi.jp/articles/20260710/pr2/00m/020/614000c",
+      "totalScore": 19,
+      "tags": [
+        "#コンテンツ制作",
+        "#タレント発掘・育成",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "米国アカデミー賞公認のSSFF & ASIAと日本直販が、Web3エンターテインメント「AYETプロジェクト」の一環として、製作資金1000万円・秋元康氏審査の「ショートドラマ企画コンテスト」を開始した。",
+      "intent": "TikTokやYouTubeショートなど短尺動画プラットフォームの普及により、エンタメ業界は新たなコンテンツ形式とクリエイター発掘手法を模索している。Web3技術の活用は、クリエイターエコノミーにおける新しい収益分配やファンエンゲージメントの強化を目指す動きであり、著名プロデューサーを巻き込むことで企画の権威性を高め、質の高い才能とIP創出を狙っている。",
+      "impact": "本ニュースは、VAZの強みであるコンテンツ制作力やZ世代リーチ力を活かせる「ショートドラマ」という形式が、クリエイター発掘・IP創出の重要トレンドであることを示している。VAZの2026年注力領域である「TikTokショップ」や「美容UGC生成」において、ショートドラマは強力なプロモーションコンテンツとなり得る。また、「タレントIPグッズ」のIP開発や「アイドルグループ」のプロモーション戦略にも応用可能であり、Web3連携は「新規マネタイズ事業」のヒントとなる。",
+      "agenda": "VAZは、ショートドラマ形式のコンテンツ制作を強化するため、自社タレントを活用したオリジナル企画の立ち上げ、または既存の有力コンテストとの連携・参加を検討すべきではないか？",
+      "summary": "秋元康氏審査のWeb3ショートドラマ企画が開始、クリエイター・IP発掘を強化。",
+      "axis": "両方"
+    },
+    {
+      "id": 1601,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "秋元康氏らがクリエイター発掘へ 最優秀企画に製作資金1000万円を SSFF×日本直販×LIFE LOG ...",
+      "url": "https://news.infoseek.co.jp/article/oricon_2466932/",
+      "totalScore": 16.75,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "秋元康氏らがショートドラマ企画コンテストを開催し、最優秀企画には製作資金1000万円が提供される。",
+      "intent": "ショート動画の需要拡大に伴い、質の高い短尺コンテンツを制作できるクリエイターと企画の確保が業界全体で加速している。秋元康氏のような著名プロデューサーが参画することで、企画の権威性を高め、才能あるクリエイターを囲い込み、将来的な有力IPの創出を狙っていると考えられる。VAZ視点では、この動きは新たなクリエイターの登場やコンテンツ形式の多様化を意味し、VAZが獲得したいZ世代クリエイター層やコンテンツ企画との競合を生む可能性がある。",
+      "impact": "本ニュースは、ショート動画市場におけるクリエイター発掘とIP創出の重要性が高まっていることを示しており、VAZの「所属インフルエンサーを起点としたコンテンツ制作力」や「Z世代・若年層へのリーチ力」と直接的に関連する。VAZの注力領域である「アイドルグループ」や「所属タレントのグッズ（IP）」強化の観点からも、秋元康氏の動向は、将来的な才能あるタレントやIPの獲得競争に影響を与えるため注視すべきである。また、短尺コンテンツの新しい企画・制作手法を学ぶ機会にもなり得る。",
+      "agenda": "自社で新たなクリエイターを発掘・育成し、IPを創出するための具体的なインセンティブ設計や育成スキームをどのように強化すべきか？",
+      "summary": "秋元康氏らがクリエイター発掘し製作資金1000万提供。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1602,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "秋元康氏らがクリエイター発掘へ 最優秀企画に製作資金1000万円を SSFF×日本直販×LIFE LOG ...",
+      "url": "https://www.oricon.co.jp/news/2466932/full/?anc=343",
+      "totalScore": 21.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "秋元康氏らがSSFF×日本直販×LIFE LOG BOXと連携し、ショートドラマコンテストを開催、最優秀企画には製作資金1000万円が授与される。",
+      "intent": "ショート動画プラットフォームの隆盛とコンテンツ需要の高まりを受け、秋元康氏のような著名プロデューサーが異業種と連携することで、既存の枠にとらわれない新たな才能を発掘し、コンテンツ制作から流通・マネタイズまでの一貫したエコシステムを構築する狙いがある。",
+      "impact": "本ニュースは、VAZの強みである「所属インフルエンサーを起点としたコンテンツ制作力」および注力領域である「所属タレントのグッズ（IP）」「アイドルグループ」に直結する新たな才能発掘とIP創出の動きであり、VAZが獲得を目指す人材やIPを奪い合う直接的な競合となりうる。",
+      "agenda": "VAZは秋元康氏らの異業種連携モデルを参考に、自社に最適なクリエイター発掘・育成・マネタイズの新たなスキームをどのように構築すべきか？",
+      "summary": "秋元康ら異業種連携でショートドラマクリエイター発掘、製作資金1000万円",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1603,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "日本直販、製作資金1000万円の「<b>ショートドラマ</b>企画コンテスト」公募を開始 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000054.000166086.html",
+      "totalScore": 17.5,
+      "tags": [
+        "#コンテンツ制作",
+        "#新規マネタイズ事業",
+        "#プラットフォーム動向"
+      ],
+      "fact": "日本直販が国際短編映画祭SSFF & ASIA、WEB3.0プラットフォームLIFE LOG BOXと連携し、製作資金1000万円のショートドラマ企画コンテストの公募を開始した。",
+      "intent": "日本直販は総合通販から「エンタメ、グローバル、DX」を軸としたWEB3.0企業への転換を図っており、既存事業の成長鈍化と若年層へのリーチ、新たなマネタイズ機会創出を目指している。WEB3.0連携は、クリエイターエコノミーの活性化と、将来的にはIPの所有権や収益分配モデルの刷新を通じ、質の高いクリエイターやIPを囲い込む意図がある。",
+      "impact": "日本直販のような異業種からの大規模なコンテンツ制作投資は、業界全体のクリエイター争奪戦を激化させる可能性がある。VAZは強みであるコンテンツ制作力とZ世代リーチを活かし、ショートドラマ市場への参入を検討すべきだ。これはVAZの注力領域であるTikTokショップでのプロモーション、所属タレントのIP開発、インフルエンサーネットワーク強化、アイドルグループのプロモーション、美容UGC生成といった全ての領域と親和性が高く、新たなコンテンツ資産獲得に繋がる。WEB3.0との連携モデルは、将来的な新規マネタイズ事業やIPの権利管理、ファンコミュニティ形成の参考となる。",
+      "agenda": "日本直販のショートドラマ公募に見る異業種からのコンテンツ投資増強に対し、VAZは自社のコンテンツ制作力を活かし、いかにして新たなクリエイターとIPを囲い込み、WEB3.0を視野に入れた新規マネタイズモデルを構築すべきか？",
+      "summary": "日本直販が1000万円でショートドラマ公募、WEB3.0連携でクリエイター発掘へ。",
+      "axis": "両方"
+    },
+    {
+      "id": 1604,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b> Shop から欧米や<b>日本</b>へ世界進出。3ブランドが明かすオムニチャネル戦略",
+      "url": "https://digiday.jp/brands/how-3-brands-are-using-tiktok-shop-to-expand-abroad/",
+      "totalScore": 17,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#ECコマース",
+        "#プラットフォーム動向"
+      ],
+      "fact": "TikTok Shopの成功を足がかりに、ゲーム機、高級品、韓国コスメの3ブランドが海外進出し、クリエイター活用、ライブ配信、自動マッチングツールなどを通じたオムニチャネル戦略を展開している。",
+      "intent": "TikTok Shopは、ショート動画やライブコマースを通じて購買体験をシームレスに提供できる新たなECチャネルとして急速に拡大しており、ブランド側はグローバルな市場へのリーチとD2Cモデルの強化を狙っている。特にZ世代・若年層への影響力が強いTikTokは、新規顧客獲得やブランド認知向上に効果的であるため、既存のECチャネルではリーチしきれない層へのアプローチ手段として活用されている。これは、インフルエンサーを介したコンテンツマーケティングが、従来の広告と比べて効果的であるという業界全体の流れをさらに加速させるものである。",
+      "impact": "本ニュースは、VAZの2026年注力領域である「TikTokショップ」「所属タレントのグッズ（IP）」「インフルエンサーネットワーク」「美容UGC生成」と非常に強く合致しており、その推進に直接的なヒントと機会を提供する。ブランドがTikTok Shopを海外進出の足がかりとしていることは、VAZの所属タレントのTikTok Shop活用やIPグッズのグローバル展開、および美容領域でのUGC生成を通じたブランド支援において、具体的な成功戦略を模倣・応用する余地があることを示唆する。また、インフルエンサーアフィリエイトだけでなく独自のライブ配信を活用する事例は、VAZが提供するソリューションの多様化や品質向上に向けた検討を促す。",
+      "agenda": "ブランドのTikTok Shop活用事例から、VAZは自社タレントのTikTok ShopでのIPグッズ販売や美容UGC生成において、どのような海外展開戦略やクリエイター・物流効率化施策を導入すべきか？",
+      "summary": "TikTok Shop活用ブランドが欧米・日本へ世界進出、オムニチャネル戦略を公開",
+      "axis": "両方"
+    },
+    {
+      "id": 1605,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "株式会社ExpreTech、<b>広告</b>運用のインハウス化をAIで支援する「<b>広告</b>代理店脱却AI」を正式リリース",
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20260709/1313075.html",
+      "totalScore": 10.25,
+      "tags": [
+        "#広告主動向",
+        "#新規マネタイズ事業",
+        "#タイアップ案件"
+      ],
+      "fact": "株式会社ExpreTechが、AIを活用して企業の広告運用内製化を支援する「広告代理店脱却AI」を正式リリースした。",
+      "intent": "多くの企業が広告費増加や運用手数料負担、施策スピード、ノウハウ蓄積の課題から広告運用の内製化を志向しているが、専門知識と工数不足がボトルネックとなっていた。本AIツールは、分析・改善提案・レポーティング・ナレッジ管理をAIが代替することで、企業の自社広告運用を強力に支援し、これらのボトルネックを解消しようとしている。",
+      "impact": "本ニュースは、広告主が広告運用を内製化し、外部パートナーへの依存を減らすトレンドを加速させる可能性を示唆している。VAZのアカウントDivはタイアップ案件提案を通じて広告主のマーケティング課題を解決しているが、広告主の内製化志向が強まるとVAZへの予算配分が見直されるリスクがある。VAZは強みである「広告っぽくないSNSコンテンツ制作」や「Z世代・若年層へのリーチ力」という独自の価値提供をさらに強化し、AIが代替しにくい「クリエイティブ」「企画」「インフルエンサーとの関係構築」の部分で差別化を図る必要がある。VAZの注力領域であるTikTokショップや美容UGC生成において、VAZが提供するインフルエンサーの「コンテンツ力」や「影響力」はAIでは代替しがたい部分であり、その強みを活かしたより深いエンゲージメント戦略を提案することで、このトレンドを乗り越えることができる。",
+      "agenda": "広告主のAI活用による内製化トレンドをVAZはどのように捉え、AIが代替し得ないVAZ独自の「企画・クリエイティブ」価値を最大化する戦略をどう構築すべきか？",
+      "summary": "AIで企業の広告運用内製化を支援するツールをリリース",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 1606,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "<b>VTuber</b>・星街すいせい、ロッテvsソフトバンク戦のファーストピッチセレモニーに登場 ... - 佐賀新聞",
+      "url": "https://www.saga-s.co.jp/articles/-/1746127",
+      "totalScore": 15.5,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#広告主動向"
+      ],
+      "fact": "VTuberの星街すいせいと初音ミクがロッテの冠協賛試合「クーリッシュ＆爽DAY」のファーストピッチセレモニーに登場し、星街すいせいは同社のTVCMにも出演する。",
+      "intent": "VTuberはZ世代を中心に高い人気とエンゲージメントを持ち、従来のインフルエンサーや芸能人とは異なる「バーチャルならでは」の魅力で、広告主が若年層へのリーチや話題性創出、ブランドイメージの刷新を狙う上で魅力的な存在となっている。炎上リスクの低さやIPとしての安定性も評価され、ゲーム・アニメ領域に留まらず、飲料メーカーのような一般消費財ブランドも積極的な起用を進めている。",
+      "impact": "VAZが2026年注力領域とする「アイドルグループ」プロジェクトにおいて、VTuberがバーチャルアイドルとして大手企業の広告起用やリアルイベントに進出している状況は、競合となるだけでなく、強力なIP構築や多角的なファンビジネス展開の重要なベンチマークとなる。また、「所属タレントのグッズ（IP）」戦略においても、VTuberの強力なIPとグッズ展開の多様性は参考とすべきであり、VAZのアカウントDivは大手広告主のVTuber起用動向を分析し、自社インフルエンサーの差別化と新たなタイアップ案件獲得戦略を策定する必要がある。",
+      "agenda": "VTuberの多角的なIP活用とファンエンゲージメント戦略を、VAZの「アイドルグループ」プロジェクトと「所属タレントのグッズ（IP）」事業にどう応用できるか、具体的な施策を検討すべきではないか？",
+      "summary": "VTuberが大手広告主のCM・リアルイベントに起用",
+      "axis": "両方"
+    },
+    {
+      "id": 1607,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "TikTokとFIFAが実証する「W杯の舞台裏を <b>インフルエンサー</b> が発信」の威力 | DIGIDAY［日本版］",
+      "url": "https://digiday.jp/brands/why-brands-are-bringing-creators-to-the-world-cup-sidelines/",
+      "totalScore": 16,
+      "tags": [
+        "#プラットフォーム動向",
+        "#タイアップ案件",
+        "#プランニング・企画"
+      ],
+      "fact": "TikTokとFIFAが連携し、ワールドカップの舞台裏をインフルエンサーが発信するクリエイター主導の大型マーケティング施策を展開し、成功を収めた。",
+      "intent": "従来のスポーツイベントのメディア枠購入だけではZ世代の多様な視聴行動や深い共感を得にくく、ブランド側は単発広告を超え、イベントのカルチャーや観光体験と結びつけた長期的なエンゲージメントを求めており、クリエイターが「広告っぽくない」コンテンツでニーズに応えている。",
+      "impact": "インフルエンサーマーケティングは単なるPRを超え、イベント文化を創出する総合的なアクティベーション装置へと進化しており、VAZの「TikTokショップ」や「インフルエンサーネットワーク」では、より没入感ある体験提供型のコンテンツ企画力が不可欠となる。これは「美容UGC生成」においても、ユーザーのライフスタイルに溶け込んだ体験共有が求められることを示唆している。",
+      "agenda": "W杯事例に見る「クリエイター主導の大型アクティベーション」を、VAZの「TikTokショップ」や「アイドルプロジェクト」などの注力領域でどのように再現し、収益化に繋げるべきか？",
+      "summary": "W杯舞台裏をTikTokで発信、インフルエンサー施策が進化",
+      "axis": "両方"
+    },
+    {
+      "id": 1608,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "カンヌライオンズ の主役に。<b>インフルエンサー</b>が広告の未来を変える理由 | DIGIDAY［日本版］",
+      "url": "https://digiday.jp/brands/creators-arent-just-in-marketings-entertainment-era-theyre-driving-it/",
+      "totalScore": 20.25,
+      "tags": [
+        "#広告主動向",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "カンヌライオンズがインフルエンサーを広告の主役と認定し、ブランドがクリエイターを単なる広告塔でなく長期パートナーとしてIP構築に投資する潮流が加速している。",
+      "intent": "Z世代を中心とした若年層のメディア接触変化に伴い、従来の広告モデルではエンゲージメント獲得が困難になっているため、広告主は信頼性と共感を伴う「広告っぽくない」コンテンツを求めている。このニーズに応えるため、長期的なクリエイターとのパートナーシップとIP構築を通じて、ブランド価値を深く浸透させようとしている。競合他社もクリエイターのIP価値最大化と広告主への戦略的パートナーシップ強化を推し進めていると推察される。",
+      "impact": "VAZの強みである”広告っぽくない”コンテンツ制作力とZ世代へのリーチ力が、インフルエンサー広告市場の主流トレンドと完全に合致し、大きな事業機会となる。特に注力領域である『所属タレントのグッズ（IP）』『アイドルグループ』は、ブランドの『継続的なIP構築』ニーズに直結しており、投資の正当性が一層高まる。また、『美容UGC生成』や『TikTokショップ』においても、クリエイターの信頼性やオーセンティシティが重視されるため、VAZの提供価値が向上する。",
+      "agenda": "ブランドの長期的なIPパートナーとしてのポジションを確立するため、VAZのタレント・クリエイターのIP価値向上施策と、広告主への戦略的企画提案力をどのように強化すべきか？",
+      "summary": "カンヌも認めたインフルエンサー主役化、IPとオーセンティシティが広告の未来",
+      "axis": "両方"
+    },
+    {
+      "id": 1609,
+      "date": "2026-07-10",
+      "company": "業界トレンド",
+      "title": "【サイバーエージェント】日テレ・KDDI共同制作エンタメコマース「びっくりSHOP WOW」公式 ...",
+      "url": "https://times.abema.tv/visions/articles/-/10258553",
+      "totalScore": 21,
+      "tags": [
+        "#ECコマース",
+        "#新規マネタイズ事業",
+        "#プラットフォーム動向"
+      ],
+      "fact": "サイバーエージェントは、日本テレビ、KDDIとの協業でAIと人間が共演する縦型ショートバラエティ『びっくりあいらんど』season2の配信を開始し、これに伴い公式TikTok Shop「びっくりSHOP WOW」を開設・運用支援する。",
+      "intent": "TikTok ShopがEC市場で急速に台頭する中、サイバーエージェントは既存の広告事業に加え、エンターテイメントとコマースを融合した新たな収益源を確立すべく、大手メディア・通信キャリアと協業。これにより、コンテンツ制作力、メディア露出、リーチ力を最大化し、AI技術を駆使してTikTok Shop領域での主導権獲得とクリエイターエコノミーへの深い関与を目指している。",
+      "impact": "VAZの2026年注力領域である「TikTokショップ」と完全に合致しており、サイバーエージェントのような大手企業が日テレ・KDDIと組んでAIを活用したエンタメコマースを本格展開することは、市場競争の激化を意味する。VAZが強みとするZ世代へのリーチや「広告っぽくない」コンテンツ制作力だけでは不十分となり、大手の資金力・技術力に対抗する独自の差別化戦略と効率的な運営ノウハウの確立が急務となる。",
+      "agenda": "大手連携・AI活用が進むTikTok Shop市場で、VAZが既存の強みとアセットを活かし、いかに競争優位性を確立し持続可能な収益モデルを構築するか？",
+      "summary": "サイバーA、日テレ・KDDIとTikTok Shopエンタメコマース強化",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -112404,8 +113074,8 @@
   ],
   "home": {
     "monthLabel": "2026年9月",
-    "thisMonthNewsCount": 650,
-    "thisMonthAnalysisCount": 144,
+    "thisMonthNewsCount": 657,
+    "thisMonthAnalysisCount": 146,
     "highlights": [
       {
         "id": 0,
@@ -112468,13 +113138,13 @@
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 9103.75,
-        "count": 619
+        "totalScore": 9294.75,
+        "count": 630
       },
       {
         "company": "アソビシステム",
-        "totalScore": 6566,
-        "count": 394
+        "totalScore": 6582.25,
+        "count": 395
       },
       {
         "company": "トレンダーズ",
@@ -112498,66 +113168,66 @@
       },
       {
         "company": "TORIHADA",
-        "totalScore": 886.9200000000001,
-        "count": 59
+        "totalScore": 904.9200000000001,
+        "count": 60
+      },
+      {
+        "company": "株式会社Natee",
+        "totalScore": 858.3299999999999,
+        "count": 53
       },
       {
         "company": "GROVE株式会社",
         "totalScore": 839.64,
         "count": 54
-      },
-      {
-        "company": "株式会社Natee",
-        "totalScore": 838.8299999999999,
-        "count": 52
       }
     ],
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 708
+        "count": 713
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 619
+        "count": 626
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 609
+        "count": 616
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 541
+        "count": 546
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 370
+        "count": 375
       },
       {
         "tag": "#広告主動向",
-        "count": 332
+        "count": 335
       },
       {
         "tag": "#ECコマース",
-        "count": 283
+        "count": 285
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 273
+        "count": 277
       },
       {
         "tag": "#プランニング・企画",
-        "count": 232
+        "count": 233
       },
       {
         "tag": "#タイアップ案件",
-        "count": 171
+        "count": 174
       }
     ],
     "axisCounts": {
-      "タレント軸": 587,
-      "マーケティング軸": 450,
-      "両方": 533,
+      "タレント軸": 592,
+      "マーケティング軸": 451,
+      "両方": 541,
       "業界全般": 25
     },
     "tagMaster": {
