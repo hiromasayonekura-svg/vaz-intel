@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-09-23T00:31:25.087Z",
-    "generatedAtJst": "2026-09-23 09:31:25",
-    "totalNews": 2567,
-    "totalAnalyses": 1708,
+    "generatedAt": "2026-09-24T00:31:25.653Z",
+    "generatedAtJst": "2026-09-24 09:31:25",
+    "totalNews": 2603,
+    "totalAnalyses": 1723,
     "totalCompetitors": 7
   },
   "news": [
@@ -20541,6 +20541,294 @@
       "company": "脅威の兆候",
       "title": "はい、以下に翻訳いたしました。**高級フットウェア市場の新たなトレンドと2026年 - Pando",
       "url": "https://pando.life/article/4634665",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、初ワンマンツアー「CROSSROADS」を完遂 涙と笑顔で届けたツアーファイナル - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93TFdURXhyNmdDb3A1azZ4cDBtbFZkamNhTmk3R3ZUMV9HbXAtRjVYTXNIRkptSXM1UEQwTVE0WmRwblpJWFFsRHBVZXNIUEQwU1NiMVd1SGdQTWhfU1lZSkl6OTF0NHZmNnc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-21",
+      "company": "トレンダーズ",
+      "title": "颯花に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXFVRmdpTW5QZTdFTjBIRVZfRzRXeWg5VC1RVGpoV3pWay14ZldHVUhIc2wzd0xvSTZFdS13OXowQkZvT1otWkZ6U29TWk9GYUVxZ1lhQTExSVJwdnJQU3R6T3hMdFdFSjMtTVp6dno0ME5IMi1DWnJJTHBwbVFtdGp4YTR4R2MydHc1cHFMNV9Sajg?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2023-12-07",
+      "company": "トレンダーズ",
+      "title": "世界で活躍するエグゼクティブたちから高い評価を受けている「T JAPAN」。情報を伝えるメディアではなく、「価値を伝えるメディア」としての在り方とは？ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03enFYRjlyOEh0eV9HbldscDlRaU1UYVViem5uemRsR3RSQVdmb093NUF4TlZQTzJseURSWnhRenltNjZLRTNaSTRCcEdvLWEwdVllcmJn?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2022-11-22",
+      "company": "株式会社ナハト",
+      "title": "FCNT 新生arrowsシリーズの挑戦～未来を見据えたら“エシカルライフ”に行きついた～ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xd053VThXeGxuMjRacXRfX3hoVGZTZ243cTMyem93Vml0VTJGU1NMSUhuaXVBZEl4RWZBR19weUhid2dQMUhxRnRtNGFyN25hVllEdnJR?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、多幸感あふれる<b>新曲</b>「ちょーだいHAPPY！」MV解禁｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000893_000017258/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、初ワンマンツアー「CROSSROADS」を完遂 涙と笑顔で届けたツアーファイナル",
+      "url": "https://prtimes.jp/main/html/rd/p/000000897.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、多幸感あふれる<b>新曲</b>「ちょーだいHAPPY！」MV解禁 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19797180",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "トレンダーズ",
+      "title": "ＮＴＴイノベーティブデバイスと<b>トレンダーズ</b>の学生による会社の評価の比較 - 就活会議",
+      "url": "https://syukatsu-kaigi.jp/companies/91957/compare/104227",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "Macbee Planet",
+      "title": "<b>Macbee Planet</b> - プレスリリース - 山梨日日新聞",
+      "url": "https://www.sannichi.co.jp/prtimes/others/c23647_r191",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "Macbee Planet",
+      "title": "新規営業｜株式会社<b>Macbee Planet</b>の求人 - 転職AI",
+      "url": "https://tensyokuai.co.jp/jobs/macbee-planet/new-business-sales-member/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19798944?news_ref=watch_20_nw19213942",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000058085.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "# ブラストシェル<b>市場</b>トレンド分析2026-2033年：<b>市場</b>規模、シェア、および年平均成《Pando》",
+      "url": "https://pando.life/article/4639224",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "アイラッシュカーラー<b>市場</b>の評価：主要企業、組織規模、成長要因、および<b>市場</b>シェア - Pando",
+      "url": "https://pando.life/article/4639225",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "メンズグルーミング製品<b>市場</b>の予測収益と成長：2026年から2033年にかけての年平均成 - Pando",
+      "url": "https://pando.life/article/4638339",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "サイバーエージェント、東京藝術大学とキャラクターIP共同プロジェクトを始動。次世代 ...",
+      "url": "https://branc.jp/article/2026/09/22/3129.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "屈扬 (Qu Yang) | 中国縦型<b>ショートドラマ</b>限定！俳優&amp;女優図鑑",
+      "url": "https://ameblo.jp/ich-lovecnshortdrama/entry-12979501884.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東区を舞台にした縦型<b>ショートドラマ</b>『恋だけなら、もういらない。』公開 - Infoseek 楽天",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000166684/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東ファッションフェア実行委、レザー産業描く<b>縦型ドラマ</b>を9月29日より公開 - Dellows News",
+      "url": "https://news.dellows.jp/420734/?from=top_category_area",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "本島純政、初時代劇で柳葉敏郎から学んだ“人間らしさ” 目指すは「いい意味でどんどん裏切る」俳優",
+      "url": "https://news.mynavi.jp/article/20260923-5004003/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東区を舞台にした縦型<b>ショートドラマ</b>『恋だけなら、もういらない | エンタメラッシュ",
+      "url": "https://entamerush.jp/716601/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "【PR TIMES <b>広告</b>・マーケティング <b>広告</b>・マーケティング】Nativex、東京で「DTCブランド向け ...",
+      "url": "https://ibarakinews.jp/news/newsdetail.php?f_jun=c58085_r28&elem=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "「<b>TikTok</b>の時間を減らせよ！」<b>日本</b>人4人所属のドイツチーム、ドロ沼最下位…アニメ好きの31歳 ...",
+      "url": "http://www.excite.co.jp/news/article/Qoly_6ee3c43b48192048553d7acf1de8ee997aa13add/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "業界トレンド",
+      "title": "「二人で支え合いながら…」昨季に現役引退の元<b>日本</b>代表DFが33歳女優との結婚を発表！「温かく ...",
+      "url": "https://www.chiba-tv.com/plus/detail/2026092032912",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "業界トレンド",
+      "title": "硬い踊りに首を気にする姿…ヘルニア治療中のKARA・スンヨン、学園祭での様子に心配の声",
+      "url": "https://www.chiba-tv.com/plus/detail/2026092032789",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260923-R7Q76MCL4NGNHGACUNADAYK3DU/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - dニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-R7Q76MCL4NGNHGACUNADAYK3DU?page=2",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "業界トレンド",
+      "title": "初のソロライブが開催決定！おらふくん「Palette」 - ライブドアニュース - Livedoor",
+      "url": "https://news.livedoor.com/article/detail/32388089/?from_page=internal",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "業界トレンド",
+      "title": "初のソロライブが開催決定！おらふくん「Palette」 - Dtimes",
+      "url": "https://dtimes.jp/post-1386567/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "業界トレンド",
+      "title": "フィッシャーズのシルクロード、〝ショートスリーパー〟堀大輔氏に困惑「寝るか寝ないかの話 ...",
+      "url": "https://www.sanspo.com/article/20260922-SHUA3MBDPZAMRNQNRCXX7I5MUE/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "お金持ちは何にお金を使う？ 「新富裕層」に見られるモノ離れとは違う消費傾向",
+      "url": "https://www.advertimes.com/20260923/article558035/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "飲食費は1人約2.8万円。SAELOUN、拡大する韓国人インバウンド飲食市場への集客支援をさらに ...",
+      "url": "https://www.iza.ne.jp/pressrelease/prtimes/TLOVF3UHTJL6HPTKKICOU375PI/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "元KAT-TUN田口淳之介が結婚、第1子誕生！小嶺麗奈さんとは破局（2/3ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260922-IZ3WPK347NGQPDFOC3NP4JLRGU/2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "脅威の兆候",
+      "title": "ハーランドが「オモロすぎ」 話題のネット動画を模倣…ファン歓喜「世界的スターが全力で」",
+      "url": "https://news.infoseek.co.jp/article/footballzone_674729/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "脅威の兆候",
+      "title": "<b>ステマ規制</b>とは？<b>インフルエンサー</b>施策で必要なPR表記のルール - 株式会社New Deck",
+      "url": "https://newdeck.co.jp/blog/stealth-marketing-kisei",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "日本の保護者に欠けている「大学評価」の視点 | アゴラ 言論プラットフォーム",
+      "url": "https://agora-web.jp/archives/260918000416.html",
       "status": "未処理"
     }
   ],
@@ -60511,6 +60799,346 @@
         "benchmark": 4
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、多幸感あふれる<b>新曲</b>「ちょーだいHAPPY！」MV解禁｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000893_000017258/",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、初ワンマンツアー「CROSSROADS」を完遂 涙と笑顔で届けたツアーファイナル",
+      "url": "https://prtimes.jp/main/html/rd/p/000000897.000017258.html",
+      "totalScore": 10.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "トレンダーズ",
+      "title": "ＮＴＴイノベーティブデバイスと<b>トレンダーズ</b>の学生による会社の評価の比較 - 就活会議",
+      "url": "https://syukatsu-kaigi.jp/companies/91957/compare/104227",
+      "totalScore": 6,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、初ワンマンツアー「CROSSROADS」を完遂 涙と笑顔で届けたツアーファイナル - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93TFdURXhyNmdDb3A1azZ4cDBtbFZkamNhTmk3R3ZUMV9HbXAtRjVYTXNIRkptSXM1UEQwTVE0WmRwblpJWFFsRHBVZXNIUEQwU1NiMVd1SGdQTWhfU1lZSkl6OTF0NHZmNnc?oc=5",
+      "totalScore": 14.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、多幸感あふれる<b>新曲</b>「ちょーだいHAPPY！」MV解禁 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19797180",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 2,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-22",
+      "company": "Macbee Planet",
+      "title": "新規営業｜株式会社<b>Macbee Planet</b>の求人 - 転職AI",
+      "url": "https://tensyokuai.co.jp/jobs/macbee-planet/new-business-sales-member/",
+      "totalScore": 8.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2022-11-22",
+      "company": "株式会社ナハト",
+      "title": "FCNT 新生arrowsシリーズの挑戦～未来を見据えたら“エシカルライフ”に行きついた～ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xd053VThXeGxuMjRacXRfX3hoVGZTZ243cTMyem93Vml0VTJGU1NMSUhuaXVBZEl4RWZBR19weUhid2dQMUhxRnRtNGFyN25hVllEdnJR?oc=5",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2023-12-07",
+      "company": "トレンダーズ",
+      "title": "世界で活躍するエグゼクティブたちから高い評価を受けている「T JAPAN」。情報を伝えるメディアではなく、「価値を伝えるメディア」としての在り方とは？ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03enFYRjlyOEh0eV9HbldscDlRaU1UYVViem5uemRsR3RSQVdmb093NUF4TlZQTzJseURSWnhRenltNjZLRTNaSTRCcEdvLWEwdVllcmJn?oc=5",
+      "totalScore": 6.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-21",
+      "company": "トレンダーズ",
+      "title": "颯花に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXFVRmdpTW5QZTdFTjBIRVZfRzRXeWg5VC1RVGpoV3pWay14ZldHVUhIc2wzd0xvSTZFdS13OXowQkZvT1otWkZ6U29TWk9GYUVxZ1lhQTExSVJwdnJQU3R6T3hMdFdFSjMtTVp6dno0ME5IMi1DWnJJTHBwbVFtdGp4YTR4R2MydHc1cHFMNV9Sajg?oc=5",
+      "totalScore": 13.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19798944?news_ref=watch_20_nw19213942",
+      "totalScore": 17.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000058085.html",
+      "totalScore": 16.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "# ブラストシェル<b>市場</b>トレンド分析2026-2033年：<b>市場</b>規模、シェア、および年平均成《Pando》",
+      "url": "https://pando.life/article/4639224",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "アイラッシュカーラー<b>市場</b>の評価：主要企業、組織規模、成長要因、および<b>市場</b>シェア - Pando",
+      "url": "https://pando.life/article/4639225",
+      "totalScore": 9.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 4,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "メンズグルーミング製品<b>市場</b>の予測収益と成長：2026年から2033年にかけての年平均成 - Pando",
+      "url": "https://pando.life/article/4638339",
+      "totalScore": 10.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 4,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "サイバーエージェント、東京藝術大学とキャラクターIP共同プロジェクトを始動。次世代 ...",
+      "url": "https://branc.jp/article/2026/09/22/3129.html",
+      "totalScore": 18.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "屈扬 (Qu Yang) | 中国縦型<b>ショートドラマ</b>限定！俳優&amp;女優図鑑",
+      "url": "https://ameblo.jp/ich-lovecnshortdrama/entry-12979501884.html",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東区を舞台にした縦型<b>ショートドラマ</b>『恋だけなら、もういらない。』公開 - Infoseek 楽天",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000166684/",
+      "totalScore": 12.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東ファッションフェア実行委、レザー産業描く<b>縦型ドラマ</b>を9月29日より公開 - Dellows News",
+      "url": "https://news.dellows.jp/420734/?from=top_category_area",
+      "totalScore": 20.5,
+      "breakdown": {
+        "finance": 3,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "本島純政、初時代劇で柳葉敏郎から学んだ“人間らしさ” 目指すは「いい意味でどんどん裏切る」俳優",
+      "url": "https://news.mynavi.jp/article/20260923-5004003/",
+      "totalScore": 11.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東区を舞台にした縦型<b>ショートドラマ</b>『恋だけなら、もういらない | エンタメラッシュ",
+      "url": "https://entamerush.jp/716601/",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -92732,6 +93360,287 @@
       "agenda": "激化するUGC市場でVAZが優位性を保ち、美容UGC生成やTikTokショップでのシェアを拡大するために、どのようなコンテンツ制作やプラットフォーム連携戦略を強化すべきか？",
       "summary": "UGC市場、2026年まで競争激化と成長予測",
       "axis": "両方"
+    },
+    {
+      "id": 1708,
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、多幸感あふれる<b>新曲</b>「ちょーだいHAPPY！」MV解禁｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000893_000017258/",
+      "totalScore": 15.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属アイドルグループ「SWEET STEADY」が新曲「ちょーだいHAPPY！」のMVを解禁し、大規模公演の成功と音楽アワードへのエントリー実績も紹介された。",
+      "intent": "アソビシステムは独自のIP育成に強みを持つ企業であり、SWEET STEADYの新曲発表とMV解禁は、既存アイドルグループのブランド力向上とファンエンゲージメント強化を目的とした戦略的なコンテンツ投資と推察される。MUSIC AWARDSでの評価やぴあアリーナMMでの単独公演成功は、グループの成長フェーズを示すものであり、さらなる飛躍を目指すための重要なプロモーション活動である。これは、アイドル市場における競争激化と、IP価値を最大化するための継続的なコンテンツ投下の必要性を示唆している。",
+      "impact": "本ニュースはVAZの2026年注力領域である「アイドルグループ」および「所属タレントのグッズ（IP）」と強く関連する。競合のアソビシステムが、大規模な会場での単独公演を成功させ、音楽アワードにエントリーされるレベルのアイドルグループを育成し、継続的に魅力的なコンテンツ（新曲MV）を投入している事実は、VAZのアイドルプロジェクトにとって強力な競合が存在することを示す。特に、ぴあアリーナMMでの実績は、ターゲットとするファン層へのリーチ力と収益化モデルの確立において参考になる。VAZは自社の強みであるZ世代リーチとSNSコンテンツ制作力を活かしつつ、アソビシステムの成功事例からIP育成とファンベース構築の戦略を学ぶ必要がある。",
+      "agenda": "アソビシステムのSWEET STEADYが示す大規模公演やアワード実績から、VAZのアイドルプロジェクトにおける目標設定とIP育成・ファンベース構築戦略をどのように具体化すべきか？",
+      "summary": "アソビシステム所属アイドルSWEET STEADYが新曲MV解禁、活動強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1709,
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、初ワンマンツアー「CROSSROADS」を完遂 涙と笑顔で届けたツアーファイナル",
+      "url": "https://prtimes.jp/main/html/rd/p/000000897.000017258.html",
+      "totalScore": 10.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のシンガーソングライター砂月凜々香が、初のワンマンライブツアー「CROSSROADS」を完遂し、9月22日にツアーファイナル公演を渋谷WWWで開催した。",
+      "intent": "競合アソビシステムは、アーティストのライブツアーというリアルイベントを通じて、タレントのIP価値向上とファンエンゲージメント強化を図っている。これは、タレントの活動領域を広げ、安定的なファンベースを構築することで、長期的な収益源を確保する戦略の一環であり、特に音楽アーティストの場合、ライブは直接的な収益源となり、グッズ販売など付随するIP事業にも繋がる。VAZがアイドルプロジェクトを注力する上で、競合が既にアーティストのライブ活動をマネタイズの柱の一つとしている現状は、VAZも学ぶべきファンビジネスの展開モデルを示唆している。",
+      "impact": "このニュースは、競合がアーティストのライブ活動を通じてファンベースを構築し、IP価値を高める戦略を実行していることを示す。VAZの「アイドルグループ」プロジェクトにとって、ライブツアーの企画・運営ノウハウやファンエンゲージメントの手法は非常に重要となる。また、「所属タレントのグッズ（IP）」の観点からも、ライブ会場での物販や限定グッズ展開は重要な収益源であり、IPビジネスの成功事例として参考にできる。V-Tuberやアイドルといったエンタメ分野でのIP育成・マネタイズが加速する中で、リアルイベントを組み合わせた多角的なファンビジネス展開は業界のトレンドの一つであり、VAZの注力領域と強く合致する。",
+      "agenda": "自社アイドルプロジェクトにおいて、リアルイベントとしてのライブツアーをどのように企画・実行し、タレントIP価値とファンエンゲージメントを最大化させるべきか？",
+      "summary": "アソビシステム、所属アーティスト砂月凜々香が初のワンマンツアー完遂",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1710,
+      "date": "2026-09-22",
+      "company": "アソビシステム",
+      "title": "砂月凜々香、初ワンマンツアー「CROSSROADS」を完遂 涙と笑顔で届けたツアーファイナル - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93TFdURXhyNmdDb3A1azZ4cDBtbFZkamNhTmk3R3ZUMV9HbXAtRjVYTXNIRkptSXM1UEQwTVE0WmRwblpJWFFsRHBVZXNIUEQwU1NiMVd1SGdQTWhfU1lZSkl6OTF0NHZmNnc?oc=5",
+      "totalScore": 14.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属の砂月凜々香が初のワンマンツアー「CROSSROADS」を完遂した。",
+      "intent": "音楽やライブイベントは、タレントにとってファンとの直接的なエンゲージメントを深め、IP価値を高める重要な機会である。特にコロナ禍を経てリアルイベントが回復する中、ファンとの対面機会を創出し、グッズ販売を含めたファンビジネスの収益最大化を図る競合の戦略が垣間見える。",
+      "impact": "本ニュースは、VAZが注力する「アイドルグループ」および「所属タレントのグッズ（IP）」戦略において重要な示唆を与える。アソビシステムがライブツアーを通じてファンエンゲージメントを深め、IPの収益化を図るモデルは、VAZのアイドルプロジェクトにおけるリアルイベントとIP戦略の連携を検討する上での参考となる。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、ライブツアー等のリアルイベントとIPグッズ販売をどのように連携させ、ファンとのエンゲージメントおよび収益を最大化すべきか？",
+      "summary": "アソビシステムのタレントがワンマンツアーを成功させ、ファンビジネスを強化。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1711,
+      "date": "2026-09-22",
+      "company": "アソビシステム",
+      "title": "SWEET STEADY、多幸感あふれる<b>新曲</b>「ちょーだいHAPPY！」MV解禁 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19797180",
+      "totalScore": 18,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のアイドルグループ「SWEET STEADY」が新曲「ちょーだいHAPPY！」のミュージックビデオを解禁した。",
+      "intent": "アソビシステムはKAWAII文化を軸にアーティストやアイドルの育成・マネジメントに強みを持つ。アイドルグループの継続的な活動は、ファンエンゲージメントの維持・拡大、IP資産（楽曲、キャラクター性）の蓄積、ひいてはイベントやグッズ販売によるマネタイズに不可欠である。新曲発表は、既存ファンの満足度向上と新規ファン獲得のための定常的な活動であり、グループの活性化を図ることで長期的な収益基盤を強化する意図がある。",
+      "impact": "VAZは2026年注力領域として「アイドルグループ」と「所属タレントのグッズ（IP）」を掲げており、アソビシステムの今回の動きはVAZの戦略と直接的に合致する。特にアソビシステムは長年の実績を持つアイドルプロデュース企業であり、新曲発表後のプロモーション戦略、MVの企画・制作手法、ファンコミュニティとの連携、そしてIP活用によるマネタイズ方法は、VAZのアイドルプロジェクトを推進する上で具体的なベンチマークとなり得る。アイドルIPの継続的な創出とファンエンゲージメント強化は、VAZが目指す長期的なIP事業成長に直結する。",
+      "agenda": "アソビシステムのアイドル新曲MVプロモーション戦略から、VAZのアイドルプロジェクトにおける新規ファン獲得およびIPグッズ展開の具体策をどう構築すべきか？",
+      "summary": "アソビシステム所属アイドル新曲MV解禁、IP強化とファン拡大へ。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1712,
+      "date": "2022-11-22",
+      "company": "株式会社ナハト",
+      "title": "FCNT 新生arrowsシリーズの挑戦～未来を見据えたら“エシカルライフ”に行きついた～ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xd053VThXeGxuMjRacXRfX3hoVGZTZ243cTMyem93Vml0VTJGU1NMSUhuaXVBZEl4RWZBR19weUhid2dQMUhxRnRtNGFyN25hVllEdnJR?oc=5",
+      "totalScore": 11.5,
+      "tags": [
+        "#タイアップ案件",
+        "#広告主動向",
+        "#プランニング・企画"
+      ],
+      "fact": "競合の株式会社ナハトが、FCNTのスマートフォン「arrows」の新シリーズにおいて、「エシカルライフ」をテーマにしたプロモーションで協業したことがPR TIMESにて公表された。",
+      "intent": "FCNTがスマートフォン市場での差別化と高まるSDGs/エシカル消費への関心に対応するため、若年層に影響力を持つナハトのインフルエンサーマーケティング力を活用し、ブランド価値向上を狙ったと推測される。競合ナハトは、大手クライアントとの関係強化と社会貢献テーマへの対応実績を積むことで、市場での優位性確立を図る意図があると考えられる。",
+      "impact": "競合ナハトが大手の「エシカル」テーマ案件を獲得したことは、VAZのアカウントDivにとって潜在的な顧客喪失リスクと同時に、VAZの強みであるZ世代・若年層へのリーチ力や\"広告っぽくない\"SNSコンテンツ制作を活かせる新たな市場機会を示す。VAZの注力領域であるインフルエンサーネットワーク活用や美容UGC生成の文脈で、エシカルテーマのコンテンツ制作への応用可能性を検討すべきである。",
+      "agenda": "VAZとして、大手企業のSDGsやエシカル消費をテーマとしたタイアップ案件を積極的に獲得するため、どのような企画提案戦略を構築すべきか？",
+      "summary": "競合ナハト、FCNT新生arrowsのエシカルプロモに参画",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 1713,
+      "date": "2026-09-21",
+      "company": "トレンダーズ",
+      "title": "颯花に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXFVRmdpTW5QZTdFTjBIRVZfRzRXeWg5VC1RVGpoV3pWay14ZldHVUhIc2wzd0xvSTZFdS13OXowQkZvT1otWkZ6U29TWk9GYUVxZ1lhQTExSVJwdnJQU3R6T3hMdFdFSjMtTVp6dno0ME5IMi1DWnJJTHBwbVFtdGp4YTR4R2MydHc1cHFMNV9Sajg?oc=5",
+      "totalScore": 13.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "トレンダーズがPR TIMESにてインフルエンサー『颯花』に関するプレスリリースを配信した。",
+      "intent": "競合のトレンダーズが特定のインフルエンサーに関するプレスリリースを発表する背景には、その人物の影響力活用や新規プロジェクトへの起用、あるいは既存事業強化の意図があると推測される。特にインフルエンサーマーケティングやPRに強みを持つ同社が、個人に焦点を当てることでブランドイメージ向上や新たな事業機会創出を狙っている可能性が高い。",
+      "impact": "ニュースの詳細が不明なため直接的な影響は限定的だが、もし『颯花』がVAZの強みであるZ世代や美容・コスメ領域のインフルエンサーである場合、タレント獲得競争や案件獲得において競合優位性の変動に繋がりうる。特にトレンダーズが特定の個人の存在をプレスリリースで強調する意図は、VAZの注力領域であるインフルエンサーネットワークやアイドルグループ戦略、美容UGC生成との関連性を探る上で重要である。",
+      "agenda": "トレンダーズの『颯花』に関する具体的な発表内容と、それがVAZのインフルエンサーネットワーク戦略や新規タレント獲得に与える影響について調査し、今後の戦略にどう活かすべきか？",
+      "summary": "トレンダーズがインフルエンサー「颯花」に関する発表",
+      "axis": "両方"
+    },
+    {
+      "id": 1714,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19798944?news_ref=watch_20_nw19213942",
+      "totalScore": 17.25,
+      "tags": [
+        "#広告主動向",
+        "#ECコマース",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "Nativexが東京でDTCブランド向けの実践セミナーを開催した。",
+      "intent": "DTCブランドはオンラインでの顧客接点強化のため、インフルエンサー活用やECプラットフォームでの売上向上に課題を抱えている。Nativexは、このニーズに応える実践的なノウハウを提供することで、DTCブランド市場における顧客獲得と自社のプレゼンス向上を図っている。",
+      "impact": "このセミナーは、VAZが注力するTikTokショップ、インフルエンサーネットワーク、美容UGC生成といった領域において、DTCブランドからの需要が非常に高いことを示唆している。VAZの強みである「広告っぽくないSNSコンテンツ制作」や「美容・コスメ領域との親和性」はDTCブランドと相性が良く、競合が知見を提供し始めている今こそ、VAZはDTCブランド特化のソリューション開発と営業戦略を強化し、市場における競争優位性を確立するべきである。",
+      "agenda": "DTCブランドの獲得を強化するため、VAZはTikTokショップや美容UGC生成といった注力領域で、どのような具体的ソリューションを開発し、営業戦略を策定すべきか？",
+      "summary": "NativexがDTCブランド向け実践セミナー開催",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 1715,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000058085.html",
+      "totalScore": 16.75,
+      "tags": [
+        "#ECコマース",
+        "#プラットフォーム動向",
+        "#広告主動向"
+      ],
+      "fact": "NativexがByteDanceとネットスターズの業界エキスパートを招き、TikTokにおけるDTCブランドのEC売上課題解決を目的とした実践セミナーを東京で開催する。",
+      "intent": "EC市場成長とTikTok融合が進む中、多くのDTCブランドやEC事業者がTikTokからのトラフィックを実際の売上につなげられないボトルネックを抱えている。Nativexは公式知見を活かし、顧客の具体的な課題解決策を提供することで、ソリューションプロバイダーとしての優位性を確立し、広告主獲得を強化しようとしている。",
+      "impact": "本ニュースは、VAZが注力する「TikTokショップ」戦略と完全に合致しており、DTCブランドの売上課題に対するVAZのコンテンツ制作力やZ世代リーチ力を活かしたソリューション提供の好機を示す。VAZは「広告っぽくない」コンテンツで、集客から購買まで一貫した「TikTokショップ」戦略を強化する上で、セミナーで提示される最新の知見と競合の課題認識を把握し、自社の強みを活かした提案に繋げるべきである。",
+      "agenda": "DTCブランドのTikTok売上課題に対し、VAZの「TikTokショップ」や「美容UGC生成」を組み合わせた具体的な売上貢献プランを、新規マネタイズ事業としてどう提案・実行すべきか？",
+      "summary": "DTCブランド向けTikTok売上課題解決セミナー開催",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 1716,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "メンズグルーミング製品<b>市場</b>の予測収益と成長：2026年から2033年にかけての年平均成 - Pando",
+      "url": "https://pando.life/article/4638339",
+      "totalScore": 10.5,
+      "tags": [
+        "#市場規模・調査",
+        "#ECコマース",
+        "#広告主動向"
+      ],
+      "fact": "メンズグルーミング製品市場は2026年から2033年にかけて年平均成長が見込まれる。",
+      "intent": "男性の美容意識の高まり、SNSを通じた情報拡散、そして清潔感への関心の増大が背景にあり、特にVAZの強みであるZ世代を中心に自己表現の一環として需要が拡大していると推測される。",
+      "impact": "メンズグルーミング市場の成長は、VAZの「美容・コスメ領域との親和性」という強みと合致し、大きな事業機会となりうる。注力領域であるTikTokショップでの販売、男性タレントを活用した美容UGC生成、タレントIPグッズ展開でのメンズコスメライン検討など、多角的なアプローチで収益化できる可能性がある。",
+      "agenda": "VAZの強みであるZ世代へのリーチと美容・コスメ領域の親和性を活かし、成長するメンズグルーミング市場をいかに収益機会に変えるべきか？",
+      "summary": "メンズグルーミング製品市場、2026年以降の成長見込み",
+      "axis": "業界全般"
+    },
+    {
+      "id": 1717,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "サイバーエージェント、東京藝術大学とキャラクターIP共同プロジェクトを始動。次世代 ...",
+      "url": "https://branc.jp/article/2026/09/22/3129.html",
+      "totalScore": 18.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社IP・グッズ"
+      ],
+      "fact": "サイバーエージェントが東京藝術大学と共同で次世代クリエイター発掘・育成のためのキャラクターIP創出プロジェクトを始動し、コンペ「CHARAAS」を開催する。",
+      "intent": "コンテンツ業界において強力なIPは持続的な収益源であり、サイバーエージェントは未来のヒットIPを安定的に供給するため、専門教育機関である東京藝術大学と連携し、上流から才能あるクリエイターを発掘・育成する狙いがある。",
+      "impact": "大手企業による大学連携でのIP創出本格化は、IP獲得競争を激化させる。VAZは「所属タレントのグッズ（IP）」「アイドルグループ」を注力領域としており、この動きはIP市場における競争の高度化と多様化を示唆し、IP開発の上流工程への投資の重要性をVAZに突きつける。",
+      "agenda": "Z世代クリエイターの才能を早期に発掘し、VAZの注力するIP領域へと繋げるための独自のエコシステムをどのように構築すべきか？",
+      "summary": "サイバーエージェントが藝大とキャラIP共創、クリエイター発掘へ",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1718,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "屈扬 (Qu Yang) | 中国縦型<b>ショートドラマ</b>限定！俳優&amp;女優図鑑",
+      "url": "https://ameblo.jp/ich-lovecnshortdrama/entry-12979501884.html",
+      "totalScore": 16.25,
+      "tags": [
+        "#プラットフォーム動向",
+        "#コンテンツ制作",
+        "#タレント発掘・育成"
+      ],
+      "fact": "中国の縦型ショートドラマ市場で活躍する俳優・屈扬のプロフィール、出演作、SNS（抖音・小紅書など）利用状況が紹介されている。",
+      "intent": "中国では抖音（TikTok）を筆頭に縦型動画プラットフォームのユーザー数が巨大化し、短い時間で楽しめる「ショートドラマ」という新たなコンテンツ形式が爆発的に普及している。これにより、従来の俳優とは異なる、ショートドラマに特化したタレントが独自のSNS運用でファンを獲得するモデルが確立されており、新しいIP創出とマネタイズ機会を生み出している。これはプラットフォームの進化とユーザーの視聴行動の変化に最適化した結果であり、VAZの注力領域（TikTok、IP、アイドルなど）と強く関連するため、国内市場の未来を先行して示す動向として重要である。",
+      "impact": "このニュースは、VAZが2026年注力領域とする「TikTokショップ」「タレントIPグッズ」「インフルエンサーネットワーク」「アイドルグループ」と深く関連する。中国の縦型ショートドラマ市場は、TikTokなどのプラットフォームで新たなタレントを発掘・育成し、コンテンツを通じてIP化、さらにはEC（TikTokショップ）やファンビジネスへと展開するモデルを確立している。VAZの強みであるZ世代へのリーチ力とコンテンツ制作力を活かせば、「広告っぽくない」縦型ショートドラマ形式で所属タレントを起用し、IPグッズや将来的なアイドルグループ展開、ひいてはTikTokショップとの連携強化に繋がる可能性を示唆しており、国内市場での先行者利益を獲得するための重要なヒントとなる。",
+      "agenda": "中国の縦型ショートドラマ市場の成功モデルを参考に、VAZのZ世代向けタレント戦略やTikTokショップ連携にどう応用し、新たなIP創出と収益最大化を図るべきか？",
+      "summary": "中国縦型ショートドラマ俳優から見るSNSコンテンツトレンド",
+      "axis": "両方"
+    },
+    {
+      "id": 1719,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東区を舞台にした縦型<b>ショートドラマ</b>『恋だけなら、もういらない。』公開 - Infoseek 楽天",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000166684/",
+      "totalScore": 12.75,
+      "tags": [
+        "#コンテンツ制作",
+        "#タイアップ案件",
+        "#プランニング・企画"
+      ],
+      "fact": "台東区を舞台に、地域のレザー産業の魅力を伝える目的で縦型ショートドラマ『恋だけなら、もういらない。』が公開された。",
+      "intent": "地域や産業が若年層、特にZ世代をターゲットに認知拡大やイメージ向上を図る際、従来の広告手法ではリーチしにくいという課題があるため、若年層が日常的に接触する縦型短尺動画プラットフォームに最適化された「縦型ショートドラマ」という形式が採用されたと考えられる。これは“広告っぽくない”自然なコンテンツとしてブランドや地域の魅力を伝える効果的な手段であり、VAZの強みであるZ世代・若年層へのリーチ力と合致する。",
+      "impact": "このニュースは、VAZが強みとするZ世代・若年層へのリーチ力や「広告っぽくない」SNSコンテンツ制作の需要が高まっていることを示唆している。縦型ショートドラマは、VAZの2026年注力領域であるTikTokショップや美容UGC生成と直接連携はしていないものの、これらのプラットフォームやコンテンツ形式でインフルエンサーを活用した新しいタイアップ案件や自社チャンネルでのコンテンツ展開の可能性を広げる。特に、地域や特定の産業と連携したコンテンツ企画は、アカウントDivの新規マネタイズ事業やプランニングチームの提案力強化に繋がる。",
+      "agenda": "既存のインフルエンサーやコンテンツ制作力を活用し、地域連携や特定産業の課題解決に繋がる縦型ショートドラマ型プロモーションを、新たな事業機会としてどのように開拓・展開すべきか？",
+      "summary": "地域連携縦型ショートドラマ公開、Z世代向け施策",
+      "axis": "両方"
+    },
+    {
+      "id": 1720,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東ファッションフェア実行委、レザー産業描く<b>縦型ドラマ</b>を9月29日より公開 - Dellows News",
+      "url": "https://news.dellows.jp/420734/?from=top_category_area",
+      "totalScore": 20.5,
+      "tags": [
+        "#コンテンツ制作",
+        "#プランニング・企画",
+        "#広告主動向"
+      ],
+      "fact": "台東ファッションフェア実行委員会が、台東区のレザー産業の魅力を若年層に発信するため、縦型ショートドラマ『恋だけなら、もういらない。』をInstagramとTikTokで2026年9月29日より公開する。",
+      "intent": "従来の企業広告や地域プロモーションが若年層に響きにくい中、SNSコンテンツの主流である縦型ショート動画を活用し、共感性の高いストーリーを通じて「広告っぽくない」自然な形でブランドや地域の魅力を伝える意図がある。これはVAZの強みである「広告っぽくない」制作と同じ課題意識から生まれた戦略である。",
+      "impact": "VAZにとって、このニュースは「Z世代・若年層へのリーチ力」や「広告っぽくないSNSコンテンツ制作」といった強みを活かしたタイアップ案件獲得の好機を示唆する。特にVAZの「2026年注力領域」であるTikTokショップやタレントIPグッズのプロモーションにおいて、今回のような縦型ドラマ形式で商品やブランドの背景にあるストーリーを伝える手法は有効な選択肢となり得る。",
+      "agenda": "広告主が求める「広告っぽくない」コンテンツの解像度を高めるため、具体的にどのような「物語性のある縦型ショート動画」を企画提案し、VAZの強みをさらに差別化していくか？",
+      "summary": "台東区が縦型ドラマをIG/TikTok公開、産業魅力発信",
+      "axis": "両方"
+    },
+    {
+      "id": 1721,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "本島純政、初時代劇で柳葉敏郎から学んだ“人間らしさ” 目指すは「いい意味でどんどん裏切る」俳優",
+      "url": "https://news.mynavi.jp/article/20260923-5004003/",
+      "totalScore": 11.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#自社チャンネル運営"
+      ],
+      "fact": "俳優の本島純政が出演する本格時代劇ショートドラマ『まめで四角でやわらかで』が、YouTubeなどで合計5,000万回再生を記録し、TV初放送される。",
+      "intent": "現代の若年層の視聴傾向に合わせ、時代劇という歴史的題材をショートドラマ形式でYouTube配信することで、新規層にリーチし、若手俳優の多様なキャリア形成とコンテンツ多様化を狙う意図がある。",
+      "impact": "VAZの「コンテンツ制作力」と「Z世代・若年層へのリーチ力」を活かし、YouTubeショートドラマで大規模なリーチが可能であることを示唆しており、特に「アイドルグループ」や「タレントIPグッズ」展開において、プラットフォームでの影響力のあるコンテンツ制作とタレント認知度向上に繋げる戦略は有効である。",
+      "agenda": "VAZの注力タレントやアイドル候補生を起用し、WebとTV連動型のような多角的なメディア展開が可能なショートドラマコンテンツの企画・制作を始めるべきではないか？",
+      "summary": "若手俳優のYouTubeショートドラマがヒット、TV放送へ",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1722,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "台東区を舞台にした縦型<b>ショートドラマ</b>『恋だけなら、もういらない | エンタメラッシュ",
+      "url": "https://entamerush.jp/716601/",
+      "totalScore": 11.5,
+      "tags": [
+        "#コンテンツ制作"
+      ],
+      "fact": "台東区を舞台とした縦型ショートドラマ『恋だけなら、もういらない』が公開された。",
+      "intent": "SNSでの可処分時間争奪戦が激化する中で、若年層が主に使用するTikTokやYouTube Shortsといった縦型コンテンツプラットフォームへの適応とエンゲージメント獲得を狙った動き。制作コストや時間の効率化も可能で、スピーディーなコンテンツ提供により競合が若年層向け市場での存在感を強化しようとしている。",
+      "impact": "縦型ショートドラマはVAZの強みであるコンテンツ制作力やZ世代へのリーチ力と親和性が高く、競合もこの領域に注力する動きはVAZにとって直接的な事業領域のトレンド。特に、VAZの2026年注力領域であるTikTokショップ、インフルエンサーネットワーク、アイドルグループのプロモーションにも活用できる新たなコンテンツ形式であり、タレントの新しい活躍の場や\"広告っぽくない\"タイアップ案件への可能性を広げる。",
+      "agenda": "VAZの強みを活かし、自社タレントやアイドルグループを起用した縦型ショートドラマを、TikTokショップ連携も含めどのように戦略的に展開し、新たなマネタイズに繋げるか？",
+      "summary": "台東区舞台の縦型ショートドラマ開始、SNSコンテンツ強化の動き",
+      "axis": "タレント軸"
     }
   ],
   "competitors": [
@@ -92766,8 +93675,8 @@
   ],
   "home": {
     "monthLabel": "2026年9月",
-    "thisMonthNewsCount": 516,
-    "thisMonthAnalysisCount": 232,
+    "thisMonthNewsCount": 550,
+    "thisMonthAnalysisCount": 246,
     "highlights": [
       {
         "id": 0,
@@ -92830,23 +93739,23 @@
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 9953.25,
-        "count": 676
+        "totalScore": 10088.25,
+        "count": 685
       },
       {
         "company": "アソビシステム",
-        "totalScore": 7072.5,
-        "count": 424
+        "totalScore": 7130.75,
+        "count": 428
       },
       {
         "company": "トレンダーズ",
-        "totalScore": 2085.4700000000003,
-        "count": 145
+        "totalScore": 2098.7200000000003,
+        "count": 146
       },
       {
         "company": "株式会社ナハト",
-        "totalScore": 1839.6399999999999,
-        "count": 122
+        "totalScore": 1851.1399999999999,
+        "count": 123
       },
       {
         "company": "脅威の兆候",
@@ -92877,50 +93786,50 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 757
+        "count": 759
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 670
+        "count": 679
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 655
+        "count": 660
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 582
+        "count": 586
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 404
+        "count": 406
       },
       {
         "tag": "#広告主動向",
-        "count": 355
+        "count": 360
       },
       {
         "tag": "#ECコマース",
-        "count": 300
+        "count": 303
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 290
+        "count": 294
       },
       {
         "tag": "#プランニング・企画",
-        "count": 246
+        "count": 249
       },
       {
         "tag": "#タイアップ案件",
-        "count": 184
+        "count": 186
       }
     ],
     "axisCounts": {
-      "タレント軸": 627,
-      "マーケティング軸": 475,
-      "両方": 578,
-      "業界全般": 27
+      "タレント軸": 634,
+      "マーケティング軸": 478,
+      "両方": 582,
+      "業界全般": 28
     },
     "tagMaster": {
       "タレント軸": [
