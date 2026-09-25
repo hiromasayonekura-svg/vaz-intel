@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T00:31:25.653Z",
-    "generatedAtJst": "2026-09-24 09:31:25",
-    "totalNews": 2603,
-    "totalAnalyses": 1723,
+    "generatedAt": "2026-09-25T00:31:25.673Z",
+    "generatedAtJst": "2026-09-25 09:31:25",
+    "totalNews": 2647,
+    "totalAnalyses": 1736,
     "totalCompetitors": 7
   },
   "news": [
@@ -20717,7 +20717,7 @@
       "company": "業界トレンド",
       "title": "【PR TIMES <b>広告</b>・マーケティング <b>広告</b>・マーケティング】Nativex、東京で「DTCブランド向け ...",
       "url": "https://ibarakinews.jp/news/newsdetail.php?f_jun=c58085_r28&elem=prt",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20725,7 +20725,7 @@
       "company": "業界トレンド",
       "title": "「<b>TikTok</b>の時間を減らせよ！」<b>日本</b>人4人所属のドイツチーム、ドロ沼最下位…アニメ好きの31歳 ...",
       "url": "http://www.excite.co.jp/news/article/Qoly_6ee3c43b48192048553d7acf1de8ee997aa13add/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20749,7 +20749,7 @@
       "company": "業界トレンド",
       "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20260923-R7Q76MCL4NGNHGACUNADAYK3DU/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20757,7 +20757,7 @@
       "company": "業界トレンド",
       "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - dニュース",
       "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-R7Q76MCL4NGNHGACUNADAYK3DU?page=2",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20789,7 +20789,7 @@
       "company": "業界トレンド",
       "title": "お金持ちは何にお金を使う？ 「新富裕層」に見られるモノ離れとは違う消費傾向",
       "url": "https://www.advertimes.com/20260923/article558035/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20797,7 +20797,7 @@
       "company": "業界トレンド",
       "title": "飲食費は1人約2.8万円。SAELOUN、拡大する韓国人インバウンド飲食市場への集客支援をさらに ...",
       "url": "https://www.iza.ne.jp/pressrelease/prtimes/TLOVF3UHTJL6HPTKKICOU375PI/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20805,7 +20805,7 @@
       "company": "脅威の兆候",
       "title": "元KAT-TUN田口淳之介が結婚、第1子誕生！小嶺麗奈さんとは破局（2/3ページ） - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20260922-IZ3WPK347NGQPDFOC3NP4JLRGU/2/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -20829,6 +20829,358 @@
       "company": "脅威の兆候",
       "title": "日本の保護者に欠けている「大学評価」の視点 | アゴラ 言論プラットフォーム",
       "url": "https://agora-web.jp/archives/260918000416.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "今をときめくアイドルたちが大集結！日向坂46が大トリで会場は最高潮に 総勢9組のアーティストが圧巻のライブを披露！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQWYxT2ZyV3JWNFVPTWxnV3Q2SDZZdHRjWDl5TGt3dHJkX3lrS0NqWEZ6dkRTNWxDbDFySlVzd1lsNGhjRWN5a0dhamNNaHJja2M3Y0dTVmw5ak9LWkJfbUh0NTNDejBrc2c?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "のべ約10,100人が熱狂！ CANDY TUNE・Juice=Juice・高嶺のなでしこ≒JOY・日向坂46・FRUITS ZIPPERらが新たな魅力全開でランウェイを彩る！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95aDg4am1UbTliTS1PeUpYbHhEX01zS1YtZm91UUhGR2hTdngwXzFneTJMNWpoN2Y1RTZyZ1MtRE5hWEZwR3RTVWtXTDRiUUlFSDVNVVZyUTE3bzI1enBHdUJyYXl5VzNCTWc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13公演を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を表現した新曲「ご褒美しよっ！」を配信リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQ3hjU2JfTktsampMb29ac25vR2c2d2ZodW9EUUJXWUZyQTQxRXRPTTZFYTZlaEdFc3BqbDFVQkxIbTkzamVmaE1TYXZNdWZIMmRFSnhNYXdwZDAyV0w5SHZ3T3VaVklVZVE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2024-08-21",
+      "company": "株式会社ナハト",
+      "title": "オフィスに出社することでコミュニティを繁栄。働きやすくなった環境によって革新し続けるマーケティングカンパニーの裏側 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aT3ZOQS1jSTRraG1CWUdVTUYxang1NlYwcmpOaWRSSG5XVjRZOTk5WDRaeU5Zc1ktd1lfSF92Q0xfNkZtVE9hS0FYekxSZDJwMWNEZlN3?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "株式会社ナハト",
+      "title": "【CPA15.6%削減・新規リーチ40%増】Meta×ナハトが実証したThreads広告の勝ち筋 (1/3) - MarkeZine（マーケジン）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adl9Hb3pKXzFFUUl1emxPMG5zQ193eEx6UzU4SHVENHlldUdCYTdFbkdIbGl4alhjRlFuNVFpVXg0bUNyUzFvSkQ3VExPRUZHcjVz?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "のべ約10100人が熱狂！ CANDY TUNE・Juice=Juice・高嶺のなでしこ≒JOY・日向坂46 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000899.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "今をときめくアイドルたちが大集結！日向坂46が大トリで会場は最高潮に 総勢9組のアーティスト ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000900.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13<b>公演</b>を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を ...",
+      "url": "https://news.nicovideo.jp/watch/nw19800452?news_ref=watch_20_nw19231178",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13<b>公演</b>を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000898.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>と主婦と生活社の学生による会社の評価の比較 - 就活会議",
+      "url": "https://syukatsu-kaigi.jp/companies/104227/compare/72026",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "CAGR 7.11％、海外消費者への販路拡大とデジタル決済・物流高度化が成長を促進 | NEWSCAST",
+      "url": "https://newscast.jp/smart/news/6740805",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "「ほぼ裸」の広告に批判殺到 女子アスリートらを「性的な対象にしている」と怒り",
+      "url": "https://www.advertimes.com/20260924/article558257/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "オーバーツーリズムの一方で知られていない地方へ、観光客をどう呼び込むか？ - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000002182.000026157.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "熱狂の『めるぷち選抜決定戦 2026FINAL』開催！満員 800 名のファンが見守る中",
+      "url": "https://news.nicovideo.jp/watch/nw19800459?news_ref=watch_20_nw19231178",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "SNS<b>マーケティング</b>支援とAI<b>マーケティング</b>事業を展開する株式会社FinTが資金調達を実施",
+      "url": "https://startuplog.com/n/ne22d79875543",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "ステーブルコイン専門メディア「SCIJ」、情報源を一次情報中心に見直しリニューアル公開",
+      "url": "https://prtimes.jp/main/html/rd/p/000000024.000052027.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "本多猪四郎監督・田中友幸プロデューサーがVES殿堂入り。「ゴジラ」の生みの親2人",
+      "url": "https://branc.jp/article/2026/09/24/3132.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "ShopifyでAIトラフィックが8倍に増えた理由とは？ アパレル各社が挑む AIコマース",
+      "url": "https://digiday.jp/glossy/aviator-nation-shopify-ai-shopping-shop-app/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "放送局・配信プラットフォームの「コンテンツ価値最大化」を議論。フジテレビ・テレビ東京・U ...",
+      "url": "https://branc.jp/article/2026/09/23/3131.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "OpenAI、Patreonから中核幹部3人を引き抜き <b>クリエイター</b>収益化路線を加速 - BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/6e097e16-17b1-4576-8889-b765c381fb57",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "国内発<b>ショートドラマ</b>アプリDL数No.1（※）のBUMP、急拡大に伴い企画コンテストを開催し採択 ...",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-09-24-39336-185/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "genas.AIの新機能「Story Studio」が実現する原稿からの最大10分<b>ショートドラマ</b>制作の魅力",
+      "url": "https://voix.jp/business-cards/genas-ai-story-studio-launch/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "【フジテレビ】国内外で話題となった「ヤクザ」×「BL」ドラマ新章開幕 『あなた",
+      "url": "https://entamerush.jp/716768/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "王嘉晨 (Wang Jia-Chen) | 中国縦型<b>ショートドラマ</b>限定！俳優&amp;女優図鑑",
+      "url": "https://ameblo.jp/ich-lovecnshortdrama/entry-12979576837.html?frm_src=thumb_module",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "原稿から1話最大10分の<b>ショートドラマ</b>・アニメを制作｜genas.AI「Story Studio（ストーリー ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000088.000127837.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>アカウント開設が話題！わずか1日で300万回再生を突破…フォロワーは11万人超え",
+      "url": "https://www.chiba-tv.com/plus/detail/2026092036293",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "俳優イ・ミンホ、<b>TikTok</b>開設直後に300万回再生…“韓流スター1位”の相変わらずの人気",
+      "url": "https://www.wowkorea.jp/topic/read/162010.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "Nativex、東京で「DTCブランド向け実践セミナー」を開催 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19798944",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "「<b>TikTok</b>を見るのを減らせ！」<b>日本</b>人4人所属のボルシアMGが危機…アニメ好きの31歳キャプテン ...",
+      "url": "https://www.chiba-tv.com/plus/detail/2026092034613",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "街づくりのアイデアでゲームの世界を彩る<b>クリエイター</b>！『mayu channel』を紹介！ チャンネル ...",
+      "url": "https://news.infoseek.co.jp/article/gadget_3742588/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "VTuber<b>事務所</b>「超渋谷計画」2期生 3名が10月1日にデビュー決定 - 毎日キレイ",
+      "url": "https://mainichikirei.jp/prtimes/article/20260922prt00m100000045a.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "リップケア製品市場の今後のトレンド（2026年〜2033年）：地域別・セグメント別市場で - Pando",
+      "url": "https://pando.life/article/4642883",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "<b>調査</b>レポート「韓国スキンケアブランドに関する<b>調査</b>」を公開しました - ネオマーケティング",
+      "url": "https://corp.neo-m.jp/news/new-contents_089",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "企業のInstagram動画<b>活用</b>、72.9%が<b>効果</b>を実感【アルファノート<b>調査</b>】 - マナミナ",
+      "url": "https://manamina.valuesccg.com/articles/5301",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "かっこ「O-PLUX」がLADDER運営のサプリブランド「P3」に導入、不正注文対策を強化",
+      "url": "https://www.commercepick.com/archives/103238",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "業界トレンド",
+      "title": "デイトナ Research Memo（6）：国内拠点卸売事業は堅調 - まぐまぐ",
+      "url": "https://www.mag2.com/p/money/1794118/amp",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "脅威の兆候",
+      "title": "飲食店で “メニュー外” カルピスソーダ要求「作ってくれた」自慢に批判殺到（SmartFLASH）",
+      "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-429929",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "人気<b>インフルエンサー</b>グループ「めるぷち」の新選抜メンバー4人が決定 総合1位せいら「みんなも ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/chuspo/entertainment/chuspo-1315338?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "整形公表の<b>インフルエンサー</b>、費用＆ビフォアフ公開 『ダウンタイム』出演に「めっちゃ可愛かっ ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/encount/entertainment/encount-1070369?fm=latestnews",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "脅威の兆候",
+      "title": "希空 “ギャルみ増した”イメチェン姿公開！ハイライト×レイヤーカットで洗練されたクールな雰囲気 ...",
+      "url": "https://www.chiba-tv.com/plus/detail/2026092036551",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "ここは絶対チェック！東西の名ラーメン店を渡り歩いた実力派店主が<b>独立</b>開業！新店とは思えない ...",
+      "url": "https://news.yahoo.co.jp/expert/articles/ef588558b5d7bbae789a6d544c531b7095876384",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "Iカップのセクシー<b>インフルエンサー</b>として活躍中の宇佐美りな「エッチな女性だということ ...",
+      "url": "https://news.livedoor.com/topics/detail/32391142/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "「会社員のお姉さん」<b>インフルエンサー</b>、上唇に白いもの付け…おどけ表情に「一緒に呑みたい」",
+      "url": "https://news.livedoor.com/topics/detail/32390838/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "脅威の兆候",
+      "title": "韓国コーヒーチェーン、5年で食品衛生法<b>違反</b>751件＝韓国ネット「何を飲んでいたのか」「裏切り」",
+      "url": "https://www.recordchina.co.jp/newsinfo?id=993169",
       "status": "未処理"
     }
   ],
@@ -61139,6 +61491,346 @@
         "benchmark": 4
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13公演を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を表現した新曲「ご褒美しよっ！」を配信リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQ3hjU2JfTktsampMb29ac25vR2c2d2ZodW9EUUJXWUZyQTQxRXRPTTZFYTZlaEdFc3BqbDFVQkxIbTkzamVmaE1TYXZNdWZIMmRFSnhNYXdwZDAyV0w5SHZ3T3VaVklVZVE?oc=5",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>と主婦と生活社の学生による会社の評価の比較 - 就活会議",
+      "url": "https://syukatsu-kaigi.jp/companies/104227/compare/72026",
+      "totalScore": 6,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2024-08-21",
+      "company": "株式会社ナハト",
+      "title": "オフィスに出社することでコミュニティを繁栄。働きやすくなった環境によって革新し続けるマーケティングカンパニーの裏側 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aT3ZOQS1jSTRraG1CWUdVTUYxang1NlYwcmpOaWRSSG5XVjRZOTk5WDRaeU5Zc1ktd1lfSF92Q0xfNkZtVE9hS0FYekxSZDJwMWNEZlN3?oc=5",
+      "totalScore": 6.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "今をときめくアイドルたちが大集結！日向坂46が大トリで会場は最高潮に 総勢9組のアーティストが圧巻のライブを披露！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQWYxT2ZyV3JWNFVPTWxnV3Q2SDZZdHRjWDl5TGt3dHJkX3lrS0NqWEZ6dkRTNWxDbDFySlVzd1lsNGhjRWN5a0dhamNNaHJja2M3Y0dTVmw5ak9LWkJfbUh0NTNDejBrc2c?oc=5",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "のべ約10,100人が熱狂！ CANDY TUNE・Juice=Juice・高嶺のなでしこ≒JOY・日向坂46・FRUITS ZIPPERらが新たな魅力全開でランウェイを彩る！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95aDg4am1UbTliTS1PeUpYbHhEX01zS1YtZm91UUhGR2hTdngwXzFneTJMNWpoN2Y1RTZyZ1MtRE5hWEZwR3RTVWtXTDRiUUlFSDVNVVZyUTE3bzI1enBHdUJyYXl5VzNCTWc?oc=5",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "株式会社ナハト",
+      "title": "【CPA15.6%削減・新規リーチ40%増】Meta×ナハトが実証したThreads広告の勝ち筋 (1/3) - MarkeZine（マーケジン）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adl9Hb3pKXzFFUUl1emxPMG5zQ193eEx6UzU4SHVENHlldUdCYTdFbkdIbGl4alhjRlFuNVFpVXg0bUNyUzFvSkQ3VExPRUZHcjVz?oc=5",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "のべ約10100人が熱狂！ CANDY TUNE・Juice=Juice・高嶺のなでしこ≒JOY・日向坂46 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000899.000017258.html",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "今をときめくアイドルたちが大集結！日向坂46が大トリで会場は最高潮に 総勢9組のアーティスト ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000900.000017258.html",
+      "totalScore": 20.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13<b>公演</b>を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を ...",
+      "url": "https://news.nicovideo.jp/watch/nw19800452?news_ref=watch_20_nw19231178",
+      "totalScore": 20.5,
+      "breakdown": {
+        "finance": 4,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13<b>公演</b>を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000898.000017258.html",
+      "totalScore": 20.5,
+      "breakdown": {
+        "finance": 5,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "【PR TIMES <b>広告</b>・マーケティング <b>広告</b>・マーケティング】Nativex、東京で「DTCブランド向け ...",
+      "url": "https://ibarakinews.jp/news/newsdetail.php?f_jun=c58085_r28&elem=prt",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "「<b>TikTok</b>の時間を減らせよ！」<b>日本</b>人4人所属のドイツチーム、ドロ沼最下位…アニメ好きの31歳 ...",
+      "url": "http://www.excite.co.jp/news/article/Qoly_6ee3c43b48192048553d7acf1de8ee997aa13add/",
+      "totalScore": 6.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260923-R7Q76MCL4NGNHGACUNADAYK3DU/",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - dニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-R7Q76MCL4NGNHGACUNADAYK3DU?page=2",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 2,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "お金持ちは何にお金を使う？ 「新富裕層」に見られるモノ離れとは違う消費傾向",
+      "url": "https://www.advertimes.com/20260923/article558035/",
+      "totalScore": 7.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "飲食費は1人約2.8万円。SAELOUN、拡大する韓国人インバウンド飲食市場への集客支援をさらに ...",
+      "url": "https://www.iza.ne.jp/pressrelease/prtimes/TLOVF3UHTJL6HPTKKICOU375PI/",
+      "totalScore": 6,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "元KAT-TUN田口淳之介が結婚、第1子誕生！小嶺麗奈さんとは破局（2/3ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260922-IZ3WPK347NGQPDFOC3NP4JLRGU/2/",
+      "totalScore": 5.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "脅威の兆候",
+      "title": "日本の保護者に欠けている「大学評価」の視点 | アゴラ 言論プラットフォーム",
+      "url": "https://agora-web.jp/archives/260918000416.html",
+      "totalScore": 7,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "OpenAI、Patreonから中核幹部3人を引き抜き <b>クリエイター</b>収益化路線を加速 - BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/6e097e16-17b1-4576-8889-b765c381fb57",
+      "totalScore": 20.5,
+      "breakdown": {
+        "finance": 4,
+        "platform": 5,
+        "humanCapital": 4,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "俳優イ・ミンホ、<b>TikTok</b>開設直後に300万回再生…“韓流スター1位”の相変わらずの人気",
+      "url": "https://www.wowkorea.jp/topic/read/162010.html",
+      "totalScore": 16.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 2,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -93641,6 +94333,253 @@
       "agenda": "VAZの強みを活かし、自社タレントやアイドルグループを起用した縦型ショートドラマを、TikTokショップ連携も含めどのように戦略的に展開し、新たなマネタイズに繋げるか？",
       "summary": "台東区舞台の縦型ショートドラマ開始、SNSコンテンツ強化の動き",
       "axis": "タレント軸"
+    },
+    {
+      "id": 1723,
+      "date": "2026-09-23",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13公演を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を表現した新曲「ご褒美しよっ！」を配信リリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yQ3hjU2JfTktsampMb29ac25vR2c2d2ZodW9EUUJXWUZyQTQxRXRPTTZFYTZlaEdFc3BqbDFVQkxIbTkzamVmaE1TYXZNdWZIMmRFSnhNYXdwZDAyV0w5SHZ3T3VaVklVZVE?oc=5",
+      "totalScore": 18,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステムのアイドルグループ「CUTIE STREET」が初の7都市13公演アリーナツアーを開始し、新曲「ご褒美しよっ！」を配信リリースした。",
+      "intent": "アソビシステムは、強力なアーティストマネジメント基盤を活かし、アイドルグループの育成と大規模なライブ展開を積極化している。アリーナツアーは、グループの人気と運営能力が一定水準に達した証であり、ファンエンゲージメントを深め、IP価値を最大化し、収益の多角化を図る狙いがある。アイドル市場の競争激化とライブエンターテインメント需要の回復を背景に、強固なファンコミュニティ形成と継続的な収益源確保を目指す戦略と考えられる。",
+      "impact": "VAZは2026年注力領域に「アイドルグループ」と「タレントIPグッズ」を掲げており、アソビシステムのこの動向は直接的な競合・ベンチマークとして重要。アリーナツアーのような大規模イベントを通じたファンビジネスの展開は、VAZのアイドルプロジェクトにおけるコンテンツ制作力とマネタイズ戦略に具体的な示唆を与える。特に、アソビシステムのファン獲得戦略、ライブ運営ノウハウ、グッズ展開は、VAZが自社の強みであるZ世代・若年層リーチ力を活かしつつ、アイドル事業を拡大する上で学ぶべき点が多い。",
+      "agenda": "VAZのアイドルプロジェクトは、アリーナツアー開催を視野に入れた長期的な事業計画と具体的なファンビジネス戦略をどのように構築すべきか？",
+      "summary": "アソビシステム所属アイドルが初アリーナツアーと新曲リリース",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1724,
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "今をときめくアイドルたちが大集結！日向坂46が大トリで会場は最高潮に 総勢9組のアーティストが圧巻のライブを披露！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQWYxT2ZyV3JWNFVPTWxnV3Q2SDZZdHRjWDl5TGt3dHJkX3lrS0NqWEZ6dkRTNWxDbDFySlVzd1lsNGhjRWN5a0dhamNNaHJja2M3Y0dTVmw5ak9LWkJfbUh0NTNDejBrc2c?oc=5",
+      "totalScore": 17,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステム主催のイベントに、日向坂46を含む総勢9組の人気アイドル・アーティストが出演し、盛況のうちにライブを終えた。",
+      "intent": "アソビシステムは、ファッション・音楽イベントの企画・運営に強みを持つ企業であり、本イベントは人気アイドルを多数集結させることで、各グループのファン層を巻き込み、大規模な集客と話題性の創出を狙ったものと推測される。これにより、イベント収益に加え、所属アーティストのブランディング強化、新規ファン獲得、そしてIPを活用した多角的なマネタイズ（グッズ販売、ファンクラブ誘導など）を図る意図がある。アイドル市場の熱気を背景に、ライブエンターテイメントを通じたファンコミュニティの活性化を促進している。",
+      "impact": "本ニュースは、VAZが2026年注力テーマに掲げる「アイドルグループ」育成および「所属タレントのグッズ（IP）」展開において、競合のアソビシステムが既に大規模な成功事例を構築していることを示唆する。アソビシステムによる人気アイドルを巻き込んだライブイベントは、VAZが目指すアイドルプロジェクトの集客力やブランディングのベンチマークとなりうる。複数アイドルグループを組み合わせることで、単独ではリーチしにくい大規模な若年層オーディエンスへのアプローチが可能となり、これはVAZのZ世代・若年層へのリーチ力という強みを活かしたアイドル事業展開にも示唆を与える。また、ライブイベントはIPグッズ販売の最大の機会であり、VAZのIPグッズ注力領域とも強く関連する。",
+      "agenda": "VAZの「アイドルプロジェクト」において、競合が行う大規模合同ライブイベントのような、複数アイドルグループを巻き込んだイベント企画やIP連携をどのように戦略に組み込むべきか？",
+      "summary": "アソビシステム、人気アイドル集結イベント開催し成功",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1725,
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "のべ約10,100人が熱狂！ CANDY TUNE・Juice=Juice・高嶺のなでしこ≒JOY・日向坂46・FRUITS ZIPPERらが新たな魅力全開でランウェイを彩る！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95aDg4am1UbTliTS1PeUpYbHhEX01zS1YtZm91UUhGR2hTdngwXzFneTJMNWpoN2Y1RTZyZ1MtRE5hWEZwR3RTVWtXTDRiUUlFSDVNVVZyUTE3bzI1enBHdUJyYXl5VzNCTWc?oc=5",
+      "totalScore": 15.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステムが関与するイベントで、複数のアイドルグループがランウェイに登場し、約10,100人の観客を動員した。",
+      "intent": "アソビシステムはアイドルをファッションやライフスタイルアイコンとして多角的に展開し、大規模イベントを通じて新規ファン獲得とエンゲージメント深化を狙っている。これはアイドル市場で差別化を図る戦略の一環。",
+      "impact": "VAZの「アイドルグループ」注力領域に強く関連。アソビシステムが大規模イベントでアイドルを多角的に露出させる戦略は、VAZのアイドルプロジェクトが若年層リーチやIPグッズ展開を加速させる上でベンチマークとなる。約1万人の動員はVAZの事業規模目標の参考になる。",
+      "agenda": "VAZのアイドルプロジェクトは、大規模イベントやファッション連携を通じて、いかにして若年層のファンを獲得し、IP価値を最大化すべきか？",
+      "summary": "アソビシステム関連イベントでアイドルが活躍し約1万人動員。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1726,
+      "date": "2026-09-24",
+      "company": "株式会社ナハト",
+      "title": "【CPA15.6%削減・新規リーチ40%増】Meta×ナハトが実証したThreads広告の勝ち筋 (1/3) - MarkeZine（マーケジン）",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9adl9Hb3pKXzFFUUl1emxPMG5zQ193eEx6UzU4SHVENHlldUdCYTdFbkdIbGl4alhjRlFuNVFpVXg0bUNyUzFvSkQ3VExPRUZHcjVz?oc=5",
+      "totalScore": 15,
+      "tags": [
+        "#プラットフォーム動向",
+        "#広告主動向",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "株式会社ナハトがMetaと共同で実施したThreads広告施策において、CPA15.6%削減と新規リーチ40%増を達成した。",
+      "intent": "Metaが注力する新プラットフォームThreadsで競合のナハトが早期に広告運用ノウハウを確立し、具体的な成果を示すことで、広告主への提案力強化と先発者利益の獲得を狙っている。業界全体として既存SNS広告の飽和が進む中、新しいプラットフォームでの効果的なリーチ獲得が喫緊の課題となっており、ナハトはこの課題に対するソリューション提供者として市場での存在感を高めようとしている。",
+      "impact": "ナハトのThreads広告成功は、VAZの「新規マネタイズ事業」や「インフルエンサーネットワーク」を活用した広告ビジネスにおいて、新興プラットフォームへの早期適応が競争優位性確保の鍵であることを示唆する。VAZが強みとする「Z世代・若年層へのリーチ力」や「美容・コスメ領域との親和性」とMeta傘下のThreadsは相性が良く、競合が成果を出す中でVAZも同様のプラットフォームでの運用ノウハウ構築と差別化戦略が急務となる。",
+      "agenda": "競合がThreads広告で具体的な成果を出す中、VAZは新興SNSプラットフォームでの広告運用ノウハウ獲得と、インフルエンサーを活用した差別化戦略をどのように加速させるべきか？",
+      "summary": "ナハト、Meta連携でThreads広告効果を実証",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 1727,
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "のべ約10100人が熱狂！ CANDY TUNE・Juice=Juice・高嶺のなでしこ≒JOY・日向坂46 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000899.000017258.html",
+      "totalScore": 18,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステムは東京ガールズコレクション協力のもと、『第4回 IDOL RUNWAY COLLECTION 2026 AUTUMN/WINTER』を開催し、のべ約10,100人を動員する大盛況を収めた。",
+      "intent": "アソビシステムは、TGCという大手イベントと連携することで、大規模な体験を提供し、タレントのブランド価値向上とファンエンゲージメント強化を図る戦略をとっている。VAZ視点では、アイドル市場でプレゼンスを確立するには、単独IP育成だけでなく、業界の大型プラットフォームとの協業が有効な手段となることを示唆している。",
+      "impact": "本ニュースは、VAZが注力する「アイドルグループ」事業において、競合が既に大規模イベントを通じて市場への影響力を高めていることを示している。アソビシステムの事例は、アイドルを軸としたコンテンツ制作力と他社との協業による大規模集客が、タレントの知名度向上とファン層拡大に大きく寄与することを証明しており、VAZは自社アイドルプロジェクト推進において、このようなイベントへの参加や自社での大規模イベント企画・運営を視野に入れる必要がある。",
+      "agenda": "VAZのアイドルプロジェクトは、いかに大規模イベントや他社との協業を通じて、短期間で市場での存在感を確立し、ファンベースを拡大すべきか？",
+      "summary": "アソビシステム主催のアイドル大規模イベントが大盛況",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1728,
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "今をときめくアイドルたちが大集結！日向坂46が大トリで会場は最高潮に 総勢9組のアーティスト ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000900.000017258.html",
+      "totalScore": 20.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステムは2026年9月20日に東京ガールズコレクション協力のもと「IDOL RUNWAY COLLECTION」を開催し、日向坂46など総勢9組のアイドルグループが参加した。",
+      "intent": "アソビシステムはファッションモデルやアーティストのマネジメントとイベント企画運営に強みを持ち、TGCとの協業によりアイドル市場での影響力とIP活用力を強化している。Z世代・若年層に支持されるアイドルを動員することで、ファッションとカルチャーを融合させた新たな価値を創出し、ファン層拡大と新規ビジネス機会創出を図り、アイドル経済圏でのプレゼンス確立を狙う戦略的動きと見られる。",
+      "impact": "本ニュースは、VAZが注力する「アイドルグループ」領域において、競合のアソビシステムが大規模イベントを成功させ市場での存在感を高めていることを示す。他社IPを巻き込み大規模イベントを企画・実行するノウハウは、VAZの「インフルエンサーネットワーク」構築や「所属タレントのグッズ（IP）」展開において参考になる。TGCとの協業によるファッションとアイドルの融合は、VAZの強みであるZ世代へのリーチ力と「広告っぽくない」コンテンツ制作力を活かした「美容UGC生成」やタイアップ案件への横展開の可能性を秘めており、競合が市場を先行する前にVAZ独自の戦略を確立する必要がある。",
+      "agenda": "アソビシステムの大規模アイドルイベント開催を受け、VAZのアイドルプロジェクトにおいて、TGCのような外部プラットフォームとの連携や他社IPを巻き込んだイベント企画は、どのように差別化要因とすべきか？",
+      "summary": "アソビシステムがTGC協力で大規模アイドルイベント開催",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1729,
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13<b>公演</b>を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を ...",
+      "url": "https://news.nicovideo.jp/watch/nw19800452?news_ref=watch_20_nw19231178",
+      "totalScore": 20.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステムのアイドルグループCUTIE STREETが7都市13公演に及ぶ初のアリーナツアーを開始した。",
+      "intent": "アソビシステムはアーティスト育成で培ったライブエンタメのノウハウを活かし、新たなアイドルIPであるCUTIE STREETの価値を最大化しようとしていると推察される。これは、単なるコンテンツ消費を超えた体験を提供し、熱狂的なファンコミュニティ形成を通じて高単価な物販やファンクラブ運営など多角的な収益モデルを確立する狙いであり、インフルエンサー業界が直面する広告収益依存からの脱却とIP価値向上に対する回答と見られる。",
+      "impact": "このニュースは、VAZの2026年注力領域である「アイドルグループ」および「所属タレントのグッズ（IP）」に直接影響を与える。アソビシステムが新人アイドルグループでアリーナツアーを実現していることは、市場におけるアイドル需要の高さと、強固なファンベース構築によるIP収益化の可能性を示唆している。VAZがアイドルプロジェクトを進める上で、いかに短期間で大規模なファンを獲得し、ライブエンタメを含む多角的なマネタイズモデルを構築できるかが重要な課題となる。",
+      "agenda": "我々のアイドルプロジェクトは、いかに短期間でアソビシステムのようにアリーナツアーを成功させ、IP価値を最大化する戦略を描くべきか？",
+      "summary": "アソビシステム所属アイドルが初アリーナツアー開始",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1730,
+      "date": "2026-09-24",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、7都市13<b>公演</b>を巡る初アリーナツアー開幕 ツアーの多幸感あるれる世界観を ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000898.000017258.html",
+      "totalScore": 20.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属アイドルグループ「CUTIE STREET」が日本武道館公演成功後、7都市13公演を巡る初の全国アリーナツアーを開始し、新曲「ご褒美しよっ！」を配信リリースした。",
+      "intent": "アソビシステムは、日本武道館公演の成功実績を基盤に、既存のアイドルIPであるCUTIE STREETを全国アリーナツアーへと拡大展開することで、IP価値最大化とファンベースのさらなる拡大を図っている。これは、アルバムリリースと連動し、ライブ興行、音源、グッズ販売など多角的な収益化を目指す戦略であり、アイドル市場での競争優位性を確立する意図がうかがえる。",
+      "impact": "本ニュースは、VAZが2026年に注力する「アイドルグループ」事業にとって極めて重要な競合の成功事例である。アソビシステムが示す、武道館公演成功からアリーナツアーへのステップアップ、それに伴うコンテンツ展開とIP収益化のモデルは、VAZのアイドルプロジェクト推進における具体的なベンチマークとなる。特に、VAZの強みであるZ世代・若年層へのリーチ力を活かし、競合の成功戦略をいかに自社のアイドルプロジェクトに適用するかが今後の課題となる。",
+      "agenda": "アソビシステムの大規模アイドルIP成長戦略から、VAZの2026年注力「アイドルグループ」プロジェクトにおいて、どのようなファンベース拡大と収益化のロードマップを描くべきか？",
+      "summary": "アソビシステム所属アイドルが武道館成功後、全国アリーナツアー開始と新曲配信。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1731,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "【PR TIMES <b>広告</b>・マーケティング <b>広告</b>・マーケティング】Nativex、東京で「DTCブランド向け ...",
+      "url": "https://ibarakinews.jp/news/newsdetail.php?f_jun=c58085_r28&elem=prt",
+      "totalScore": 18,
+      "tags": [
+        "#ECコマース",
+        "#広告主動向",
+        "#プラットフォーム動向"
+      ],
+      "fact": "Nativexが東京で、ByteDanceとネットスターズのエキスパートを招き、DTCブランドやEC事業者が直面するTikTokでの売上課題解決を目的とした実践セミナーを開催する。",
+      "intent": "EC市場とソーシャルメディア（特にTikTok）の融合が進む中、多くのDTCブランドやEC事業者はTikTokでの集客が売上に直結しないという共通の課題に直面しており、ByteDanceは自社プラットフォームのマネタイズを最大化するため、広告主の成功事例を増やすことを目的としている。",
+      "impact": "このセミナーは、VAZの主要顧客であるDTCブランドやEC事業者が抱える「TikTokにおける売上導線構築」という喫緊の課題に直接応える内容であり、VAZの注力領域である「TikTokショップ」や「美容UGC生成」を成功させる上で不可欠なノウハウを習得する機会となる。",
+      "agenda": "VAZとして、TikTokにおけるDTCブランド向け売上貢献戦略を強化するため、どのようなコンテンツ・導線設計・効果測定手法をアカウントDivとコンテンツビジネスDivが連携して提供すべきか？",
+      "summary": "TikTokでのDTCブランド向けEC売上向上戦略セミナー",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 1732,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20260923-R7Q76MCL4NGNHGACUNADAYK3DU/",
+      "totalScore": 13,
+      "tags": [
+        "#プラットフォーム動向",
+        "#規制・法令",
+        "#コンテンツ制作"
+      ],
+      "fact": "YouTubeが摂食障害に関するポリシーを厳格化し、大食い系動画の収益化停止や削除、過去動画への遡及適用を韓国で開始、日本でも同様の動きが懸念されている。",
+      "intent": "YouTubeは若年層の摂食障害増加を社会課題と捉え、プラットフォームとしての社会的責任を果たすため、ポリシー適用を厳格化した。これはプラットフォームの健全性維持とユーザー保護を目的としたものであり、社会からの批判を回避し、持続可能なコンテンツエコシステムを構築するための戦略的な動きと推測される。",
+      "impact": "VAZのコンテンツ制作におけるプラットフォームリスク管理の重要性が高まる。特に2026年注力領域である「アイドルグループ」のコンテンツや「美容UGC生成」は若年層への影響が大きく、YouTubeの健全性に関するポリシーに抵触しないよう細心の注意が必要となる。また、タレントの活動が制限されることで「タレントIPグッズ」の価値にも影響が出ないよう、多角的なコンテンツ戦略とプラットフォーム依存度の低減を検討するきっかけとなる。",
+      "agenda": "当社所属タレントのコンテンツ企画・制作において、今後のプラットフォームポリシー変更リスクに対し、どのようなリスクヘッジ戦略を構築すべきか？",
+      "summary": "YouTube大食い動画の収益剥奪・BAN強化、クリエイターに路線変更迫る",
+      "axis": "両方"
+    },
+    {
+      "id": 1733,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>「大食い動画」一斉BANの恐怖！韓国発“収益剥奪”に日本も戦々恐々 - dニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-R7Q76MCL4NGNHGACUNADAYK3DU?page=2",
+      "totalScore": 14,
+      "tags": [
+        "#プラットフォーム動向",
+        "#コンテンツ制作",
+        "#自社チャンネル運営"
+      ],
+      "fact": "YouTubeが「過酷なダイエットの反動としての暴食」や「限界を超えて苦しそうに詰め込む演出」などの「大食い動画」コンテンツに対し、ガイドライン違反として収益剥奪のリスクを警告しており、日本でも自主規制の動きが広がっている。",
+      "intent": "プラットフォーム運営側は、ユーザーの健全な利用環境維持や社会的責任の観点から、倫理的な問題や健康リスクを伴う過激なコンテンツへの規制を強化する傾向にあり、これによりクリエイターやMCNは一方的なルール変更への適応を迫られている。",
+      "impact": "本ニュースは、VAZのコンテンツビジネスDivの事業基盤であるYouTubeなどプラットフォームへの依存リスクを改めて浮き彫りにします。VAZの強みである「所属インフルエンサーを起点としたコンテンツ制作力」や「自社チャンネル運営」において、大食いジャンルに限らず、他のジャンルでも同様の規制強化が起こる可能性があり、コンテンツ制作ガイドラインの見直しやタレント教育の必要性が増します。VAZの注力領域である「所属タレントのグッズ（IP）」や「アイドルグループ」などプラットフォーム依存度を下げたマネタイズ戦略の重要性が一層高まります。",
+      "agenda": "YouTubeに代表されるPFのガイドライン変更リスクに対し、VAZのコンテンツ制作方針、タレント教育、及び収益源の多角化戦略は十分な耐性を持っているか？",
+      "summary": "YouTubeの過激コンテンツ規制強化でMCNは収益剥奪リスク",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 1734,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "OpenAI、Patreonから中核幹部3人を引き抜き <b>クリエイター</b>収益化路線を加速 - BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/6e097e16-17b1-4576-8889-b765c381fb57",
+      "totalScore": 20.5,
+      "tags": [
+        "#プラットフォーム動向",
+        "#新規マネタイズ事業",
+        "#自社IP・グッズ"
+      ],
+      "fact": "OpenAIは、クリエイター向けサブスクリプションプラットフォームPatreonから中核幹部3人を引き抜き、AIを活用したクリエイター収益化プロダクト事業への本格参入を加速している。",
+      "intent": "AI技術の急速な進化により、コンテンツ生成だけでなく、その「収益化」への応用が次のビジネスフロンティアと見なされており、OpenAIはPatreonが長年培ったクリエイター向けサブスクリプション経済の知見を取り込み、既存の広告モデルに依存しない新たなクリエイター直接収益化モデルをAIで構築しようとしている。",
+      "impact": "OpenAIによるAIを活用したクリエイター収益化の本格化は、VAZの注力領域であるTikTokショップ、タレントIPグッズ、アイドルグループのファンビジネス、美容UGC生成といった全ての収益化モデルに大きな影響を与える。AI技術による新たなマネタイズ機会が生まれる一方で、既存の収益モデルがAIベースの新モデルと競合する可能性があり、所属クリエイターの収益構造やファンとの関係性構築に革新的な変化をもたらす潜在力がある。",
+      "agenda": "VAZとして、OpenAIのAIを活用した新たなクリエイター収益化モデルを先行調査し、既存の注力領域（IPグッズ、アイドル、TikTokショップなど）への導入可能性や競合戦略をどう構築すべきか？",
+      "summary": "OpenAIがPatreon幹部引き抜き、クリエイター収益化をAIで加速",
+      "axis": "両方"
+    },
+    {
+      "id": 1735,
+      "date": "2026-09-23",
+      "company": "業界トレンド",
+      "title": "俳優イ・ミンホ、<b>TikTok</b>開設直後に300万回再生…“韓流スター1位”の相変わらずの人気",
+      "url": "https://www.wowkorea.jp/topic/read/162010.html",
+      "totalScore": 16.5,
+      "tags": [
+        "#プラットフォーム動向",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "俳優イ・ミンホがTikTokアカウントを開設後、わずか1日で最初の動画が300万回再生、フォロワー10万人超を達成し、世界中で反響を呼んでいる。",
+      "intent": "イ・ミンホという韓流トップスターの絶大な知名度と、TikTokの動画コンテンツによる高い拡散性が合致した結果。映画プロモーションという明確な目的の下、プラットフォームの特性を活かしたコンテンツで新規層と既存ファンへのリーチを最大化し、自身のIP価値向上とファンエンゲージメント強化を図ったと考えられる。",
+      "impact": "VAZが2026年注力する「TikTokショップ」「所属タレントのグッズ（IP）」「アイドルグループ」において、TikTokが爆発的なリーチとエンゲージメントを獲得できる強力なプラットフォームであることが示された。特にVAZの強みである「Z世代・若年層へのリーチ力」や「”広告っぽくない”SNSコンテンツ制作」をTikTokで最大化し、グローバルなファンベースを持つアイドルプロジェクトへの展開にも大きなヒントとなる。",
+      "agenda": "VAZの所属タレントや注力アイドルグループが、イ・ミンホの事例から学び、TikTokの圧倒的拡散力を活用してIP価値とグローバルファンベースを爆速で拡大するための具体的なコンテンツ戦略とは何か？",
+      "summary": "韓流トップスターがTikTokで短期間に圧倒的リーチ獲得",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -93675,8 +94614,8 @@
   ],
   "home": {
     "monthLabel": "2026年9月",
-    "thisMonthNewsCount": 550,
-    "thisMonthAnalysisCount": 246,
+    "thisMonthNewsCount": 593,
+    "thisMonthAnalysisCount": 259,
     "highlights": [
       {
         "id": 0,
@@ -93739,13 +94678,13 @@
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 10088.25,
-        "count": 685
+        "totalScore": 10170.25,
+        "count": 690
       },
       {
         "company": "アソビシステム",
-        "totalScore": 7130.75,
-        "count": 428
+        "totalScore": 7260.5,
+        "count": 435
       },
       {
         "company": "トレンダーズ",
@@ -93754,8 +94693,8 @@
       },
       {
         "company": "株式会社ナハト",
-        "totalScore": 1851.1399999999999,
-        "count": 123
+        "totalScore": 1866.1399999999999,
+        "count": 124
       },
       {
         "company": "脅威の兆候",
@@ -93786,31 +94725,31 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 759
+        "count": 761
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 679
+        "count": 689
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 660
+        "count": 669
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 586
+        "count": 593
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 406
+        "count": 412
       },
       {
         "tag": "#広告主動向",
-        "count": 360
+        "count": 362
       },
       {
         "tag": "#ECコマース",
-        "count": 303
+        "count": 304
       },
       {
         "tag": "#タレント発掘・育成",
@@ -93826,9 +94765,9 @@
       }
     ],
     "axisCounts": {
-      "タレント軸": 634,
-      "マーケティング軸": 478,
-      "両方": 582,
+      "タレント軸": 642,
+      "マーケティング軸": 480,
+      "両方": 585,
       "業界全般": 28
     },
     "tagMaster": {
