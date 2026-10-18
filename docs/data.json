@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-10-17T00:31:25.246Z",
-    "generatedAtJst": "2026-10-17 09:31:25",
-    "totalNews": 3697,
-    "totalAnalyses": 2031,
+    "generatedAt": "2026-10-18T00:31:25.703Z",
+    "generatedAtJst": "2026-10-18 09:31:25",
+    "totalNews": 3759,
+    "totalAnalyses": 2044,
     "totalCompetitors": 7
   },
   "news": [
@@ -28989,7 +28989,7 @@
       "company": "脅威の兆候",
       "title": "【10/22(木)オンライン開催】税理士と元VCが解説 はじめてのスタートアップ投資／エンジェル ...",
       "url": "https://news.infoseek.co.jp/article/prtimes_000000212_000023145/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -28997,7 +28997,7 @@
       "company": "脅威の兆候",
       "title": "ライバー<b>事務所</b>の看板を畳まないM&amp;A YOUPACE が合流相談「LIVER UNITED」を ... - エキサイト",
       "url": "http://www.excite.co.jp/news/article/Prtimes_2026-10-14-49820-13/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -29005,7 +29005,7 @@
       "company": "脅威の兆候",
       "title": "ライバー<b>事務所</b>の看板を畳まないM&amp;A YOUPACE が合流相談「LIVER UNITED」を ... - PR TIMES",
       "url": "https://prtimes.jp/main/html/rd/p/000000013.000049820.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29581,6 +29581,502 @@
       "company": "脅威の兆候",
       "title": "グラミー歌手がNYの雑貨店とモメ事→SNSで<b>炎上</b>→店側は「個人情報をさらした」と反論→鳥人形 ...",
       "url": "https://news.infoseek.co.jp/article/yorozoonews_16966884/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「GROVE TV」開設 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80STNiX1BlcGdOUG5lXy1oZnFJelNZdlBMd2NjR0k5T0tEV1NrbWVXa1Z4aERMSjBzdHppS21sMGxqLVY3TTRvWERNMDVqVDdCNS04ZTJiWl9aTVVnd2JQU1puWWJjQk4zSFE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「GROVE TV」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYVBqVFYwMnJoamNoTktqMWZUTTNhaFNPc3lGYVFpeFozVkdjSThRSVRoV1JPYjZ0SHpDV1ZjWlR6Vm9rdTJfQXFxaW5xY0Znek9ITmpwNjA?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXZIdEo3YmZQOUxQUHFMbi01WmUwMVlILVNOeEQ2V004MGtnd0FHWFBjeHphWUZJby1oaGRuSnVTVUxuOFlBRTM1Qm5iM3M5Yk5xdGZ2SklSUjk2TTNUeG5YbzNMU1oxek5zZlZRSjQ5V0phYnhqalR2SG5YblktcmR3?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "アソビシステム",
+      "title": "【カワコレTGC】アーティストライブは、KAWAII LAB.メンバーが集結！九州を拠点にデビューを目指す次世代メンバー・KAWAII LAB. SOUTHも加わり熱狂の渦に！＜イベントレポート②＞ | 株式会社W TOKYOのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVUVYcURkMnZMSXJPcVRReTI2RXR2VnA2RE8ya0JIc05rQW9tSkJUQ3BiNWtmbzFnMHlwR0pRMEF0T1V3S1Q0UmJudkFkTGpqQjJnR2hzUEUxelRkcEYzUm1VRGpGZ01UWFE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "Macbee Planet",
+      "title": "「株式会社ジェーシーアンドジー」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeVdxTWVCRWZacklWUDVTWE1wZlBQdTZZcVdUZENzQ1Jmd2M4MVdUWjFLdGQxZ3BUOF9mSUI4MDVTVEJsRld1V0RhWWJ6d3VQSFBsS2RzdjA4TmVSc0VsaEJIOWtiV2g5TWdsQUNmbjNmYUtKR21KRmdDTXNLMC1RclhYZi1sdk9WZjB0LUNWa2RzeUJ1TElNa1VLT2NZdW5iQWFRblF0UEI2T2NxRTFaWFAxdi1QNWdSTVVmSG52cEhjVDY0ajR3d1lnMmRZLUE4amlDY0o1UXl6Tmlaa2xfR0EySmdGcFNIWElLcWhLbUwxQjA?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "アストリス・アドバイザリー・ジャパン株式会社がアズワン株式会社 （証券コード:7476）に関するサービス事業の詳細分析レポートを発行 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95S1pqRC1KbmFHbG9QaC02cHJUcFl6bUFnTzNnWWhHX3VVekFObGtCbUVOcGZ4dkRnckVsYmxBU2xRZlpucnpHcWZnZUt6ODU4UzYwR2lGRUVzbUpELWFQc0RscFNSNlY0VVE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「<b>GROVE</b> TV」開設",
+      "url": "https://prtimes.jp/main/html/rd/p/000000089.000014312.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "【<b>grove</b>】毎日のおしゃれに心弾む楽しさを届ける『トキメキ』シリーズ | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19888071?news_ref=watch_20_nw18970014",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://www.oricon.co.jp/news/2486780/photo/1/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://news.yahoo.co.jp/articles/e1d3d06861a9b8aa015163a948e23f42502d8ed7",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/oricon/entertainment/oricon-2486780",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、アニメ『パンどろぼう』ED主題歌「Pang Pang Pang」MV公開！ 田向潤 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000924.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "出来高変化率ランキング（10時台）～ラストワンマイル、インバウンドなどがランクイン",
+      "url": "https://diamond.jp/zai/articles/-/1074203",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "出来高変化率ランキング（13時台）～セカンドサイト、イサム塗などがランクイン",
+      "url": "https://diamond.jp/zai/articles/-/1074214",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "出来高変化率ランキング（14時台）～ユミルリンク、インバウンドなどがランクイン | マネーボイス",
+      "url": "https://www.mag2.com/p/money/1806293/amp",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "フレンドリー・パートナーズ株式会社が<b>トレンダーズ</b>株式会社＜6069＞株式の大量保有報告書を提出",
+      "url": "https://maonline.jp/articles/sh-s100z8nr",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "株式会社<b>Macbee Planet</b>による株式会社ジェーシーアンドジーの株式取得（完全子会社化 ...",
+      "url": "https://spicon.co.jp/news/ma-news/spica-445/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "エヌケービーと<b>Macbee Planet</b>の比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C300000065sLo/compa/a0C1000000sj0Fa/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "コフレ激戦で買い逃した経験がある人は約6割！ 限定品にこだわらない「私の定番・ご褒美コスメ ...",
+      "url": "https://news.nicovideo.jp/watch/nw19889140",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "最新の高級品<b>市場</b>予測によると、同<b>市場</b>は2026年から2033年にかけて年平均成長率（CA",
+      "url": "https://pando.life/article/4708590",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "2026年から2033年までのパーソナルラグジュアリーグッズの<b>市場</b>セグメンテーション調査 - Pando",
+      "url": "https://pando.life/article/4708377",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「GROVE TV」開設",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000089_000014312/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「GROVE TV」開設",
+      "url": "https://news.nicovideo.jp/watch/nw19889143?news_ref=watch_20_nw19790425",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "映画の企画開発にも資金が必要だ    Film Frontierの支援の実態を2組のチームに聞く【インタビュー】",
+      "url": "https://branc.jp/article/2026/10/16/3203.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "東京国際映画祭、アカデミー首脳を招き「アカデミー・イン・東京」を開催 クレイマーCEOに特別賞",
+      "url": "https://branc.jp/article/2026/10/16/3202.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "コクヨ、新プロジェクトSIROSIRO始動 バンコクでイベント開催や新雑誌創刊へ - Dellows News",
+      "url": "https://news.dellows.jp/704643/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "応募総数3,353点！「魔法少女ノ魔女裁判」とコラボした塗り絵コンテスト「塗りマス！」第三十七 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19885049?from=a_news_522975",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "GMOインターネットグループ3社のサービスが「2026年度グッドデザイン賞」を受賞",
+      "url": "https://news.nicovideo.jp/watch/nw19883984?news_ref=top_newComments",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "蔵元のひとりごと 昭和の職人気質の五代目。今日も「美味しい」が気になって仕方ない",
+      "url": "https://camp-fire.jp/projects/957909/activities/903004",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "渡邉美穂、俳優として歩んだ4年 日向坂46卒業直後は「生きている心地がしなかった」 …で",
+      "url": "https://news.yahoo.co.jp/articles/d3c07ce085efc5177013ea90c22c5e6656542907",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "タテドラ、関暁夫の裏都市伝説で自動車窃盗団の新テーマを10月16日より配信へ - Dellows News",
+      "url": "https://news.dellows.jp/779021/?from=top_category_area",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "【Kalodata週次レポート】<b>日本TikTok</b> Shop市場、GMV21.1億円 新商品投入は前週比82.7%増 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000167462.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "「ベストバイ」が<b>TikTok</b> Shopに公式ストアを開設 1万品目をラインナップ - ファッションスナップ",
+      "url": "https://www.fashionsnap.com/article/2026-10-16/walmart-bestbuy-tiktok-shop/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "食品クリエイタープラットフォーム「FOOD FORCE STUDIO（FFS）」の<b>TikTok</b>アカウント、成果 ...",
+      "url": "https://www.jiji.com/jc/article?k=000000037.000056558&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "<b>広告</b>制作を15倍に増やす秘訣とは？ 中堅ブランドが挑む 生成AI内製化 | DIGIDAY［<b>日本</b>版］",
+      "url": "https://digiday.jp/brands/marketings-upper-middle-embraces-ai-creative-production/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "台本通りのPRは逆効果。ビューティー<b>広告</b>に潜む クリエイター の不満 - NewsPicks",
+      "url": "https://newspicks.com/news/17707742/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "星街すいせい、地上波ラジオ特番が放送決定 ハロウィン前夜に自身の活動を振り返る - KAI-YOU",
+      "url": "https://kai-you.net/article/96853",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "<b>YouTube</b>登録者数62万人超美女「購入から半年」ようやく納車された愛車での写真公開「買った ...",
+      "url": "https://news.infoseek.co.jp/article/modelpress_4860348/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "「女上司と部下」コント動画で話題！SNS総フォロワー数10万人以上の<b>クリエイター</b>「カノン社長 ...",
+      "url": "https://www.jiji.com/jc/article?k=000000139.000102719&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "推し活に、もうひとつの楽しみを。TikTok LIVEの応援団（ファンダム）をもっと強くする無料 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000031_000123400/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "プレスリリース：「女上司と部下」コント動画で話題！SNS総フォロワー数10万人以上の ...",
+      "url": "https://mainichi.jp/articles/20261016/pr2/00m/020/306000c",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "活動するたびに育ち続ける&quot;次世代CD&quot;「MELOKEY（メロキー）」受注受付開始 - エキサイト",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-10-17-110924-71/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "活動するたびに育ち続ける&quot;次世代CD&quot;「MELOKEY（メロキー）」受注受付開始 - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000071.000110924&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "業界トレンド",
+      "title": "満たされる：自然の意匠を活かした「BIWAスツール（虎竹）」 - 山陽新聞",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id=1989062",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "東武タワースカイツリー様｜エンジョイパックの<b>インフルエンサー</b>動画 - 株式会社MILOKU",
+      "url": "https://miloku.co.jp/works/sky/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "日本の美容ブランド、海外進出へ新たな共同プロジェクト 「JAPAN BEAUTY SHIP」発足発表会 ...",
+      "url": "https://j7p.jp/183831",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "株式会社NOAH、中野マルイにて韓国ビューティー＆ウェルネスのポップアップストアを開催 ...",
+      "url": "https://foods-ch.infomart.co.jp/news/345175",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "【ワカモノリサーチ<b>調査</b>】令和の若者の“<b>インフルエンサー</b>”について思うこと大<b>調査</b>！ - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000255.000162122.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "<b>M&amp;A</b>を出口戦略に検討する経営者は約8割にのぼるも - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19888046?news_ref=watch_20_nw19780918",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "「会社員のお姉さん」<b>インフルエンサー</b>、ピチ長袖Tの夜「なみなみ〜」「たまらないっ」失態も…",
+      "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-261016-202610160000394",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "「系統用蓄電池プロジェクトの基礎と主要契約・交渉等に係る重要ポイント」と題して - RBB TODAY",
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20261016/1379763.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "製本業ティーエムビーが自己破産申請、負債約5億1千万円 一時は年売上4億8千万円超も ... - 埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/219391",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "製本業ティーエムビーが自己破産申請、負債約5億1千万円 一時は年売上4億8千万円超も ... - 埼玉新聞",
+      "url": "https://www.saitama-np.co.jp/articles/219391/postDetail",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "「会社員のお姉さん」<b>インフルエンサー</b>、ボディーラインあらわニットでパンケーキ＆脚線美チラリ",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkangeinou/entertainment/f-et-tp0-261017-202610160002356",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "大胆な投稿で目を引く韓国美女<b>インフルエンサー</b>、仮想通貨でマイナス93％の大損…「心の中で ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/sportsseoulweb/entertainment/sportsseoulweb-161335",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "宮崎麗果、元参院議員の父とツーショットで“特別なご縁”新プロジェクト予告「1.57億円脱税」執行 ...",
+      "url": "https://www.excite.co.jp/news/article/SmartFLASH_1483701880609031059/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "BLACKPINK ジェニー、黒ビキニ姿の近況ショットも…飾らない日常をファンに共有",
+      "url": "https://news.yahoo.co.jp/articles/032ffb70853721da7cf4546808e237531e4b9155/images/000",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "ボーダレス・ジャパン、JICA海外協力隊の起業支援イベントを10月に福岡で開催へ",
+      "url": "https://news.dellows.jp/408893/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "エンターテインメント領域を牽引する主要4社が株式会社フラッグに資本参加 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000061.000003202.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "運用代行会社向け｜<b>ステマ規制</b>下のモニター施策 最新の動向と戦略レポート【2026年10月版】",
+      "url": "https://news.nicovideo.jp/watch/nw19887746?news_ref=top_newComments",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "片山財務相VS.日経新聞 G20報道を否定 会見での異例対応と波紋（2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261016-ZUAQWZ2HWBFHNOA2C7Y6TOGR4A/2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "脅威の兆候",
+      "title": "片山財務相が日経のG20報道を否定 会見での異例対応と波紋（写真・画像 1/1） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261016-ZUAQWZ2HWBFHNOA2C7Y6TOGR4A/photo/IFLXRYGXQFLK3HIQ23VURRYWUU/",
       "status": "未処理"
     }
   ],
@@ -77643,6 +78139,346 @@
         "benchmark": 2
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "Macbee Planet",
+      "title": "「株式会社ジェーシーアンドジー」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeVdxTWVCRWZacklWUDVTWE1wZlBQdTZZcVdUZENzQ1Jmd2M4MVdUWjFLdGQxZ3BUOF9mSUI4MDVTVEJsRld1V0RhWWJ6d3VQSFBsS2RzdjA4TmVSc0VsaEJIOWtiV2g5TWdsQUNmbjNmYUtKR21KRmdDTXNLMC1RclhYZi1sdk9WZjB0LUNWa2RzeUJ1TElNa1VLT2NZdW5iQWFRblF0UEI2T2NxRTFaWFAxdi1QNWdSTVVmSG52cEhjVDY0ajR3d1lnMmRZLUE4amlDY0o1UXl6Tmlaa2xfR0EySmdGcFNIWElLcWhLbUwxQjA?oc=5",
+      "totalScore": 6,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、アニメ『パンどろぼう』ED主題歌「Pang Pang Pang」MV公開！ 田向潤 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000924.000017258.html",
+      "totalScore": 15.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「GROVE TV」開設 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80STNiX1BlcGdOUG5lXy1oZnFJelNZdlBMd2NjR0k5T0tEV1NrbWVXa1Z4aERMSjBzdHppS21sMGxqLVY3TTRvWERNMDVqVDdCNS04ZTJiWl9aTVVnd2JQU1puWWJjQk4zSFE?oc=5",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「GROVE TV」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYVBqVFYwMnJoamNoTktqMWZUTTNhaFNPc3lGYVFpeFozVkdjSThRSVRoV1JPYjZ0SHpDV1ZjWlR6Vm9rdTJfQXFxaW5xY0Znek9ITmpwNjA?oc=5",
+      "totalScore": 13.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXZIdEo3YmZQOUxQUHFMbi01WmUwMVlILVNOeEQ2V004MGtnd0FHWFBjeHphWUZJby1oaGRuSnVTVUxuOFlBRTM1Qm5iM3M5Yk5xdGZ2SklSUjk2TTNUeG5YbzNMU1oxek5zZlZRSjQ5V0phYnhqalR2SG5YblktcmR3?oc=5",
+      "totalScore": 12.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 3,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "アソビシステム",
+      "title": "【カワコレTGC】アーティストライブは、KAWAII LAB.メンバーが集結！九州を拠点にデビューを目指す次世代メンバー・KAWAII LAB. SOUTHも加わり熱狂の渦に！＜イベントレポート②＞ | 株式会社W TOKYOのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVUVYcURkMnZMSXJPcVRReTI2RXR2VnA2RE8ya0JIc05rQW9tSkJUQ3BiNWtmbzFnMHlwR0pRMEF0T1V3S1Q0UmJudkFkTGpqQjJnR2hzUEUxelRkcEYzUm1VRGpGZ01UWFE?oc=5",
+      "totalScore": 17.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "アストリス・アドバイザリー・ジャパン株式会社がアズワン株式会社 （証券コード:7476）に関するサービス事業の詳細分析レポートを発行 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95S1pqRC1KbmFHbG9QaC02cHJUcFl6bUFnTzNnWWhHX3VVekFObGtCbUVOcGZ4dkRnckVsYmxBU2xRZlpucnpHcWZnZUt6ODU4UzYwR2lGRUVzbUpELWFQc0RscFNSNlY0VVE?oc=5",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「<b>GROVE</b> TV」開設",
+      "url": "https://prtimes.jp/main/html/rd/p/000000089.000014312.html",
+      "totalScore": 13.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "【<b>grove</b>】毎日のおしゃれに心弾む楽しさを届ける『トキメキ』シリーズ | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19888071?news_ref=watch_20_nw18970014",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://www.oricon.co.jp/news/2486780/photo/1/",
+      "totalScore": 15.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://news.yahoo.co.jp/articles/e1d3d06861a9b8aa015163a948e23f42502d8ed7",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/oricon/entertainment/oricon-2486780",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "出来高変化率ランキング（10時台）～ラストワンマイル、インバウンドなどがランクイン",
+      "url": "https://diamond.jp/zai/articles/-/1074203",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "出来高変化率ランキング（13時台）～セカンドサイト、イサム塗などがランクイン",
+      "url": "https://diamond.jp/zai/articles/-/1074214",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "出来高変化率ランキング（14時台）～ユミルリンク、インバウンドなどがランクイン | マネーボイス",
+      "url": "https://www.mag2.com/p/money/1806293/amp",
+      "totalScore": 6.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "フレンドリー・パートナーズ株式会社が<b>トレンダーズ</b>株式会社＜6069＞株式の大量保有報告書を提出",
+      "url": "https://maonline.jp/articles/sh-s100z8nr",
+      "totalScore": 11.25,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "株式会社<b>Macbee Planet</b>による株式会社ジェーシーアンドジーの株式取得（完全子会社化 ...",
+      "url": "https://spicon.co.jp/news/ma-news/spica-445/",
+      "totalScore": 14.5,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "エヌケービーと<b>Macbee Planet</b>の比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C300000065sLo/compa/a0C1000000sj0Fa/",
+      "totalScore": 6.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "【10/22(木)オンライン開催】税理士と元VCが解説 はじめてのスタートアップ投資／エンジェル ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000212_000023145/",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "ライバー<b>事務所</b>の看板を畳まないM&amp;A YOUPACE が合流相談「LIVER UNITED」を ... - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000049820.html",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -115955,6 +116791,248 @@
       "agenda": "新興のデジタルクリエイター事務所が増える中で、VAZはどのように差別化を図り、有望なクリエイターの獲得と育成、及び既存クリエイターの流出防止策を強化すべきか？",
       "summary": "AMANATIONからクリエイター部門が独立、新事務所AICONが始動",
       "axis": "タレント軸"
+    },
+    {
+      "id": 2031,
+      "date": "2026-10-17",
+      "company": "アソビシステム",
+      "title": "きゃりーぱみゅぱみゅ、アニメ『パンどろぼう』ED主題歌「Pang Pang Pang」MV公開！ 田向潤 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000924.000017258.html",
+      "totalScore": 15.75,
+      "tags": [
+        "#コンテンツ制作",
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "アソビシステム所属アーティストのきゃりーぱみゅぱみゅが、人気絵本原作アニメ『パンどろぼう』のエンディング主題歌「Pang Pang Pang」を担当し、ミュージックビデオを公開した。",
+      "intent": "アソビシステムは、強力なアーティストIP（きゃりーぱみゅぱみゅ）を核に、音楽、ファッション、アニメなど多様なコンテンツ領域への展開を戦略的に進めている。今回のタイアップは、アーティストの活動領域を広げ、新たなファン層（アニメ視聴者層、特に子供層）を獲得することで、IPとしての寿命と影響力を拡大させることが狙い。特に「パンどろぼう」という原作が持つ高い人気と幅広いターゲット層は、きゃりーぱみゅぱみゅのIP価値をさらに高め、将来的なグッズ展開やイベント動員にも繋げるための布石と考えられる。",
+      "impact": "このニュースは、VAZの「コンテンツビジネスDiv」におけるタレントIP戦略に直接的な影響と示唆を与える。VAZが2026年注力領域とする「所属タレントのグッズ（IP）」と「アイドルグループ」の育成において、アソビシステムのIP多角展開は非常に参考になる。特に、人気アニメとのタイアップは、自社IPのブランド価値向上、露出機会の拡大、ターゲット層（Z世代・若年層）へのリーチ強化、および新たなファン層の獲得に有効な手段である。VAZのアイドルプロジェクトも、音楽活動だけでなく、アニメや他メディアとの連携を通じてIPを成長させる戦略を積極的に検討すべきである。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、今後どのような外部IP（アニメ・キャラクター等）とのタイアップ戦略を検討し、それによりタレントIPの価値向上とファン層拡大をどのように実現するか？",
+      "summary": "きゃりーぱみゅぱみゅが人気アニメ主題歌を担当しMV公開。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2032,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「GROVE TV」開設 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80STNiX1BlcGdOUG5lXy1oZnFJelNZdlBMd2NjR0k5T0tEV1NrbWVXa1Z4aERMSjBzdHppS21sMGxqLVY3TTRvWERNMDVqVDdCNS04ZTJiWl9aTVVnd2JQU1puWWJjQk4zSFE?oc=5",
+      "totalScore": 14,
+      "tags": [
+        "#自社チャンネル運営",
+        "#コンテンツ制作",
+        "#自社IP・グッズ"
+      ],
+      "fact": "GROVE株式会社がseju所属タレントを起用し、YouTubeチャンネル「GROVE TV」を開設、バラエティコンテンツに注力する。",
+      "intent": "競合であるGROVEは、タレントの多様な才能を引き出し、エンゲージメントの高いファンベースを構築しようとしている。既存の個人チャンネルとは異なる「会社として」のチャンネル運営は、タレントの新たな魅力を発掘・発信し、タレントのブランド価値向上とマネタイズ機会の拡大を狙っていると推察される。YouTubeを主要プラットフォームとして選定し、バラエティというジャンルで「本気」を謳うことで、既存ファン層の維持・拡大に加え、新規層へのリーチも視野に入れていると考えられる。これはVAZの「自社チャンネル運営」や「コンテンツ制作力」と重なる戦略であり、タレントIPを強化する動きと言える。",
+      "impact": "このニュースは、VAZのタレント軸事業である「コンテンツビジネスDiv」に直接的な影響を及ぼす。競合であるGROVEがタレントのIP価値向上とファンエンゲージメント強化のために、自社でYouTubeチャンネルを立ち上げ、バラエティというジャンルでコンテンツ制作に注力する動きは、VAZの「自社チャンネル運営」や「所属インフルエンサーを起点としたコンテンツ制作力」と競合する。特にVAZが注力する「アイドルグループ」や「所属タレントのグッズ（IP）」戦略において、タレントの多様な魅力を引き出し、ファンベースを強化するコンテンツは不可欠であり、GROVEのこの取り組みは、IP価値向上への先行投資と見るべき。",
+      "agenda": "VAZは自社タレントのIP価値最大化のため、GROVEのバラエティ挑戦から何を学び、自社チャンネルのコンテンツ戦略やアイドルプロジェクトにどう活かすべきか？",
+      "summary": "sejuタレントがYouTube「GROVE TV」でバラエティ挑戦",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2033,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「GROVE TV」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QYVBqVFYwMnJoamNoTktqMWZUTTNhaFNPc3lGYVFpeFozVkdjSThRSVRoV1JPYjZ0SHpDV1ZjWlR6Vm9rdTJfQXFxaW5xY0Znek9ITmpwNjA?oc=5",
+      "totalScore": 13.75,
+      "tags": [
+        "#自社チャンネル運営",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE株式会社が「GROVE TV」に関する複数のプレスリリースを公開している。",
+      "intent": "GROVEが自社コンテンツを強化する意図は、所属タレントのIP価値向上、ファンエンゲージメント促進、広告以外の収益源確立、および特定のプラットフォームに依存しないメディア資産構築にあると推測される。",
+      "impact": "本ニュースの詳細が不明なものの、GROVEが「GROVE TV」を通じて自社コンテンツ基盤を強化していると仮定すると、VAZのコンテンツ制作力や自社チャンネル運営、特に「タレントIPグッズ」や「アイドルグループ」といった注力領域と直接競合し、市場競争激化に繋がる可能性がある。",
+      "agenda": "「GROVE TV」の詳細を速やかに調査し、VAZの自社チャンネル運営およびアイドルプロジェクトのコンテンツ戦略への影響と具体的な競争戦略を検討すべきではないか？",
+      "summary": "GROVEが自社コンテンツ「GROVE TV」を始動/強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2034,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXZIdEo3YmZQOUxQUHFMbi01WmUwMVlILVNOeEQ2V004MGtnd0FHWFBjeHphWUZJby1oaGRuSnVTVUxuOFlBRTM1Qm5iM3M5Yk5xdGZ2SklSUjk2TTNUeG5YbzNMU1oxek5zZlZRSjQ5V0phYnhqalR2SG5YblktcmR3?oc=5",
+      "totalScore": 12.75,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#コンテンツ制作",
+        "#タイアップ案件"
+      ],
+      "fact": "GROVE株式会社がプレスリリース配信プラットフォームPR TIMES上に自社のリリース一覧ページを公開している。",
+      "intent": "競合であるGROVEが継続的にプレスリリースを発信する体制を維持していることは、事業活動の活発さや新たな取り組みへの積極性を示す。これは新規顧客獲得、既存事業の強化、採用力向上などを目的とした広報戦略の一環と推測される。VAZは同じ市場で競合するため、GROVEの動向を詳細に把握する必要がある。",
+      "impact": "具体的なプレスリリースの内容が不明なため詳細な分析は困難だが、GROVEが広報活動を継続的に行っている事実は、VAZの競合として事業の拡大や新規事業への注力を示唆する。特にVAZが注力するTikTokショップ、タレントIPグッズ、インフルエンサーネットワーク、アイドルグループ、美容UGC生成といった領域で、GROVEが類似または競合する動きを展開している可能性があり、動向を徹底的に監視することが重要である。",
+      "agenda": "GROVEのプレスリリース各件を精査し、VAZの事業戦略や注力領域に対し具体的な脅威や機会がないか、次の経営会議で議論すべき具体的なアクションプランを策定できるか？",
+      "summary": "GROVEがPR活動を活発化、事業展開を示唆",
+      "axis": "両方"
+    },
+    {
+      "id": 2035,
+      "date": "2026-10-16",
+      "company": "アソビシステム",
+      "title": "【カワコレTGC】アーティストライブは、KAWAII LAB.メンバーが集結！九州を拠点にデビューを目指す次世代メンバー・KAWAII LAB. SOUTHも加わり熱狂の渦に！＜イベントレポート②＞ | 株式会社W TOKYOのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tVUVYcURkMnZMSXJPcVRReTI2RXR2VnA2RE8ya0JIc05rQW9tSkJUQ3BiNWtmbzFnMHlwR0pRMEF0T1V3S1Q0UmJudkFkTGpqQjJnR2hzUEUxelRkcEYzUm1VRGpGZ01UWFE?oc=5",
+      "totalScore": 17.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#タレント発掘・育成",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステム所属のKAWAII LAB.がイベントでライブを行い、次世代メンバーKAWAII LAB. SOUTHも登場した。",
+      "intent": "アソビシステムは既存IPであるアイドルグループ「KAWAII LAB.」のブランドを拡大するため、地域密着型で次世代メンバーを発掘・育成する戦略を展開していると考えられる。これはアイドルIPの継続的な強化と、多様な才能を取り込むことでタレントポートフォリオを強化し、ファン層を拡大する意図がある。",
+      "impact": "VAZが2026年注力領域に掲げる「アイドルグループ」および「所属タレントのグッズ（IP）」と直接的に合致・競合する動きであり、アソビシステムの実績あるアイドル育成・展開はVAZにとって有力なベンチマークとなる。特に地域に根差した「KAWAII LAB. SOUTH」の展開は、VAZの「インフルエンサーネットワーク」構築やタレント発掘戦略に示唆を与える。",
+      "agenda": "アソビシステムの地域密着型アイドル育成モデルに対し、VAZの「アイドルプロジェクト」でどのような地域戦略や育成モデルを構築し差別化を図るべきか？",
+      "summary": "アソビシステムがアイドルグループ「KAWAII LAB.」次世代メンバーを投入しライブ展開",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2036,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「<b>GROVE</b> TV」開設",
+      "url": "https://prtimes.jp/main/html/rd/p/000000089.000014312.html",
+      "totalScore": 13.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社チャンネル運営",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE株式会社は、seju所属タレントらが芸人ゲストとともにバラエティ企画に挑戦するYouTubeチャンネル「GROVE TV」を2026年10月16日に開設した。",
+      "intent": "競合GROVEは、タレントのバラエティ能力向上を通じた多角的な活躍の場を創出し、IP価値の最大化を狙っていると推察される。YouTubeを育成プラットフォームとすることで、既存メディアだけでなくYouTubeでの新たなファン層獲得や広告収益化も視野に入れていると考えられる。",
+      "impact": "本ニュースは、VAZのコンテンツビジネスDivにおける自社チャンネル運営とタレントマネジメントに直接的な競合圧力となる。GROVEがタレントのバラエティ適性を高めることで、IP価値向上を図り、VAZの注力領域である「所属タレントのグッズ（IP）」や「アイドルグループ」の育成競争にも影響を与える可能性がある。",
+      "agenda": "競合がタレント育成を兼ねたバラエティチャンネルを開設する中、VAZは自社タレントの多角的なスキル向上とIP強化のために、どのようなコンテンツ戦略を再構築すべきか？",
+      "summary": "GROVEがタレント育成目的でYouTubeバラエティチャンネル開設",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2037,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "【<b>grove</b>】毎日のおしゃれに心弾む楽しさを届ける『トキメキ』シリーズ | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19888071?news_ref=watch_20_nw18970014",
+      "totalScore": 16.25,
+      "tags": [
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE株式会社が「トキメキ」シリーズと称する新プロジェクトを開始した。",
+      "intent": "インフルエンサー事務所はタイアップ広告収益の限界を見据え、所属タレントのブランド力やファンエンゲージメントを活かしたIPビジネスへの多角化を進めている。特にZ世代・若年層の消費行動がSNSコンテンツと密接な関係にあるため、「おしゃれ」や「トキメキ」といった感情価値を伴うライフスタイル系ブランドの展開は、ファン経済圏の構築とLTV最大化を狙う動きと推察される。これはVAZの主要ターゲット層と強み（Z世代リーチ、美容・コスメ親和性）と重なる領域であり、競合による顧客囲い込み強化の意図が見える。",
+      "impact": "GROVEの「トキメキ」シリーズは、VAZが2026年注力領域とする「所属タレントのグッズ（IP）」や「アイドルグループ」によるファンビジネス強化と直接的に競合する。タレントを単なる広告塔に留めず、自社ブランドやコンテンツのプロデューサーとして起用することで、長期的な収益源を確保し、タレントのキャリアパスを多様化させる戦略と解釈できる。特に「おしゃれ」をテーマとすることから、VAZの強みである美容・コスメ領域との親和性も高く、競合がこの領域でのIP展開を本格化させている兆候と捉え、VAZも自社タレントの個性を活かしたIP開発を加速させる必要がある。",
+      "agenda": "自社タレントIPを活用したライフスタイルブランド展開において、GROVEとの差別化ポイントは何か、また具体的な推進計画をどう構築すべきか？",
+      "summary": "GROVEが若年層向けライフスタイル新シリーズ展開",
+      "axis": "両方"
+    },
+    {
+      "id": 2038,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://www.oricon.co.jp/news/2486780/photo/1/",
+      "totalScore": 15.75,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社チャンネル運営",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE株式会社は所属タレント「seju」を起用し、人気芸人出演のYouTubeバラエティチャンネル「GROVE TV」を開設した。",
+      "intent": "インフルエンサー市場の競争激化の中で、タレントの多角的な魅力発信とエンゲージメント強化が求められており、YouTubeを活用したバラエティコンテンツはタレントのパーソナリティを深く見せ、ファン層拡大とIP価値向上を狙う戦略と考えられる。人気芸人の起用は、コンテンツの質向上と初期の視聴者獲得を加速させる意図がある。",
+      "impact": "本ニュースは、VAZのコンテンツビジネスDivが担当する「自社チャンネル運営」や「自社所属クリエイター/タレントのマネジメント」と直接競合し、VAZの「コンテンツ制作力」と「Z世代・若年層へのリーチ力」に対する脅威となる。VAZの注力領域である「所属タレントのグッズ（IP）」や「アイドルグループ」の基盤となるタレントの知名度・魅力向上にも繋がる動きであり、VAZもタレントの多角的な活動の場創出やコンテンツ強化を加速させる必要がある。",
+      "agenda": "競合の動きを踏まえ、VAZ所属タレントのIP価値向上と新たなファン層獲得のため、YouTubeにおける独自のバラエティコンテンツ戦略や他事務所・他ジャンルとのコラボレーションをどう推進すべきか？",
+      "summary": "GROVEが人気芸人とYouTubeバラエティチャンネルを開設しタレント育成を強化。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2039,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://news.yahoo.co.jp/articles/e1d3d06861a9b8aa015163a948e23f42502d8ed7",
+      "totalScore": 16.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社チャンネル運営",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVEは所属タレントのバラエティスキル向上とメディア露出拡大を目指し、人気芸人を招いたYouTubeチャンネル「GROVE TV」を開設した。",
+      "intent": "インフルエンサーのSNS上での人気だけでは、長期的なタレントキャリアやメディア露出の限界があるため、競合は既存メディアにも対応できる汎用的なバラエティスキルを習得させ、タレント価値を向上させる狙いがある。これにより、タレントの活動領域を広げ、安定的な収益源を確保し、タレントの定着率も高めたいと考えられる。YouTubeは手軽に実践の場を提供できる。",
+      "impact": "VAZの強みである「所属インフルエンサーを起点としたコンテンツ制作力」や「Z世代・若年層へのリーチ力」において、競合GROVEがタレントの多角的なスキルアップに投資していることを示唆する。VAZの「自社チャンネル運営」戦略においても、より専門的・高品質なコンテンツ制作やタレント育成の必要性が高まる。「所属タレントのグッズ（IP）」や「アイドルグループ」といった注力領域において、バラエティでの活躍はタレントの知名度や好感度、IP価値向上に直結するため、VAZもタレント育成・コンテンツ戦略を見直す必要がある。",
+      "agenda": "VAZとして、所属タレントのSNSに閉じないメディア展開力やバラエティスキルを強化するために、具体的にどのような育成プログラムやコンテンツ戦略を構築すべきか？",
+      "summary": "GROVEがバラエティYouTube開設でタレント育成強化・IP価値向上へ",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2040,
+      "date": "2026-10-16",
+      "company": "GROVE株式会社",
+      "title": "「seju」タレントがバラエティに本気で挑戦 人気芸人も出演のYouTubeチャンネル「<b>GROVE</b> TV ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/oricon/entertainment/oricon-2486780",
+      "totalScore": 18,
+      "tags": [
+        "#自社チャンネル運営",
+        "#コンテンツ制作",
+        "#タレント発掘・育成"
+      ],
+      "fact": "GROVE株式会社は、所属タレントがバラエティ番組で活躍するスキルを身につけるためのYouTubeチャンネル「GROVE TV」を開設し、人気芸人とのコラボ企画を開始した。",
+      "intent": "インフルエンサーの活動領域がSNSに留まらず、テレビバラエティや広範なメディアへと拡大する中で、所属タレントのスキルセット多様化が急務となっているため。GROVEはタレントのIP価値を向上させ、長期的なキャリア形成を支援することで、タレントの囲い込みと案件獲得の競争力を強化する狙いがあると推察される。",
+      "impact": "VAZにとって、直接競合であるGROVEがタレントのバラエティ適応力を強化する動きは、自社タレントのスキル育成とIP価値向上戦略への再考を促す。VAZの強みであるコンテンツ制作力や若年層へのリーチ力を活かしつつ、タレントの表現の幅を広げることで、広告案件の多様化や、注力領域であるタレントIPグッズやアイドルグループ展開におけるタレントのメディア露出機会増加に繋がる可能性がある。",
+      "agenda": "自社タレントのバラエティ能力向上や多角的なスキル育成のため、GROVEのような専門チャンネル開設や外部プロ人材との連携を強化すべきではないか？",
+      "summary": "GROVEが所属タレントのバラエティ育成チャンネルを開設",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2041,
+      "date": "2026-10-16",
+      "company": "トレンダーズ",
+      "title": "フレンドリー・パートナーズ株式会社が<b>トレンダーズ</b>株式会社＜6069＞株式の大量保有報告書を提出",
+      "url": "https://maonline.jp/articles/sh-s100z8nr",
+      "totalScore": 11.25,
+      "tags": [
+        "#資金調達・M&A"
+      ],
+      "fact": "フレンドリー・パートナーズ株式会社が、東証グロース上場企業のトレンダーズ株式会社の株式の大量保有報告書を提出した。",
+      "intent": "投資ファンドであるフレンドリー・パートナーズがトレンダーズの株式を大量取得した目的は「FP成長支援A号 投資事業有限責任組合」とされており、トレンダーズの企業価値向上を支援し、中長期的な成長を促すことにあると推測される。VAZ視点では、競合であるトレンダーズが外部からの資本支援を受けることで、事業拡大や新規領域への投資が加速し、市場での競争力が強化される可能性が高いと認識すべきである。",
+      "impact": "競合トレンダーズへの投資ファンド参画は、同社の経営基盤強化と成長戦略加速を示唆する。これにより、トレンダーズは既存のインフルエンサーマーケティング事業の強化や新規事業への投資を拡大する可能性が高まる。VAZにとって、これはインフルエンサーネットワークの拡充や、TikTokショップ、美容UGC生成といった注力領域において、競合がより活発な動きを見せる可能性があることを意味する。特に美容・コスメ領域に強みを持つVAZにとって、同じく美容系に強いトレンダーズの資本力強化は、クライアント獲得競争やインフルエンサーリソースの奪い合いを激化させる要因となりうる。",
+      "agenda": "競合であるトレンダーズが投資ファンドの支援を受けたことで、VAZは現在の資本戦略や事業投資計画を再評価し、市場競争激化に対応するための具体的なアクションをどう取るべきか？",
+      "summary": "トレンダーズ、投資ファンドが株式大量保有を報告",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2042,
+      "date": "2026-10-16",
+      "company": "Macbee Planet",
+      "title": "株式会社<b>Macbee Planet</b>による株式会社ジェーシーアンドジーの株式取得（完全子会社化 ...",
+      "url": "https://spicon.co.jp/news/ma-news/spica-445/",
+      "totalScore": 14.5,
+      "tags": [
+        "#資金調達・M&A",
+        "#ECコマース",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "LTVマーケティングを展開するMacbee Planetが、美容・医療分野に特化した信販・決済サービス提供の株式会社ジェーシーアンドジーを完全子会社化した。",
+      "intent": "Macbee Planetは、単なる広告運用に留まらず、顧客の事業成長に直結するLTV（顧客生涯価値）向上を支援する戦略を強化しており、今回の買収は、美容・医療といった高単価・継続利用が期待される領域で、広告施策の効果最大化から購買後の決済・信販サービスまでを一貫提供し、LTVマーケティングにおける競争優位性を確立する意図がある。",
+      "impact": "Macbee Planetが美容領域の決済・LTV領域を強化することは、VAZの「美容・コスメ領域との親和性」や「美容UGC生成」という強み・注力領域を持つ事業にとって、間接的な競合環境の変化を示唆する。VAZが注力する「TikTokショップ」や「所属タレントのグッズ（IP）」といったEC関連事業において、決済やLTV向上の知見・サービスは不可欠であり、Macbee Planetの動きは、VAZがインフルエンサーマーケティングだけでなく、顧客の事業全体のLTV向上にどこまでコミットすべきかという問いを突きつける。",
+      "agenda": "VAZは、美容領域におけるインフルエンサーマーケティングの提供価値を、単なる認知・UGC生成に留まらず、D2CブランドのLTV向上やECにおける決済体験の改善まで踏み込んだ形にどう拡張すべきか？",
+      "summary": "Macbee Planetが美容・医療特化の決済サービス企業を買収しLTVマーケティングを強化。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2043,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "ライバー<b>事務所</b>の看板を畳まないM&amp;A YOUPACE が合流相談「LIVER UNITED」を ... - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000049820.html",
+      "totalScore": 15,
+      "tags": [
+        "#資金調達・M&A",
+        "#タレント発掘・育成"
+      ],
+      "fact": "YOUPACEはライバー事務所の屋号やコンセプトを維持したまま運営を引き継ぎ統合する「LIVER UNITED」プロジェクトを開始し、すでに3事務所が合流している。",
+      "intent": "中小規模のライバー事務所が抱える運営ノウハウ、資金、人材不足といった構造的課題に対し、YOUPACEはM&Aによる運営統合で効率化と規模の経済を追求し、市場での競争力を高めようとしている。",
+      "impact": "この競合の動きは、VAZの「インフルエンサーネットワーク」注力領域に直接的な競合圧力をかける。M&Aを通じたタレント（ライバー）獲得と囲い込みの強化により、VAZのタレント獲得競争が激化する可能性がある。この統合モデルは、VAZが将来的にインフルエンサーネットワークを拡大する際の提携・買収戦略の参考になり得る。",
+      "agenda": "VAZは、インフルエンサーネットワーク強化戦略の一環として、中小ライバー事務所のM&Aや運営受託を具体的に検討すべきか？",
+      "summary": "YOUPACEがライバー事務所統合M&Aプロジェクトを開始",
+      "axis": "タレント軸"
     }
   ],
   "competitors": [
@@ -115989,8 +117067,8 @@
   ],
   "home": {
     "monthLabel": "2026年10月",
-    "thisMonthNewsCount": 725,
-    "thisMonthAnalysisCount": 188,
+    "thisMonthNewsCount": 787,
+    "thisMonthAnalysisCount": 201,
     "highlights": [
       {
         "id": 0,
@@ -116058,13 +117136,13 @@
       },
       {
         "company": "アソビシステム",
-        "totalScore": 8329,
-        "count": 500
+        "totalScore": 8362.5,
+        "count": 502
       },
       {
         "company": "トレンダーズ",
-        "totalScore": 2262.7200000000003,
-        "count": 157
+        "totalScore": 2273.9700000000003,
+        "count": 158
       },
       {
         "company": "株式会社ナハト",
@@ -116073,18 +117151,18 @@
       },
       {
         "company": "脅威の兆候",
-        "totalScore": 1721.5,
-        "count": 126
-      },
-      {
-        "company": "Macbee Planet",
-        "totalScore": 1170.42,
-        "count": 92
+        "totalScore": 1736.5,
+        "count": 127
       },
       {
         "company": "GROVE株式会社",
-        "totalScore": 1103.6399999999999,
-        "count": 71
+        "totalScore": 1223.6399999999999,
+        "count": 79
+      },
+      {
+        "company": "Macbee Planet",
+        "totalScore": 1184.92,
+        "count": 93
       },
       {
         "company": "TORIHADA",
@@ -116100,19 +117178,19 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 870
+        "count": 872
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 814
+        "count": 823
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 778
+        "count": 782
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 691
+        "count": 693
       },
       {
         "tag": "#プラットフォーム動向",
@@ -116124,11 +117202,11 @@
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 360
+        "count": 366
       },
       {
         "tag": "#ECコマース",
-        "count": 348
+        "count": 349
       },
       {
         "tag": "#プランニング・企画",
@@ -116136,13 +117214,13 @@
       },
       {
         "tag": "#タイアップ案件",
-        "count": 211
+        "count": 212
       }
     ],
     "axisCounts": {
-      "タレント軸": 763,
-      "マーケティング軸": 557,
-      "両方": 679,
+      "タレント軸": 772,
+      "マーケティング軸": 559,
+      "両方": 681,
       "業界全般": 31
     },
     "tagMaster": {
