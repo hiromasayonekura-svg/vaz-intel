@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-10-18T00:31:25.703Z",
-    "generatedAtJst": "2026-10-18 09:31:25",
-    "totalNews": 3759,
-    "totalAnalyses": 2044,
+    "generatedAt": "2026-10-19T00:31:26.447Z",
+    "generatedAtJst": "2026-10-19 09:31:26",
+    "totalNews": 3802,
+    "totalAnalyses": 2060,
     "totalCompetitors": 7
   },
   "news": [
@@ -29013,7 +29013,7 @@
       "company": "脅威の兆候",
       "title": "ＳＢＩ、吉本興業と戦略的業務提携（時事通信） - ｄメニューニュース - NTTドコモ",
       "url": "https://topics.smt.docomo.ne.jp/article/jiji/business/jiji-20261014Y403",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29037,7 +29037,7 @@
       "company": "脅威の兆候",
       "title": "株式会社AMANATIONからクリエイター部門が<b>独立</b>。SNSで新たな価値を生み出す次世代デジタル ...",
       "url": "https://www.excite.co.jp/news/article/Prtimes_2026-10-14-158382-26/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29045,7 +29045,7 @@
       "company": "脅威の兆候",
       "title": "株式会社AMANATIONからクリエイター部門が<b>独立</b>。SNSで新たな価値を生み出す次世代デジタル ...",
       "url": "https://entamerush.jp/720018/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29053,7 +29053,7 @@
       "company": "脅威の兆候",
       "title": "俳優ハ・ジョンウ、11歳下女優と結婚へ！今年初めに熱愛認める 12月に非公開で挙式",
       "url": "https://www.chiba-tv.com/plus/detail/2026102111907",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29061,7 +29061,7 @@
       "company": "脅威の兆候",
       "title": "我が家、ジャンポケ、四千頭身…トリオのメンバー<b>不祥事</b>と特有の難しさ （2/2ページ） - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20261014-UE7YFELAONCV5A4XTFK54CQ25A/2/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29069,7 +29069,7 @@
       "company": "脅威の兆候",
       "title": "我が家、ジャンポケ、四千頭身…トリオのメンバー<b>不祥事</b>と特有の難しさ - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20261014-UE7YFELAONCV5A4XTFK54CQ25A/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29077,7 +29077,7 @@
       "company": "脅威の兆候",
       "title": "未成年飲酒で<b>契約</b>解除の今森まや、「高１の時子供できちゃって」妊娠発言を謝罪「心がもたず…」",
       "url": "https://news.yahoo.co.jp/articles/8f2183b3700da85c98473011e7c3d4a9200fe5c2",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29085,7 +29085,7 @@
       "company": "脅威の兆候",
       "title": "元「ミスマガジン」GP美女、「高１で妊娠」過去を衝撃告白「子供できちゃって…」",
       "url": "https://news.infoseek.co.jp/amp/article/nikkansports_202610140000041/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -29093,7 +29093,7 @@
       "company": "脅威の兆候",
       "title": "元「ミスマガジン」GP美女、「高１で妊娠」過去を衝撃告白「子供できちゃって…」",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkangeinou/entertainment/f-et-tp0-261014-202610140000041",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -30077,6 +30077,350 @@
       "company": "脅威の兆候",
       "title": "片山財務相が日経のG20報道を否定 会見での異例対応と波紋（写真・画像 1/1） - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20261016-ZUAQWZ2HWBFHNOA2C7Y6TOGR4A/photo/IFLXRYGXQFLK3HIQ23VURRYWUU/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "GROVE株式会社",
+      "title": "四に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWZQQVhfejI0Sk5VTF90cWt4bFZLQVZBVjRTekMtSl9CcjkyVmV3WWxlb2JTbW5CUEdnOE5jWkN0bGRGRGxKREZxcmhXSHMyX0pieGoxY3JyVkh4OHFZU2lydG9jU0x5RGV1d1ZzWk9wUzZZM0QzZVVuZEdGY1E1UnlTM296bFE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "アソビシステム",
+      "title": "FRUITS ZIPPER、新曲「じょい！×３」配信リリース決定 リリース記念で東京ガーデンシアターにてファンクラブ限定無料招待ライブ開催＆新曲を初披露！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hemZDWVRJb2czaVNtRzdTT0t3bW9sbFl4MFgzOUY4QVRPTXBUQUFSemJNamItSVdnc2hZV1Fjc3g2M3lFYmFxVm1nQWIxUzZQd2Vja29WUzZZYlJUYXRLMFM2cWdYU1Mtb0E?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "株式会社Natee",
+      "title": "由貴に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakxQZ1A0WmE3UmhfejdnMXlKM1VTUTNhNGJuUi1uQTVBMldUU1ptUjAweXA2R2FoQnp2aDkyZm9QU2RubWZkQzVkVGctWHQzS1JRMEl2LWk0MFZHdUlFV21ncVVDcUhsQko3VTVQS2F4cnVnMUxTSGhKeW0wSG96NDFJd29MWEV4WGZMQ1VPLUdNTkU?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-06-01",
+      "company": "TORIHADA",
+      "title": "ナリーズに関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWR5Y0tyY2pXZ0dfRmdwcXRMR28yWkhXb2o2TGUwUzB0QUdBYkxoVjJhMk9qNXh4cTNJZTBYcnNhQ05vTG1iXzFvR0U3YzEwTnJYSWJ1WEpOQ1NpSG9rV2lPd21EN1dNNm91c3BYcnhDR3lKQkhIX3JuRDlhdVB1bGt3ZTlZQ2FIMTZyMmlLX2J3Q01hY3pWSUVjNTVKZU5URGVEZkJjQXRHOWs?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "GROVE株式会社",
+      "title": "大物芸人との親子ダンスが大反響！ さんまと共演の22歳“2世娘”、芸能人への転身が正解だと ...",
+      "url": "https://news.yahoo.co.jp/articles/d71f1dd9958d86ef24c803837021870e934905ca",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "月亭方正の22歳次女が芸能界へ。<b>インフルエンサー</b>から「テレビ転身が正解」と言える業界の裏 ...",
+      "url": "https://joshi-spa.jp/1433835",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "Z世代の絶大な支持を集めるカリスマ<b>インフルエンサー</b>・さくら、写真集タイトル＆表紙決定 20歳 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2487073",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「<b>GROVE</b> TV」開設",
+      "url": "https://mantan-web.jp/prtimes/article/20261016prt00m200001188a.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "アソビシステム",
+      "title": "FRUITS ZIPPER、<b>新曲</b>「じょい！×３」配信<b>リリース</b>決定 <b>リリース</b>記念で東京ガーデンシアターに ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000925.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>とLYDIAの比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C3000000lsp2b/compa/a0C1000001UkPXM/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>とアイプラスデザインの比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C3000000lsp2b/compa/a0CRC0000Hpxajg/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "EMOLVA “令和の虎”榊󠄀原清一氏が東グラ三多摩支部セミナーで「紙とSNSの共存」を提言 AI時代 ...",
+      "url": "https://www.newprinet.co.jp/emolva-%E6%9D%B1%E3%82%B0%E3%83%A9%E4%B8%89%E5%A4%9A%E6%91%A9%E6%94%AF%E9%83%A8%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "3WELLと韓国Cafe24が戦略的業務提携 韓国ブランドの日本進出を支援 - Dellows News",
+      "url": "https://news.dellows.jp/773040/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "ハトリリと矢野経済研究所、フェムテック<b>市場</b>のセミナーを10月28日に開催へ - Dellows News",
+      "url": "https://news.dellows.jp/776421/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "【ワカモノリサーチ調査】令和の若者の“<b>インフルエンサー</b>”について思うこと大調査！ - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000255.000162122&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "木下斉プロデュース、生産者の声を“聴いて買える”新番組『サタデーローカルマルシェ』10月17日 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19888829?news_ref=watch_20_nw19780838",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "ＤＯＮＵＴＳ、関暁夫の「裏都市伝説」で自動車窃盗団の実態に迫る、全１８話を配信開始",
+      "url": "https://kabu-ir.com/article/521812816.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "<b>ショートドラマ</b>で一発当てたい！#23 - TVer",
+      "url": "https://tver.jp/episodes/epj744nxxo",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "オリコンニュース - FM NACK5 79.5MHz（エフエムナックファイブ）",
+      "url": "https://www.nack5.co.jp/oricon/2487124/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "井出卓也&amp;バーンズ勇気 天てれ戦士22年ぶり共演 ベビーフェースだった2人が「凄い悪役！」に ...",
+      "url": "https://news.livedoor.com/article/detail/32594280/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "【採用担当・人事向け】応募が集まる採用<b>ショートドラマ</b> 完全ガイド【2026年版】の媒体資料",
+      "url": "https://media-radar.jp/detail36180.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "【Kalodata週次レポート】<b>日本TikTok</b> Shop市場、GMV21.1億円 新商品投入は前週比82.7%増 ...",
+      "url": "https://www.jiji.com/jc/article?k=000000066.000167462&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "昨季はフォロワー数が3.8倍に増加！ SVリーグが<b>TikTok</b>と今季も連携協定締結",
+      "url": "https://volleyballking.jp/article/93965/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "X<b>広告</b>に「合理的な美的基準」導入、マスク氏が発表――見苦しい<b>広告</b>は出稿禁止へ - shiritomo",
+      "url": "https://hashout.jp/sns/12715/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "フルーツギフトEC「蝶結び」のレトロスペクト、CRM施策が奏効 <b>広告</b>費半減も売上維持",
+      "url": "https://netkeizai.com/articles/detail/20189",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "業界トレンド",
+      "title": "MetaがByteDanceの<b>広告</b>を<b>日本</b>を含む7市場で禁止：<b>TikTok</b>へ誘導する第三者の<b>広告</b>も対象",
+      "url": "https://digital-marketing-leap.jp/2026/10/17/meta-bans-bytedance-ads-seven-markets-japan/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "AIへの指示は「４つのポイント」が重要！Z世代向け新連載が教えるChatGPTの上手な使い方",
+      "url": "https://wakamono-research.co.jp/media/chatgpt-prompting-guide/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "東京ガスｉネット、熟練PMの暗黙知をエージェンティックAIで次世代に継承 日立ソリューションズ ...",
+      "url": "https://enterprisezine.jp/news/detail/25302",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "トヨタファイナンス社内のIT運用をエージェンティック化    キンドリルジャパン＆トヨタ ...",
+      "url": "https://enterprisezine.jp/news/detail/25301",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "業界トレンド",
+      "title": "集英社ゲームズ、契約管理業務を一元化 ドキュサインのIAMで法務コストの削減に挑む",
+      "url": "https://enterprisezine.jp/news/detail/25299",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "脅威の兆候",
+      "title": "朝倉海を支える“美しすぎる通訳”さえさんの素顔 空手歴15年・名門大卒の才女が新たな挑戦へ ...",
+      "url": "https://www.ehime-np.co.jp/article/202610170054",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "Z世代の絶大な支持を集めるカリスマ<b>インフルエンサー</b>・さくら、写真集タイトル＆表紙決定 20歳 ...",
+      "url": "http://www.excite.co.jp/news/article/Oricon_2487073/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "大物芸人との親子ダンスが大反響！ さんまと共演の22歳“2世娘”、芸能人への転身が正解だと ...",
+      "url": "https://news.nicovideo.jp/watch/nw19889638",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "トップライバー9名の声がPodcastの世界へ！ | ロボットスタート株式会社のプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000065.000012458.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "ロボットスタートがbrossomライバー9名のポッドキャストCM配信へ - Dellows News",
+      "url": "https://news.dellows.jp/781305/?from=top_category_area",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "大胆な投稿で目を引く韓国美女<b>インフルエンサー</b>、仮想通貨でマイナス93％の大損…「心の中で ...",
+      "url": "https://news.livedoor.com/topics/detail/32588606/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "「レオパード柄のアディダスローテクスニーカーに一目惚れ」黒石奈央子さん究極の秋アイテム5選",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/otonamuse/trend/otonamuse-otonamuse-jp-guid-251333",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "<b>インフルエンサー</b>タイアップのPR表記はどう指定する？<b>ステマ規制</b>で企業側が押さえたい表示 ...",
+      "url": "https://alaway-media.com/column/influencer-tieup/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%BF%E3%82%A4%E3%82%A2%E3%83%83%E3%83%97%E3%81%AEpr%E8%A1%A8%E8%A8%98%E3%81%AF%E3%81%A9%E3%81%86%E6%8C%87%E5%AE%9A%E3%81%99/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "脅威の兆候",
+      "title": "“わが子”のコンテンツ利用に批判が殺到》金髪美女<b>インフルエンサー</b>（27）、子連れで“バスツアー ...",
+      "url": "https://news.yahoo.co.jp/articles/f94de35a6ca8b9072dc137452f12c6319208f89c",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "脅威の兆候",
+      "title": "「１５歳で妊娠」元戦隊ヒロインの爆弾発言が<b>炎上</b>！ＴＶ局を悩ませる１０代の身体検査 - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261017-QMERKZ4AGFC4DJDUJ4AG7PHN2U/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "SNS「33-4を超える屈辱」阪神、悪夢の4連敗でCS敗退 リーグ連覇が台無し（写真・画像 1/1）",
+      "url": "https://www.zakzak.co.jp/article/20261017-CXNVBCRDEBBZZDZIKQUHI5VTUM/photo/2L76PGLJVZNWRDDINOVZHDYL4I/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "帝国ホテルが謝罪 何があった？女児裸体アート展示は凶器か 問われる表現の場 - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261017-GXBP5GJ6IZE5DEC3RMHWM7EQI4/2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "脅威の兆候",
+      "title": "「１５歳で妊娠」元戦隊ヒロインの爆弾発言が<b>炎上</b>！ＴＶ局を悩ませる１０代の身体検査（写真 ...",
+      "url": "https://www.zakzak.co.jp/article/20261017-QMERKZ4AGFC4DJDUJ4AG7PHN2U/photo/MDZR7DLJ5ZF3TKYB2T2DM3CO5Q/",
       "status": "未処理"
     }
   ],
@@ -78479,6 +78823,346 @@
         "benchmark": 3
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "GROVE株式会社",
+      "title": "四に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWZQQVhfejI0Sk5VTF90cWt4bFZLQVZBVjRTekMtSl9CcjkyVmV3WWxlb2JTbW5CUEdnOE5jWkN0bGRGRGxKREZxcmhXSHMyX0pieGoxY3JyVkh4OHFZU2lydG9jU0x5RGV1d1ZzWk9wUzZZM0QzZVVuZEdGY1E1UnlTM296bFE?oc=5",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "GROVE株式会社",
+      "title": "大物芸人との親子ダンスが大反響！ さんまと共演の22歳“2世娘”、芸能人への転身が正解だと ...",
+      "url": "https://news.yahoo.co.jp/articles/d71f1dd9958d86ef24c803837021870e934905ca",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 5,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "アソビシステム",
+      "title": "FRUITS ZIPPER、<b>新曲</b>「じょい！×３」配信<b>リリース</b>決定 <b>リリース</b>記念で東京ガーデンシアターに ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000925.000017258.html",
+      "totalScore": 19.75,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-18",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>とLYDIAの比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C3000000lsp2b/compa/a0C1000001UkPXM/",
+      "totalScore": 8.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 4
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "アソビシステム",
+      "title": "FRUITS ZIPPER、新曲「じょい！×３」配信リリース決定 リリース記念で東京ガーデンシアターにてファンクラブ限定無料招待ライブ開催＆新曲を初披露！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hemZDWVRJb2czaVNtRzdTT0t3bW9sbFl4MFgzOUY4QVRPTXBUQUFSemJNamItSVdnc2hZV1Fjc3g2M3lFYmFxVm1nQWIxUzZQd2Vja29WUzZZYlJUYXRLMFM2cWdYU1Mtb0E?oc=5",
+      "totalScore": 17.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "株式会社Natee",
+      "title": "由貴に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakxQZ1A0WmE3UmhfejdnMXlKM1VTUTNhNGJuUi1uQTVBMldUU1ptUjAweXA2R2FoQnp2aDkyZm9QU2RubWZkQzVkVGctWHQzS1JRMEl2LWk0MFZHdUlFV21ncVVDcUhsQko3VTVQS2F4cnVnMUxTSGhKeW0wSG96NDFJd29MWEV4WGZMQ1VPLUdNTkU?oc=5",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "月亭方正の22歳次女が芸能界へ。<b>インフルエンサー</b>から「テレビ転身が正解」と言える業界の裏 ...",
+      "url": "https://joshi-spa.jp/1433835",
+      "totalScore": 14.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 5,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "Z世代の絶大な支持を集めるカリスマ<b>インフルエンサー</b>・さくら、写真集タイトル＆表紙決定 20歳 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2487073",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「<b>GROVE</b> TV」開設",
+      "url": "https://mantan-web.jp/prtimes/article/20261016prt00m200001188a.html",
+      "totalScore": 12.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-17",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b>とアイプラスデザインの比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C3000000lsp2b/compa/a0CRC0000Hpxajg/",
+      "totalScore": 8.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-06-01",
+      "company": "TORIHADA",
+      "title": "ナリーズに関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWR5Y0tyY2pXZ0dfRmdwcXRMR28yWkhXb2o2TGUwUzB0QUdBYkxoVjJhMk9qNXh4cTNJZTBYcnNhQ05vTG1iXzFvR0U3YzEwTnJYSWJ1WEpOQ1NpSG9rV2lPd21EN1dNNm91c3BYcnhDR3lKQkhIX3JuRDlhdVB1bGt3ZTlZQ2FIMTZyMmlLX2J3Q01hY3pWSUVjNTVKZU5URGVEZkJjQXRHOWs?oc=5",
+      "totalScore": 13.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "ＳＢＩ、吉本興業と戦略的業務提携（時事通信） - ｄメニューニュース - NTTドコモ",
+      "url": "https://topics.smt.docomo.ne.jp/article/jiji/business/jiji-20261014Y403",
+      "totalScore": 17.75,
+      "breakdown": {
+        "finance": 5,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "株式会社AMANATIONからクリエイター部門が<b>独立</b>。SNSで新たな価値を生み出す次世代デジタル ...",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-10-14-158382-26/",
+      "totalScore": 13.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 5,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "株式会社AMANATIONからクリエイター部門が<b>独立</b>。SNSで新たな価値を生み出す次世代デジタル ...",
+      "url": "https://entamerush.jp/720018/",
+      "totalScore": 19.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 5,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "俳優ハ・ジョンウ、11歳下女優と結婚へ！今年初めに熱愛認める 12月に非公開で挙式",
+      "url": "https://www.chiba-tv.com/plus/detail/2026102111907",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "我が家、ジャンポケ、四千頭身…トリオのメンバー<b>不祥事</b>と特有の難しさ （2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261014-UE7YFELAONCV5A4XTFK54CQ25A/2/",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "我が家、ジャンポケ、四千頭身…トリオのメンバー<b>不祥事</b>と特有の難しさ - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261014-UE7YFELAONCV5A4XTFK54CQ25A/",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "未成年飲酒で<b>契約</b>解除の今森まや、「高１の時子供できちゃって」妊娠発言を謝罪「心がもたず…」",
+      "url": "https://news.yahoo.co.jp/articles/8f2183b3700da85c98473011e7c3d4a9200fe5c2",
+      "totalScore": 15.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "元「ミスマガジン」GP美女、「高１で妊娠」過去を衝撃告白「子供できちゃって…」",
+      "url": "https://news.infoseek.co.jp/amp/article/nikkansports_202610140000041/",
+      "totalScore": 10.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "元「ミスマガジン」GP美女、「高１で妊娠」過去を衝撃告白「子供できちゃって…」",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkangeinou/entertainment/f-et-tp0-261014-202610140000041",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -117033,6 +117717,306 @@
       "agenda": "VAZは、インフルエンサーネットワーク強化戦略の一環として、中小ライバー事務所のM&Aや運営受託を具体的に検討すべきか？",
       "summary": "YOUPACEがライバー事務所統合M&Aプロジェクトを開始",
       "axis": "タレント軸"
+    },
+    {
+      "id": 2044,
+      "date": "2026-10-18",
+      "company": "GROVE株式会社",
+      "title": "大物芸人との親子ダンスが大反響！ さんまと共演の22歳“2世娘”、芸能人への転身が正解だと ...",
+      "url": "https://news.yahoo.co.jp/articles/d71f1dd9958d86ef24c803837021870e934905ca",
+      "totalScore": 17,
+      "tags": [
+        "#タレント発掘・育成",
+        "#タレント移籍・独立",
+        "#コンテンツ制作"
+      ],
+      "fact": "月亭方正の次女である来蘭（22歳）が、インフルエンサーとしての活動を経てGROVEに所属し、本格的な芸能活動を開始すると発表した。",
+      "intent": "GROVEは、既にSNSで高い知名度と影響力を持つ「2世タレント」を獲得することで、初期からメディア露出とファンの注目を集め、多様なコンテンツ展開の基盤を築こうとしている。インフルエンサー市場の飽和と、芸能界との融合が進む中で、即戦力となる人材獲得戦略の一環とみられる。",
+      "impact": "VAZの直接競合であるGROVEが、SNS実績を持つ2世タレントを迎え入れたことは、タレント獲得競争の激化を示唆する。これはVAZが注力する「インフルエンサーネットワーク」の強化や「タレントIPグッズ」展開において、初期からブランド力を持つ人材の確保が競争優位性となる可能性を高める。",
+      "agenda": "VAZとして、既存のSNS実績や著名な背景を持つタレントを、注力領域であるアイドルプロジェクトやIPグッズ開発とどう連携させ、効率的に獲得・育成すべきか。",
+      "summary": "大物芸人娘がGROVEに所属、インフルエンサーから芸能転身",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2045,
+      "date": "2026-10-18",
+      "company": "アソビシステム",
+      "title": "FRUITS ZIPPER、<b>新曲</b>「じょい！×３」配信<b>リリース</b>決定 <b>リリース</b>記念で東京ガーデンシアターに ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000925.000017258.html",
+      "totalScore": 19.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属FRUITS ZIPPERが新曲「じょい！×３」を配信リリースし、ファンクラブ限定無料招待ライブを東京ガーデンシアターで開催する。",
+      "intent": "アソビシステムはFRUITS ZIPPERを主力IPとして育成し、数々の成功実績を積み重ねてきた。新曲リリースと大規模ライブは、グループの人気をさらに高め、ファンエンゲージメントを強化し、収益基盤を拡大する戦略の一環である。特にファンクラブ限定の無料招待ライブは、既存ファンへの還元と新規ファン獲得の両方を狙い、長期的なファンコミュニティ構築とIP価値向上を図る意図がある。アイドル市場における競争が激化する中で、強力なIPを軸にしたコンテンツ展開とファンビジネスの強化は不可欠。",
+      "impact": "VAZは2026年注力テーマに「アイドルプロジェクト」を掲げており、このニュースはVAZが目指す方向性の最先端を競合が走っていることを示唆する。FRUITS ZIPPERの成功事例は、VAZがアイドルグループを成功させる上でのベンチマークとなる。特に、新曲リリースによる話題創出、大規模ライブでのファン獲得・育成、そしてそれらを基盤としたIP（グッズなど）展開は、VAZの「所属タレントのグッズ（IP）」という注力領域とも密接に連携する。アソビシステムの戦略から、アイドル事業におけるコンテンツ制作力、プロモーション戦略、ファンビジネス構築の重要性を学ぶ必要がある。",
+      "agenda": "アイドルプロジェクトにおいて、FRUITS ZIPPERのような成功事例から、具体的なコンテンツ戦略やファンエンゲージメント施策として何をVAZは取り入れるべきか？",
+      "summary": "FRUITS ZIPPER新曲リリースと大規模ライブでアイドル事業強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2046,
+      "date": "2026-10-17",
+      "company": "アソビシステム",
+      "title": "FRUITS ZIPPER、新曲「じょい！×３」配信リリース決定 リリース記念で東京ガーデンシアターにてファンクラブ限定無料招待ライブ開催＆新曲を初披露！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hemZDWVRJb2czaVNtRzdTT0t3bW9sbFl4MFgzOUY4QVRPTXBUQUFSemJNamItSVdnc2hZV1Fjc3g2M3lFYmFxVm1nQWIxUzZQd2Vja29WUzZZYlJUYXRLMFM2cWdYU1Mtb0E?oc=5",
+      "totalScore": 17.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のアイドルグループFRUITS ZIPPERが新曲「じょい！×３」を配信リリースし、リリース記念として東京ガーデンシアターにてファンクラブ限定無料招待ライブを開催する。",
+      "intent": "TikTokなどで人気を集めたFRUITS ZIPPERの活動は、アソビシステムが既存の人気グループの楽曲リリースと大型ライブを通じて、ファンダムをさらに拡大し、IP価値を向上させる狙いがある。ファンクラブ限定無料招待ライブは、既存ファンへのロイヤリティを高めつつ、新曲のプロモーション効果を最大化し、ライブによる体験価値でファンエンゲージメントを深める戦略と推察される。",
+      "impact": "このニュースは、VAZが2026年注力領域とする「アイドルグループ」の成功事例として、育成・運用モデルやファンビジネス戦略において非常に参考になる。「所属タレントのグッズ（IP）」の観点でも、楽曲やライブがIP価値向上に直結し、その後の多角的なマネタイズにつながることを示唆している。FRUITS ZIPPERのSNS起点でのブレイクとリアルイベントへの接続は、VAZの強みであるZ世代へのリーチ力を活かしたアイドル戦略立案に重要である。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、FRUITS ZIPPERのようなSNS起点でのブレイク戦略をどう再現し、ファンをリアルイベントやIPグッズへ繋げるか、具体的なアクションプランを議論すべきではないか？",
+      "summary": "FRUITS ZIPPER新曲リリースと大型ライブでアイドルIP強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2047,
+      "date": "2026-10-17",
+      "company": "株式会社Natee",
+      "title": "由貴に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakxQZ1A0WmE3UmhfejdnMXlKM1VTUTNhNGJuUi1uQTVBMldUU1ptUjAweXA2R2FoQnp2aDkyZm9QU2RubWZkQzVkVGctWHQzS1JRMEl2LWk0MFZHdUlFV21ncVVDcUhsQko3VTVQS2F4cnVnMUxTSGhKeW0wSG96NDFJd29MWEV4WGZMQ1VPLUdNTkU?oc=5",
+      "totalScore": 10,
+      "tags": [
+        "#タレント発掘・育成"
+      ],
+      "fact": "競合である株式会社Nateeが「由貴」という人物に関するプレスリリースをPR TIMESで配信した。",
+      "intent": "プレスリリースの詳細内容は不明だが、「由貴」という個人名に特化した発表は、新規タレントの獲得、既存タレントの重要プロジェクト参画、あるいは主要人材の異動など、Nateeの人材戦略上の重要な動きである可能性が高い。インフルエンサービジネスにおける人材獲得競争は激化しており、競合各社は魅力的なタレントの確保・育成に注力している。",
+      "impact": "本件の詳細不明によりVAZへの直接的な影響は判断できないが、競合Nateeが特定のタレントに関するプレスリリースを出したこと自体は、インフルエンサービジネスにおける人材流動や注力すべき人物像の変化を示唆する。VAZが注力するインフルエンサーネットワーク、アイドルグループ、IPグッズ展開においても、競合の具体的なタレント戦略は常に監視し、自社戦略への示唆を抽出する必要がある。",
+      "agenda": "Nateeの「由貴」に関するリリースの詳細を速やかに確認し、それがVAZのタレント戦略や人材獲得競争に与える影響について議論すべきか？",
+      "summary": "競合Natee、タレント「由貴」に関するリリース",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2048,
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "月亭方正の22歳次女が芸能界へ。<b>インフルエンサー</b>から「テレビ転身が正解」と言える業界の裏 ...",
+      "url": "https://joshi-spa.jp/1433835",
+      "totalScore": 14.5,
+      "tags": [
+        "#タレント移籍・独立",
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE社に関連するとみられるインフルエンサーがテレビ業界へ活動の場を広げ、「テレビ転身が正解」という業界の動向が報じられた。",
+      "intent": "SNSでの知名度を足がかりにテレビなどの既存メディアへ進出する動きは、インフルエンサーのブランド価値向上と活動領域拡大を目的としている。競合他社は、タレントの多様なキャリアパスを提供することで、タレントの囲い込みや収益源の多角化を図っていると推測される。",
+      "impact": "VAZが注力する「アイドルグループ」や「所属タレントのグッズ（IP）」の成長には、タレントのSNSに留まらない多角的なメディア露出とキャリアパス提供が不可欠。このニュースは、インフルエンサーがテレビという既存メディアへ進出し、IP価値を高める可能性を示唆しており、タレントのエンゲージメント向上と幅広い層へのリーチに繋がる。",
+      "agenda": "自社注力のアイドルプロジェクトを含む所属タレントに対し、SNSに留まらない多様なキャリアパス（テレビ、舞台、イベント等）をどのように設計・提示し、IP価値を最大化していくべきか？",
+      "summary": "インフルエンサーのテレビ転身、多様なキャリアパスが焦点に",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2049,
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "Z世代の絶大な支持を集めるカリスマ<b>インフルエンサー</b>・さくら、写真集タイトル＆表紙決定 20歳 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2487073",
+      "totalScore": 16.25,
+      "tags": [
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE所属のZ世代カリスマインフルエンサー「さくら」が初の写真集を発売し、タイトルと表紙が決定した。",
+      "intent": "インフルエンサー事務所にとって、タレントのSNSでの影響力を活用し、より収益性の高いIP商材へと展開することは、広告収入以外の安定的な収益源を確保し、タレントのブランド価値を長期的に向上させる上で重要となる。Z世代に絶大な人気を誇るさくらさんの写真集は、ファンエンゲージメントを深め、購買意欲を刺激する有効な手段であり、競合であるGROVEがタレントのIP価値最大化を図る戦略の一環とみられる。",
+      "impact": "VAZは「所属タレントのグッズ（IP）」を2026年注力領域の一つとしており、GROVEによる写真集発売は、インフルエンサーIP活用戦略における具体的な成功事例として注目に値する。特にZ世代・若年層へのリーチ力を持つVAZの強みと合致するターゲット層でのIP展開であるため、VAZのIP戦略において写真集やデジタルコンテンツといった多角的なIP活用を加速させる可能性を示唆する。これは、タレントの育成と並行して、そのIPを最大限に活かすコンテンツ制作の重要性を再認識させる。",
+      "agenda": "Z世代向けタレントIPのオフライン商材（写真集等）展開において、当社所属タレントで同様の成功事例を創出するための具体的な戦略と必要なリソースは何か？",
+      "summary": "GROVE所属Z世代インフルエンサーの写真集発売",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2050,
+      "date": "2026-10-17",
+      "company": "GROVE株式会社",
+      "title": "seju所属タレントらがバラエティに本気で挑戦！YouTubeチャンネル「<b>GROVE</b> TV」開設",
+      "url": "https://mantan-web.jp/prtimes/article/20261016prt00m200001188a.html",
+      "totalScore": 12.75,
+      "tags": [
+        "#自社チャンネル運営",
+        "#コンテンツ制作"
+      ],
+      "fact": "GROVE株式会社は、seju所属タレントらがバラエティに本気で挑戦するYouTubeチャンネル「GROVE TV」を2026年10月16日に開設した。",
+      "intent": "競合GROVEは、タイアップ案件に依存しがちなインフルエンサービジネスにおいて、自社タレントのファンエンゲージメント向上と新たな広告収益モデルの確立を狙い、露出機会と収益源の多角化を図っていると推測される。これはVAZが強みとする「広告っぽくないSNSコンテンツ制作」と方向性が重なる動きであり、タレントのブランド価値向上を通じてIP創出の土台を固める意図があると考えられる。",
+      "impact": "本ニュースは、VAZのコンテンツビジネスDivにおける「自社チャンネル運営」と「所属インフルエンサーを起点としたコンテンツ制作力」に直接的な競合を示唆し、既存のタレント活用型YouTubeチャンネル市場における競争激化を招く可能性がある。VAZの2026年注力領域である「タレントIPグッズ」や「アイドルグループ」の育成にはタレントのメディア露出とファンベースの拡大が不可欠であり、GROVEのバラエティ展開はIP創出の土台作りという点で間接的にVAZの注力領域に影響を与え、より多様なコンテンツ形式でのタレントの魅力発信が求められる。",
+      "agenda": "GROVEのバラエティYouTube本格参入に対し、VAZは自社タレントの多様な才能を活かした独自コンテンツ戦略と、それによるIP・アイドル育成への波及効果をどう最大化すべきか？",
+      "summary": "競合GROVEがバラエティ特化のYouTubeチャンネルで自社タレントを起用",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2051,
+      "date": "2026-06-01",
+      "company": "TORIHADA",
+      "title": "ナリーズに関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWR5Y0tyY2pXZ0dfRmdwcXRMR28yWkhXb2o2TGUwUzB0QUdBYkxoVjJhMk9qNXh4cTNJZTBYcnNhQ05vTG1iXzFvR0U3YzEwTnJYSWJ1WEpOQ1NpSG9rV2lPd21EN1dNNm91c3BYcnhDR3lKQkhIX3JuRDlhdVB1bGt3ZTlZQ2FIMTZyMmlLX2J3Q01hY3pWSUVjNTVKZU5URGVEZkJjQXRHOWs?oc=5",
+      "totalScore": 13.75,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#インフルエンサーネットワーク",
+        "#プランニング・企画"
+      ],
+      "fact": "TORIHADAが「ナリーズ」に関するプレスリリースを発表した。",
+      "intent": "インフルエンサーマーケティング市場の競争激化を受け、直接競合であるTORIHADAは新たな収益源の確保や差別化戦略として、「ナリーズ」という新サービスやプロジェクトを立ち上げたと考えられる。特にTORIHADAはTikTok領域に強みを持つため、同プラットフォームにおける新たなマネタイズ手法やインフルエンサー活用スキームを模索している可能性がある。",
+      "impact": "直接競合であるTORIHADAの新規事業は、VAZの顧客獲得やインフルエンサー獲得競争に影響を与える可能性がある。特にVAZが注力するTikTokショップ、インフルエンサーネットワーク、美容UGC生成、アイドルグループといった領域と「ナリーズ」が重複する場合、市場シェアの奪い合いや、新たな脅威となるリスクがある。VAZは競合の具体的なサービス内容を詳細に把握し、自社の注力領域での優位性を再確認・強化する必要がある。",
+      "agenda": "TORIHADAの「ナリーズ」がVAZの注力領域（TikTokショップ、インフルエンサーネットワーク、美容UGC生成、アイドルIPなど）のどれと競合するか、具体的なサービス内容を調査し、それに対するVAZの競争戦略を議論すべきではないか？",
+      "summary": "TORIHADAが新サービス「ナリーズ」を発表",
+      "axis": "両方"
+    },
+    {
+      "id": 2052,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "ＳＢＩ、吉本興業と戦略的業務提携（時事通信） - ｄメニューニュース - NTTドコモ",
+      "url": "https://topics.smt.docomo.ne.jp/article/jiji/business/jiji-20261014Y403",
+      "totalScore": 17.75,
+      "tags": [
+        "#資金調達・M&A",
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "SBIホールディングスと吉本興業ホールディングスが戦略的業務提携に基本合意し、金融サービス・テクノロジーとIP資産・コンテンツ制作力を融合した合弁会社を設立する。",
+      "intent": "吉本興業は豊富なIPとコンテンツ制作力を持つが、新たな資金調達手法やグローバル展開の強化を求めており、SBIは金融・テクノロジーの強みを活かしエンタメ分野での新規事業と収益源拡大を目指している。両社の提携は、それぞれの強みを持ち寄り、世界市場をターゲットとしたオリジナルIPの創出と、セキュリティートークン基盤を活用した先進的な資金調達手法を確立することで、エンタメ業界の新たなビジネスモデルを構築する意図がある。",
+      "impact": "この提携は、VAZが注力する「所属タレントのグッズ（IP）」や「アイドルグループ」の領域において、大規模かつ先進的なIP戦略を展開する強力な競合が出現する可能性を示唆している。特にSBIの金融テクノロジーを活かした「セキュリティートークン基盤による資金調達」は、IPを活用したマネタイズや資金調達の新たなモデルを提示し、VAZの既存のIP戦略や新規マネタイズ事業（特にグローバル展開やアイドルプロジェクト）に大きな変革を迫る可能性がある。",
+      "agenda": "吉本-SBI提携によるIPの新たな資金調達手法やグローバル展開モデルから、VAZのアイドルプロジェクトとタレントIP戦略に活かせる具体的なアクションプランはあるか？",
+      "summary": "SBIと吉本興業が提携し、グローバルIP開発と新たな資金調達を行う合弁会社を設立。",
+      "axis": "両方"
+    },
+    {
+      "id": 2053,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "株式会社AMANATIONからクリエイター部門が<b>独立</b>。SNSで新たな価値を生み出す次世代デジタル ...",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-10-14-158382-26/",
+      "totalScore": 13.25,
+      "tags": [
+        "#タレント移籍・独立",
+        "#タレント発掘・育成",
+        "#コンテンツ制作"
+      ],
+      "fact": "株式会社AMANATIONからクリエイター部門が独立し、SNSを中心に活動する次世代デジタルクリエイター事務所「AICON」が新たに設立された。",
+      "intent": "クリエイター市場の活況に伴い、マネジメント機能の専門性強化や、より機動的な意思決定・事業展開を目指す狙いがあると考えられる。既存組織の制約から解放され、新たなクリエイター獲得や育成、コンテンツ制作に特化することで、市場での競争力を高めようとする意図が見える。",
+      "impact": "新たなクリエイター事務所の誕生は、VAZがターゲットとするZ世代・若年層のクリエイター獲得競争を激化させる。特にVAZの「所属インフルエンサーを起点としたコンテンツ制作力」や「美容UGC生成」といった注力領域において、新たな事務所が特定のジャンルに特化することで競争優位を築く可能性があり、潜在的な脅威となる。",
+      "agenda": "クリエイターの独立・スピンアウトの動きが活発化する中、VAZは所属クリエイターのエンゲージメントをどのように高め、流出を防ぎ、さらに新たな才能を惹きつけるのか？",
+      "summary": "AMANATIONからクリエイター部門独立、新事務所AICON設立。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2054,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "株式会社AMANATIONからクリエイター部門が<b>独立</b>。SNSで新たな価値を生み出す次世代デジタル ...",
+      "url": "https://entamerush.jp/720018/",
+      "totalScore": 19.25,
+      "tags": [
+        "#タレント移籍・独立",
+        "#タレント発掘・育成",
+        "#コンテンツ制作"
+      ],
+      "fact": "株式会社AMANATIONのクリエイター部門が独立し、SNSを中心に価値を生み出すデジタルクリエイター事務所「AICON」が設立された。",
+      "intent": "既存大手事務所からのスピンアウトにより、意思決定の迅速化と特定SNS領域への特化を進め、新たなクリエイター発掘・育成モデルを確立し市場競争力を高める意図と推測される。",
+      "impact": "SNS特化型事務所の台頭は、VAZの主要な強みであるZ世代リーチや\"広告っぽくない\"コンテンツ制作と直接競合し、インフルエンサーネットワークやTikTokショップ、美容UGC生成といった注力領域におけるクリエイター獲得競争を激化させる。",
+      "agenda": "新規参入するSNS特化型クリエイター事務所に対し、VAZは既存タレントの流出をどう防ぎ、新たな才能を惹きつけるための差別化戦略をどう構築すべきか？",
+      "summary": "AMANATIONからクリエイター部門が独立し、SNS特化のAICON設立",
+      "axis": "両方"
+    },
+    {
+      "id": 2055,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "我が家、ジャンポケ、四千頭身…トリオのメンバー<b>不祥事</b>と特有の難しさ （2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261014-UE7YFELAONCV5A4XTFK54CQ25A/2/",
+      "totalScore": 16.25,
+      "tags": [
+        "#炎上・リスク",
+        "#タレント移籍・独立",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "我が家の杉山裕之が経済的困窮を理由に万引きで書類送検され、トリオ芸人のメンバー間収入格差が不祥事の背景にあると指摘された。",
+      "intent": "ニュースは芸人の事例だが、インフルエンサー・クリエイター業界においても、個人の人気や露出に偏りが出やすく、それに伴う収入格差が生じやすい構造的な問題がある。特にグループやユニットを組む場合、メンバー間の格差は個人の精神的な焦りや不満を増幅させ、それが不祥事のリスクを高める要因となる。VAZのようなタレントマネジメント企業は、タレントの精神的・経済的ケアを怠ると、予期せぬリスクに繋がりうる。",
+      "impact": "このニュースは、VAZが注力する「アイドルグループ」や「所属タレントのグッズ（IP）」において、タレント個人の不祥事が事業の根幹を揺るがす深刻なリスクとなりうることを示唆する。タレントの信頼性やイメージはIP価値に直結し、グループ活動やファンビジネスに致命的な影響を与えるため、VAZは所属タレントの経済的安定性や精神的ケアを強化し、不祥事を未然に防ぐためのマネジメント体制構築が急務となる。特に、アイドルプロジェクトではメンバー間の格差が生じやすいため、そのケアが重要である。",
+      "agenda": "所属タレントの経済的・精神的ケアを強化し、不祥事リスクを軽減するための具体的な施策や体制をどう構築すべきか？",
+      "summary": "タレント不祥事と経済格差が活動継続リスクを浮き彫りに",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2056,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "我が家、ジャンポケ、四千頭身…トリオのメンバー<b>不祥事</b>と特有の難しさ - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261014-UE7YFELAONCV5A4XTFK54CQ25A/",
+      "totalScore": 14.75,
+      "tags": [
+        "#炎上・リスク",
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ"
+      ],
+      "fact": "お笑いトリオ「我が家」の杉山裕之が万引きで書類送検され、「ジャングルポケット」の斉藤慎二も不同意性交容疑で契約解除されるなど、人気トリオメンバーの不祥事が続いている。",
+      "intent": "お笑い界で人気のトリオメンバーによる不祥事が相次いでいる背景には、タレントの個人的な行動管理の難しさ、有名人としての責任感の欠如、そして事務所側のリスク管理体制の甘さや不祥事発生時の対応のまずさが挙げられる。特にグループの場合、特定メンバーの不祥事が全体の活動停止やIP価値の毀損に繋がりやすく、個人マネジメントとは異なるリスク特性を持つ。",
+      "impact": "本ニュースは、VAZが注力する「アイドルグループ」および「所属タレントのグッズ（IP）」戦略に対して、タレントの不祥事が極めて深刻な影響を与えるリスクを明確に示している。グループの主要メンバーに不祥事が発生した場合、IP価値の毀損、プロジェクトの停滞、ファン離れ、広告主との契約解除など複合的なダメージが生じ、事業継続そのものが危うくなる可能性がある。特にZ世代・若年層へのリーチを強みとするVAZにとって、クリーンなイメージの維持は不可欠であり、不祥事はブランドイメージ回復に多大なコストと時間を要する。",
+      "agenda": "アイドルプロジェクトやインフルエンサーの不祥事リスクに対し、倫理研修の強化、定期的なメンタルヘルスケア、事前の契約条項整備など、VAZとして取るべき具体的な予防策と、万一発生した場合の迅速な危機管理体制をどのように構築すべきか？",
+      "summary": "人気トリオ不祥事が頻発、グループ活動とIPリスク浮上",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2057,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "未成年飲酒で<b>契約</b>解除の今森まや、「高１の時子供できちゃって」妊娠発言を謝罪「心がもたず…」",
+      "url": "https://news.yahoo.co.jp/articles/8f2183b3700da85c98473011e7c3d4a9200fe5c2",
+      "totalScore": 15.75,
+      "tags": [
+        "#タレント移籍・独立",
+        "#炎上・リスク",
+        "#コンテンツ制作"
+      ],
+      "fact": "元Seju所属の今森まやが、YouTubeでの過去の妊娠に関する発言が炎上し、SNSで謝罪した。",
+      "intent": "インフルエンサー市場の拡大に伴い、個人の過去の発言やプライベートな情報が急速に拡散し炎上するリスクが高まっている。特にYouTubeでは過激な内容が視聴回数を稼ぎやすい傾向にあり、タレントがそうしたコンテンツ制作に誘導されやすい側面もある。所属事務所はタレントの倫理観やSNSリテラシー教育を徹底する必要があるが、契約解除後のタレントの活動にもリスクが残り、事務所のリスク管理の難しさを示している。",
+      "impact": "本件は、VAZのタレントマネジメントにおいて、タレントの倫理観教育とSNSリテラシー教育の重要性を再認識させる事例である。特に「アイドルプロジェクト」や「所属タレントのグッズ（IP）」など、クリーンなイメージと信頼性が事業成功の鍵となるVAZの注力領域にとって、今回の炎上事例は喫緊のリスクとして捉えるべき。競合の元タレントとはいえ、Z世代・若年層へのリーチを強みとするVAZにとって、ターゲット層の支持を失わないためのリスク管理は不可欠である。",
+      "agenda": "契約解除後の元所属タレントによるSNS炎上リスクに対し、現所属タレントの教育体制と倫理規定をどのように強化し、VAZの注力事業におけるブランド毀損を防ぐべきか？",
+      "summary": "元競合タレントが過去のプライベート発言で炎上し謝罪",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2058,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "元「ミスマガジン」GP美女、「高１で妊娠」過去を衝撃告白「子供できちゃって…」",
+      "url": "https://news.infoseek.co.jp/amp/article/nikkansports_202610140000041/",
+      "totalScore": 10.75,
+      "tags": [
+        "#タレント移籍・独立",
+        "#炎上・リスク",
+        "#コンテンツ制作"
+      ],
+      "fact": "元競合事務所Sejuの所属タレントであった今森まやが、YouTubeチャンネルにて高校1年時の妊娠経験を告白し、その前に未成年飲酒で契約解除されていたことが判明した。",
+      "intent": "契約解除された元タレントが、過去のスキャンダルをコンテンツとして自己開示することで注目を集める戦略は、事務所に縛られないインフルエンサーの新たな生存戦略を示唆する。これは、事務所の管理下を離れたインフルエンサーによる情報発信の倫理観やリスクコントロールが業界全体のボトルネックとなっている現状を表している。若年層をターゲットとするVAZにとって、所属タレントの過去やプライベート情報が予期せぬ形で露呈するリスクや、個人が過激な自己開示をマネタイズに繋げる際の線引きは、喫緊の課題である。",
+      "impact": "このニュースは、所属タレントの倫理観とプライベート情報管理におけるリスクの重要性をVAZに突きつける。注力する「アイドルグループ」や「所属タレントのグッズ（IP）」においてクリーンなイメージは不可欠であり、このようなスキャンダルはブランド価値を直接毀損する恐れがある。また「インフルエンサーネットワーク」の品質維持のためにも、問題を起こしたタレントや過激な自己開示を行うタレントとの連携に関する慎重な判断が必要だ。VAZは所属クリエイターのパーソナルな情報開示基準と、過去の経歴をコンテンツとして扱う際のリスクヘッジ策を明確化すべきである。",
+      "agenda": "所属タレントの過去やプライベート情報に関する開示基準とリスク管理体制を、特にアイドルプロジェクトとIP事業に鑑みどのように強化すべきか？",
+      "summary": "元競合タレントが高1での妊娠告白、過去の炎上と今後の活動を示唆",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2059,
+      "date": "2026-10-14",
+      "company": "脅威の兆候",
+      "title": "元「ミスマガジン」GP美女、「高１で妊娠」過去を衝撃告白「子供できちゃって…」",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/nikkangeinou/entertainment/f-et-tp0-261014-202610140000041",
+      "totalScore": 15.5,
+      "tags": [
+        "#タレント移籍・独立",
+        "#炎上・リスク",
+        "#タレント発掘・育成"
+      ],
+      "fact": "元Seju所属の今森まやが、中町純平のYouTubeチャンネルで高1での妊娠経験を告白した。",
+      "intent": "インフルエンサー業界において、タレントの過去の告白は注目を集めやすいコンテンツ手法である一方、センシティブな情報公開は炎上や信頼失墜のリスクと隣り合わせ。競合Sejuが未成年飲酒で契約解除に至った背景もあり、タレント個人のプライベートな情報管理と事務所のリスクマネジメントのバランスが課題となっている。",
+      "impact": "VAZにとって、競合Sejuがタレント不祥事で契約解除、さらに当該タレントが過去のセンシティブな告白で注目を集める状況は、タレントマネジメントにおけるリスク管理の重要性を再認識させる。特に「アイドルグループ」や「美容UGC生成」など、クリーンなイメージが求められるVAZの注力領域において、タレントの過去やプライベートな情報が露呈した際の影響は大きく、将来的な炎上や信頼失墜に繋がる潜在的リスクをはらむ。",
+      "agenda": "VAZ所属タレントの過去やプライベート情報に関するリスクを軽減するため、契約時のスクリーニングやマネジメント体制をどのように強化すべきか？",
+      "summary": "元競合所属タレントの過去告白炎上とインフルエンサー活動。",
+      "axis": "タレント軸"
     }
   ],
   "competitors": [
@@ -117067,8 +118051,8 @@
   ],
   "home": {
     "monthLabel": "2026年10月",
-    "thisMonthNewsCount": 787,
-    "thisMonthAnalysisCount": 201,
+    "thisMonthNewsCount": 829,
+    "thisMonthAnalysisCount": 216,
     "highlights": [
       {
         "id": 0,
@@ -117136,8 +118120,8 @@
       },
       {
         "company": "アソビシステム",
-        "totalScore": 8362.5,
-        "count": 502
+        "totalScore": 8399.5,
+        "count": 504
       },
       {
         "company": "トレンダーズ",
@@ -117151,13 +118135,13 @@
       },
       {
         "company": "脅威の兆候",
-        "totalScore": 1736.5,
-        "count": 127
+        "totalScore": 1859.75,
+        "count": 135
       },
       {
         "company": "GROVE株式会社",
-        "totalScore": 1223.6399999999999,
-        "count": 79
+        "totalScore": 1284.1399999999999,
+        "count": 83
       },
       {
         "company": "Macbee Planet",
@@ -117166,31 +118150,31 @@
       },
       {
         "company": "TORIHADA",
-        "totalScore": 1075.67,
-        "count": 71
+        "totalScore": 1089.42,
+        "count": 72
       },
       {
         "company": "株式会社Natee",
-        "totalScore": 958.5799999999999,
-        "count": 59
+        "totalScore": 968.5799999999999,
+        "count": 60
       }
     ],
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 872
+        "count": 873
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 823
+        "count": 833
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 782
+        "count": 787
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 693
+        "count": 699
       },
       {
         "tag": "#プラットフォーム動向",
@@ -117202,7 +118186,7 @@
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 366
+        "count": 371
       },
       {
         "tag": "#ECコマース",
@@ -117210,7 +118194,7 @@
       },
       {
         "tag": "#プランニング・企画",
-        "count": 283
+        "count": 284
       },
       {
         "tag": "#タイアップ案件",
@@ -117218,9 +118202,9 @@
       }
     ],
     "axisCounts": {
-      "タレント軸": 772,
+      "タレント軸": 785,
       "マーケティング軸": 559,
-      "両方": 681,
+      "両方": 684,
       "業界全般": 31
     },
     "tagMaster": {
