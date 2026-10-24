@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-10-23T00:31:24.582Z",
-    "generatedAtJst": "2026-10-23 09:31:24",
-    "totalNews": 4018,
-    "totalAnalyses": 2114,
+    "generatedAt": "2026-10-24T00:31:24.956Z",
+    "generatedAtJst": "2026-10-24 09:31:24",
+    "totalNews": 4069,
+    "totalAnalyses": 2131,
     "totalCompetitors": 7
   },
   "news": [
@@ -31389,7 +31389,7 @@
       "company": "業界トレンド",
       "title": "[レポートシェアリング] 2026年<b>日本</b>のデジタル<b>広告</b>インサイト | Sensor Towerのプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000000132.000100064.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -31397,7 +31397,7 @@
       "company": "業界トレンド",
       "title": "UNITYのK-beauty領域における、<b>TikTok</b> Shop活用支援スキーム - 時事通信",
       "url": "https://www.jiji.com/jc/article?k=000000020.000040926&g=prt",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -31405,7 +31405,7 @@
       "company": "業界トレンド",
       "title": "ONE COLOR 新アイドルユニット メンバー募集 - オーディションプラス",
       "url": "https://audition.nerim.info/audition-202611/audition-2026101990.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -31469,7 +31469,7 @@
       "company": "業界トレンド",
       "title": "ビジネス・オピニオン誌「Wedge」の11月号に、当社開発本部 本部長・榊のコメントが掲載され ...",
       "url": "https://www.hottolink.co.jp/info/20261021_121499/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -31477,7 +31477,7 @@
       "company": "業界トレンド",
       "title": "新コーヒーメーカーの特長を空間化 4つの部屋を巡るネスカフェの体験型イベント | PR EDGE",
       "url": "https://predge.jp/362355/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -31485,7 +31485,7 @@
       "company": "業界トレンド",
       "title": "日本のサブスクリプションEコマース市場<b>調査</b>レポート：2034年までに4610億米ドル規模へ",
       "url": "https://newscast.jp/smart/news/3537294",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -32149,6 +32149,414 @@
       "company": "脅威の兆候",
       "title": "カツオ漁船<b>炎上</b> 全員救助 北海道から東南東の海上 | 沖縄タイムス＋プラス",
       "url": "https://www.okinawatimes.co.jp/articles/-/1948947",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "GROVE株式会社",
+      "title": "TikTok LIVEから、次世代のアイドルへ。クリエイター事務所３２１から新プロジェクト始動、初期メンバー5名を募集 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3M1l2RXRpcV9BNGVxUl9MZkNXQUd4R21UMFREdE9KeHlzTEJoRFlCc0NEeWxCYmdkandISmRNd19LZGhzaGR4bkRwUzRuemFCNzFpWlltTGxjYnB3OThJcUxQd1JVODE0dUE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "アソビシステム",
+      "title": "日曜お昼の番組「NHKのど自慢」にCANDY TUNEが初出演【メンバーコメントあり】 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZXVDMlpXX0JzbWpIVnAxQUs5b3dXV1IteWlISlhQYnpDUWF6UXQ1OWs4d0dhejNVS252Umg1OXEzeWNzSzMzVnRPV2djeHpsUFFCY1dKaGtYVXVNaFQya2RuYUVCR2MzMGc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-13",
+      "company": "アソビシステム",
+      "title": "Anime Expo運営者が見た変化「米国のアニメ市場は『ライフスタイル』として定着する」 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OMGpHa19yN203bFgyQ0xwY3o0Q3hBeGo4UE55U0dvTWdyZU54bm10NXMtMS1kZm1tNTJzQW1yWXU2OC1SUFVPdXVYV3JzM0I2MXA2aEh5MHpSWW14ekpwRXVMTUlBdw?oc=5",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社Natee",
+      "title": "「映画『国境』」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTJKOF92MlpHcThfWnJOVER3eHd0U0pqbUtUQjlBMEZtbnpTMmI0eFBqcjRNWmowVmdwaXM4QTR4MjZDOUxqeTdmT1EybjY3LUUyZGx3TTc3UkwxdFVoN2ktUWFBY2ktZ0J5NGtoUGFCMFFBUG5ZZkZlb211VjItVU51R1BWRExKaG9XUGhwQ1FDdXc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "株式会社Natee",
+      "title": "Ｗ９ に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGpNaE00ckdEMjZmMko3TW02MFc4VXF1a2g5UWJxU0NWWUdSQzRYUE1HTWV1N1V4WVRPdlhiVG9uVnROQW9JRzFzZ3YtWUltYndXTkhPUE5ZT1k2ZXIxYmxZZmJZVEpNSVZwcXpLTkFLNG1jUkdKNUw2a1ctT2hVNXNqNnhQVlFNeFZvaDZFY25PcUk?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社Natee",
+      "title": "全総に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelREck9PSS15Yk5pRVhPTzdlYlZmWDNCaHRUMGwzNEotbmpicUVIdW9ZcUs5bVYyQk92Ti1sRjRMT2NGXzBtWmxTLUFZcl9IYW03YnBveDJ6Qnl5RFQ2V3pIODZuWFJBRzZ1cE40UlFZdGk5TkRUMzFCWGdCMTFSQVp3b205RmtuekdqY0pLTGtOMDA?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、テレビアニメ「ポケットモンスター ワンダーボヤージュ」にて史上初の日韓W ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000931.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "アソビシステム",
+      "title": "新たなエンターテインメント<b>事業</b>「PEJ」本格始動。株式会社キャットウォークが新たな表現活動 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000189906/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b> ［クリエイティブ職、中途入社、女性、在籍3～5年、現職（回答時） - OpenWork",
+      "url": "https://www.openwork.jp/user_answer.php?vid=a0ARC00000oT5dp",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://news.nicovideo.jp/watch/nw19907430?news_ref=watch_20_nw19780918",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://mantan-web.jp/prtimes/article/20261022prt00m200000654a/photopage/001.html",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000256.000056551.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社ナハト",
+      "title": "顧客と営業から「愛される<b>マーケティング</b>」を目指す。パーソルホールディングスが乗り越えた3 ...",
+      "url": "https://markezine.jp/article/detail/77723",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社ナハト",
+      "title": "第7回 <b>マーケティング</b>Week 大阪 2026 -MaS- - AdverTimes",
+      "url": "https://www.advertimes.com/20261022/article560968/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "Macbee Planet",
+      "title": "全体的にコンプライアンス意識は低い。 上層部とメンバーク... <b>Macbee Planet</b> OpenWork",
+      "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000oBi5l&qco=1",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "Macbee Planet",
+      "title": "マーケティングコンサルタント責任者（本部長／執行役員候補）  プライム上場企業<b>マクビー</b> ... - doda",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016132924/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "【DYM×A8.net】AI時代の運用型広告とアフィリエイト戦略を解説する無料ウェビナーを10月27日 ...",
+      "url": "https://www.jiji.com/jc/article?k=000000553.000027235&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "デオドラント<b>市場</b>、2035年に603億1000万米ドル規模へ｜CAGR 6.5％、長時間持続型・敏感肌 ...",
+      "url": "https://www.dreamnews.jp/press/0000366222",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "ライセンス玩具の世界<b>市場</b>の規模、シェア、動向および成長分析レポート2026-2034",
+      "url": "https://japan.zdnet.com/release/31217766/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "UHA味覚糖「グミサプリ」、サプリメントグミ<b>市場</b>を独走 海外展開も - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19908601?news_ref=watch_20_nw19780913",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "ヘア＆メイクアップアーティスト長井かおりさんによる「スーパーカオリーメイト総会2026」を12 ...",
+      "url": "https://www.jiji.com/jc/article?k=000000163.000013256&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "米国法人「AnyMind USA, Inc.」を設立し、米国市場での事業を本格開始 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19908108?news_ref=watch_60_nw19036475",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "カンヌ「カントリー・オブ・オナー」の次の一手は？TIFFCOM 2026が加速させる<b>日本</b>IPの世界 ...",
+      "url": "https://branc.jp/article/2026/10/22/3220.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "業界トレンド",
+      "title": "韓国CJ OnStyle、<b>クリエイター</b>コマースに勝負を賭ける…2030年に取扱高35倍目標",
+      "url": "https://finance.biggo.jp/news/0ccf2847-a888-4ea5-89f6-e2eda4052aa2",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "業界トレンド",
+      "title": "AnyMind Groupが米国法人を設立し事業を開始 - VOIX biz",
+      "url": "https://voix.jp/biz/news-analysis/180374/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "OneAcre×SBS、縦型<b>ショートドラマ</b>『ダウトコール』を地上波・TVerへ展開！TVerお気に入り ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000093367.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "「好きにならないで」余命宣告を隠す金髪ギャルと優等生の切ない恋 市原匠悟＆藤本唯千夏が ...",
+      "url": "https://news.mynavi.jp/article/20261023-5176038/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "市原匠悟×藤本唯千夏 ドラマ初主演！“金髪ギャルと優等生”正反対の男女が織りなす",
+      "url": "https://article.auone.jp/6e286453-f4e0-40a8-ad7f-d58be25862fe",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "市原匠悟×藤本唯千夏 ドラマ初主演！“金髪ギャルと優等生”正反対の男女が織りなす",
+      "url": "https://mezamashi.media/articles/-/363576",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "「好きにならないで」余命宣告を隠す金髪ギャルと優等生の切ない恋 市原匠悟＆藤本唯千夏が ...",
+      "url": "https://news.infoseek.co.jp/article/mynavi_3239394/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "【保存版】「<b>TikTok</b> Shop 年末商戦 完全攻略ガイド」を公開 売上ピークはセール2日目",
+      "url": "https://www.jiji.com/jc/article?k=000000194.000033706&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "「無関心層を振り向かせる主役へ」――縦型動画とSNSバズの裏にある緻密なクリエイティブ設計",
+      "url": "https://www.advertimes.com/20261023/article561395/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "【保存版】「<b>TikTok</b> Shop 年末商戦 完全攻略ガイド」を公開 売上ピークはセール2日目 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000194.000033706.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "アクセル・シュプリンガー、<b>TikTok</b>の欧州部門買収を提案＝FT報道 - Investing.com",
+      "url": "https://jp.investing.com/news/stock-market-news/article-1720655",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "業界トレンド",
+      "title": "ChatGPT<b>広告</b> が変えるマーケティング、属性から会話の意図を捉える手法へ | DIGIDAY［<b>日本</b>版］",
+      "url": "https://digiday.jp/publishers/openai-would-like-to-remind-marketers-that-its-ads-are-for-the-good-of-humanity/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "鉄道＆旅行系ユーチューバー西園寺 <b>事務所</b>スタッフの解雇を発表、飲食店でサイン色紙を剥がす ...",
+      "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/23/kiji/20261023s00041000077000c.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "韓国版『花より男子』俳優との訴訟中に彼の息子を出産し今も育てている元恋人",
+      "url": "https://news.livedoor.com/article/detail/32631354/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "【全文】人気ユーチューバー謝罪 <b>事務所</b>スタッフ不適切行為に「事象が発生した時には…」",
+      "url": "https://news.yahoo.co.jp/articles/3e3126fb9e901e4c3cc627361a008cebb4ae4902",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "日本初のAI動画<b>クリエイター</b>専門誌 『AI動画最前線』 AI動画の現在と未来像 10月20日（火）より ...",
+      "url": "http://www.otosaga.com/release_383054_1.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "食と農の魅力をテーマにしたタイアップソング 「つなぐエール」が待望のリリース！ アイドル<b>事務</b> ...",
+      "url": "https://www.zennoh.or.jp/press/release/2026/111311.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "「前世何してました？」うちの<b>事務所</b>、<b>所属VTuber</b>が全員訳ありです - カクヨム",
+      "url": "https://kakuyomu.jp/works/11054822665024654889/reviews",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "18回目を迎える国際<b>マーケティング</b>カンファレンス「ad:tech tokyo | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19908949?news_ref=watch_20_nw19780913",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "業界トレンド",
+      "title": "ソシャルワイヤが買い気配､セキュリティコンサル開始を囃す - 会社四季報オンライン",
+      "url": "https://shikiho.toyokeizai.net/news/0/962290",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "脅威の兆候",
+      "title": "弁護士による「景品表示法務検定」対策講座 講義動画とテキストは無料公開 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19907919?news_ref=watch_20_nw19779229",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "脅威の兆候",
+      "title": "バブル崩壊か？人型ロボット企業に相次ぐ破綻や事業停止-香港メディア - ライブドアニュース",
+      "url": "https://news.livedoor.com/topics/detail/32625756/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "脅威の兆候",
+      "title": "【ＭＬＢ】スキーンズと恋人ダンの日本訪問を米メディアが速報「ハ～イ、ジャパン」｜Infoseek ...",
+      "url": "https://news.infoseek.co.jp/amp/article/tospo_1485867374182990836/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "脅威の兆候",
+      "title": "来日怪物よりも…金髪美人彼女に日本人が熱視線「会いたい」 歌舞伎町で二の腕炸裂の一枚",
+      "url": "https://www.chiba-tv.com/plus/detail/2026102143843",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "脅威の兆候",
+      "title": "メディキューブ美顔器に「<b>炎上</b>・<b>ステマ</b>」の噂が出る理由は？PRの裏側と実力を検証",
+      "url": "https://ameblo.jp/bidenplus/entry-12982235069.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "脅威の兆候",
+      "title": "TXTスビン「ベッド写真」拡散→HYBE警告「虚偽事実に<b>法的</b>対応」 - デバク",
+      "url": "https://daebak.tokyo/2026/10/22/hybe-on-soobin-private-photos/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "脅威の兆候",
+      "title": "問界「<b>炎上</b>事故は時速139キロで街灯柱に衝突したもの」と説明、「電池が爆発」を否定",
+      "url": "https://www.recordchina.co.jp/newsinfo?id=995844",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "脅威の兆候",
+      "title": "娘を殺害した罪“車椅子の<b>インフルエンサー</b>”初公判 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19902983",
       "status": "未処理"
     }
   ],
@@ -82251,6 +82659,346 @@
         "benchmark": 5
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "GROVE株式会社",
+      "title": "TikTok LIVEから、次世代のアイドルへ。クリエイター事務所３２１から新プロジェクト始動、初期メンバー5名を募集 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3M1l2RXRpcV9BNGVxUl9MZkNXQUd4R21UMFREdE9KeHlzTEJoRFlCc0NEeWxCYmdkandISmRNd19LZGhzaGR4bkRwUzRuemFCNzFpWlltTGxjYnB3OThJcUxQd1JVODE0dUE?oc=5",
+      "totalScore": 21.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 5,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社Natee",
+      "title": "「映画『国境』」に関するプレスリリース一覧 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTJKOF92MlpHcThfWnJOVER3eHd0U0pqbUtUQjlBMEZtbnpTMmI0eFBqcjRNWmowVmdwaXM4QTR4MjZDOUxqeTdmT1EybjY3LUUyZGx3TTc3UkwxdFVoN2ktUWFBY2ktZ0J5NGtoUGFCMFFBUG5ZZkZlb211VjItVU51R1BWRExKaG9XUGhwQ1FDdXc?oc=5",
+      "totalScore": 7.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社Natee",
+      "title": "全総に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelREck9PSS15Yk5pRVhPTzdlYlZmWDNCaHRUMGwzNEotbmpicUVIdW9ZcUs5bVYyQk92Ti1sRjRMT2NGXzBtWmxTLUFZcl9IYW03YnBveDJ6Qnl5RFQ2V3pIODZuWFJBRzZ1cE40UlFZdGk5TkRUMzFCWGdCMTFSQVp3b205RmtuekdqY0pLTGtOMDA?oc=5",
+      "totalScore": 7,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "アソビシステム",
+      "title": "新たなエンターテインメント<b>事業</b>「PEJ」本格始動。株式会社キャットウォークが新たな表現活動 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000189906/",
+      "totalScore": 13.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://news.nicovideo.jp/watch/nw19907430?news_ref=watch_20_nw19780918",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000256.000056551.html",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社ナハト",
+      "title": "顧客と営業から「愛される<b>マーケティング</b>」を目指す。パーソルホールディングスが乗り越えた3 ...",
+      "url": "https://markezine.jp/article/detail/77723",
+      "totalScore": 10,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "株式会社ナハト",
+      "title": "第7回 <b>マーケティング</b>Week 大阪 2026 -MaS- - AdverTimes",
+      "url": "https://www.advertimes.com/20261022/article560968/",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "Macbee Planet",
+      "title": "全体的にコンプライアンス意識は低い。 上層部とメンバーク... <b>Macbee Planet</b> OpenWork",
+      "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000oBi5l&qco=1",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-22",
+      "company": "Macbee Planet",
+      "title": "マーケティングコンサルタント責任者（本部長／執行役員候補）  プライム上場企業<b>マクビー</b> ... - doda",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016132924/",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "アソビシステム",
+      "title": "日曜お昼の番組「NHKのど自慢」にCANDY TUNEが初出演【メンバーコメントあり】 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZXVDMlpXX0JzbWpIVnAxQUs5b3dXV1IteWlISlhQYnpDUWF6UXQ1OWs4d0dhejNVS252Umg1OXEzeWNzSzMzVnRPV2djeHpsUFFCY1dKaGtYVXVNaFQya2RuYUVCR2MzMGc?oc=5",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、テレビアニメ「ポケットモンスター ワンダーボヤージュ」にて史上初の日韓W ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000931.000017258.html",
+      "totalScore": 17.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "トレンダーズ",
+      "title": "<b>トレンダーズ</b> ［クリエイティブ職、中途入社、女性、在籍3～5年、現職（回答時） - OpenWork",
+      "url": "https://www.openwork.jp/user_answer.php?vid=a0ARC00000oT5dp",
+      "totalScore": 8.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-16",
+      "company": "株式会社Natee",
+      "title": "Ｗ９ に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGpNaE00ckdEMjZmMko3TW02MFc4VXF1a2g5UWJxU0NWWUdSQzRYUE1HTWV1N1V4WVRPdlhiVG9uVnROQW9JRzFzZ3YtWUltYndXTkhPUE5ZT1k2ZXIxYmxZZmJZVEpNSVZwcXpLTkFLNG1jUkdKNUw2a1ctT2hVNXNqNnhQVlFNeFZvaDZFY25PcUk?oc=5",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "[レポートシェアリング] 2026年<b>日本</b>のデジタル<b>広告</b>インサイト | Sensor Towerのプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000132.000100064.html",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 4,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "UNITYのK-beauty領域における、<b>TikTok</b> Shop活用支援スキーム - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000020.000040926&g=prt",
+      "totalScore": 18,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "ONE COLOR 新アイドルユニット メンバー募集 - オーディションプラス",
+      "url": "https://audition.nerim.info/audition-202611/audition-2026101990.html",
+      "totalScore": 21,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 4,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "ビジネス・オピニオン誌「Wedge」の11月号に、当社開発本部 本部長・榊のコメントが掲載され ...",
+      "url": "https://www.hottolink.co.jp/info/20261021_121499/",
+      "totalScore": 15.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "新コーヒーメーカーの特長を空間化 4つの部屋を巡るネスカフェの体験型イベント | PR EDGE",
+      "url": "https://predge.jp/362355/",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "日本のサブスクリプションEコマース市場<b>調査</b>レポート：2034年までに4610億米ドル規模へ",
+      "url": "https://newscast.jp/smart/news/3537294",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 4,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -122123,6 +122871,327 @@
       "agenda": "CREOKの成功事例からVAZの「TikTokショップ」戦略において、タレントの育成、配信ノウハウ、商品選定のどの要素を最優先で強化し、どのようなKPIを設定すべきか？",
       "summary": "TikTok ShopでGMV15億円達成、ライブコマースの日本展開に光明",
       "axis": "両方"
+    },
+    {
+      "id": 2114,
+      "date": "2026-10-21",
+      "company": "GROVE株式会社",
+      "title": "TikTok LIVEから、次世代のアイドルへ。クリエイター事務所３２１から新プロジェクト始動、初期メンバー5名を募集 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3M1l2RXRpcV9BNGVxUl9MZkNXQUd4R21UMFREdE9KeHlzTEJoRFlCc0NEeWxCYmdkandISmRNd19LZGhzaGR4bkRwUzRuemFCNzFpWlltTGxjYnB3OThJcUxQd1JVODE0dUE?oc=5",
+      "totalScore": 21.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#タレント発掘・育成",
+        "#プラットフォーム動向"
+      ],
+      "fact": "GROVE株式会社関連のクリエイター事務所３２１がTikTok LIVEを基盤に次世代アイドルプロジェクトを始動し、初期メンバー5名を募集している。",
+      "intent": "競合であるGROVE関連会社は、TikTok LIVEを新たなアイドル発掘・育成の場と捉え、Z世代・若年層へのリーチ力とエンゲージメントの高さを活かし、既存のアイドル像にとらわれない新しい形のIP創出を狙っていると考えられる。これは、従来のオーディション形式ではリーチしきれない層へのアプローチや、デビュー前からファンコミュニティを形成する戦略的意図がある。",
+      "impact": "VAZの2026年注力領域である「アイドルグループ」と直接的に競合する動きであり、TikTok LIVEを活用したメンバー募集は、VAZの強みであるZ世代・若年層へのリーチ力とTikTokショップへの注力と完全に重なる。競合がTikTok上でアイドルIPを育成するモデルを確立した場合、VAZが予定しているアイドルプロジェクトの差別化やタレント獲得競争に影響が出る可能性がある。特に\"広告っぽくない\"コンテンツ制作力を持つVAZにとって、TikTok LIVEでのファン獲得とIP化は重要な視点となる。",
+      "agenda": "競合がTikTok LIVEを軸にアイドル育成を進める中で、VAZのアイドルプロジェクトはTikTokをどのように活用し、差別化されたタレント獲得・育成戦略を構築すべきか？",
+      "summary": "クリエイター事務所３２１がTikTok LIVEでアイドル募集を開始",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2115,
+      "date": "2026-10-22",
+      "company": "アソビシステム",
+      "title": "新たなエンターテインメント<b>事業</b>「PEJ」本格始動。株式会社キャットウォークが新たな表現活動 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000189906/",
+      "totalScore": 13.75,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "アソビシステムは、株式会社キャットウォークと共同で、大阪・八尾を拠点に人材発掘・育成・出演・発信を目的とした新たなエンターテインメント事業「PEJ」を本格始動した。",
+      "intent": "インフルエンサー/タレント業界は常に新たな才能の獲得競争が激化しており、持続的な事業成長のためには安定したタレント供給源と育成システムが不可欠である。アソビシステムは、既存の枠を超えて新たな地域（大阪・八尾）での人材発掘と、長年の実績を持つ育成専門家を招聘することで、差別化された育成プラットフォームを確立し、将来のトップタレントやIP候補を早期に囲い込む狙いがあると考えられる。",
+      "impact": "本ニュースは、VAZのタレント軸事業にとって直接的な競合圧力となる。特にVAZが2026年注力テーマとしている「アイドルグループ」や「所属タレントのグッズ（IP）」は、優良なタレント人材の確保が不可欠であり、アソビシステムが新たな育成システムを構築することは、将来的なタレントリソースの獲得競争激化を意味する。地域特化型での発掘・育成は、Z世代・若年層へのリーチ力を持つVAZにとっても、新たなタレント発掘チャネルとして注目すべき動向であり、供給源の多様化を促す可能性がある。",
+      "agenda": "競合の地域特化型育成モデルを参考に、VAZも新たなタレント発掘チャネルの開拓や育成強化のため、専門家との連携や地域拠点展開を検討すべきではないか？",
+      "summary": "アソビシステムがタレント発掘・育成の新事業「PEJ」を大阪・八尾で始動",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2116,
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://news.nicovideo.jp/watch/nw19907430?news_ref=watch_20_nw19780918",
+      "totalScore": 14.75,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#広告主動向",
+        "#ECコマース"
+      ],
+      "fact": "トレンダーズがLAのカルチャーフェスを通じて、日本の美容ブランド（J-Beauty）のアメリカ市場への進出支援を推進している。",
+      "intent": "日本の美容・コスメブランドは国内市場の飽和に直面し、成長機会を海外、特に購買力のあるアメリカ市場に求めている。トレンダーズは、インフルエンサーマーケティングの知見とイベント企画力を活かし、オフラインとオンラインを組み合わせたプロモーションで、この海外展開ニーズに応え、新たな収益源を確立しようとしている。",
+      "impact": "VAZの強みである「美容・コスメ領域との親和性」および注力領域の「美容UGC生成」と直接関連する。トレンダーズのJ-Beauty海外展開支援は、VAZがターゲットとする広告主の海外進出ニーズを捉えるものであり、競合が新たな市場を開拓していることを示唆している。VAZも「Z世代・若年層へのリーチ力」を活かし、海外の若年層をターゲットとしたJ-Beautyブランドのプロモーション、特にインフルエンサーネットワーク構築やTikTokショップ連携を通じた海外EC支援は、新たなマネタイズ機会となりうる。",
+      "agenda": "VAZはJ-Beauty海外展開支援を新規マネタイズと捉え、北米市場での具体的なプロモーション戦略をどう構築すべきか？",
+      "summary": "LAカルチャーフェスでJ-Beauty海外展開支援",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2117,
+      "date": "2026-10-22",
+      "company": "トレンダーズ",
+      "title": "LAのカルチャーフェスで、出会うJ-Beauty。「日本のブランドに、もっとアメリカへ来てほしい ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000256.000056551.html",
+      "totalScore": 14,
+      "tags": [
+        "#広告主動向",
+        "#新規マネタイズ事業",
+        "#プランニング・企画"
+      ],
+      "fact": "トレンダーズがロサンゼルスのカルチャーフェスティバルに出展し、J-Beautyの体験提供を通じて日本のブランドの海外展開を支援した。",
+      "intent": "日本の美容・コスメ市場が成熟する中で、競合トレンダーズは海外市場、特に成長著しい米国でのJ-Beautyの需要に着目。J-Cultureと掛け合わせた体験型プロモーションを通じて、新たな収益源と広告主の獲得を目指している。Z世代へのリーチを強みとするVAZにとって、海外の若年層市場は魅力的なフロンティアであり、トレンダーズは体験型イベントで広告っぽくないアプローチでこの市場に食い込もうとしている。",
+      "impact": "この動きは、VAZの強みである「美容・コスメ領域との親和性」と「Z世代・若年層へのリーチ力」を活かした海外展開の可能性を示唆する。特に、VAZが注力する「美容UGC生成」は海外市場での潜在的な需要が高く、トレンダーズの体験型プロモーションは、海外の若年層インフルエンサーを巻き込んだUGC創出のモデルとなりうる。",
+      "agenda": "Z世代にリーチするVAZの美容UGC生成を、いかにJ-Cultureと絡めて海外市場（特に米国）で展開し、新規の広告主獲得・マネタイズに繋げるべきか？",
+      "summary": "トレンダーズ、LAでJ-Beautyを体験提供し海外市場開拓",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2118,
+      "date": "2026-10-22",
+      "company": "株式会社ナハト",
+      "title": "顧客と営業から「愛される<b>マーケティング</b>」を目指す。パーソルホールディングスが乗り越えた3 ...",
+      "url": "https://markezine.jp/article/detail/77723",
+      "totalScore": 10,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#広告主動向",
+        "#プランニング・企画"
+      ],
+      "fact": "株式会社ナハトが、パーソルホールディングスとの連携を通じて、顧客と営業双方から支持されるマーケティング戦略の構築を目指している。",
+      "intent": "インフルエンサーマーケティング業界は広告主のニーズ多様化や効果測定の複雑化が進む中で、単なるリーチだけでなく、広告主の事業成果に貢献する“本質的なマーケティング”が求められている。ナハトはパーソルHDのような大企業の視点を取り入れることで、より顧客（広告主）の課題に深く寄り添い、営業担当者も自信を持って提案できるような、説得力と実効性のあるマーケティング戦略を構築しようとしている。これは、顧客ロイヤリティの向上と、継続的な案件獲得・新規事業創出を目指す意図と推察される。",
+      "impact": "VAZにとって、直接競合であるナハトが顧客・営業起点のマーケティングを強化することは、タイアップ案件獲得や新規マネタイズ事業の提案力において競争激化を意味する。特に、VAZの強みである「“広告っぽくない”SNSコンテンツ制作」も、最終的には広告主の事業貢献に繋がることが重要であり、このナハトの動きはVAZが「インフルエンサーネットワーク」を活用した企画提案や「TikTokショップ」での販売戦略において、より顧客視点での効果的なマーケティング戦略を追求する必要性を示唆する。",
+      "agenda": "ナハトの顧客・営業志向マーケティング強化に対し、VAZは「新規マネタイズ事業」において、顧客体験を最大化するどのような提案戦略で差別化を図るべきか？",
+      "summary": "ナハト、顧客と営業志向のマーケティング強化",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2119,
+      "date": "2026-10-22",
+      "company": "株式会社ナハト",
+      "title": "第7回 <b>マーケティング</b>Week 大阪 2026 -MaS- - AdverTimes",
+      "url": "https://www.advertimes.com/20261022/article560968/",
+      "totalScore": 11.5,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#プランニング・企画",
+        "#広告主動向"
+      ],
+      "fact": "直接競合であるナハトが注目する（または参加/出展する）「マーケティングWeek 大阪 2026」では、生成AI活用、リテールメディア、SNS活用など最新のマーケティングトレンドに関する多様なセミナーが開催される。",
+      "intent": "デジタル広告市場の成熟や新技術登場に伴い、業界全体がより効果的なマーケティング手法を模索しており、競合ナハトも大規模展示会を通じて最新トレンドをキャッチアップし、インフルエンサーマーケティング事業に組み込むことで事業強化を狙っていると推測される。",
+      "impact": "本ニュースは、競合ナハトが「リテールメディア」や「SNS活用」といったVAZの注力領域（TikTokショップ、美容UGC生成）と関連性の高いマーケティングトレンドへの感度を高めていることを示唆する。VAZは強みである「\"広告っぽくない\"SNSコンテンツ制作」を活かしつつ、これらのトレンドを自社の戦略に組み込み、差別化を図る必要がある。",
+      "agenda": "競合が注視する生成AI活用やリテールメディアなどの最新トレンドを、VAZの「TikTokショップ」や「美容UGC生成」の戦略にどう具体的に組み込み、新規マネタイズ事業に繋げるべきか？",
+      "summary": "ナハトが最新マーケティング展示会を注視し、トレンド知見を強化",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2120,
+      "date": "2026-10-22",
+      "company": "Macbee Planet",
+      "title": "全体的にコンプライアンス意識は低い。 上層部とメンバーク... <b>Macbee Planet</b> OpenWork",
+      "url": "https://www.openwork.jp/one_answer.php?vid=a0ARC00000oBi5l&qco=1",
+      "totalScore": 11,
+      "tags": [
+        "#炎上・リスク",
+        "#広告主動向",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "競合のMacbee Planetに関するOpenWorkのクチコミで、企業全体のコンプライアンス意識が低いと指摘されている。",
+      "intent": "Webマーケティング業界は成果主義が強く、急速な成長の中でコンプライアンス体制の構築が追いついていない企業が少なくない。OpenWorkでの指摘は、従業員が内部で声を上げにくい環境や、上層部が現場の声を吸い上げられていないボトルネックを示唆している。",
+      "impact": "Macbee Planetのコンプライアンス意識の低さは、業界全体の信頼性低下リスクをはらむが、VAZにとっては競合優位性を高める機会となりうる。特にVAZの注力領域であるTikTokショップや美容UGC生成、インフルエンサーネットワークの展開において、高いコンプライアンス意識は必須であり、差別化のポイントとなる。",
+      "agenda": "競合のコンプライアンス課題が浮上した今、VAZは全社的なコンプライアンス研修を強化し、\"広告っぽくない\"コンテンツ制作と法遵守の両立をどのように担保すべきか？",
+      "summary": "競合Macbee Planetでコンプライアンス課題浮上",
+      "axis": "両方"
+    },
+    {
+      "id": 2121,
+      "date": "2026-10-22",
+      "company": "Macbee Planet",
+      "title": "マーケティングコンサルタント責任者（本部長／執行役員候補）  プライム上場企業<b>マクビー</b> ... - doda",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016132924/",
+      "totalScore": 14,
+      "tags": [
+        "#プランニング・企画",
+        "#新規マネタイズ事業",
+        "#広告主動向"
+      ],
+      "fact": "プライム上場企業のMacbee Planetが、マーケティングコンサルティング部門の責任者（本部長／執行役員候補）の採用を進めている。",
+      "intent": "Macbee Planetはテクノロジーとデータを活用したコンサルティングを強みとしており、プライム上場企業として継続的な成長と企業価値向上を目指している。この責任者採用は、Web広告市場の競争激化や顧客のニーズ多様化に対応するため、コンサルティングサービスの質と幅をさらに強化し、収益基盤を盤石にするための戦略的な人事と推測される。",
+      "impact": "Macbee Planetのマーケティングコンサルタント責任者採用は、VAZの「アカウントDiv（営業部）」が獲得を目指す広告案件において、競合の提案力強化を意味する。Macbee Planetがより高度なマーケティング戦略や実行支援を広告主に提供することで、VAZがターゲットとする顧客層での競争が激化する。VAZの注力領域である「TikTokショップ」や「美容UGC生成」は、いずれもマーケティングコンサルティングの対象となりうるため、Macbee Planetがこれらの領域で広告主への価値提供を強化する可能性があり、間接的に競合する。",
+      "agenda": "VAZは、より戦略的なマーケティングコンサルティングを強化する競合に対し、自社コンテンツ制作力とクリエイターネットワークを活かした独自の提案価値をどのように構築し、広告主を獲得すべきか？",
+      "summary": "プライム上場マクビーがマーケ責任者採用",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2122,
+      "date": "2026-10-23",
+      "company": "アソビシステム",
+      "title": "日曜お昼の番組「NHKのど自慢」にCANDY TUNEが初出演【メンバーコメントあり】 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZXVDMlpXX0JzbWpIVnAxQUs5b3dXV1IteWlISlhQYnpDUWF6UXQ1OWs4d0dhejNVS252Umg1OXEzeWNzSzMzVnRPV2djeHpsUFFCY1dKaGtYVXVNaFQya2RuYUVCR2MzMGc?oc=5",
+      "totalScore": 14.75,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のアイドルグループCANDY TUNEが日曜お昼の番組「NHKのど自慢」に初出演した。",
+      "intent": "アソビシステムは、CANDY TUNEをSNS世代だけでなく、より幅広い年代層に認知を拡大させるため、公共性の高いテレビ番組への露出機会を狙ったと推測される。国民的番組である「のど自慢」は、親近感を醸成し、IP価値を高める戦略の一環と考えられる。VAZもアイドルプロジェクトを推進しており、同様の課題意識を持つ可能性がある。",
+      "impact": "このニュースは、VAZが注力する「アイドルグループ」事業に直接的な影響を与える。競合のアソビシステムが、所属アイドルをマス媒体へ出演させることで、Z世代以外の幅広い層へのリーチと認知度向上を図っていることは、VAZのアイドルプロジェクトにとってベンチマークとなる。特に、VAZの強みである\"広告っぽくない\"コンテンツ制作の延長線上で、公共性の高い番組への出演は親近感と信頼性を獲得する有効な手段となり得る。これにより、将来的な「所属タレントのグッズ（IP）」展開や「インフルエンサーネットワーク」の拡大にも寄与する可能性があり、VAZも同様の戦略を検討する価値がある。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、SNS以外のマス媒体への露出は、幅広い層への認知拡大とIP価値向上にどれほど寄与し得るか、その具体的な戦略と効果測定指標をどう設定すべきか？",
+      "summary": "CANDY TUNEがNHKのど自慢に初出演し、幅広い層への認知拡大を図る。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2123,
+      "date": "2026-10-23",
+      "company": "アソビシステム",
+      "title": "CUTIE STREET、テレビアニメ「ポケットモンスター ワンダーボヤージュ」にて史上初の日韓W ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000931.000017258.html",
+      "totalScore": 17.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属アイドルグループ「CUTIE STREET」がテレビアニメ「ポケットモンスター ワンダーボヤージュ」の日韓Wエンディングテーマに起用され、韓国語版楽曲の配信とMV公開を行った。",
+      "intent": "アソビシステムは長年アイドルやアーティストマネジメントに強みがあり、国民的人気アニメとの大型タイアップでタレントの知名度とIP価値最大化を戦略的に狙っている。特に韓国での活動実績とK-POP市場への展開を見据えた日韓W主題歌起用は、グローバル市場での競争優位性確立を目指す意図があり、Z世代・若年層へのリーチ力を活かしてエンタメコンテンツを通じた影響力拡大を図っている。",
+      "impact": "VAZが「アイドルグループ」と「所属タレントのグッズ（IP）」を注力領域とする中で、競合のこの成功事例は、強力なコンテンツ連携とIP確立・拡大の具体的な戦略ヒントとなる。国民的アニメとのタイアップによる知名度向上とIP価値の向上はVAZのアイドルプロジェクトにとって重要であり、グローバル市場（特に韓国）での展開も今後の成長戦略で考慮すべき動向である。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、他社の大型IPとの連携や海外市場展開をどのように計画し、具体的なアクションプランに落とし込むべきか？",
+      "summary": "アソビシステム所属アイドルがポケモンアニメ日韓W主題歌に起用され、国際的な露出を拡大。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2124,
+      "date": "2026-10-16",
+      "company": "株式会社Natee",
+      "title": "Ｗ９ に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGpNaE00ckdEMjZmMko3TW02MFc4VXF1a2g5UWJxU0NWWUdSQzRYUE1HTWV1N1V4WVRPdlhiVG9uVnROQW9JRzFzZ3YtWUltYndXTkhPUE5ZT1k2ZXIxYmxZZmJZVEpNSVZwcXpLTkFLNG1jUkdKNUw2a1ctT2hVNXNqNnhQVlFNeFZvaDZFY25PcUk?oc=5",
+      "totalScore": 16.25,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#ECコマース"
+      ],
+      "fact": "株式会社Nateeが『W9』と題するプレスリリースを発表した。",
+      "intent": "NateeはTikTokマーケティングに強みを持つ競合であり、市場の変化や新たなマネタイズ機会を捉え、『W9』を通じて事業拡大を図る意図が考えられる。これはインフルエンサーを起点とした新たなEC領域やコミュニティ形成を狙っている可能性が高い。",
+      "impact": "Nateeの新サービス『W9』が具体的に不明であるものの、インフルエンサーマーケティング事業の競合であるため、市場競争の激化は避けられない。特にVAZの注力領域であるTikTokショップやインフルエンサーネットワークと関連する新規サービスである場合、直接的な競合となり、市場シェア獲得に向けた戦略見直しが求められる。",
+      "agenda": "Nateeの『W9』がVAZの注力領域（TikTokショップ、インフルエンサーネットワークなど）とどの程度重なるのか、早急に情報収集し、具体的な対抗戦略を策定する必要はないか？",
+      "summary": "Nateeが新サービス『W9』を公開",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2125,
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "[レポートシェアリング] 2026年<b>日本</b>のデジタル<b>広告</b>インサイト | Sensor Towerのプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000132.000100064.html",
+      "totalScore": 11.5,
+      "tags": [
+        "#タイアップ案件",
+        "#広告主動向",
+        "#市場規模・調査"
+      ],
+      "fact": "Sensor Towerが日本のデジタル広告市場の成長トレンド、チャネル構造、配信パフォーマンスを分析し、広告主が効率を向上させる方法をまとめたレポートを発表した。",
+      "intent": "デジタル広告市場が継続的に拡大する中、広告主は多様化するチャネルや複雑化するターゲット層への対応に課題を抱えており、Sensor Towerはこれらのニーズに応える形で市場インサイトを提供している。",
+      "impact": "このレポートはVAZのアカウントDivが手掛けるタイアップ案件や新規マネタイズ事業において、広告主が求めるチャネル戦略やリーチ方法に関する重要な示唆を与える。VAZの強みであるZ世代へのリーチや\"広告っぽくない\"SNSコンテンツ制作は、インフルエンサーネットワークやTikTokショップといった注力領域と共に、デジタル広告の効率向上に貢献し、市場の成長機会を捉える鍵となる。",
+      "agenda": "拡大するデジタル広告市場において、VAZの強みと注力領域を活かし、広告主の配信効率向上と市場での成長機会をどう最大化すべきか？",
+      "summary": "日本のデジタル広告市場の成長トレンドと効率化レポート",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2126,
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "UNITYのK-beauty領域における、<b>TikTok</b> Shop活用支援スキーム - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000020.000040926&g=prt",
+      "totalScore": 18,
+      "tags": [
+        "#ECコマース",
+        "#プラットフォーム動向",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "UNITY株式会社はTikTok Shopパートナープログラムに参画し、2,000名超のクリエイターネットワークとK-beauty販売ノウハウを活かしたTikTok Shop活用支援スキームを開始した。",
+      "intent": "TikTok Shopが日本で本格展開されECプラットフォームとしての存在感を増す中、UNITYは自社強みである韓国コスメ事業ノウハウとインフルエンサーネットワークを活かし、成長市場で先行者利益を得ようとしている。TikTok Shopのパートナープログラム参画はプラットフォーム側のエコシステム構築意欲を示し、専門的支援ニーズが高まっている。VAZ視点では、競合が自社の「TikTokショップ」「美容UGC生成」「インフルエンサーネットワーク」注力領域で具体的かつ先行的な動きを見せている状況。",
+      "impact": "このニュースはVAZの2026年注力領域である「TikTokショップ」における本格的な競合参入とビジネスモデルの具体化を意味する。UNITYはVAZの強みである「美容・コスメ領域との親和性」をK-beauty特化で活用し、実績あるノウハウとクリエイターネットワークで差別化を図っており、VAZがターゲットとする広告主やTikTok Shop活用検討顧客を奪われるリスクがある。また、UNITYのクリエイターネットワークはVAZの「インフルエンサーネットワーク」構築においても競合となり、VAZの「美容UGC生成」の知見蓄積においても先行される可能性を示唆している。",
+      "agenda": "UNITYのK-beauty特化TikTok Shop支援に対し、VAZは自社の強みであるZ世代リーチと美容コスメ親和性を活かし、どのような差別化戦略で「TikTokショップ」注力領域を加速させるべきか？",
+      "summary": "UNITYがK-beauty特化TikTok Shop支援開始、VAZ注力領域と競合",
+      "axis": "両方"
+    },
+    {
+      "id": 2127,
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "ONE COLOR 新アイドルユニット メンバー募集 - オーディションプラス",
+      "url": "https://audition.nerim.info/audition-202611/audition-2026101990.html",
+      "totalScore": 21,
+      "tags": [
+        "#タレント発掘・育成",
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ"
+      ],
+      "fact": "株式会社ONE COLORは、SNSクリエイターのバックアップとグローバル展開を特徴とする新アイドルユニットのメンバー募集を開始した。",
+      "intent": "背景にはK-POPに代表されるグローバルアイドル市場の拡大とSNSの影響力増大があり、ONE COLORは従来のアイドルモデルにインフルエンサー要素を融合させることで、デビュー前から高いリーチを確保し幅広い層への認知拡大を狙っている。手厚い報酬体系は飽和するアイドル志望者市場で優秀な人材確保を目指す戦略であり、VAZ視点では人材獲得競争の激化とアイドル×インフルエンサーという新たな成功モデルの模索が業界全体の課題と捉えられる。",
+      "impact": "本ニュースはVAZの2026年注力領域である「アイドルグループ」に直接的な影響を与える。ONE COLORのグローバル展開とSNSインフルエンサー育成の組み合わせは、VAZが目指す「アイドルプロジェクト」や「インフルエンサーネットワーク」構築において、競合の人材獲得・育成戦略を示す重要な事例となる。特にSNSクリエイターによる指導・育成は、VAZの強みであるコンテンツ制作力や広告っぽくないSNSコンテンツ制作と親和性が高く、VAZのアイドルプロジェクトが持つべき方向性を示唆している。また、オリジナル衣装やMV制作への注力は「所属タレントのグッズ（IP）」戦略にも示唆を与える。",
+      "agenda": "VAZのアイドルプロジェクトは、競合が仕掛ける\"グローバル×SNSインフルエンサー型アイドル\"に対し、いかに優秀な人材を獲得・育成し、独自の強みを発揮して差別化を図るべきか？",
+      "summary": "ONE COLOR、グローバル×SNSインフルエンサー育成型アイドルを募集",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2128,
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "ビジネス・オピニオン誌「Wedge」の11月号に、当社開発本部 本部長・榊のコメントが掲載され ...",
+      "url": "https://www.hottolink.co.jp/info/20261021_121499/",
+      "totalScore": 15.25,
+      "tags": [
+        "#市場規模・調査",
+        "#プラットフォーム動向",
+        "#プランニング・企画"
+      ],
+      "fact": "ホットリンク開発本部本部長がビジネス誌「Wedge」に「SNSの先にある〝本音〟 就職氷河期世代にどう向き合うか」と題し、ソーシャルリスニングの可能性と課題について寄稿した。",
+      "intent": "ホットリンクはソーシャルリスニングの専門企業であり、表面的なSNS情報だけでなく、その裏にあるユーザーの本質的な感情やニーズ（本音）をデータから捉える重要性が増している業界トレンドを背景に、技術的優位性と深い洞察力をアピールする狙いがある。",
+      "impact": "本ニュースは、VAZの強みであるZ世代へのリーチ力や\"広告っぽくない\"SNSコンテンツ制作を深掘りする上で、データドリブンなインサイト抽出の重要性を示唆する。特に注力領域である「美容UGC生成」において、ターゲットのリアルな声やトレンドを把握し、より効果的なUGC創出や新規マネタイズ事業の企画立案にソーシャルリスニングの知見が不可欠となる。",
+      "agenda": "ホットリンクのようなデータ分析企業との提携、または社内におけるソーシャルリスニング能力の強化は、VAZの「美容UGC生成」や「新規マネタイズ事業」の成長戦略において、どの程度優先すべきか？",
+      "summary": "ホットリンク役員がSNS本音とソーシャルリスニング解説",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2129,
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "新コーヒーメーカーの特長を空間化 4つの部屋を巡るネスカフェの体験型イベント | PR EDGE",
+      "url": "https://predge.jp/362355/",
+      "totalScore": 13,
+      "tags": [
+        "#タイアップ案件",
+        "#プランニング・企画",
+        "#広告主動向"
+      ],
+      "fact": "ネスレ日本が新コーヒーメーカー「ネスカフェ ゴールドブレンド バリスタ kotone」の特長を表現するため、4人のインフルエンサーを起用し、各インフルエンサーの個性を反映した体験型ポップアップイベントを六本木ヒルズで開催する。",
+      "intent": "背景には、現代の消費者が製品のスペックだけでなく、ブランドが提供する「体験」や「ライフスタイル」に価値を見出す傾向があり、特に若年層がインフルエンサーを通じた共感コンテンツを重視するため、ネスレは製品の情緒的価値を高め\"広告っぽくない\"形でターゲット層にリーチし購入意欲を刺激している。",
+      "impact": "本ニュースはVAZの「Z世代・若年層へのリーチ力」や「\"広告っぽくない\"SNSコンテンツ制作」の方向性を補強し、注力領域である「インフルエンサーネットワーク」の活用事例として、VAZアカウントDivのプランニングチームがオフライン連動型タイアップ案件を提案するモデルケースとなるため、特に「美容UGC生成」や「タレントIPグッズ」展開において、コンテンツや商品の世界観を深掘りし共感を呼ぶ企画立案のヒントとなる。",
+      "agenda": "大手広告主の体験型イベント需要の高まりに対し、VAZのインフルエンサーネットワークとプランニング力でどのようなオフライン連動型タイアップ企画を提案し、新たな収益源とブランド価値向上に繋げるか？",
+      "summary": "ネスカフェ、体験型イベントでインフルエンサー起用し新製品特長を空間表現",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2130,
+      "date": "2026-10-21",
+      "company": "業界トレンド",
+      "title": "日本のサブスクリプションEコマース市場<b>調査</b>レポート：2034年までに4610億米ドル規模へ",
+      "url": "https://newscast.jp/smart/news/3537294",
+      "totalScore": 14.75,
+      "tags": [
+        "#市場規模・調査",
+        "#ECコマース",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "IMARCグループの調査によると、日本のサブスクリプションEコマース市場は2034年までに4610億米ドル規模へ、年平均成長率39.36%で拡大すると予測されている。",
+      "intent": "本ニュースは、消費者の購買行動が「所有」から「利用」へと変化し、利便性やパーソナライズされた体験への需要が高まる中で、定期購入型のEコマースが急速に市場を拡大していることを示唆している。特に美容・パーソナルケア分野でのサブスクリプション需要は、顧客が新しい商品や高品質な商品を試す機会を求める傾向や、継続的なケアのニーズと合致し、市場成長を強く牽引している。",
+      "impact": "本ニュースは、VAZの「美容・コスメ領域との親和性」という強みと、「TikTokショップ」「美容UGC生成」という2026年注力領域に直接的な事業機会を提示する。年平均成長率39.36%という市場において、VAZのZ世代・若年層へのリーチ力と\"広告っぽくない\"コンテンツ制作力を活かし、美容関連のサブスクリプションサービスへの参入を検討することで、既存のインフルエンサーマーケティングに加え、強力な新規マネタイズ事業を構築できる可能性がある。また、「所属タレントのグッズ（IP）」をサブスクリプションモデルで提供することも、ファンエンゲージメントと収益拡大の両面で有効な選択肢となり得る。",
+      "agenda": "急成長する美容サブスクEC市場において、VAZの強みと注力領域を最大限に活かすため、具体的にどのようなインフルエンサー発サブスクリプションサービスを設計し、TikTokショップと連携させるべきか？",
+      "summary": "日本のサブスクEC市場が2034年4610億ドル規模へ、美容分野が牽引。",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -122157,8 +123226,8 @@
   ],
   "home": {
     "monthLabel": "2026年10月",
-    "thisMonthNewsCount": 1042,
-    "thisMonthAnalysisCount": 267,
+    "thisMonthNewsCount": 1093,
+    "thisMonthAnalysisCount": 284,
     "highlights": [
       {
         "id": 0,
@@ -122200,44 +123269,44 @@
       },
       {
         "id": 2,
-        "date": "2026-10-04",
-        "company": "業界トレンド",
-        "title": "Cellest、<b>TikTok</b> Shopの新チャンネル「くまかなライブコマーサー」が初月に売上1億円超 …が",
-        "url": "https://news.yahoo.co.jp/articles/f9c21bc4d7594fd98757e362247112979b06b897",
-        "totalScore": 21.5,
+        "date": "2026-10-21",
+        "company": "GROVE株式会社",
+        "title": "TikTok LIVEから、次世代のアイドルへ。クリエイター事務所３２１から新プロジェクト始動、初期メンバー5名を募集 - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3M1l2RXRpcV9BNGVxUl9MZkNXQUd4R21UMFREdE9KeHlzTEJoRFlCc0NEeWxCYmdkandISmRNd19LZGhzaGR4bkRwUzRuemFCNzFpWlltTGxjYnB3OThJcUxQd1JVODE0dUE?oc=5",
+        "totalScore": 21.75,
         "tags": [
-          "#新規マネタイズ事業",
-          "#ECコマース",
+          "#アイドル・ファンビジネス",
+          "#タレント発掘・育成",
           "#プラットフォーム動向"
         ],
-        "fact": "CellestのTikTok Shop新チャンネル「くまかなライブコマーサー」が、TikTokを主要媒体としてファッションやコスメを展開し、開設初月に売上1億円超を達成した。",
-        "intent": "TikTok Shopは中国のDouyinの成功モデルを日本に導入し、EC機能を急速に強化している。ニュースは、単なる商品販売ではなく、ライバー自身の価値観発信によるコミュニティ形成がユーザーの「この人から買いたい」という購買意欲を刺激するモデルが成功要因であることを示唆している。早朝配信は、競合が少ない時間帯に特定のターゲット層へリーチする戦略と推察される。",
-        "impact": "VAZの2026年注力領域である「TikTokショップ」と「美容UGC生成」と完全に合致する成功事例であり、VAZの事業戦略に大きな示唆を与える。特に、VAZの強みである「\"広告っぽくない\"SNSコンテンツ制作」や「美容・コスメ領域との親和性」を活かせば、所属タレントを起点とした同様の高収益ライブコマースモデルを構築できる可能性が高い。また、ライバーの個人ブランドを通じたコミュニティ形成は、VAZが注力する「所属タレントのグッズ（IP）」戦略とも親和性が高い。",
-        "agenda": "VAZの所属タレントを起点に、「くまかなライブコマーサー」のような高収益ライブコマースモデルを構築するため、どのようなタレント選定、配信コンテンツ、コミュニティ設計、配信時間戦略を検討すべきか？",
-        "summary": "CellestのTikTok Shopチャンネルが初月売上1億円超、早朝配信とライバーの価値観発信が鍵。",
-        "axis": "両方"
+        "fact": "GROVE株式会社関連のクリエイター事務所３２１がTikTok LIVEを基盤に次世代アイドルプロジェクトを始動し、初期メンバー5名を募集している。",
+        "intent": "競合であるGROVE関連会社は、TikTok LIVEを新たなアイドル発掘・育成の場と捉え、Z世代・若年層へのリーチ力とエンゲージメントの高さを活かし、既存のアイドル像にとらわれない新しい形のIP創出を狙っていると考えられる。これは、従来のオーディション形式ではリーチしきれない層へのアプローチや、デビュー前からファンコミュニティを形成する戦略的意図がある。",
+        "impact": "VAZの2026年注力領域である「アイドルグループ」と直接的に競合する動きであり、TikTok LIVEを活用したメンバー募集は、VAZの強みであるZ世代・若年層へのリーチ力とTikTokショップへの注力と完全に重なる。競合がTikTok上でアイドルIPを育成するモデルを確立した場合、VAZが予定しているアイドルプロジェクトの差別化やタレント獲得競争に影響が出る可能性がある。特に\"広告っぽくない\"コンテンツ制作力を持つVAZにとって、TikTok LIVEでのファン獲得とIP化は重要な視点となる。",
+        "agenda": "競合がTikTok LIVEを軸にアイドル育成を進める中で、VAZのアイドルプロジェクトはTikTokをどのように活用し、差別化されたタレント獲得・育成戦略を構築すべきか？",
+        "summary": "クリエイター事務所３２１がTikTok LIVEでアイドル募集を開始",
+        "axis": "タレント軸"
       }
     ],
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 12551,
-        "count": 850
+        "totalScore": 12644.5,
+        "count": 856
       },
       {
         "company": "アソビシステム",
-        "totalScore": 8679.5,
-        "count": 521
+        "totalScore": 8725.25,
+        "count": 524
       },
       {
         "company": "トレンダーズ",
-        "totalScore": 2322.2200000000003,
-        "count": 161
+        "totalScore": 2350.9700000000003,
+        "count": 163
       },
       {
         "company": "株式会社ナハト",
-        "totalScore": 1952.6399999999999,
-        "count": 130
+        "totalScore": 1974.1399999999999,
+        "count": 132
       },
       {
         "company": "脅威の兆候",
@@ -122246,13 +123315,13 @@
       },
       {
         "company": "GROVE株式会社",
-        "totalScore": 1322.8899999999999,
-        "count": 86
+        "totalScore": 1344.6399999999999,
+        "count": 87
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 1196.42,
-        "count": 94
+        "totalScore": 1221.42,
+        "count": 96
       },
       {
         "company": "TORIHADA",
@@ -122261,56 +123330,56 @@
       },
       {
         "company": "株式会社Natee",
-        "totalScore": 998.5799999999999,
-        "count": 62
+        "totalScore": 1014.8299999999999,
+        "count": 63
       }
     ],
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 896
+        "count": 905
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 853
+        "count": 855
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 808
+        "count": 811
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 720
+        "count": 725
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 504
+        "count": 507
       },
       {
         "tag": "#広告主動向",
-        "count": 438
+        "count": 446
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 381
+        "count": 384
       },
       {
         "tag": "#ECコマース",
-        "count": 365
+        "count": 369
       },
       {
         "tag": "#プランニング・企画",
-        "count": 289
+        "count": 295
       },
       {
         "tag": "#タイアップ案件",
-        "count": 216
+        "count": 218
       }
     ],
     "axisCounts": {
-      "タレント軸": 806,
-      "マーケティング軸": 572,
-      "両方": 704,
+      "タレント軸": 811,
+      "マーケティング軸": 581,
+      "両方": 707,
       "業界全般": 31
     },
     "tagMaster": {
