@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-10-29T00:31:25.342Z",
-    "generatedAtJst": "2026-10-29 09:31:25",
-    "totalNews": 4274,
-    "totalAnalyses": 2201,
+    "generatedAt": "2026-10-30T00:31:25.548Z",
+    "generatedAtJst": "2026-10-30 09:31:25",
+    "totalNews": 4328,
+    "totalAnalyses": 2212,
     "totalCompetitors": 7
   },
   "news": [
@@ -34069,7 +34069,7 @@
       "company": "業界トレンド",
       "title": "CARTA ZERO、美容領域の<b>マーケティング</b>支援組織を新設 - RTB SQUARE",
       "url": "https://rtbsquare.work/archives/62078",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -34077,7 +34077,7 @@
       "company": "業界トレンド",
       "title": "事業計画検討業務委託 杣井木川その21（河川<b>調査</b>）の公募型プロポーザルの実施について - 栃木県",
       "url": "https://www.pref.tochigi.lg.jp/h55/2026jigyoukeikaku.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -34085,7 +34085,7 @@
       "company": "脅威の兆候",
       "title": "日系企業のJYPエンタ<b>買収</b>計画 「不公正取引の疑いあれば調査」＝韓国当局 - WoW!Korea",
       "url": "https://www.wowkorea.jp/news/read/540014.html",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -34117,7 +34117,7 @@
       "company": "脅威の兆候",
       "title": "pubXがAIエージェントによる広告取引プラットフォームを強化、シリーズAで500万ドル<b>調達</b>と ...",
       "url": "https://voix.jp/business-cards/pubx-funds-5-million-acquires-compliant/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -34125,7 +34125,7 @@
       "company": "脅威の兆候",
       "title": "建設DXと<b>資金調達</b>を両面から支援！建設業向けクラウド「バレーナクラウド」のOffice Concierge",
       "url": "https://news.infoseek.co.jp/article/prtimes_000000016_000111361/",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -34157,7 +34157,7 @@
       "company": "脅威の兆候",
       "title": "《ワンオクRyotaと交際宣言》写真集でマシュマロボディを披露、過去には前澤友作と交際…世界 ...",
       "url": "https://bunshun.jp/articles/-/93131?page=1",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -34197,6 +34197,438 @@
       "company": "脅威の兆候",
       "title": "GMOのランサムウエア被害、連覇を狙う陸上部のニューイヤー駅伝出場を危ぶむ声 - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20261027-OIL4VNZD35BCLBX7XHJGNQOUVY/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "アソビシステム",
+      "title": "【開催レポート】小杉怜子、初のオンライン特典会をアソビダスの推し活AXプラットフォーム「win2win」で開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQSTdrN3NLeVJoaXFPck40UGdOUjZhYW5uVFBwUWpmc3I3Rk93R0ItSWlCYUxCTU9yS0VVdExvajJvSjEyUHlocWZocENiN2l2VUpMSFlGeUFDeEQ3SzBDc2xHMXA1aFRBaEE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-25",
+      "company": "アソビシステム",
+      "title": "【CANDY TUNE】結成3周年記念写真集『SUGAR AND HUES』デジタル限定版 発売決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9leWU3ZUgtWm9kX05aajU3ZWhhVzg1SzdUSTFidWU2Zk5FZGgtWGppZkdINm1ZX1ZUV2pob282REtTYksxSGJGNTJtYVpMdEFCU25MMkgwT3E4ZXZBVkh3M1YzRVF4ay10Ymc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "THRUSTER、東京科学大学の内視鏡手術システム開発に協力 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3FJekJEM1dBcXpJZnUxOEZ6dmRRLU9xRHp2WGw0LXgyTk5CSDNxQWo0dUZjcFNOSm5KVFYtWHNTNW5WUE5RR1RIOFBHcDI5aURHcjc3T1NIQWNKVmhfNkZOWEJRUlJ0VGNlZWJrODQtSTN2c3NiM1lLV0NRVTFyQU53?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "Macbee Planet",
+      "title": "生長に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEY1S3Rzd0txMlRRbWVFVVkwbGZTOV9sOXVpWm1wUHJnVTRRVm5oY0tQMlcxajNPUXNvWWVGdld2TGNWampmS0JEZUlUZkR0SnQtVm53NnRRVFRPZFdfRjJGcW8ySkdjbTIxZU5KUWdEbDRlcDlqR1JlZnJCdkJpbS1WeXMwcGFqNWg5aUxZVkwxMjg?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "アソビシステム",
+      "title": "テレ東HD、米企業に3億円超出資 自社アニメをグローバル展開へ グローバルライセンス<b>事業</b>の ...",
+      "url": "https://www.oricon.co.jp/news/2489336/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "アソビシステム",
+      "title": "CANDY TUNE、メンバーソロ曲収録のデジタルEP『CANDY TUNE SOLO BOX』<b>リリース</b>",
+      "url": "https://prtimes.jp/main/html/rd/p/000000938.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "トレンダーズ",
+      "title": "【韓国事業 プロジェクトディレクター】<b>トレンダーズ</b>株式会社の正社員(東京都渋谷区東、求人 ...",
+      "url": "https://www.massmedian.co.jp/actor_company/view/89241/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "AppsFlyer Japan、アイヴィアの2社が、11月10日開催の「ThinkingAI Summit 2026",
+      "url": "https://news.nicovideo.jp/watch/nw19926011",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "YouTube動画編集者/経験者歓歓迎/プライム上場<b>Macbee Planet</b>グループ/Webサイト運営 ...",
+      "url": "https://jp.indeed.com/viewjob?jk=929e62076e4dfb10",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "<b>Macbee Planet</b>、日本事業を拡大するグローバル企業向けの専門チームを新設 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000203_000023647/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "日本乳房インプラント<b>市場</b>：乳房増大術および美容整形施術への需要の高まりにより、新たな ...",
+      "url": "https://newscast.jp/smart/news/1708032",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "<b>インフルエンサー</b>なし・企画なしのSNS戦略：AI時代におさえたい“UGCが自然に溜まる仕組み”を ...",
+      "url": "https://www.excite.co.jp/news/article/Hounichi_202611_trialjapan_1/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "愛車はもっと手軽に売れないの？ メルカリが中古車<b>市場</b>に新提携！ 「高く売りたいのに電話が ...",
+      "url": "https://merkmal-biz.jp/photo/124867",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "〈土井CEOが語る「NELL」の現在地〉 商品力とマーケに強み、リカバリーウェアも開発",
+      "url": "https://www.tsuhanshimbun.com/products/detail/8606",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "参加者が『SNSへの認識が激変した』と絶賛の嵐！AI時代を勝ち抜く次世代プロモーション戦略 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19931603?news_ref=20_20",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "Wick、バングラデシュ首相立ち会いのもと合弁会社設立 漫画アプリから社会課題解決型事業へ ...",
+      "url": "https://news.yahoo.co.jp/expert/articles/f85bcb3a6aa7e8549062ef33a443a905b5af273c",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "シン・ウォンホ、本日（28日）新曲「Day＆Night」をリリース…ときめきを誘うラブソング",
+      "url": "https://news.nicovideo.jp/watch/nw19930618?news_ref=watch_20_nw17926041",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "Kobe Calling 2026第2弾ラインナップ！トップレベルの研究機関・大学、グローバル企業 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000010_000163593/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "[フリービット 3843.T] 2026年４月期 決算短信〔<b>日本</b>基準〕（連結） - BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261028557635",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "[フリービット 3843.T] （訂正・数値データ訂正）2026年４月期 第３四半期決算短信〔<b>日本</b>基準 ...",
+      "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261028557607",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "中川翼さんと山岡樹さんが熱演！夢を絶たれた幼なじみの“再出発”を描く、シチズン受験生応援 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000996.000014685.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "中川翼＆山岡樹が夢と挫折に向き合う幼なじみ役に！ <b>ショートドラマ</b>「ふたつの道」本日配信 ...",
+      "url": "https://fan.books.rakuten.co.jp/articles/tcjy5rmlfo7ay3tz1p9c3pwe",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "施琦琦 (Shi Qi-Qi) | 中国縦型<b>ショートドラマ</b>限定！俳優&amp;女優図鑑",
+      "url": "https://ameblo.jp/ich-lovecnshortdrama/entry-12982969812.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "<b>ショートドラマ</b>「いま手もとに、確かな情報源はありますか。」（全3話）公開 | PR EDGE",
+      "url": "https://predge.jp/pr/363682/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "韓国発人気<b>ショートドラマ</b>「MilkFilm」をPrime Video・FODなど国内10のVODサービスへ配信拡大",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000084_000028813/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "「×」はどこ！？ネットの不快<b>広告</b>、なぜなくならない | TBSラジオ",
+      "url": "https://www.tbsradio.jp/articles/113562/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "「GMV Maxとは？」<b>TikTok</b> Shop<b>広告</b>の仕組みを解説する記事を公開 売上TOP20動画のうち17本 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000195.000033706.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "「5年で約1.5倍成長」と予測されるDOOH市場。リアル空間の<b>広告</b>需要が高まる理由を現場視点で ...",
+      "url": "https://markezine.jp/article/detail/77891",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>、「APAC Responsible Media Forum 2026」にて、新たにブランドセーフティーセンターを ...",
+      "url": "https://www.jiji.com/jc/article?k=000001359.000030435&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "SNS、ECが1つに!? <b>TikTok</b> Shopがもたらす“購買体験”の変化とは？CREOK代表 ... - 千葉テレビ",
+      "url": "https://www.chiba-tv.com/plus/detail/2026102171072",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "韓国のWiseITech、<b>YouTube</b>向けAI分析サービス「Tumeet」を開始…ハハのチャンネルで“逆走 ...",
+      "url": "https://finance.biggo.jp/news/f5d3edf3-face-4d66-a11a-aa9e437cd50b",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "独自のワードセンスで魅了するトーク<b>クリエイター</b>！『あぞ』を紹介！ チャンネルウォッチ 10/28号",
+      "url": "https://news.nicovideo.jp/watch/nw19929477",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "“未成年者”がネットで権利侵害、<b>VTuber事務所</b>が人物特定 親権者に「損害賠償金」支払いなど ...",
+      "url": "https://woman.excite.co.jp/article/lifestyle/sum_OriconStyle_2489448/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "“未成年者”がネットで権利侵害、<b>VTuber事務所</b>が人物特定 親権者に「損害賠償金」支払いなど ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2489448?page=1",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "草彅剛、“ITで願いをかなえる”魔人・吉村界人に誇らしげ 真剣なAIエンジニア姿に関心も - 山陽新聞",
+      "url": "https://www.sanyonews.jp/article/2011855",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "Aぇ! group・佐野晶哉、北村匠海に「愛してます。大好きです」 実際は4個差も体感は ... - 山陽新聞",
+      "url": "https://www.sanyonews.jp/article/2012236?rct=oricon_geino&kw=2024",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "満足度100％、AI時代のSNS集客戦略を解説！株式会社EMOLVA 榊󠄀原清一「SNSを<b>活用</b>した ...",
+      "url": "https://dtimes.jp/post-1438156/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "【NISA利用実態<b>調査</b>】旧NISA？新NISA？いつから始めた？どの金融機関にした？その決め手は？",
+      "url": "https://news.nicovideo.jp/watch/nw19931627?news_ref=watch_60_nw19142680",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "「ディープにしたの俺です」堀江貴文氏、女性<b>インフルエンサー</b>と “濃厚キス” の経緯説明も…恋人 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/smartflash/entertainment/smartflash-435966?page=2",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "「会社員のお姉さん」<b>インフルエンサー</b>「そそられるでしょ」透け感ニット姿「パイスラなんだ…」",
+      "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-261029-202610290000057?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "業界トレンド",
+      "title": "藻場再生へデータ<b>活用</b> 脱炭素めざす 那智勝浦町、産学と協定締結 - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/asahi_region/nation/asahi_region-ASVBW3K7WVBWPXLB008M",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "韓国未来アセット、日本の証券会社<b>買収</b>へ（中央日報日本語版） - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/japanesejoins/world/japanesejoins-356903",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "脅威の兆候",
+      "title": "インドネシア国債入札、応札半減で目標未達 投資家心理映す - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/reuters/world/reuters-20261028053",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "くにうみAI証券、 海外大手ヘッジ・ファンドの新規<b>資金調達</b>に対応した 特殊ファンドの私募 ...",
+      "url": "https://www.atpress.ne.jp/news/644563",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "Bizライター<b>事務所</b>、内閣府後援「寄付月間2026」の賛同パートナーに承認 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000011_000161956/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "Omnichat、Openspace Capital主導のもとシリーズAラウンドで1000万米ドルを<b>調達</b>し、AI ...",
+      "url": "https://www.minyu-net.com/release/prwire/detail/202610288853",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "「Smacho」 ベリーベストグループが債権分野の法人向けオンライン調停サービスをプレオープン",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000190234/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "上田綺世の妻、出産に夫が「奇跡的に」立ち会い 得意な育児は「フィジカル生かした長時間抱っこ」",
+      "url": "https://news.yahoo.co.jp/articles/26d18d1cd317329dc4483c0830654ac3bdb6b8af",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "上田綺世の妻、出産に夫が「奇跡的に」立ち会い 得意な育児は「フィジカル生かした長時間抱っこ」",
+      "url": "https://news.livedoor.com/article/detail/32675360/?from_page=internal",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "上田綺世のモデル妻・由布菜月「ぬくもりを残している場面」夫の育児に「すごく器用」動画も披露",
+      "url": "https://news.livedoor.com/article/detail/32674278/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "上田綺世の妻、出産に夫が「奇跡的に」立ち会い 得意な育児は「フィジカル生かした長時間抱っこ」",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/dailysports/entertainment/20261028054",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "「暗い雰囲気になっていた」サッカー日本代表・上田綺世、妻の立ち会い出産直後の切ない心境 ...",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10284261/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "「注文住宅会社Ｎｏ．１」は<b>景表法</b>違反、「飯田グループ」４社に計４・４億円の課徴金納付命令 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/nation/20261028-567-GYT1T00303",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "「ディープにしたの俺です」堀江貴文氏、女性<b>インフルエンサー</b>と “濃厚キス” の経緯説明も…恋人 ...",
+      "url": "https://news.yahoo.co.jp/articles/bdf3e61c049f8bb778965beabde6bde52ea184d5",
       "status": "未処理"
     }
   ],
@@ -86339,6 +86771,346 @@
         "benchmark": 4
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "アソビシステム",
+      "title": "【開催レポート】小杉怜子、初のオンライン特典会をアソビダスの推し活AXプラットフォーム「win2win」で開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQSTdrN3NLeVJoaXFPck40UGdOUjZhYW5uVFBwUWpmc3I3Rk93R0ItSWlCYUxCTU9yS0VVdExvajJvSjEyUHlocWZocENiN2l2VUpMSFlGeUFDeEQ3SzBDc2xHMXA1aFRBaEE?oc=5",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "THRUSTER、東京科学大学の内視鏡手術システム開発に協力 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3FJekJEM1dBcXpJZnUxOEZ6dmRRLU9xRHp2WGw0LXgyTk5CSDNxQWo0dUZjcFNOSm5KVFYtWHNTNW5WUE5RR1RIOFBHcDI5aURHcjc3T1NIQWNKVmhfNkZOWEJRUlJ0VGNlZWJrODQtSTN2c3NiM1lLV0NRVTFyQU53?oc=5",
+      "totalScore": 6.5,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "トレンダーズ",
+      "title": "【韓国事業 プロジェクトディレクター】<b>トレンダーズ</b>株式会社の正社員(東京都渋谷区東、求人 ...",
+      "url": "https://www.massmedian.co.jp/actor_company/view/89241/",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "AppsFlyer Japan、アイヴィアの2社が、11月10日開催の「ThinkingAI Summit 2026",
+      "url": "https://news.nicovideo.jp/watch/nw19926011",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "<b>Macbee Planet</b>、日本事業を拡大するグローバル企業向けの専門チームを新設 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000203_000023647/",
+      "totalScore": 8.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "アソビシステム",
+      "title": "テレ東HD、米企業に3億円超出資 自社アニメをグローバル展開へ グローバルライセンス<b>事業</b>の ...",
+      "url": "https://www.oricon.co.jp/news/2489336/",
+      "totalScore": 15.25,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "アソビシステム",
+      "title": "CANDY TUNE、メンバーソロ曲収録のデジタルEP『CANDY TUNE SOLO BOX』<b>リリース</b>",
+      "url": "https://prtimes.jp/main/html/rd/p/000000938.000017258.html",
+      "totalScore": 17.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-25",
+      "company": "アソビシステム",
+      "title": "【CANDY TUNE】結成3周年記念写真集『SUGAR AND HUES』デジタル限定版 発売決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9leWU3ZUgtWm9kX05aajU3ZWhhVzg1SzdUSTFidWU2Zk5FZGgtWGppZkdINm1ZX1ZUV2pob282REtTYksxSGJGNTJtYVpMdEFCU25MMkgwT3E4ZXZBVkh3M1YzRVF4ay10Ymc?oc=5",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-23",
+      "company": "Macbee Planet",
+      "title": "生長に関するプレスリリース・ニュースリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEY1S3Rzd0txMlRRbWVFVVkwbGZTOV9sOXVpWm1wUHJnVTRRVm5oY0tQMlcxajNPUXNvWWVGdld2TGNWampmS0JEZUlUZkR0SnQtVm53NnRRVFRPZFdfRjJGcW8ySkdjbTIxZU5KUWdEbDRlcDlqR1JlZnJCdkJpbS1WeXMwcGFqNWg5aUxZVkwxMjg?oc=5",
+      "totalScore": 9,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "CARTA ZERO、美容領域の<b>マーケティング</b>支援組織を新設 - RTB SQUARE",
+      "url": "https://rtbsquare.work/archives/62078",
+      "totalScore": 15.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "事業計画検討業務委託 杣井木川その21（河川<b>調査</b>）の公募型プロポーザルの実施について - 栃木県",
+      "url": "https://www.pref.tochigi.lg.jp/h55/2026jigyoukeikaku.html",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "日系企業のJYPエンタ<b>買収</b>計画 「不公正取引の疑いあれば調査」＝韓国当局 - WoW!Korea",
+      "url": "https://www.wowkorea.jp/news/read/540014.html",
+      "totalScore": 18.25,
+      "breakdown": {
+        "finance": 5,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "pubXがAIエージェントによる広告取引プラットフォームを強化、シリーズAで500万ドル<b>調達</b>と ...",
+      "url": "https://voix.jp/business-cards/pubx-funds-5-million-acquires-compliant/",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 4,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "《ワンオクRyotaと交際宣言》写真集でマシュマロボディを披露、過去には前澤友作と交際…世界 ...",
+      "url": "https://bunshun.jp/articles/-/93131?page=1",
+      "totalScore": 6,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "GMOのランサムウエア被害、連覇を狙う陸上部のニューイヤー駅伝出場を危ぶむ声 - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261027-OIL4VNZD35BCLBX7XHJGNQOUVY/",
+      "totalScore": 8.75,
+      "breakdown": {
+        "finance": 5,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 4
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "Kobe Calling 2026第2弾ラインナップ！トップレベルの研究機関・大学、グローバル企業 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000010_000163593/",
+      "totalScore": 6.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "[フリービット 3843.T] 2026年４月期 決算短信〔<b>日本</b>基準〕（連結） - BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261028557635",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "[フリービット 3843.T] （訂正・数値データ訂正）2026年４月期 第３四半期決算短信〔<b>日本</b>基準 ...",
+      "url": "https://finance.biggo.jp/news/jpx_tdnet_140120261028557607",
+      "totalScore": 5.75,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "韓国のWiseITech、<b>YouTube</b>向けAI分析サービス「Tumeet」を開始…ハハのチャンネルで“逆走 ...",
+      "url": "https://finance.biggo.jp/news/f5d3edf3-face-4d66-a11a-aa9e437cd50b",
+      "totalScore": 11.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "“未成年者”がネットで権利侵害、<b>VTuber事務所</b>が人物特定 親権者に「損害賠償金」支払いなど ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2489448?page=1",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -127856,6 +128628,212 @@
       "agenda": "インフルエンサーなしのUGC生成戦略が広告業界で主流になった場合、VAZの既存ビジネスモデルへの影響はどれほどか、また「美容UGC生成」注力領域においてAIと自社インフルエンサーをどう融合させ新たな価値を創出するか？",
       "summary": "インフルエンサーに頼らないAI時代のUGC生成戦略セミナー",
       "axis": "マーケティング軸"
+    },
+    {
+      "id": 2201,
+      "date": "2026-10-28",
+      "company": "アソビシステム",
+      "title": "【開催レポート】小杉怜子、初のオンライン特典会をアソビダスの推し活AXプラットフォーム「win2win」で開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQSTdrN3NLeVJoaXFPck40UGdOUjZhYW5uVFBwUWpmc3I3Rk93R0ItSWlCYUxCTU9yS0VVdExvajJvSjEyUHlocWZocENiN2l2VUpMSFlGeUFDeEQ3SzBDc2xHMXA1aFRBaEE?oc=5",
+      "totalScore": 15.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステム所属の小杉怜子が、自社開発の推し活AXプラットフォーム「win2win」を利用して初のオンライン特典会を開催した。",
+      "intent": "オンライン特典会はコロナ禍以降のファンとの接点維持・拡大、遠隔地ファンへのリーチ強化、そして新たな収益源確保が目的である。アソビシステムは自社プラットフォームでファンデータを蓄積し、囲い込みとIP価値向上を図る意図がある。",
+      "impact": "アソビシステムの動向は、VAZが注力する「アイドルグループ」のファンビジネスや「所属タレントのグッズ（IP）」展開において、オンラインでのファンエンゲージメント強化と新規マネタイズの可能性を示唆する。自社プラットフォームによるデータ活用も注目点。",
+      "agenda": "自社のアイドルプロジェクトにおいて、どのような形でオンライン特典会やファンコミュニティ形成を推進し、新たな収益源とファンエンゲージメントを最大化すべきか？",
+      "summary": "アソビシステム、オンライン特典会で推し活DXを推進",
+      "axis": "両方"
+    },
+    {
+      "id": 2202,
+      "date": "2026-10-28",
+      "company": "トレンダーズ",
+      "title": "【韓国事業 プロジェクトディレクター】<b>トレンダーズ</b>株式会社の正社員(東京都渋谷区東、求人 ...",
+      "url": "https://www.massmedian.co.jp/actor_company/view/89241/",
+      "totalScore": 15.5,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#広告主動向",
+        "#プランニング・企画"
+      ],
+      "fact": "トレンダーズが日本の美容ブランドを対象とした韓国マーケティング案件のプロジェクトディレクターを募集している。",
+      "intent": "競合トレンダーズは、日本の美容ブランドの韓国市場への高い関心と、インフルエンサーマーケティングの国際的な有効性を捉え、専門人材を確保し海外展開支援を通じて新たな収益源を確立する意図がある。",
+      "impact": "競合の韓国進出は、VAZの強みである美容・コスメ領域や注力する美容UGC生成において、海外市場へのアプローチ機会を失うリスクを示唆する。また、韓国でのインフルエンサーネットワーク構築は、VAZの「インフルエンサーネットワーク」強化と競合し、将来的な国内市場への影響も懸念される。",
+      "agenda": "VAZの強みである美容・コスメ領域において、競合が韓国市場へ展開する中、当社は国内の美容UGC生成に注力し続けるか、それとも海外市場進出の可能性を具体的に検討すべきか？",
+      "summary": "トレンダーズが美容ブランドの韓国マーケティングを強化",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2203,
+      "date": "2026-10-28",
+      "company": "Macbee Planet",
+      "title": "AppsFlyer Japan、アイヴィアの2社が、11月10日開催の「ThinkingAI Summit 2026",
+      "url": "https://news.nicovideo.jp/watch/nw19926011",
+      "totalScore": 13,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#プランニング・企画",
+        "#プラットフォーム動向"
+      ],
+      "fact": "Macbee PlanetがAppsFlyer Japan、アイヴィアと共に2026年開催のThinkingAI Summitに関与している。",
+      "intent": "競合Macbee Planetはデジタルマーケティングの高度化と新規事業創出のため、AI技術の早期導入と活用機会を探っていると推測される。これはインフルエンサーマーケティング業界が抱える効果測定やコンテンツ制作効率化の課題をAIで解決し、競争優位性を確立しようとする動きと捉えられる。",
+      "impact": "競合のAIへの関与は、VAZのマーケティング軸におけるサービス高度化と新規マネタイズ機会創出の必要性を高める。特にVAZが注力するTikTokショップや美容UGC生成、インフルエンサーネットワークの効率化・最適化においてAI活用は不可避となり、競合との差が生まれる可能性があるため、自社も積極的にAI技術の導入検討を進める必要がある。",
+      "agenda": "競合がAI活用を進める中で、VAZのマーケティング軸及び注力領域において、どのようなAI技術を優先的に導入し、新規事業や効率化に繋げるべきか？",
+      "summary": "競合がAIサミットに関与、技術活用を推進",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2204,
+      "date": "2026-10-29",
+      "company": "アソビシステム",
+      "title": "テレ東HD、米企業に3億円超出資 自社アニメをグローバル展開へ グローバルライセンス<b>事業</b>の ...",
+      "url": "https://www.oricon.co.jp/news/2489336/",
+      "totalScore": 15.25,
+      "tags": [
+        "#自社IP・グッズ",
+        "#新規マネタイズ事業",
+        "#資金調達・M&A"
+      ],
+      "fact": "テレ東HDが米企業Nakama, Inc.に3億円超を出資し、アニメIPのグローバルライセンス事業を強化すると発表した。",
+      "intent": "大手メディア企業がアニメIPの国際的な人気を背景に、専門企業との連携やプラットフォーム構築を通じてグローバル市場での収益機会最大化を図る業界トレンドを反映している。競合アソビシステムもこの流れに乗じ、IPを活用した事業領域の拡大とグローバル展開を推進する意図が推察される。",
+      "impact": "本ニュースは、競合アソビシステムがIPを活用した事業のグローバル展開を強化していることを示唆する。VAZが2026年注力領域とする「所属タレントのグッズ（IP）」や「アイドルグループ」といったIPビジネスにおいて、競合が海外市場での新たなマネタイズ手法を構築しようとしている点で、将来的な競争激化の可能性を秘めている。特に、IPの海外展開におけるパートナーシップ戦略やプラットフォーム活用は、VAZが自社IPの価値最大化とグローバル展開を検討する上で重要な先行事例となり得る。",
+      "agenda": "VAZが注力する「所属タレントのグッズ（IP）」や「アイドルグループ」について、競合アソビシステムのようなグローバル展開モデルをどのように応用し、海外市場での競争優位性を確立すべきか？",
+      "summary": "競合アソビシステム関連、アニメIPグローバル展開へ3億超出資",
+      "axis": "両方"
+    },
+    {
+      "id": 2205,
+      "date": "2026-10-29",
+      "company": "アソビシステム",
+      "title": "CANDY TUNE、メンバーソロ曲収録のデジタルEP『CANDY TUNE SOLO BOX』<b>リリース</b>",
+      "url": "https://prtimes.jp/main/html/rd/p/000000938.000017258.html",
+      "totalScore": 17.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "アソビシステム所属のアイドルグループ「CANDY TUNE」が、メンバーそれぞれのソロ楽曲を収録したデジタルEP『CANDY TUNE SOLO BOX』をリリースした。",
+      "intent": "アソビシステムは音楽・ファッション分野でのIPプロデュースに強みを持つ。今回のデジタルEPリリースは、グループ活動に加えてメンバー個々の魅力を深掘りし、個別IPを確立・強化することでファン層の拡大と多様なマネタイズ機会（例：グッズ、イベント、タイアップなど）を創出する意図があると考えられる。アイドル市場の競争が激化する中で、メンバーの個性を前面に出すことで差別化を図り、より深いファンエンゲージメントを築く戦略の一環とみられる。",
+      "impact": "VAZが「アイドルグループ」と「所属タレントのグッズ（IP）」を2026年の注力領域に掲げる中で、本ニュースは競合によるIP開発とファンビジネス戦略の具体事例となる。メンバー個々のIPを強化し、ソロ活動に繋げることで、グループ全体のファン層拡大と収益源の多角化を目指す動きは、VAZのアイドルプロジェクトにおけるIP戦略の参考になる。特に、メンバーの意向を制作に反映させることで、タレントのエンゲージメントを高め、よりauthenticなコンテンツを生成するアプローチは、VAZの「広告っぽくないSNSコンテンツ制作」という強みとも親和性が高い。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、どのようにメンバー個々のIPを確立し、ソロ活動を含む多角的なファンビジネス戦略を構築すべきか？",
+      "summary": "アソビシステム、アイドルグループCANDY TUNEがソロ曲EPリリース",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2206,
+      "date": "2026-10-25",
+      "company": "アソビシステム",
+      "title": "【CANDY TUNE】結成3周年記念写真集『SUGAR AND HUES』デジタル限定版 発売決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9leWU3ZUgtWm9kX05aajU3ZWhhVzg1SzdUSTFidWU2Zk5FZGgtWGppZkdINm1ZX1ZUV2pob282REtTYksxSGJGNTJtYVpMdEFCU25MMkgwT3E4ZXZBVkh3M1YzRVF4ay10Ymc?oc=5",
+      "totalScore": 16.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ"
+      ],
+      "fact": "アソビシステム所属のアイドルグループCANDY TUNEが結成3周年を記念し、デジタル限定写真集『SUGAR AND HUES』を発売することを決定した。",
+      "intent": "アソビシステムはタレント・アイドル育成に強みを持つ企業であり、所属アイドルグループの周年記念に合わせた写真集発売は、ファンのエンゲージメントを高め、IPを活用した収益源を多角化する定番戦略である。デジタル限定版とすることで、物理的な在庫リスクを低減しつつ、迅速かつ広範囲にコンテンツをファンへ提供する意図があると考えられる。",
+      "impact": "VAZは2026年注力領域に「アイドルグループ」と「所属タレントのグッズ（IP）」を掲げており、本ニュースは競合による具体的なファンビジネス展開として非常に参考になる。アソビシステムが周年記念に合わせてデジタルIPグッズを投入し、ファンとの関係を深め収益化を図るアプローチは、VAZが今後アイドル事業を立ち上げ、IPグッズ展開を検討する上で、初期段階での収益モデルやリスク軽減策を考える上で重要な示唆を与える。",
+      "agenda": "自社のアイドルプロジェクトにおいて、周年記念イベントやデジタルコンテンツを活用したIPグッズ展開を初期段階からどのように計画し、収益とファンエンゲージメントを最大化できるか？",
+      "summary": "アソビシステム所属アイドルがデジタル写真集発売",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2207,
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "CARTA ZERO、美容領域の<b>マーケティング</b>支援組織を新設 - RTB SQUARE",
+      "url": "https://rtbsquare.work/archives/62078",
+      "totalScore": 15.25,
+      "tags": [
+        "#広告主動向",
+        "#プランニング・企画",
+        "#市場規模・調査"
+      ],
+      "fact": "CARTA ZEROが、美容市場の変化に対応するため、化粧品から美容家電、サプリメントまでカテゴリを横断したマーケティング支援を行う専門組織「Beauty Compass室」を新設した。",
+      "intent": "美容市場は化粧品以外の領域伸長や生活者層・価値観の多様化により急速に複雑化しており、ブランド側は一貫した専門的マーケティング支援を求めている。CARTA ZEROは市場変化への対応を強化し、成長機会を捉えるため、より深い顧客インサイトに基づく戦略立案から実行まで提供することで、美容ブランドにおける顧客基盤強化を目指している。",
+      "impact": "本ニュースは、VAZが強みとする「美容・コスメ領域との親和性」および注力領域である「美容UGC生成」と直接関連し、競争環境が激化することを示唆する。CARTA ZEROのような大手広告グループが専門組織を立ち上げることで、美容ブランドはより専門的かつ包括的なマーケティング支援を受けられるようになり、VAZがターゲットとする広告主が、インフルエンサーマーケティングの単体施策だけでなく、戦略全体のなかで活用をより厳しく評価する可能性が高まる。VAZはインフルエンサーネットワークを活用したUGC生成などの実行力に加え、プランニングチームによる市場・生活者インサイト分析能力を一層強化し、単なる施策実行に留まらない「一貫した戦略提案力」を磨く必要性が高まる。",
+      "agenda": "美容領域の専門組織化が加速する市場において、VAZの「プランニングチーム」は美容ブランドの事業課題に対し、インフルエンサーを活用した具体的なソリューション提案力をどのように強化すべきか？",
+      "summary": "CARTA ZEROが美容領域のマーケティング支援専門組織を新設。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2208,
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "日系企業のJYPエンタ<b>買収</b>計画 「不公正取引の疑いあれば調査」＝韓国当局 - WoW!Korea",
+      "url": "https://www.wowkorea.jp/news/read/540014.html",
+      "totalScore": 18.25,
+      "tags": [
+        "#資金調達・M&A",
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ"
+      ],
+      "fact": "日系投資会社2社が韓国大手芸能事務所JYPエンターテインメントの株式公開買い付けを計画し、韓国金融監督院が不公正取引の疑いを注視している。",
+      "intent": "K-POP市場のグローバル成長性とIP価値の高さに日系企業が着目し、買収を通じてそのエンタメIP資産を取り込もうとしている。JYPエンタのような成功モデルは、単なる芸能事務所を超えたコンテンツ企業としての潜在的価値が高いため、投資対象として魅力があると判断されている。",
+      "impact": "VAZの「アイドルグループ」と「所属タレントのグッズ（IP）」という注力領域にとって、K-POP大手企業の買収動向は、グローバル市場におけるIP価値とM&A戦略の重要性を示唆する。大手企業がエンタメIPを戦略的資産と見なし獲得に動く流れは、VAZが自社IPの価値を最大化し、将来的な事業拡大や出口戦略を検討する上で重要な示唆を与える。",
+      "agenda": "VAZの「アイドルグループ」および「所属タレントのグッズ（IP）」事業におけるIP価値最大化戦略をどのように再評価し、エンタメ業界におけるM&A動向を踏まえた資本戦略をどう構築すべきか？",
+      "summary": "日系企業が韓国大手芸能事務所JYPエンタ買収を計画",
+      "axis": "業界全般"
+    },
+    {
+      "id": 2209,
+      "date": "2026-10-28",
+      "company": "脅威の兆候",
+      "title": "pubXがAIエージェントによる広告取引プラットフォームを強化、シリーズAで500万ドル<b>調達</b>と ...",
+      "url": "https://voix.jp/business-cards/pubx-funds-5-million-acquires-compliant/",
+      "totalScore": 11,
+      "tags": [
+        "#資金調達・M&A",
+        "#プラットフォーム動向"
+      ],
+      "fact": "pubXはAIエージェントによる広告取引プラットフォームを強化するため、シリーズAで500万ドルを調達し、メディア品質専門のCompliantを買収した。",
+      "intent": "広告業界は、複雑な媒体選定、価格交渉、効果測定などのプロセスにおいて非効率性が課題。AIエージェントの増加に伴い、これらのエージェント間での効率的な広告取引メカニズムが求められている。pubXは、AIエージェント同士が直接取引できるインフラを構築することで、広告主のROI最大化と媒体社の収益向上を同時に実現し、業界全体の効率化と透明性向上を図る狙いがある。Compliantの買収は、メディア品質という広告効果に直結する要素を強化し、より信頼性の高い取引プラットフォームを確立するための戦略的な動きと推察される。",
+      "impact": "このニュースは、広告業界全体の取引効率化とAI活用が急速に進んでいることを示しており、VAZのビジネスモデルにも間接的な影響を与える可能性がある。特にVAZの注力領域である「TikTokショップ」や「インフルエンサーネットワーク」における広告展開において、AIによる広告最適化技術の導入は、将来的に広告効果の最大化や運用コスト削減の観点から避けて通れないテーマとなるだろう。広告主がAIエージェントを通じて効率的に広告を投下できるようになれば、VAZが提供するタイアップ案件の提案やプランニングにおいても、よりデータに基づいた最適化されたソリューションが求められるようになる。ただし、インフルエンサーの持つ「広告っぽくない」コンテンツ制作力やZ世代へのリーチ力といった強みは、AIによる機械的なターゲティングだけでは代替できない価値として引き続き重要視される。",
+      "agenda": "AIによる広告取引の効率化が進む中、VAZが持つコンテンツ制作力やインフルエンサーネットワークの価値を最大化し、競争優位性を維持するために、どのようなAI戦略を策定すべきか？",
+      "summary": "pubXがAI広告取引PF強化、500万ドル調達と企業買収",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2210,
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "韓国のWiseITech、<b>YouTube</b>向けAI分析サービス「Tumeet」を開始…ハハのチャンネルで“逆走 ...",
+      "url": "https://finance.biggo.jp/news/f5d3edf3-face-4d66-a11a-aa9e437cd50b",
+      "totalScore": 11.75,
+      "tags": [
+        "#コンテンツ制作",
+        "#プラットフォーム動向"
+      ],
+      "fact": "韓国のWiseITechがYouTubeコンテンツのデータ分析を行うAIサービス「Tumeet」を開始した。",
+      "intent": "インフルエンサーマーケティングにおいて、コンテンツの競争激化とデータに基づく戦略策定の重要性が高まっており、属人的な判断だけでなく、AIによる定量的な分析を通じてパフォーマンスを向上させるニーズに応える動きとみられる。",
+      "impact": "このAI分析サービスは、VAZの強みであるコンテンツ制作力をデータドリブンで強化し、自社チャンネル運営の効率化に貢献する。特に、注力領域であるアイドルグループのファンエンゲージメント分析や美容UGC生成の効果測定、タレントIPグッズのプロモーション動画の効果分析など、多岐にわたる応用が考えられる。業界全体では、データ分析に基づくコンテンツ戦略が標準化される動きが加速するだろう。",
+      "agenda": "当社のコンテンツ制作力を最大化するため、YouTubeに限らず主要PF向けAI分析ツールの導入と、その活用体制の構築を早急に検討すべきではないか？",
+      "summary": "YouTube向けAI分析サービス「Tumeet」がリリース",
+      "axis": "両方"
+    },
+    {
+      "id": 2211,
+      "date": "2026-10-28",
+      "company": "業界トレンド",
+      "title": "“未成年者”がネットで権利侵害、<b>VTuber事務所</b>が人物特定 親権者に「損害賠償金」支払いなど ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/oricon/entertainment/oricon-2489448?page=1",
+      "totalScore": 11.5,
+      "tags": [
+        "#炎上・リスク",
+        "#自社IP・グッズ",
+        "#規制・法令"
+      ],
+      "fact": "VTuber事務所のカバー社が、所属タレントのプライバシー権を侵害した未成年者を特定し、示談にて損害賠償金の支払いと謝罪文提出の合意に至った。",
+      "intent": "インターネット上でのタレントへの権利侵害や誹謗中傷は深刻な問題であり、特に未成年者が加害者の場合は対応が複雑化する。カバー社が法的措置を経て加害者特定と示談に至ったのは、タレント保護の姿勢を明確にし、同様の行為に対する抑止効果を高める狙いがある。タレントの心身の健康とブランド価値維持は、IPを軸としたビジネスの生命線であり、この種の対応は業界全体のボトルネックとなっている法務・リスクマネジメント体制の強化を促す。",
+      "impact": "本ニュースは、VAZを含むタレントマネジメント業界全体に、タレント保護とリスク管理の重要性を再認識させる。VAZはZ世代・若年層へのリーチ力が強みであり、「アイドルグループ」の育成や「所属タレントのグッズ（IP）」展開を注力領域としているため、タレントのブランド毀損は事業成長に直結する。未成年者による権利侵害への具体的な対応事例として、法務部門とマネジメント部門で共有し、タレントの安全を守る体制強化はタレントのエンゲージメント向上に繋がり、「インフルエンサーネットワーク」の質向上にも寄与する。",
+      "agenda": "VAZ所属タレントへの同様の権利侵害リスクに対し、未成年者を含む加害者の特定と法的措置に関する現在の法務体制と対応基準は十分か、また抑止力強化のためにどのような施策を検討すべきか？",
+      "summary": "VTuber事務所、未成年者の権利侵害を特定し示談",
+      "axis": "タレント軸"
     }
   ],
   "competitors": [
@@ -127890,8 +128868,8 @@
   ],
   "home": {
     "monthLabel": "2026年10月",
-    "thisMonthNewsCount": 1290,
-    "thisMonthAnalysisCount": 347,
+    "thisMonthNewsCount": 1344,
+    "thisMonthAnalysisCount": 358,
     "highlights": [
       {
         "id": 0,
@@ -127954,28 +128932,28 @@
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 13153.5,
-        "count": 891
+        "totalScore": 13192,
+        "count": 894
       },
       {
         "company": "アソビシステム",
-        "totalScore": 8846.75,
-        "count": 532
+        "totalScore": 8911,
+        "count": 536
       },
       {
         "company": "トレンダーズ",
-        "totalScore": 2431.4700000000003,
-        "count": 169
+        "totalScore": 2446.9700000000003,
+        "count": 170
+      },
+      {
+        "company": "脅威の兆候",
+        "totalScore": 2031.25,
+        "count": 148
       },
       {
         "company": "株式会社ナハト",
         "totalScore": 2005.3899999999999,
         "count": 134
-      },
-      {
-        "company": "脅威の兆候",
-        "totalScore": 2002,
-        "count": 146
       },
       {
         "company": "GROVE株式会社",
@@ -127984,8 +128962,8 @@
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 1243.92,
-        "count": 98
+        "totalScore": 1256.92,
+        "count": 99
       },
       {
         "company": "TORIHADA",
@@ -128001,27 +128979,27 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 935
+        "count": 939
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 884
+        "count": 886
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 835
+        "count": 841
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 747
+        "count": 751
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 521
+        "count": 524
       },
       {
         "tag": "#広告主動向",
-        "count": 462
+        "count": 464
       },
       {
         "tag": "#タレント発掘・育成",
@@ -128033,7 +129011,7 @@
       },
       {
         "tag": "#プランニング・企画",
-        "count": 310
+        "count": 313
       },
       {
         "tag": "#タイアップ案件",
@@ -128041,10 +129019,10 @@
       }
     ],
     "axisCounts": {
-      "タレント軸": 837,
-      "マーケティング軸": 598,
-      "両方": 733,
-      "業界全般": 32
+      "タレント軸": 840,
+      "マーケティング軸": 602,
+      "両方": 736,
+      "業界全般": 33
     },
     "tagMaster": {
       "タレント軸": [
