@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-11-03T00:31:25.527Z",
-    "generatedAtJst": "2026-11-03 09:31:25",
-    "totalNews": 4513,
-    "totalAnalyses": 2252,
+    "generatedAt": "2026-11-04T00:31:26.732Z",
+    "generatedAtJst": "2026-11-04 09:31:26",
+    "totalNews": 4560,
+    "totalAnalyses": 2267,
     "totalCompetitors": 7
   },
   "news": [
@@ -36109,6 +36109,382 @@
       "company": "脅威の兆候",
       "title": "望月衣塑子・内田樹両氏の共著が回収へ 事実誤認騒動の顛末（写真・画像 1/1） - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20261101-ZLOQITYXF5AKBNGVLJOF7HMTM4/photo/TBI7BKAS25M5HBEF7B622N3IG4/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "GROVE株式会社",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2NYRjd5ODllN1plRzVPZk5lVW9MR2ZGZ3A4SWhlQVdQdnFoWG9NUk9xbjdPdFpvdjRrSXV1a0RGdU1lZFdhdFhQRHpzM2tHQVN5TkVVOFVTN1N6ZGRJTHdyalFWQ2Y0NGFxUFZ1QlIwM3FnV0xXZ21JR1FOVlRybnR3?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "株式会社Natee",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1plVW1xQ19pZnZKYjNzMF9XTFlYYklqeEZ1OVQ5cXA4U0FQWHQ4RDZDclBQS0hlN1pJc1l6c0dKbG41SVRFQUpaY20xVXZtYm15SzM1ZU9saWtfY2xvTHJZUFIyYVpkbkNXcEdzbHhEcndjRXZ6cHVFWFZ2d1lNMmxn?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "アソビシステム",
+      "title": "Canna Lily、2ndワンマン<b>ライブ</b>『枯れ歌の情景』で<b>新曲</b>「限界を抜け出して」など3曲を初披露 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000943.000017258.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>、米国拠点「<b>ASOBISYSTEM</b> USA」<b>設立</b> 日本発エンタメの北米展開支援も推進",
+      "url": "https://www.sanyonews.jp/article/1968874?kw=2025",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "Macbee Planet",
+      "title": "株式会社MAVEL／【渋谷】マーケティングコンサルタント※幹部候補  業界経験を活かせる ... - doda",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016215709/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-01",
+      "company": "Macbee Planet",
+      "title": "フィードフォースと<b>Macbee Planet</b>の比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C1000000hXiBA/compa/a0C1000000sj0Fa/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "令和の若者は<b>インフルエンサー</b>をどう見ている？ 4人に3人が「芸能人よりも影響を受けている」",
+      "url": "https://topics.smt.docomo.ne.jp/article/maidonanews/trend/maidonanews-16975050",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【JK Fandom】ファンの応援が受賞審査に反映！韓国初のバーチャル専門アワード「第1回 Virtual ...",
+      "url": "https://news.nicovideo.jp/watch/nw19949998?news_ref=watch_20_nw18815757",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "Ykone、日本のエージェンシー「Lateam」を買収し、アジアでの存在感を一段と高める",
+      "url": "https://jp.fashionnetwork.com/news/Ykone-%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC-lateam-%E3%82%92%E8%B2%B7%E5%8F%8E%E3%81%97-%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%A7%E3%81%AE%E5%AD%98%E5%9C%A8%E6%84%9F%E3%82%92%E4%B8%80%E6%AE%B5%E3%81%A8%E9%AB%98%E3%82%81%E3%82%8B,1881034.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "表示灯、韓国・ソウル営業所に新所長が就任 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19949553?news_ref=20_20",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【エンターファンズ】VAZと合弁事務所「VAZFAN」を設立！ライブ配信者（ライバー）の芸能界 ...",
+      "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1222463.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "アクションカメラ市場―2026年～2032年の世界市場予測 - Newscast.jp",
+      "url": "https://newscast.jp/smart/news/2298205",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "Netflix、アニメプロデューサー育成プログラム「<b>クリエイター</b>ズ道場」を開催。トリガー大塚雅彦 ...",
+      "url": "https://branc.jp/article/2026/11/02/3253.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "業界トレンド",
+      "title": "Colorful Palette、アニメ制作子会社「LATENT ONE」を設立。第1弾は『プロセカ』6周年ソング ...",
+      "url": "https://branc.jp/article/2026/11/02/3251.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【<b>ショートドラマ</b>アプリ「BUMP」】2026年10月新作14作品を配信開始！大ヒットシリーズ ...",
+      "url": "https://news.livedoor.com/pr_topics/detail/32720720/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "日テレ公式<b>ショートドラマ</b>『毎日はにかむ僕たちは。』SNS累計再生数30億回突破！",
+      "url": "https://entamerush.jp/723190/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "日本直販プレゼンツ <b>ショートドラマ</b>企画コンテスト 【ショートリスト第一弾発表】～秋の国際短編 ...",
+      "url": "https://www.shortshorts.org/2026autumn/news-reports/nihonchokuhan/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>ショートドラマ</b>アプリBUMPが2026年10月に新作14本を配信開始 - Dellows News",
+      "url": "https://news.dellows.jp/1008368/?from=top_category_area",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "ダウトコール〜あなた、浮気されてますよ〜第４話 - TVer",
+      "url": "https://tver.jp/episodes/ep87rxgr0n",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>、「<b>TikTok</b> Spotlight」で映画『ゴジラ-0.0』とのグローバルキャンペーンを10の国と地域で ...",
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20261102/1393751.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "HADOが面談着座率を分析 検索経由62.6％に対しMeta<b>広告</b>40.5 - Dellows News",
+      "url": "https://news.dellows.jp/1007209/?from=top_category_area",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b> Spotlight」で映画『ゴジラ-0.0』とのグローバルキャンペーンを10の国と地域で開催。国内 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000001362_000030435/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "業界トレンド",
+      "title": "エンターファンズとVAZが合弁事務所「VAZFAN」を設立 ライブ配信者（クリエイター）の芸能界 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19949237?news_ref=watch_20_nw19941526",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "業界トレンド",
+      "title": "中国のロジクールが<b>広告</b>で再び「消費者を犬に例えて侮辱」と物議",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/recordchina/business/recordchina-RC_996916",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "農場を“プログラミング”で自動化するゲーム『農家は Replace() されました』初の大型DLCが本日 ...",
+      "url": "https://news.denfaminicogamer.jp/news/2611032s",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "レベルファイブ・日野晃博氏が「CEDEC+KYUSHU 2026」の基調講演に登壇",
+      "url": "https://news.denfaminicogamer.jp/news/2611022r",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "株式会社Natee、秋田市と「地域活性化起業人」の協定を締結 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19949948?news_ref=watch_20_nw19584847",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【エンタメ業界】<b>クリエイター</b>として知っておきたい！テレビ番組に関する重要判例第2弾!! 11/16 ...",
+      "url": "https://chofu.keizai.biz/release/676773/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "チャンネルを持つ音楽会社の79%が世界中の新しい視聴者へのリーチに役立っていると回答",
+      "url": "https://www.musicman.co.jp/business/749609",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "業界トレンド",
+      "title": "<b>VTuber</b>・結城さくな、バニーやナース姿など「職業体験」をテーマにした“くじ”が発売決定ー ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/insidegames/trend/insidegames-190252",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "業界トレンド",
+      "title": "ブランドの成長戦略を描く｜アカウントプランナー - 株式会社iHackのWebマーケティングの採用",
+      "url": "https://www.wantedly.com/projects/2617814",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "資料・ウェビナー・展示会を増やしても、商談が増えない？「BtoB認知広告入門ガイド」2026年版 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000092.000186443.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "スタジオグラムが中小企業を支援する新たな広報支援サービス「社外（じゃない）広報課」とAI ...",
+      "url": "https://voix.jp/business-cards/new-public-relations-service-2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "脅威の兆候",
+      "title": "【エンターファンズ】VAZと合弁<b>事務所</b>「VAZFAN」を設立！ライブ配信者（クリエイター）の ...",
+      "url": "https://www.dreamnews.jp/press/0000367066",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "脅威の兆候",
+      "title": "アンソロ、日本で５千億円<b>調達</b> - 中国新聞デジタル",
+      "url": "https://www.chugoku-np.co.jp/articles/-/918797",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "＜2次募集＞第3回「大分発！ソーシャル・スタートアップ基金」2次募集開始のお知らせ（2026/11 ...",
+      "url": "https://www.oita-press.co.jp/pr/prtimes/detail?id=c74198_r233",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "【エンターファンズ】VAZと合弁<b>事務所</b>「VAZFAN」を設立！ライブ配信者（クリエイター）の ...",
+      "url": "https://www.excite.co.jp/news/article/Dreamnews_0000367066/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "VAZとエンターファンズが合弁<b>事務所</b>「VAZFAN」を設立 ライブ配信者（クリエイター）の芸能界 ...",
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-02-15757-450/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "ＥＲＴＨがＳ高カイ気配、新株予約権で<b>資金調達</b>しバリュー投資事業開始へ - ライブドアニュース",
+      "url": "https://news.livedoor.com/topics/detail/32711623/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "脅威の兆候",
+      "title": "推しのイラストが食べられる-パティスリー品質のVTuberオリジナルクッキー缶「推カン クッキー ...",
+      "url": "https://www.chiba-tv.com/plus/detail/amp/2026112187038",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "父と娘，2人で世界旅行。地理探索SLG「パパさ、旅系<b>インフルエンサー</b>で食っていこうと思って ...",
+      "url": "https://www.4gamer.net/games/054/G105476/20261102003/index_2.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "くるり・岸田繁が結婚発表 お相手はホルン奏者 - Infoseek",
+      "url": "https://news.infoseek.co.jp/amp/article/hochi_20261102-OHT1T51162/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "【MLB】注目の佐藤輝明はメッツの補強候補ランキング2位！？ 2日から交渉解禁へ 実質3週間 ...",
+      "url": "https://www.sanspo.com/article/20261102-OWJXQYTT5JOINAQPPHQF363LEY/?outputType=amp",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "MLB 注目の佐藤輝明はメッツの補強候補ランキング2位！？ 2日から交渉解禁へ 実質3週間ほど ...",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/sanspo/sports/sanspo-_sports_baseball_mlb_OWJXQYTT5JOINAQPPHQF363LEY",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "脅威の兆候",
+      "title": "東急株式会社が株式会社フラッグに資本参加 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000003202.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "脅威の兆候",
+      "title": "高級マンションを自慢していたのに…“偽ブランド品”で<b>炎上</b>した韓国ユーチューバー - RBB TODAY",
+      "url": "https://www.rbbtoday.com/article/2026/11/02/255319.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "脅威の兆候",
+      "title": "EMOLVA、マウナ・ケアとSNSマーケティングや採用強化に向け顧問<b>契約</b>を締結 - Dellows News",
+      "url": "https://news.dellows.jp/995257/?from=top_category_area",
       "status": "未処理"
     }
   ],
@@ -89934,6 +90310,346 @@
         "benchmark": 2
       },
       "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "アソビシステム",
+      "title": "Canna Lily、2ndワンマン<b>ライブ</b>『枯れ歌の情景』で<b>新曲</b>「限界を抜け出して」など3曲を初披露 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000943.000017258.html",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-10-29",
+      "company": "GROVE株式会社",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2NYRjd5ODllN1plRzVPZk5lVW9MR2ZGZ3A4SWhlQVdQdnFoWG9NUk9xbjdPdFpvdjRrSXV1a0RGdU1lZFdhdFhQRHpzM2tHQVN5TkVVOFVTN1N6ZGRJTHdyalFWQ2Y0NGFxUFZ1QlIwM3FnV0xXZ21JR1FOVlRybnR3?oc=5",
+      "totalScore": 9,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-01",
+      "company": "Macbee Planet",
+      "title": "フィードフォースと<b>Macbee Planet</b>の比較 「社員クチコミ」 OpenWork",
+      "url": "https://www.openwork.jp/a0C1000000hXiBA/compa/a0C1000000sj0Fa/",
+      "totalScore": 7,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "株式会社Natee",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1plVW1xQ19pZnZKYjNzMF9XTFlYYklqeEZ1OVQ5cXA4U0FQWHQ4RDZDclBQS0hlN1pJc1l6c0dKbG41SVRFQUpaY20xVXZtYm15SzM1ZU9saWtfY2xvTHJZUFIyYVpkbkNXcEdzbHhEcndjRXZ6cHVFWFZ2d1lNMmxn?oc=5",
+      "totalScore": 14.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>、米国拠点「<b>ASOBISYSTEM</b> USA」<b>設立</b> 日本発エンタメの北米展開支援も推進",
+      "url": "https://www.sanyonews.jp/article/1968874?kw=2025",
+      "totalScore": 18.75,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-02",
+      "company": "Macbee Planet",
+      "title": "株式会社MAVEL／【渋谷】マーケティングコンサルタント※幹部候補  業界経験を活かせる ... - doda",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016215709/",
+      "totalScore": 14.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【JK Fandom】ファンの応援が受賞審査に反映！韓国初のバーチャル専門アワード「第1回 Virtual ...",
+      "url": "https://news.nicovideo.jp/watch/nw19949998?news_ref=watch_20_nw18815757",
+      "totalScore": 16.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 2,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "Ykone、日本のエージェンシー「Lateam」を買収し、アジアでの存在感を一段と高める",
+      "url": "https://jp.fashionnetwork.com/news/Ykone-%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC-lateam-%E3%82%92%E8%B2%B7%E5%8F%8E%E3%81%97-%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%A7%E3%81%AE%E5%AD%98%E5%9C%A8%E6%84%9F%E3%82%92%E4%B8%80%E6%AE%B5%E3%81%A8%E9%AB%98%E3%82%81%E3%82%8B,1881034.html",
+      "totalScore": 14.25,
+      "breakdown": {
+        "finance": 4,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "表示灯、韓国・ソウル営業所に新所長が就任 - ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19949553?news_ref=20_20",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【エンターファンズ】VAZと合弁事務所「VAZFAN」を設立！ライブ配信者（ライバー）の芸能界 ...",
+      "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1222463.html",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 5,
+        "directRivalry": 1,
+        "coreBusiness": 5,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "アクションカメラ市場―2026年～2032年の世界市場予測 - Newscast.jp",
+      "url": "https://newscast.jp/smart/news/2298205",
+      "totalScore": 6.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "Netflix、アニメプロデューサー育成プログラム「<b>クリエイター</b>ズ道場」を開催。トリガー大塚雅彦 ...",
+      "url": "https://branc.jp/article/2026/11/02/3253.html",
+      "totalScore": 10.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 3,
+        "directRivalry": 2,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【<b>ショートドラマ</b>アプリ「BUMP」】2026年10月新作14作品を配信開始！大ヒットシリーズ ...",
+      "url": "https://news.livedoor.com/pr_topics/detail/32720720/",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 2,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "日テレ公式<b>ショートドラマ</b>『毎日はにかむ僕たちは。』SNS累計再生数30億回突破！",
+      "url": "https://entamerush.jp/723190/",
+      "totalScore": 15,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "日本直販プレゼンツ <b>ショートドラマ</b>企画コンテスト 【ショートリスト第一弾発表】～秋の国際短編 ...",
+      "url": "https://www.shortshorts.org/2026autumn/news-reports/nihonchokuhan/",
+      "totalScore": 15.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>ショートドラマ</b>アプリBUMPが2026年10月に新作14本を配信開始 - Dellows News",
+      "url": "https://news.dellows.jp/1008368/?from=top_category_area",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "ダウトコール〜あなた、浮気されてますよ〜第４話 - TVer",
+      "url": "https://tver.jp/episodes/ep87rxgr0n",
+      "totalScore": 10.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>、「<b>TikTok</b> Spotlight」で映画『ゴジラ-0.0』とのグローバルキャンペーンを10の国と地域で ...",
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20261102/1393751.html",
+      "totalScore": 14.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "HADOが面談着座率を分析 検索経由62.6％に対しMeta<b>広告</b>40.5 - Dellows News",
+      "url": "https://news.dellows.jp/1007209/?from=top_category_area",
+      "totalScore": 8.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b> Spotlight」で映画『ゴジラ-0.0』とのグローバルキャンペーンを10の国と地域で開催。国内 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000001362_000030435/",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 3,
+        "platform": 5,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -132409,6 +133125,290 @@
       "agenda": "VAZが注力するアイドルプロジェクトにおいて、タレントが武道館クラスの大型ライブを実現できる長期的なキャリアプランと、そのためのタレント支援体制をどう構築すべきか？",
       "summary": "MINMIが大手音楽事務所クラウドナインへ移籍し新章開始",
       "axis": "タレント軸"
+    },
+    {
+      "id": 2252,
+      "date": "2026-11-03",
+      "company": "アソビシステム",
+      "title": "Canna Lily、2ndワンマン<b>ライブ</b>『枯れ歌の情景』で<b>新曲</b>「限界を抜け出して」など3曲を初披露 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000943.000017258.html",
+      "totalScore": 16.25,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#コンテンツ制作",
+        "#タレント発掘・育成"
+      ],
+      "fact": "アソビシステム所属のガールズバンドCanna Lilyが2ndワンマンライブで新曲3曲を初披露し、来年2月に3rdワンマン開催が決定した。",
+      "intent": "アソビシステムは、ゲームIPと連携した共同オーディションでガールズバンドを立ち上げ、ライブ活動を通じてファンベースを構築・拡大している。これは、音楽市場におけるIPの多様化と、ゲームやアニメといった他メディアとの融合によるファン獲得戦略、および異業種（DONUTS）との提携によるリソース強化の一環と見られる。",
+      "impact": "VAZが2026年注力領域とする「アイドルグループ」や「所属タレントのグッズ（IP）」戦略において、アソビシステムのこの取り組みは直接的な競合であり、同時にベンチマークとなり得る。ゲームIPとの連携によるアイドルグループ立ち上げは、既存のファンベースを活用した効率的なIP展開モデルとして参考になる。VAZの強みであるコンテンツ制作力やZ世代へのリーチ力を活かし、単なるライブ活動に留まらない、SNSやデジタルプラットフォームでの展開を組み合わせたIP育成・マネタイズ戦略を検討する必要がある。",
+      "agenda": "VAZは、自社の「アイドルプロジェクト」において、他社IP連携によるグループ創出やライブ以外のファンエンゲージメント戦略をどう構築し、早期のIP成長とマネタイズを実現すべきか？",
+      "summary": "アソビシステム、ゲーム発ガールズバンドのライブ活動強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2253,
+      "date": "2026-11-02",
+      "company": "株式会社Natee",
+      "title": "プレスリリース一覧｜プレスリリース・ニュースリリース配信のPR TIMES - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1plVW1xQ19pZnZKYjNzMF9XTFlYYklqeEZ1OVQ5cXA4U0FQWHQ4RDZDclBQS0hlN1pJc1l6c0dKbG41SVRFQUpaY20xVXZtYm15SzM1ZU9saWtfY2xvTHJZUFIyYVpkbkNXcEdzbHhEcndjRXZ6cHVFWFZ2d1lNMmxn?oc=5",
+      "totalScore": 14.75,
+      "tags": [
+        "#プラットフォーム動向",
+        "#新規マネタイズ事業",
+        "#タイアップ案件"
+      ],
+      "fact": "株式会社Nateeが、PR TIMES上で企業の活動や実績に関する複数のプレスリリースを公開している。",
+      "intent": "競合であるNateeが自社の事業戦略や実績、新規サービスなどを積極的に外部に発信することで、市場での存在感を高め新たなビジネス機会創出や優秀な人材獲得を目指していると推測される。",
+      "impact": "Nateeが定期的にプレスリリースを公開している事実は、VAZにとって競合の事業動向を継続的に監視すべきサインであり、特にTikTokに強みを持つNateeの活動は、VAZが注力する「TikTokショップ」や「インフルエンサーネットワーク」の領域に影響を与えうる。",
+      "agenda": "Nateeが直近公開したプレスリリースの内容を具体的に精査し、VAZの「TikTokショップ」戦略や「インフルエンサーネットワーク」強化にどのような競合優位性構築や学びがあるか議論すべきではないか？",
+      "summary": "Nateeが企業活動に関するプレスリリースを複数公開。",
+      "axis": "両方"
+    },
+    {
+      "id": 2254,
+      "date": "2026-11-02",
+      "company": "アソビシステム",
+      "title": "<b>アソビシステム</b>、米国拠点「<b>ASOBISYSTEM</b> USA」<b>設立</b> 日本発エンタメの北米展開支援も推進",
+      "url": "https://www.sanyonews.jp/article/1968874?kw=2025",
+      "totalScore": 18.75,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステムは、日本のカルチャーおよびエンターテインメントの北米展開強化のため、米国拠点「ASOBISYSTEM USA」を設立した。",
+      "intent": "近年、日本発コンテンツの海外需要が高まる中、アソビシステムはこれまで培ってきた海外展開の知見を活かし、北米市場に直接拠点を設けることで、現地のネットワーク構築と事業展開を加速させる意図がある。これは、日本のインフルエンサーやIPの海外展開における言語・文化の壁、現地のネットワーク不足というボトルネックを解消し、新たな成長機会を掴むための戦略と推察される。",
+      "impact": "VAZにとってアソビシステムの北米展開は、競合が海外市場で先行者利益を確保しようとしていることを示唆する。特にVAZの「アイドルグループ」や「所属タレントのグッズ（IP）」といった2026年注力領域は、アソビシステムが北米で展開する日本のエンタメコンテンツと直接競合し、将来的なIP獲得競争や流通チャネル確保競争の激化が予想される。一方で、日本発エンタメ市場が北米で拡大する流れは、VAZの海外展開可能性を高める側面もある。",
+      "agenda": "アソビシステムの北米展開に対し、VAZの「アイドルグループ」や「所属タレントのグッズ（IP）」の海外展開戦略をどう位置づけ、具体的にどの市場をターゲットにいつまでに展開すべきか？",
+      "summary": "アソビシステム、米国拠点設立で日本エンタメ北米展開を加速",
+      "axis": "両方"
+    },
+    {
+      "id": 2255,
+      "date": "2026-11-02",
+      "company": "Macbee Planet",
+      "title": "株式会社MAVEL／【渋谷】マーケティングコンサルタント※幹部候補  業界経験を活かせる ... - doda",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016215709/",
+      "totalScore": 14.25,
+      "tags": [
+        "#タイアップ案件",
+        "#新規マネタイズ事業",
+        "#プランニング・企画"
+      ],
+      "fact": "競合Macbee Planet傘下のMAVELが、インフルエンサーマーケティング領域で幹部候補のマーケティングコンサルタント職を求人している。",
+      "intent": "インフルエンサーマーケティング市場の拡大と、顧客企業のLTV最大化ニーズに応えるため、競合MAVELは事業戦略を牽引する幹部級マーケティング人材を獲得し、案件提案力と実行体制を強化する意図がある。",
+      "impact": "この競合の動きは、VAZのマーケティング軸（アカウントDiv）におけるクライアント獲得競争を激化させる。特に、VAZが注力する「インフルエンサーネットワーク」や「TikTokショップ」、「美容UGC生成」といった領域において、競合がより高度なコンサルティング能力で広告主ニーズに応えようとしているため、VAZの提案力強化が急務となる。",
+      "agenda": "競合MAVELの幹部級人材確保の動きに対し、VAZのアカウントDivは注力領域における提案力をどのように差別化し、クライアント獲得競争で優位に立つべきか？",
+      "summary": "競合MAVELがマーケティング幹部候補募集",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2256,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【JK Fandom】ファンの応援が受賞審査に反映！韓国初のバーチャル専門アワード「第1回 Virtual ...",
+      "url": "https://news.nicovideo.jp/watch/nw19949998?news_ref=watch_20_nw18815757",
+      "totalScore": 16.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "韓国で、ファンの応援が受賞審査に反映される初のバーチャル専門アワード「第1回 Virtual ...」が開催された。",
+      "intent": "韓国エンタメ業界は、ファンコミュニティとIP活用の先進国として、バーチャル領域と既存のファン文化を融合させ、新たなタレントエコシステムと収益源を確立しようとしている。これは、Z世代を中心としたデジタルネイティブ層の消費行動が、コンテンツ体験から「推し活」へとシフトしていることを背景に、ファンエンゲージメントを最大化する戦略の一環であり、バーチャル技術の進化が新たなタレント創出を可能にしている。",
+      "impact": "このニュースは、VAZの2026年注力領域である「アイドルグループ」や「所属タレントのグッズ（IP）」、および「Z世代・若年層へのリーチ力」という強みに直接関連する。「ファンの応援が受賞審査に反映」される仕組みは、VAZのアイドルプロジェクトにおいて、いかにファンを巻き込み、エンゲージメントを高めるかという点で非常に示唆的だ。バーチャル領域の台頭は、VAZが既存タレントのIP展開を広げる可能性を示唆し、バーチャルタレントの育成や既存タレントのバーチャル展開といった新規事業のヒントにもなり得る。",
+      "agenda": "VAZのアイドルプロジェクトにおいて、ファンの応援を収益や評価に直結させる具体的な仕組みをどのように構築し、バーチャル領域のファンビジネスから何を学ぶべきか？",
+      "summary": "韓国でファン応援が審査に反映されるバーチャルアワード開催。",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2257,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "Ykone、日本のエージェンシー「Lateam」を買収し、アジアでの存在感を一段と高める",
+      "url": "https://jp.fashionnetwork.com/news/Ykone-%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC-lateam-%E3%82%92%E8%B2%B7%E5%8F%8E%E3%81%97-%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%A7%E3%81%AE%E5%AD%98%E5%9C%A8%E6%84%9F%E3%82%92%E4%B8%80%E6%AE%B5%E3%81%A8%E9%AB%98%E3%82%81%E3%82%8B,1881034.html",
+      "totalScore": 14.25,
+      "tags": [
+        "#資金調達・M&A",
+        "#インフルエンサーネットワーク",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "フランスのインフルエンサーマーケティング企業Ykoneが日本のエージェンシーLateamを買収し、アジア市場での事業展開を強化する。",
+      "intent": "グローバルインフルエンサーマーケティング市場の成長に伴い、海外企業が成長余地のあるアジア市場、特に日本への本格参入を狙う動きが活発化している。YkoneはLateamが持つ日本市場の知見やインフルエンサーネットワーク、顧客基盤を獲得することで、アジア戦略の加速と新たな収益源の確立を目指していると考えられる。これは海外資本による日本市場の再編と競争激化の兆候と言える。",
+      "impact": "この買収は、VAZを含む国内インフルエンサーマーケティングエージェンシーにとって、海外資本という新たな競合の出現と市場環境の変化を意味する。VAZが注力する「インフルエンサーネットワーク」の強化においては、海外インフルエンサーとの連携や海外市場での展開も視野に入れる必要が生じる。また、VAZの強みであるZ世代・若年層へのリーチ力や美容・コスメ領域の親和性を持つ国内エージェンシーが海外資本に買収される可能性も考慮し、独自性のさらなる強化が求められる。特に「アイドルグループ」や「タレントIPグッズ」といったIP関連の注力領域は、日本のコンテンツが海外で人気を集める中で、海外からの投資や買収の対象となるリスクも注視すべきである。",
+      "agenda": "海外資本による日本市場への参入が加速する中で、VAZは自社の独自性を強化し、M&Aやアライアンス戦略をどう構築すべきか？",
+      "summary": "Ykoneが日本のLateamを買収しアジア展開を強化",
+      "axis": "業界全般"
+    },
+    {
+      "id": 2258,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【エンターファンズ】VAZと合弁事務所「VAZFAN」を設立！ライブ配信者（ライバー）の芸能界 ...",
+      "url": "https://www.the-miyanichi.co.jp/pressrelease/dreamnews/1222463.html",
+      "totalScore": 17,
+      "tags": [
+        "#タレント発掘・育成",
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "VAZと株式会社エンターファンズは共同で、ライブ配信者の芸能活動を支援する合弁事務所「VAZFAN」を2026年11月2日に設立した。",
+      "intent": "ライブ配信市場の拡大と、そこから芸能界進出を目指すライバーのニーズに応えるべく、VAZのインフルエンサーマネジメントノウハウとエンターファンズの芸能・ライブ配信事業知見を融合させる狙いがある。VAZとしては、インフルエンサーの活動領域を広げ、新たなIP創出と「アイドルグループ」を含む注力領域の強化を図る戦略的動きである。",
+      "impact": "本合弁事業はVAZのタレント軸事業を大きく強化し、特に2026年注力領域である「所属タレントのグッズ（IP）」や「アイドルグループ」の創出・育成に直結する。ライバーを芸能界へ進出させることで、より多様なIP展開が可能となり、「インフルエンサーネットワーク」の拡張にも寄与する。既存所属タレントの活動領域拡大とファンエンゲージメント深化、新たな収益源の開拓に繋がる。",
+      "agenda": "ライブ配信市場の急速な変化に対応するため、既存のインフルエンサーマネジメントをどのようにライバー育成・芸能活動支援へ融合させ、短期的な収益と長期的なIP価値向上を両立させるか？",
+      "summary": "VAZがエンターファンズと合弁しライバー芸能活動支援事務所「VAZFAN」を設立",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2259,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "Netflix、アニメプロデューサー育成プログラム「<b>クリエイター</b>ズ道場」を開催。トリガー大塚雅彦 ...",
+      "url": "https://branc.jp/article/2026/11/02/3253.html",
+      "totalScore": 10.5,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#プラットフォーム動向"
+      ],
+      "fact": "Netflixは、2026年11月21日に次世代アニメプロデューサー向けの育成プログラム「Netflix クリエイターズ道場～アニメ～」を初の試みとして開催する。",
+      "intent": "Netflixの意図は、自社プラットフォームでのコンテンツ競争力強化と、アニメ分野における独占的コンテンツ確保にある。日本のアニメ市場の世界的注目度を背景に、質の高いプロデューサーを育成することで、Netflixが求めるクオリティと量の作品を安定的に供給できる体制を構築し、持続的な成長を実現するための人材投資とエコシステム構築の一環と見られる。",
+      "impact": "Netflixのような巨大プラットフォームがクリエイター育成に乗り出すことは、業界全体のコンテンツ制作レベルの底上げに寄与し、将来的には多様で質の高いIPが生まれる土壌を作る。VAZにとっては、直接的にアニメプロデューサー育成を行うわけではないものの、「コンテンツ制作力」を強みとし、「タレントIPグッズ」や「アイドルグループ」などIP創出を注力領域とする観点から、クリエイター育成の重要性を再認識する必要がある。特にTikTokショップや美容UGC生成といった注力領域においても、質の高いコンテンツを生み出すクリエイターの存在は不可欠であり、VAZ独自の育成プログラムやコミュニティ形成の可能性を探るべきだろう。",
+      "agenda": "自社の強みであるコンテンツ制作力を維持・強化するため、VAZが独自にインフルエンサーやクリエイターの育成プログラムを構築すべきか？",
+      "summary": "Netflixがアニメプロデューサー育成でクリエイターを強化",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2260,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "【<b>ショートドラマ</b>アプリ「BUMP」】2026年10月新作14作品を配信開始！大ヒットシリーズ ...",
+      "url": "https://news.livedoor.com/pr_topics/detail/32720720/",
+      "totalScore": 17,
+      "tags": [
+        "#コンテンツ制作",
+        "#新規マネタイズ事業",
+        "#アイドル・ファンビジネス"
+      ],
+      "fact": "ショートドラマアプリ「BUMP」が2026年10月に新作14本を配信し、累計500万DL、公式SNS総再生数70億回を達成した。",
+      "intent": "emoleは、TikTokなどのショート動画プラットフォームで育った若年層の可処分時間を奪うため、スマートフォンに最適化された短尺ドラマを提供し、既存のTVドラマとは異なる没入感ある視聴体験でユーザーエンゲージメントを獲得している。SNSでの拡散を前提としたコンテンツ設計と、手軽に楽しめるエンターテインメントへの需要の高まりが急成長の背景にある。",
+      "impact": "VAZにとってショートドラマアプリ「BUMP」の成功は、若年層向けコンテンツの新たなマネタイズチャネルやタレント・IP育成の場として重要だ。VAZの「所属インフルエンサーを起点としたコンテンツ制作力」と「Z世代・若年層へのリーチ力」を活かし、ショートドラマ制作に参入することで、「タレントIPグッズ」や「アイドルグループ」のプロモーション強化、新たなファン層獲得に繋がり、「TikTokショップ」と連携した新しい広告モデルも検討できる。",
+      "agenda": "VAZは、Z世代向けショートドラマコンテンツへの本格参入を検討し、既存タレントの新たな活躍の場や、2026年注力領域である「TikTokショップ」「タレントIPグッズ」「アイドルグループ」との連携をどのように図るべきか？",
+      "summary": "ショートドラマアプリ「BUMP」新作配信、累計500万DL達成",
+      "axis": "両方"
+    },
+    {
+      "id": 2261,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "日テレ公式<b>ショートドラマ</b>『毎日はにかむ僕たちは。』SNS累計再生数30億回突破！",
+      "url": "https://entamerush.jp/723190/",
+      "totalScore": 15,
+      "tags": [
+        "#コンテンツ制作",
+        "#プラットフォーム動向",
+        "#広告主動向"
+      ],
+      "fact": "日本テレビのスマホ特化型組織「VIRAL POCKET」が制作するショートドラマ『毎日はにかむ僕たちは。』が、TikTok・YouTube・Instagramの合算でSNS累計再生数30億回を広告費ゼロで達成し、Z世代の3人に1人が認知している。",
+      "intent": "大手メディアである日本テレビが「スマホ特化型コンテンツ専門組織」を設立した背景には、Z世代のテレビ離れとSNSにおけるショート動画コンテンツの爆発的な需要がある。彼らは各SNSプラットフォームの特性を徹底的に研究し、Z世代が共感・拡散しやすい「広告っぽくない」オーガニックコンテンツ制作に注力したと推測され、これにより広告費をかけずに巨大なリーチとエンゲージメントを獲得することに成功した。",
+      "impact": "このニュースは、VAZの核となる強み（所属インフルエンサー起点コンテンツ、Z世代リーチ、\"広告っぽくない\"SNSコンテンツ制作）と、2026年注力領域（アイドルグループ、TikTokショップ、美容UGC生成など）に直接的な示唆を与える。「広告費ゼロ」での30億再生達成は、VAZのコンテンツ制作力をさらに高め、オーガニックでの拡散戦略を強化する重要性を示唆する。大手メディアがSNSコンテンツ制作に本腰を入れ成功していることは、VAZの主要事業であるインフルエンサーマーケティングおよびコンテンツ制作市場における競合環境が激化することを示す。",
+      "agenda": "日テレの「VIRAL POCKET」の成功事例から、VAZが「広告費ゼロ」でZ世代に響くショートドラマ型コンテンツを量産し、所属タレントのIP価値向上と新規マネタイズに繋げるための具体的な戦略をどう構築すべきか？",
+      "summary": "日テレのショートドラマが広告費ゼロでSNS30億再生突破。",
+      "axis": "両方"
+    },
+    {
+      "id": 2262,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "日本直販プレゼンツ <b>ショートドラマ</b>企画コンテスト 【ショートリスト第一弾発表】～秋の国際短編 ...",
+      "url": "https://www.shortshorts.org/2026autumn/news-reports/nihonchokuhan/",
+      "totalScore": 15.25,
+      "tags": [
+        "#コンテンツ制作",
+        "#タイアップ案件",
+        "#プラットフォーム動向"
+      ],
+      "fact": "日本直販が主催するショートドラマ企画コンテストのショートリストが発表された。",
+      "intent": "企業が従来の広告ではないコンテンツを通じた訴求力を求め、特にZ世代・若年層が慣れ親しむ短尺動画形式「ショートドラマ」を新たなマーケティング手法として活用しようとしている。これはコンテンツクリエイターの活躍の場拡大と広告主側のコンテンツ重視の姿勢を示唆する。",
+      "impact": "VAZの強みである「所属インフルエンサーを起点としたコンテンツ制作力」や「\"広告っぽくない\"SNSコンテンツ制作」はショートドラマと非常に親和性が高い。2026年注力領域の「TikTokショップ」や「インフルエンサーネットワーク」とのシナジーも期待でき、タレントの活躍機会拡大や新規タイアップ案件、新規マネタイズ事業の創出に繋がり、VAZのコンテンツビジネスとマーケティング活動の両方に良い影響を与える。",
+      "agenda": "VAZはショートドラマ市場にどのように参入し、既存の強みと注力領域を活かして、新たな広告主獲得やタレントの活躍機会創出を図るべきか？",
+      "summary": "日本直販、ショートドラマ企画で短尺動画の可能性を提示",
+      "axis": "両方"
+    },
+    {
+      "id": 2263,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>ショートドラマ</b>アプリBUMPが2026年10月に新作14本を配信開始 - Dellows News",
+      "url": "https://news.dellows.jp/1008368/?from=top_category_area",
+      "totalScore": 13,
+      "tags": [
+        "#コンテンツ制作",
+        "#プラットフォーム動向",
+        "#自社IP・グッズ"
+      ],
+      "fact": "ショートドラマアプリBUMPは2026年10月に恋愛、復讐、SFなど多様なジャンルの新作ショートドラマ14本を配信開始し、AI技術を活用した作品も含まれる。",
+      "intent": "Z世代を中心にショート動画コンテンツの消費が拡大する中、BUMPは専門アプリとして多種多様な新作を投入することでユーザーエンゲージメントを強化し、プラットフォームの競争力向上を図っている。AI技術の活用は、制作効率化とコンテンツの多様性確保を目的とした業界のボトルネック解決への試みと考えられる。",
+      "impact": "VAZの「所属インフルエンサーを起点としたコンテンツ制作力」と「Z世代・若年層へのリーチ力」はショートドラマと非常に親和性が高い。2026年注力領域である「TikTokショップ」や「タレントIPグッズ」の事業において、ショートドラマは新たなIP創出と派生コンテンツ・グッズ展開に繋がる可能性があり、VAZがコンテンツ戦略を強化する機会を示唆している。AI活用による効率的なコンテンツ制作手法も参考になる。",
+      "agenda": "VAZのクリエイターやアイドルグループを活用したショートドラマ制作と、それをTikTokショップやIPグッズ展開に繋げるマネタイズ戦略をどう構築すべきか？",
+      "summary": "ショートドラマアプリBUMPが新作14本を配信開始",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2264,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "ダウトコール〜あなた、浮気されてますよ〜第４話 - TVer",
+      "url": "https://tver.jp/episodes/ep87rxgr0n",
+      "totalScore": 10.25,
+      "tags": [
+        "#コンテンツ制作",
+        "#自社チャンネル運営"
+      ],
+      "fact": "『ダウトコール〜あなた、浮気されてますよ〜』というコンテンツの第4話がTVerで配信されている。",
+      "intent": "恋愛リアリティ形式のコンテンツは、SNSでの話題化やファンコミュニティ形成に繋がりやすく、特にZ世代のエンゲージメント獲得に有効なため、テレビ局もTVerでの配信を通じて若年層の視聴者を取り込もうとしていると考えられる。",
+      "impact": "TVerでの恋愛系コンテンツの配信は、Z世代・若年層の注目を集める有効な手段であり、VAZが注力するアイドルグループの育成や、所属タレントのIP開発において、こうしたコンテンツ形式を取り入れることで、ファンエンゲージメントを高め、話題性を創出できる可能性を示唆している。",
+      "agenda": "TVerで成功している恋愛系コンテンツのフォーマットを、VAZのアイドルプロジェクトや自社チャンネルでどう活かし、ファン獲得とIP展開に繋げるか？",
+      "summary": "TVerでの恋愛系コンテンツ配信動向",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2265,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>、「<b>TikTok</b> Spotlight」で映画『ゴジラ-0.0』とのグローバルキャンペーンを10の国と地域で ...",
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20261102/1393751.html",
+      "totalScore": 14.25,
+      "tags": [
+        "#プラットフォーム動向",
+        "#自社IP・グッズ",
+        "#コンテンツ制作"
+      ],
+      "fact": "TikTokはプロモーション機能「TikTok Spotlight」を用い、映画『ゴジラ-0.0』と10の国と地域でグローバルキャンペーンを展開した。",
+      "intent": "TikTokはエンターテイメントプラットフォームとしての存在感を高めるため、映画やアニメといった強力なIPとの連携を通じてユーザーエンゲージメントを深め、プラットフォームの利用促進を図っている。特に日本のIPは世界的に人気が高く、これをフックにグローバルでのユーザーコミュニティ形成と集客を図ることで、広告主への価値提供とプラットフォームの優位性確立を目指していると考察できる。",
+      "impact": "本ニュースは、VAZが注力する「TikTokショップ」におけるプラットフォーム活用戦略、および「所属タレントのグッズ（IP）」のグローバル展開戦略に直接的な示唆を与える。強力なIPを起点としたグローバルキャンペーンは、VAZのIP戦略、特に「アイドルグループ」の海外展開を見据える上で、TikTokの機能を最大限に活用したユーザーエンゲージメント施策として参考になる。また、\"広告っぽくない\"コンテンツ制作というVAZの強みとも合致する「Search Easter Egg」のような仕掛けは、UGC生成を促す上で重要な視点となる。",
+      "agenda": "自社所属タレントのIPをグローバル展開する際、TikTok Spotlightのようなプラットフォーム機能を活用し、ユーザー参加型のキャンペーンをどのように設計し、具体的なKPIを追うべきか？",
+      "summary": "TikTok、ゴジラとグローバルキャンペーンでIP活用推進",
+      "axis": "両方"
+    },
+    {
+      "id": 2266,
+      "date": "2026-11-03",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b> Spotlight」で映画『ゴジラ-0.0』とのグローバルキャンペーンを10の国と地域で開催。国内 ...",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000001362_000030435/",
+      "totalScore": 17,
+      "tags": [
+        "#プラットフォーム動向",
+        "#タイアップ案件",
+        "#自社IP・グッズ"
+      ],
+      "fact": "TikTokは、映画『ゴジラ-0.0』と連携し、グローバルキャンペーン「TikTok Spotlight」を10の国と地域で展開した。",
+      "intent": "TikTokは、世界的に認知度の高い大型IPとの協業を通じてプラットフォームの多様な活用法を提示し、特に若年層へのリーチ力とコンテンツ制作におけるポテンシャルをアピールすることで、ブランド広告主やエンターテイメント業界からの広告投資を誘引したい狙いがある。これにより、VAZの強みであるZ世代リーチや「広告っぽくない」SNSコンテンツ制作との親和性が高い自然なプロモーションモデルを構築しようとしている。",
+      "impact": "本キャンペーンはTikTokプラットフォームの可能性を大きく広げるものであり、VAZが注力する「TikTokショップ」や「美容UGC生成」といったTikTokを活用した新規事業展開において、プラットフォーム側の大型IPコラボ戦略を深く理解し、VAZ独自の連携機会を探るべきである。また、「タレントIPグッズ」や「アイドルグループ」の育成という注力領域において、グローバル規模でのIP展開やファンエンゲージメントの手法として、映画IPの活用事例から学ぶべき点が非常に多い。",
+      "agenda": "TikTokが大型IP連携で新たな広告モデルを構築する中、VAZは注力領域である「TikTokショップ」や「美容UGC生成」において、プラットフォームと連携し、どのような新規マネタイズ機会を創出していくべきか？",
+      "summary": "TikTok、映画『ゴジラ-0.0』とグローバルキャンペーン実施",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -132443,8 +133443,8 @@
   ],
   "home": {
     "monthLabel": "2026年11月",
-    "thisMonthNewsCount": 68,
-    "thisMonthAnalysisCount": 19,
+    "thisMonthNewsCount": 114,
+    "thisMonthAnalysisCount": 34,
     "highlights": [
       {
         "id": 0,
@@ -132467,6 +133467,25 @@
       },
       {
         "id": 1,
+        "date": "2026-11-02",
+        "company": "アソビシステム",
+        "title": "<b>アソビシステム</b>、米国拠点「<b>ASOBISYSTEM</b> USA」<b>設立</b> 日本発エンタメの北米展開支援も推進",
+        "url": "https://www.sanyonews.jp/article/1968874?kw=2025",
+        "totalScore": 18.75,
+        "tags": [
+          "#自社IP・グッズ",
+          "#アイドル・ファンビジネス",
+          "#新規マネタイズ事業"
+        ],
+        "fact": "アソビシステムは、日本のカルチャーおよびエンターテインメントの北米展開強化のため、米国拠点「ASOBISYSTEM USA」を設立した。",
+        "intent": "近年、日本発コンテンツの海外需要が高まる中、アソビシステムはこれまで培ってきた海外展開の知見を活かし、北米市場に直接拠点を設けることで、現地のネットワーク構築と事業展開を加速させる意図がある。これは、日本のインフルエンサーやIPの海外展開における言語・文化の壁、現地のネットワーク不足というボトルネックを解消し、新たな成長機会を掴むための戦略と推察される。",
+        "impact": "VAZにとってアソビシステムの北米展開は、競合が海外市場で先行者利益を確保しようとしていることを示唆する。特にVAZの「アイドルグループ」や「所属タレントのグッズ（IP）」といった2026年注力領域は、アソビシステムが北米で展開する日本のエンタメコンテンツと直接競合し、将来的なIP獲得競争や流通チャネル確保競争の激化が予想される。一方で、日本発エンタメ市場が北米で拡大する流れは、VAZの海外展開可能性を高める側面もある。",
+        "agenda": "アソビシステムの北米展開に対し、VAZの「アイドルグループ」や「所属タレントのグッズ（IP）」の海外展開戦略をどう位置づけ、具体的にどの市場をターゲットにいつまでに展開すべきか？",
+        "summary": "アソビシステム、米国拠点設立で日本エンタメ北米展開を加速",
+        "axis": "両方"
+      },
+      {
+        "id": 2,
         "date": "2026-11-01",
         "company": "業界トレンド",
         "title": "【月100件超の依頼殺到】『令和の虎』榊?原清一が率いるEMOLVA、SNS業界11年目の信頼で ...",
@@ -132483,37 +133502,18 @@
         "agenda": "EMOLVAの「月100件超の依頼殺到」を可能にする「11年目の信頼」の具体的な要素をどう分析し、VAZの営業戦略や新規事業開発における差別化ポイントとして取り入れるべきか？",
         "summary": "EMOLVAがSNS業界実績と信頼を武器に高成長、事業拡大",
         "axis": "マーケティング軸"
-      },
-      {
-        "id": 2,
-        "date": "2026-11-01",
-        "company": "業界トレンド",
-        "title": "AIショックで中国の映像産業に｢冬の時代｣…実写の<b>ショートドラマ</b>が激減 - 東洋経済オンライン",
-        "url": "https://toyokeizai.net/articles/-/962872?display=b",
-        "totalScore": 17.5,
-        "tags": [
-          "#コンテンツ制作",
-          "#プラットフォーム動向",
-          "#新規マネタイズ事業"
-        ],
-        "fact": "AIによる動画生成技術の劇的な高性能化と普及を受け、中国の映像産業では実写ショートドラマの制作が激減し、制作会社はAI“直接生成”にシフト、撮影スタジオがレンタル料無料化でユーザー引き留めを図っている。",
-        "intent": "AIの動画生成能力が飛躍的に向上した結果、実写撮影にかかるコストや時間、労力が大幅に削減可能となり、中国の映像制作会社が効率性を求めてAI生成へ移行。これにより、既存の撮影スタジオや関連サプライチェーン（俳優、スタッフ）の需要が急減し、業界全体が「冬の時代」に突入している。これは、従来のコンテンツ制作のバリューチェーンがAIによって根底から覆されつつある状況を明確に示唆している。",
-        "impact": "中国の事例は、AIがコンテンツ制作に与える「破壊的影響」の最前線であり、VAZの「所属インフルエンサーを起点としたコンテンツ制作力」や「\"広告っぽくない\"SNSコンテンツ制作」といった強みが、AI生成コンテンツとの差別化を迫られる可能性を示唆している。一方で、VAZの注力領域である「TikTokショップ」や「美容UGC生成」、さらには「アイドルグループ」のコンテンツ制作において、AIを活用した効率化や企画支援、新たな表現手法の開拓といった機会も存在する。AIの進展は、プラットフォームのコンテンツエコシステム自体を変革し、競合他社も同様に適応を迫られるため、VAZは先行してAI活用戦略を構築する必要がある。",
-        "agenda": "AIによる動画生成技術の急速な進化に対し、VAZの「コンテンツ制作力」を競争優位として維持・強化するために、AIをいかに活用し、あるいはAIでは代替できない「人間性」や「クリエイティビティ」をどう追求すべきか？",
-        "summary": "AIの高性能化で中国映像産業は実写ショートドラマが激減し、AI生成へシフト",
-        "axis": "両方"
       }
     ],
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 13501.75,
-        "count": 914
+        "totalScore": 13661.75,
+        "count": 925
       },
       {
         "company": "アソビシステム",
-        "totalScore": 9001.75,
-        "count": 542
+        "totalScore": 9036.75,
+        "count": 544
       },
       {
         "company": "トレンダーズ",
@@ -132537,8 +133537,8 @@
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 1270.42,
-        "count": 100
+        "totalScore": 1284.67,
+        "count": 101
       },
       {
         "company": "TORIHADA",
@@ -132547,38 +133547,38 @@
       },
       {
         "company": "株式会社Natee",
-        "totalScore": 1088.58,
-        "count": 68
+        "totalScore": 1103.33,
+        "count": 69
       }
     ],
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 952
+        "count": 957
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 903
+        "count": 912
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 851
+        "count": 857
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 764
+        "count": 769
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 538
+        "count": 545
       },
       {
         "tag": "#広告主動向",
-        "count": 471
+        "count": 472
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 402
+        "count": 405
       },
       {
         "tag": "#ECコマース",
@@ -132586,18 +133586,18 @@
       },
       {
         "tag": "#プランニング・企画",
-        "count": 314
+        "count": 315
       },
       {
         "tag": "#タイアップ案件",
-        "count": 234
+        "count": 238
       }
     ],
     "axisCounts": {
-      "タレント軸": 852,
-      "マーケティング軸": 609,
-      "両方": 757,
-      "業界全般": 33
+      "タレント軸": 858,
+      "マーケティング軸": 610,
+      "両方": 764,
+      "業界全般": 34
     },
     "tagMaster": {
       "タレント軸": [
