@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-11-05T00:31:25.944Z",
-    "generatedAtJst": "2026-11-05 09:31:25",
-    "totalNews": 4609,
-    "totalAnalyses": 2283,
+    "generatedAt": "2026-11-06T00:31:27.457Z",
+    "generatedAtJst": "2026-11-06 09:31:27",
+    "totalNews": 4668,
+    "totalAnalyses": 2296,
     "totalCompetitors": 7
   },
   "news": [
@@ -36709,7 +36709,7 @@
       "company": "業界トレンド",
       "title": "【最大20人】相手の額に書かれた“数字”を入力して倒すFPS『Figure Me Out』本日11月3日リリース",
       "url": "https://news.denfaminicogamer.jp/news/261103q",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36765,7 +36765,7 @@
       "company": "業界トレンド",
       "title": "20代は59.8%。内定辞退のきっかけ2位は「SNSの社員が楽しそうに見えない」23.1%～TaTap ...",
       "url": "https://www.jiji.com/jc/article?k=000000006.000181567&g=prt",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36773,7 +36773,7 @@
       "company": "業界トレンド",
       "title": "演者<b>起用</b>、フォロワー数の次に見る数字は？｜PR投稿の反応も選定の指標に",
       "url": "https://amusement-japan.co.jp/article/detail/10005496/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36781,7 +36781,7 @@
       "company": "業界トレンド",
       "title": "【今週の注目記事5選】9月外国人宿泊数は1,165万人、8月は地方部比率が上昇 ほか | 訪日ラボ",
       "url": "https://honichi.com/news/2026/11/04/weekmatome_20261104/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36789,7 +36789,7 @@
       "company": "業界トレンド",
       "title": "タイでも起こる<b>インフルエンサー</b>関連のトラブル 炎上したときの日本との違いは（内外タイムス）",
       "url": "https://topics.smt.docomo.ne.jp/article/npn/entertainment/npn-300598058",
-      "status": "未処理"
+      "status": "エラー・要再試行"
     },
     {
       "id": "",
@@ -36797,7 +36797,7 @@
       "company": "業界トレンド",
       "title": "【特集】「不存在」とされた議事録があった⁉ 旧香川県立体育館の分岐点…民間利 ... - KSBニュース",
       "url": "https://news.ksb.co.jp/article/17019685",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36877,6 +36877,478 @@
       "company": "脅威の兆候",
       "title": "マンCで出番減のDFアイト・ヌーリ、今冬の退団に前向きか…ライバル関係のマンUが関心",
       "url": "https://www.chiba-tv.com/plus/detail/amp/2026112188901",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "「SUKISUKI」のオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoMkhLbDZZQUZ2dGJRVjkyN2ppLVk3ZXd6bXFkdGpuMHBqMDhvdXp4SVAxNzJWNG0yZHhwWU9GLTJjMDl5MkxtUFJnTGxma1ZzeWx0dmE4Y05qdldkX1hVeG1Sekp6MFhoVlE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "【Simejiランキング】Z世代が選ぶ!!今年の『NHK紅白歌合戦』に初出場したら絶対に見るアーティスト・アイドルTOP10 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbUNvekM2VmlXZi12UEQ3YXVrREstTmZJa3AzQXpqZkRhNE5nOW1ZVk0wNW82cUptZkZXT084QXRUcENhVVRoeTV6cGVJNkVSLWlUUUQyUlUzM1JVem5ndlhmcVBxdnJ2dHc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がるスーパーアプリ「mellow-fan」を展開するOPENREC、資金調達を実施。累計調達額38億円 | 株式会社OPENRECのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZ25TdzZaTWEzdGtEczFQVXpqdWtzaWFfMUxDaVN3Z092bno1LW0yb2lNRFRuYTB0VHZhV3pxNkZMOXB1VHFqVUprd3ZDbVNoZlZOdEFqZzJKTUlEdXZqNU0wY2lTdWdiLWc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "eスポーツチーム「REJECT」、株式会社ナハトと戦略的業務提携を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUmhfT0hYczZJeU83X21TTHc2VzF4UjhEa1ZWUU5PeG03TUtRM1VJQVF3cU1KSWdJbUpoanFId0wxLUFRdjZfaDBBYklhZURyQWU5THNYbUQ4RWdldTJNUHZUeWI0MVYwbUE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、みずほ銀行からデッドファイナンスで追加40億円、累計100億円の資金調達を実施 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNzlnRl9MdWR3RVFNYnR4ZVBDX1NCNDZ5OFBVcm5vMWJZT0d0N0NFajBSajVWUzc1cGRMU3Q5cXh6dDRCRkE2UEw4QUlDRVBCZTJVb1JrbHNQNHMtbHVCekRkRFJVX0dvekE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、EXPEの事業を承継し「地方創生・自治体支援事業」へ本格参入 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMFFKYVpwcHVvU0VwaHlHTFU5NGNwS3hyX1FTejRmTWkxa29kZ21wTlJiWHZiMy1jTXIzemRrQ3hKU2VScU1tT0JQNnYxdVFCSDRyUWtVSTZOUzFmLUpOYm9ZN2NiM0tuLUE?oc=5",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、eスポーツチーム「REJECT」と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWYnlOUFVTMVhVbW1pTXVScmJUY1NXbXlhNzJRMVlrc1ktdUVSMjVuNjJUMENoU3c1aDd1b2gtZU9nZEJBNzhHeDI0RGxvUS1GUko0TnRyWEZVczVlLTFGZ1NadXhtUXNHYWc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bjg4VF9jdW5KMUhFQ2JTVWd6ZGZXYWN2ZE44WHRfZ3Y0SmI4NmVLY1JfcHZTWEgzVXdpQ2c0bkY5aVphQ0tFbC1wbkNFRlNYVG9HaTBrQUNSYUdUd2RmT0J2ZThRbGJadkE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "TORIHADA",
+      "title": "GO TODAY SHAiRE SALON、AHLよりSALON VILLAGE 2店舗（銀座・表参道）を譲受 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PRjBza0g4YURrWm5lN095ZFFLSUNJVERIaHRHUTFZMTY4VlpveXI2ckU5ckEwT1lYUUVncFhVR0wxd29hWllxWm5lbnZFakJPd3lvSmhfMlJLQjF6N1RkMFozTV9QbzgtSVE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "オリグレスグループの株式会社シーズ・<b>ライブ</b>、新<b>経営</b>体制へ移行。グループ連携を一層強化",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000095_000147730/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "「SUKISUKI」のオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000176752.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "推し活AXプラットフォーム「win2win」、後払い決済サービス「atone（アトネ）」を導入 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000176752.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "KAWAII LAB.が全メンバーのX個人発信休止を発表 なぜ今なのか？<b>アソビシステム</b>の決断の背景 ...",
+      "url": "https://coki.jp/article/column/97045/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000204.000023647.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "Macbee Planet",
+      "title": "代表直下で部門経営を牽引！チームで勝ち続ける組織を創る事業責任者 - Wantedly",
+      "url": "https://www.wantedly.com/projects/2590462?from=profile-nomination-list",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "Macbee Planet",
+      "title": "株式会社<b>Macbee Planet</b> - マスメディアン",
+      "url": "https://www.massmedian.co.jp/actor_company/view/89432/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "ナハト、みずほ銀行からデッドファイナンスで追加40億円、累計100億円の資金調達を実施",
+      "url": "https://prtimes.jp/main/html/rd/p/000000130.000063127.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "ナハト、eスポーツチーム「REJECT」と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000131.000063127.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "【COMPANY】株式会社ナハトと戦略的業務提携を締結 - REJECT",
+      "url": "https://reject.jp/2026/11/05/%E3%80%90company%E3%80%91%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%8A%E3%83%8F%E3%83%88%E3%81%A8%E6%88%A6%E7%95%A5%E7%9A%84%E6%A5%AD%E5%8B%99%E6%8F%90%E6%90%BA%E3%82%92%E7%B7%A0%E7%B5%90/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "日本の化粧品<b>市場</b>調査レポート：<b>市場</b>規模、シェア、消費者需要、美容トレンド - Newscast.jp",
+      "url": "https://newscast.jp/smart/news/6357659",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【Youth Now! 若年層トレンド調査】Z世代は「やる気になってから買う」のではない ... - 朝日新聞",
+      "url": "https://www.asahi.com/and/pressrelease/16871636",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "CGアニメーター志望学生の実技力をプロが審査、手付け限定「アニメーション実技試験2026 ...",
+      "url": "https://branc.jp/article/2026/11/04/3261.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "エンターファンズとVAZの合弁事務所「VAZFAN」、1期生を募集する「VAZ presents『次世代 ...",
+      "url": "https://www.excite.co.jp/news/article/Dreamnews_0000367479/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "「ここで暮らしたら」を<b>ショートドラマ</b>で描く。studio15、南相馬市小高区「おだかる」の移住 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000186.000043271.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "縦型<b>ショートドラマ</b>配信サービス「Story TV」を運営するEloEloがシリーズC ... - STARTUP LOG",
+      "url": "https://startuplog.com/n/nfa6e2470ee97",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "VAZとエンターファンズの合弁事務所「VAZFAN」、1期生を募集する「VAZ presents『次世代 ...",
+      "url": "https://entamerush.jp/723495/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "StellaJean主催「第1回 StellaJean コンテスト 映像化原作大賞」受賞作品決定 総合大賞は八月 ...",
+      "url": "https://www.booklive.co.jp/topics/2158",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "【2026年のヒット商品】2位は「<b>TikTok</b> Shop」…「ライブコマース」の最新事情【news23】",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3062292",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "テレビCMに頼らない辛ラーメンのマーケ戦略、SNSでのバズが鍵 | 日経クロストレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01970/?i_cid=nbpnxr_nxr_top_tre_02",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>のデジタル<b>広告</b>の夜明け ネットがメディアと認められた日 | 日経クロストレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/18/01122/00034/?i_cid=nbpnxr_nxr_top_tre_03",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【事例紹介】Goens様｜売上200％成長に貢献。完全成果報酬型ショート動画<b>広告</b>で",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1958825",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【事例紹介】Goens様｜売上200％成長に貢献。完全成果報酬型ショート動画<b>広告</b>で ... - 岩手日報",
+      "url": "https://www.iwate-np.co.jp/pr/prtimes-story/33876",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "エンターファンズとVAZの合弁<b>事務所</b>「VAZFAN」、1期生を募集する「VAZ presents『次世代 ...",
+      "url": "https://www.dreamnews.jp/press/0000367479",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "【2026年調査】<b>クリエイター事務所</b>のSNS集客｜X・Instagramの新規開設とアカウント購入を比較",
+      "url": "https://news.nicovideo.jp/watch/nw19957617?news_ref=50_50",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "【2026年調査】<b>クリエイター事務所</b>のSNS集客｜X・Instagramの新規開設とアカウント購入を比較",
+      "url": "https://www.dreamnews.jp/press/0000365661",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "名古屋バズ博 2026を10月24日に開催。みか@ライスペーパーネキ・O2らが集結",
+      "url": "https://news.nicovideo.jp/watch/nw19957436?news_ref=watch_20_nw19146132",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "SNS総フォロワー数約100万人の大和田南那ら4名が出演！ショートドラマ『いつかOOOになる私 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19956763?news_ref=watch_20_nw19779229",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "クラシルがエンタメ事業を担うALホールディングスをYoyogi Animation Groupに譲渡へ",
+      "url": "https://www.nihon-ma.co.jp/news/20261104_299A/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "ソーシャルネットワーキングサイト市場は、2025年に585億5,000万米ドルと推定され、2036年 ...",
+      "url": "https://japan.zdnet.com/release/31221505/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "ナハト、EXPEの事業を承継し「地方創生・自治体支援事業」へ本格参入 - 山陽新聞",
+      "url": "https://www.sanyonews.jp/article/2016000",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "VAZとエンターファンズの合弁事務所「VAZFAN」、1期生を募集する「VAZ presents『次世代 ...",
+      "url": "https://entamerush.jp/723495/amp/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "テレビCMに頼らない辛ラーメンのマーケ戦略、SNSでのバズが鍵 | 日経クロストレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01970/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "大人気<b>インフルエンサー</b>「#ほぼハロウィン」 田中聖とのウエディング2Sにネット反響！「ついに ...",
+      "url": "https://news.livedoor.com/topics/detail/32735083/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "ADDICTが運営する<b>インフルエンサー事務所</b>「ONEVIEW」がリブランディングを実施。公式サイト ...",
+      "url": "https://www.jiji.com/jc/article?k=000000001.000193203&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "再生報酬型SNSプロモーションプラットフォーム「BUZZ YELL（バズエール）」正式リリース",
+      "url": "https://www.jiji.com/jc/article?k=000000002.000186810&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "大学生共感系<b>インフルエンサー</b>「パワ子」が公式グッズを発売！証明写真や履歴書がまさかの ...",
+      "url": "https://www.jiji.com/jc/article?k=000000069.000125574&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "エンターテインメント事業子会社のALホールディングスをYoyogi Animation Groupに譲渡（<b>M&amp;A</b> ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/maonline/business/maonline-20261104a",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がる ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000116.000115510.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「金利上昇時代の資金繰り新戦略」セミナーを大阪・新潟で開催 - 福島民友新聞社",
+      "url": "https://www.minyu-net.com/release/prtimes/detail/56432",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がる ...",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-04-115510-116/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「銀行の本音を経営者に届ける」元銀行審査部員がYouTubeチャンネル『脱銀行マン藤原』を開設",
+      "url": "https://www.minyu-net.com/release/prtimes/detail/56302",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "リアルゲイト 渋谷区代々木に延床面積約1,400平方メートルの土地・建物を取得 | 財経新聞",
+      "url": "https://www.zaikei.co.jp/article/20261104/876069.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "広島・森下暢仁、FA市場で一番人気か...争奪戦へ 「人的補償」でカープに大物、有望選手の<b>移籍</b> ...",
+      "url": "https://news.yahoo.co.jp/articles/e0bdb9aacb850573f1531836d43331038e1e6764",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "妻はきっと子どもをネットに晒す」<b>インフルエンサー</b>妻の暴走に絶望する夫の《親としての葛藤",
+      "url": "https://news.livedoor.com/article/detail/32734638/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "来年の“小学生の甲子園”「マクドナルド・トーナメント」、2年連続で愛媛開催 全軟連が大会日程案 ...",
+      "url": "https://full-count.jp/2026/11/04/post2040706/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "【画像】妻は<b>インフルエンサー</b>、夫は疲弊「正直、映える生活なんてやめたい」 1/3",
+      "url": "https://news.livedoor.com/article/image_detail/32725761/?img_id=57364682",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-03",
+      "company": "脅威の兆候",
+      "title": "<b>インフルエンサー</b>依頼ブリーフをAIで作る｜<b>ステマ規制</b>対応の10条契約 - うるチカラ",
+      "url": "https://uruchikara.jp/influencer-brief-stema-kisei-10jo-skill-2026/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "「ミスではなく捏造」上杉隆氏が望月記者を猛批判！イソコ本回収騒ぎで大<b>炎上</b>（2/2ページ）",
+      "url": "https://www.zakzak.co.jp/article/20261104-YQOFNMF2PBAIVEPC7V4SLDAANE/2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「<b>インフルエンサー</b>を囲って？マスコミを巻き込んで？」 参政・神谷宗幣代表、高市政権の広報策 ...",
+      "url": "https://news.livedoor.com/topics/detail/32729883/",
       "status": "未処理"
     }
   ],
@@ -91382,6 +91854,346 @@
         "benchmark": 3
       },
       "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "「SUKISUKI」のオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoMkhLbDZZQUZ2dGJRVjkyN2ppLVk3ZXd6bXFkdGpuMHBqMDhvdXp4SVAxNzJWNG0yZHhwWU9GLTJjMDl5MkxtUFJnTGxma1ZzeWx0dmE4Y05qdldkX1hVeG1Sekp6MFhoVlE?oc=5",
+      "totalScore": 17,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がるスーパーアプリ「mellow-fan」を展開するOPENREC、資金調達を実施。累計調達額38億円 | 株式会社OPENRECのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZ25TdzZaTWEzdGtEczFQVXpqdWtzaWFfMUxDaVN3Z092bno1LW0yb2lNRFRuYTB0VHZhV3pxNkZMOXB1VHFqVUprd3ZDbVNoZlZOdEFqZzJKTUlEdXZqNU0wY2lTdWdiLWc?oc=5",
+      "totalScore": 19.5,
+      "breakdown": {
+        "finance": 5,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "「SUKISUKI」のオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000176752.html",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "推し活AXプラットフォーム「win2win」、後払い決済サービス「atone（アトネ）」を導入 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000176752.html",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 5,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "KAWAII LAB.が全メンバーのX個人発信休止を発表 なぜ今なのか？<b>アソビシステム</b>の決断の背景 ...",
+      "url": "https://coki.jp/article/column/97045/",
+      "totalScore": 17.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "Macbee Planet",
+      "title": "代表直下で部門経営を牽引！チームで勝ち続ける組織を創る事業責任者 - Wantedly",
+      "url": "https://www.wantedly.com/projects/2590462?from=profile-nomination-list",
+      "totalScore": 9.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 2,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "Macbee Planet",
+      "title": "株式会社<b>Macbee Planet</b> - マスメディアン",
+      "url": "https://www.massmedian.co.jp/actor_company/view/89432/",
+      "totalScore": 9,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 1,
+        "benchmark": 3
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "【Simejiランキング】Z世代が選ぶ!!今年の『NHK紅白歌合戦』に初出場したら絶対に見るアーティスト・アイドルTOP10 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbUNvekM2VmlXZi12UEQ3YXVrREstTmZJa3AzQXpqZkRhNE5nOW1ZVk0wNW82cUptZkZXT084QXRUcENhVVRoeTV6cGVJNkVSLWlUUUQyUlUzM1JVem5ndlhmcVBxdnJ2dHc?oc=5",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "eスポーツチーム「REJECT」、株式会社ナハトと戦略的業務提携を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUmhfT0hYczZJeU83X21TTHc2VzF4UjhEa1ZWUU5PeG03TUtRM1VJQVF3cU1KSWdJbUpoanFId0wxLUFRdjZfaDBBYklhZURyQWU5THNYbUQ4RWdldTJNUHZUeWI0MVYwbUE?oc=5",
+      "totalScore": 16.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、みずほ銀行からデッドファイナンスで追加40億円、累計100億円の資金調達を実施 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNzlnRl9MdWR3RVFNYnR4ZVBDX1NCNDZ5OFBVcm5vMWJZT0d0N0NFajBSajVWUzc1cGRMU3Q5cXh6dDRCRkE2UEw4QUlDRVBCZTJVb1JrbHNQNHMtbHVCekRkRFJVX0dvekE?oc=5",
+      "totalScore": 13.25,
+      "breakdown": {
+        "finance": 5,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、eスポーツチーム「REJECT」と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWYnlOUFVTMVhVbW1pTXVScmJUY1NXbXlhNzJRMVlrc1ktdUVSMjVuNjJUMENoU3c1aDd1b2gtZU9nZEJBNzhHeDI0RGxvUS1GUko0TnRyWEZVczVlLTFGZ1NadXhtUXNHYWc?oc=5",
+      "totalScore": 12.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bjg4VF9jdW5KMUhFQ2JTVWd6ZGZXYWN2ZE44WHRfZ3Y0SmI4NmVLY1JfcHZTWEgzVXdpQ2c0bkY5aVphQ0tFbC1wbkNFRlNYVG9HaTBrQUNSYUdUd2RmT0J2ZThRbGJadkE?oc=5",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "TORIHADA",
+      "title": "GO TODAY SHAiRE SALON、AHLよりSALON VILLAGE 2店舗（銀座・表参道）を譲受 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PRjBza0g4YURrWm5lN095ZFFLSUNJVERIaHRHUTFZMTY4VlpveXI2ckU5ckEwT1lYUUVncFhVR0wxd29hWllxWm5lbnZFakJPd3lvSmhfMlJLQjF6N1RkMFozTV9QbzgtSVE?oc=5",
+      "totalScore": 9,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "オリグレスグループの株式会社シーズ・<b>ライブ</b>、新<b>経営</b>体制へ移行。グループ連携を一層強化",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000095_000147730/",
+      "totalScore": 11,
+      "breakdown": {
+        "finance": 2,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000204.000023647.html",
+      "totalScore": 11.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【最大20人】相手の額に書かれた“数字”を入力して倒すFPS『Figure Me Out』本日11月3日リリース",
+      "url": "https://news.denfaminicogamer.jp/news/261103q",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "20代は59.8%。内定辞退のきっかけ2位は「SNSの社員が楽しそうに見えない」23.1%～TaTap ...",
+      "url": "https://www.jiji.com/jc/article?k=000000006.000181567&g=prt",
+      "totalScore": 8.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "演者<b>起用</b>、フォロワー数の次に見る数字は？｜PR投稿の反応も選定の指標に",
+      "url": "https://amusement-japan.co.jp/article/detail/10005496/",
+      "totalScore": 15.75,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【今週の注目記事5選】9月外国人宿泊数は1,165万人、8月は地方部比率が上昇 ほか | 訪日ラボ",
+      "url": "https://honichi.com/news/2026/11/04/weekmatome_20261104/",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【特集】「不存在」とされた議事録があった⁉ 旧香川県立体育館の分岐点…民間利 ... - KSBニュース",
+      "url": "https://news.ksb.co.jp/article/17019685",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
     }
   ],
   "analyses": [
@@ -134444,6 +135256,252 @@
       "agenda": "VAZは、強みとするZ世代・美容領域において、いかにAI技術（生成AI含む）をコンテンツ制作、新規マネタイズ事業に活用し、競争優位性を構築していくべきか？",
       "summary": "M2IE、金融特化のChatGPT広告認定代理店に",
       "axis": "マーケティング軸"
+    },
+    {
+      "id": 2283,
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "「SUKISUKI」のオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催決定！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoMkhLbDZZQUZ2dGJRVjkyN2ppLVk3ZXd6bXFkdGpuMHBqMDhvdXp4SVAxNzJWNG0yZHhwWU9GLTJjMDl5MkxtUFJnTGxma1ZzeWx0dmE4Y05qdldkX1hVeG1Sekp6MFhoVlE?oc=5",
+      "totalScore": 17,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステムが運営するオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催を達成した。",
+      "intent": "オンラインくじは、タレントやIPの熱心なファン層に対し、物理的なグッズだけでなくデジタルコンテンツや限定体験を通じて継続的にエンゲージメントを深め、購買意欲を刺激する効果的なファンビジネスモデルである。アソビシステムは、多様なIPを活用することで短期間で高い開催実績を積み重ね、安定した収益源とファンベースの強化を図っていると推測される。",
+      "impact": "アソビシステムの事例は、VAZが注力する「所属タレントのグッズ（IP）」と「アイドルグループ」の成長戦略において、具体的なマネタイズモデルとファンエンゲージメント手法として非常に参考になる。特に、オンラインくじは初期投資を抑えつつ多様なIPで展開しやすく、継続的な収益を生み出す可能性を秘めているため、VAZの新規マネタイズ事業としても検討価値が高い。",
+      "agenda": "VAZのアイドルプロジェクトや既存タレントのIPを活用したオンラインくじ事業を、どのようなコンテンツと戦略で立ち上げ、ファンエンゲージメントと収益の両立を図るべきか？",
+      "summary": "アソビシステム、オンラインくじ「すきくじ」100回開催",
+      "axis": "両方"
+    },
+    {
+      "id": 2284,
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がるスーパーアプリ「mellow-fan」を展開するOPENREC、資金調達を実施。累計調達額38億円 | 株式会社OPENRECのプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZ25TdzZaTWEzdGtEczFQVXpqdWtzaWFfMUxDaVN3Z092bno1LW0yb2lNRFRuYTB0VHZhV3pxNkZMOXB1VHFqVUprd3ZDbVNoZlZOdEFqZzJKTUlEdXZqNU0wY2lTdWdiLWc?oc=5",
+      "totalScore": 19.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#資金調達・M&A",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステムが展開するファンアプリ「mellow-fan」に関連するOPENRECが、累計38億円の資金調達を実施した。",
+      "intent": "インフルエンサーやアイドルのファンエンゲージメントが収益の重要な源泉となる中で、既存のSNSプラットフォームだけでは実現できない深いファン体験やマネタイズ手法が求められている。アソビシステムは、タレントのIP価値を最大化し、ファンとの持続的な関係性を築くために、自社でデジタルとリアルを統合した独自のファンコミュニティ基盤を強化しようとしている。これは、ファンビジネス市場の成長と、その中で独自のポジションを確立しようとする競合の強い意図を示す。",
+      "impact": "VAZの「アイドルプロジェクト」や「所属タレントのグッズ（IP）」といった注力領域において、競合のアソビシステムが資金力を背景にファンビジネス基盤を強化していることは大きな脅威である。特に「デジタルとリアルがシームレスに繋がるスーパーアプリ」というコンセプトは、ファンコミュニティの質を高め、IP価値を最大化する上でベンチマークすべきアプローチであり、VAZも単なるグッズ販売に留まらないファンエンゲージメント戦略を検討する必要がある。",
+      "agenda": "競合の資金調達とファンアプリ強化に対し、VAZのアイドルプロジェクトおよびIPグッズ事業における「デジタルとリアルを融合したファン体験戦略」をどのように構築し、差別化を図るか？",
+      "summary": "競合アソビシステム関連アプリが38億円調達しファン事業強化。",
+      "axis": "両方"
+    },
+    {
+      "id": 2285,
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "「SUKISUKI」のオンラインくじ「すきくじ」が、サービス開始から約1年半で100回目の開催決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000176752.html",
+      "totalScore": 16.25,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "アソビシステムの子会社が提供するオンラインくじ「すきくじ」が、サービス開始約1年半で100回目の開催を達成した。",
+      "intent": "エンタメ業界全体の「推し活」市場拡大を受け、タレントのファンエンゲージメントを高めつつ収益を最大化する手段が求められている。アソビシステムは、所属アーティストの多様な活動に合わせて企画を展開することで、ファンの飽きを防ぎ、熱量の高い層から継続的な購買を引き出し、IP価値を最大化するマネタイズ基盤を構築している。",
+      "impact": "このニュースはVAZの注力領域である「所属タレントのグッズ（IP）」と「アイドルグループ」に直接関わる。アソビシステムの「オンラインくじ」成功事例は、IPマネタイズの有効性を示しており、VAZも自社の強みであるZ世代・若年層へのリーチ力を活かし、既存の所属インフルエンサーや今後注力するアイドルグループのファンエンゲージメント向上と収益化において、IPを活用したデジタルグッズ展開を具体的に検討すべきである。",
+      "agenda": "VAZは、自社の強みと注力領域を踏まえ、所属タレントやアイドルグループのIPを活用したオンラインくじやデジタルグッズの具体的な導入計画と収益シミュレーションをどう立てるべきか？",
+      "summary": "アソビシステム、IP活用オンラインくじ100回開催",
+      "axis": "両方"
+    },
+    {
+      "id": 2286,
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "推し活AXプラットフォーム「win2win」、後払い決済サービス「atone（アトネ）」を導入 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000176752.html",
+      "totalScore": 15.5,
+      "tags": [
+        "#自社IP・グッズ",
+        "#アイドル・ファンビジネス",
+        "#ECコマース"
+      ],
+      "fact": "アソビシステムが運営する推し活AXプラットフォーム「win2win」は、クレジットカード不要で翌月払いが可能な後払い決済サービス「atone（アトネ）」を導入した。",
+      "intent": "アソビシステムは、クレジットカードを持たないZ世代・若年層ファンの購買障壁を解消し、自社タレントのIPグッズやファン向けコンテンツの購買率を高めることで、推し活市場での競争優位性を確立する狙いがある。これは、ファンビジネスの収益最大化における共通課題と認識できる。",
+      "impact": "アソビシステムの決済サービス導入は、VAZの注力領域である「所属タレントのグッズ（IP）」と「アイドルグループ」におけるファン消費促進の重要性を示唆する。特にVAZの主要ターゲットであるZ世代・若年層はクレジットカード非保持者が多いため、競合が後払い決済で購買障壁を下げたことで、VAZも自社IPグッズの売上機会損失を避けるため、同様の決済インフラ導入を検討すべき段階に来ている。",
+      "agenda": "VAZのアイドルプロジェクトおよびタレントIPグッズ販売において、Z世代・若年層の購買意欲を最大化するための決済手段（後払い決済等）導入を、いつ、どのように検討・実行すべきか？",
+      "summary": "推し活プラットフォームに若年層向け後払い決済を導入",
+      "axis": "両方"
+    },
+    {
+      "id": 2287,
+      "date": "2026-11-04",
+      "company": "アソビシステム",
+      "title": "KAWAII LAB.が全メンバーのX個人発信休止を発表 なぜ今なのか？<b>アソビシステム</b>の決断の背景 ...",
+      "url": "https://coki.jp/article/column/97045/",
+      "totalScore": 17.5,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#プラットフォーム動向",
+        "#炎上・リスク"
+      ],
+      "fact": "アソビシステムのアイドルプロジェクト「KAWAII LAB.」が、所属する全グループのメンバー個人によるXでの発信を休止すると発表した。",
+      "intent": "SNS発でアイドルを成功させたアソビシステムが、X個人発信を制限する背景には、タレントへの過度な負担、炎上リスクの増大、運営側の統制管理の難しさ、そしてブランドイメージの乖離リスクがあると考えられる。既に確立されたブランド価値の維持・向上、およびよりコントロールされた情報発信や公式コンテンツへの誘導強化が狙いと推測される。",
+      "impact": "VAZは2026年注力領域として「アイドルグループ」を掲げており、本ニュースは先行する競合の重要な方針転換として注目すべき。SNSでの成功事例を持つアソビシステムが個人発信を制限する決断は、VAZのアイドルプロジェクトにおけるSNS戦略において、初期段階からのリスクヘッジとブランド統制の重要性を示唆する。これは「タレントIPグッズ」や「美容UGC生成」など、他の注力領域におけるタレントイメージ管理にも影響する。",
+      "agenda": "VAZのアイドルプロジェクトにおけるSNS個人発信の統制と自由度のバランスをどう設計し、初期段階でどのようなリスク管理体制を構築すべきか？",
+      "summary": "アソビシステムがアイドルX個人発信休止、決断の背景",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2288,
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "【Simejiランキング】Z世代が選ぶ!!今年の『NHK紅白歌合戦』に初出場したら絶対に見るアーティスト・アイドルTOP10 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbUNvekM2VmlXZi12UEQ3YXVrREstTmZJa3AzQXpqZkRhNE5nOW1ZVk0wNW82cUptZkZXT084QXRUcENhVVRoeTV6cGVJNkVSLWlUUUQyUlUzM1JVem5ndlhmcVBxdnJ2dHc?oc=5",
+      "totalScore": 14,
+      "tags": [
+        "#アイドル・ファンビジネス",
+        "#タレント発掘・育成",
+        "#市場規模・調査"
+      ],
+      "fact": "アソビシステムが関与するSimejiランキングにて、Z世代が選ぶ『NHK紅白歌合戦』に初出場したら絶対に見るアーティスト・アイドルTOP10が発表された。",
+      "intent": "アソビシステムは若年層に強いアーティスト・クリエイターマネジメント会社であり、Z世代のトレンド把握に長けている。SimejiのようなZ世代向けプラットフォームとの連携を通じて、リアルな声をランキング形式で可視化することで、自社のタレント育成やプロモーション戦略、さらにはPRとして活用しZ世代への影響力を強化する狙いがあると推測される。",
+      "impact": "本ニュースは、VAZの2026年注力領域である「アイドルグループ」の展開において、Z世代の具体的な関心対象やトレンドを把握する上で重要な示唆を与える。競合であるアソビシステムがZ世代のインサイトを独自に調査・活用し、アーティスト・アイドルの動向を捉えていることは、VAZのアイドルプロジェクト推進における競合優位性確保の必要性を高める。VAZの強みである「Z世代・若年層へのリーチ力」とアソビシステムの強みが重なるため、Z世代のエンタメ領域における競争激化が示唆され、タレントIPグッズなどの他の注力領域にも間接的に影響する可能性がある。",
+      "agenda": "VAZのアイドルプロジェクトは、競合が把握するZ世代の具体的なニーズやターゲット層に対し、どのような差別化戦略で独自の価値を提供していくべきか？",
+      "summary": "Z世代が選ぶ紅白出場希望アイドル発表",
+      "axis": "タレント軸"
+    },
+    {
+      "id": 2289,
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "eスポーツチーム「REJECT」、株式会社ナハトと戦略的業務提携を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUmhfT0hYczZJeU83X21TTHc2VzF4UjhEa1ZWUU5PeG03TUtRM1VJQVF3cU1KSWdJbUpoanFId0wxLUFRdjZfaDBBYklhZURyQWU5THNYbUQ4RWdldTJNUHZUeWI0MVYwbUE?oc=5",
+      "totalScore": 16.25,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#インフルエンサーネットワーク",
+        "#コンテンツ制作"
+      ],
+      "fact": "株式会社ナハトがeスポーツチーム「REJECT」と戦略的業務提携を締結した。",
+      "intent": "VAZの競合であるナハトは、Z世代・若年層へのリーチ力強化と事業多角化のため、成長著しいeスポーツ市場に着目している。この提携により、REJECTのeスポーツ選手を新たなインフルエンサーとしてネットワークに加え、ゲーマー層や関連企業へのマネタイズ機会（タイアップ、イベント、グッズなど）を創出する狙いがある。ナハトはVAZの強みである若年層リーチを多様なコンテンツ軸で差別化しようとしていると考えられる。",
+      "impact": "VAZの競合ナハトがeスポーツ領域に参入することで、VAZの強みであるZ世代・若年層へのリーチ力において競合優位性を高める可能性がある。特にVAZの注力領域である「インフルエンサーネットワーク」や「所属タレントのグッズ（IP）」展開において、eスポーツ選手という新たなジャンルのIP活用ノウハウをナハトが蓄積する可能性があり、差別化要因となりうる。美容・コスメ領域に強みを持つVAZも、若年層向けコンテンツの多様化という視点からこの動きを注視する必要がある。",
+      "agenda": "VAZは美容・コスメ領域に続くZ世代向けの新市場として、eスポーツ領域のインフルエンサーネットワーク構築やIP展開を検討すべきか？",
+      "summary": "ナハトがeスポーツチームREJECTと提携、若年層向け新規事業展開へ",
+      "axis": "両方"
+    },
+    {
+      "id": 2290,
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、みずほ銀行からデッドファイナンスで追加40億円、累計100億円の資金調達を実施 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CNzlnRl9MdWR3RVFNYnR4ZVBDX1NCNDZ5OFBVcm5vMWJZT0d0N0NFajBSajVWUzc1cGRMU3Q5cXh6dDRCRkE2UEw4QUlDRVBCZTJVb1JrbHNQNHMtbHVCekRkRFJVX0dvekE?oc=5",
+      "totalScore": 13.25,
+      "tags": [
+        "#資金調達・M&A",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "株式会社ナハトがみずほ銀行からデッドファイナンスで追加40億円、累計100億円の資金調達を実施した。",
+      "intent": "ナハトが累計100億円もの大規模なデッドファイナンスを成功させた背景には、金融機関が評価する安定した事業成長性や将来性、そして担保となる既存収益基盤やインフルエンサーネットワークが存在すると推察される。競合の意図としては、この潤沢な資金を元に、人材採用、M&A、新規事業開発、テクノロジー投資などを加速させ、インフルエンサーマーケティング市場での優位性を確立しようとしていると捉えるべきだ。",
+      "impact": "VAZへの影響として、ナハトの資金力強化は、タレント獲得競争、タイアップ案件獲得競争の激化、そしてVAZの注力領域であるTikTokショップ、タレントIPグッズ、アイドルグループ、美容UGC生成などへの競合による投資加速と台頭を意味する。ナハトがこれらの領域で大規模な投資を行えば、VAZの優位性が脅かされる可能性がある。業界全体としては、大規模な資金が投入されることで、M&Aが活発化したり、新たなサービスやビジネスモデルが生まれ、市場の再編が進む可能性が高い。",
+      "agenda": "ナハトの累計100億円資金調達に対し、VAZの注力領域（TikTokショップ、タレントIP、アイドル、美容UGC）における具体的な競争戦略と資金投入計画をどのように策定すべきか？",
+      "summary": "ナハトが累計100億円の資金調達を達成",
+      "axis": "両方"
+    },
+    {
+      "id": 2291,
+      "date": "2026-11-05",
+      "company": "株式会社ナハト",
+      "title": "ナハト、eスポーツチーム「REJECT」と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWYnlOUFVTMVhVbW1pTXVScmJUY1NXbXlhNzJRMVlrc1ktdUVSMjVuNjJUMENoU3c1aDd1b2gtZU9nZEJBNzhHeDI0RGxvUS1GUko0TnRyWEZVczVlLTFGZ1NadXhtUXNHYWc?oc=5",
+      "totalScore": 12.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#コンテンツ制作",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "株式会社ナハトがeスポーツチーム「REJECT」と戦略的業務提携を締結した。",
+      "intent": "ナハトはインフルエンサーマーケティングを主軸とする企業であり、eスポーツは若年層を中心に高いエンゲージメントを持つ層を抱える。この提携により、ナハトは新たな若年層へのリーチチャネルとコンテンツ領域を獲得し、eスポーツ選手をインフルエンサーとして活用したり、eスポーツ関連の新規事業やタイアップ案件を創出することで、事業の多角化と収益源の拡大を図る意図があると考えられる。eスポーツ市場の成長性に着目し、将来的な競争優位性を確保するための先行投資である可能性も高い。",
+      "impact": "ナハトのこの提携は、Z世代・若年層へのリーチを強みとするVAZにとって、新たな競合領域の出現を意味する。VAZの注力領域である「タレントIPグッズ」や「インフルエンサーネットワーク」において、eスポーツチームの選手やIPは強力なコンテンツとなり得る。特に、VAZが強みとする\"広告っぽくない\"SNSコンテンツ制作において、eスポーツは親和性が高い。また、VAZのアイドルプロジェクトも若年層のファンコミュニティを形成するビジネスであり、eスポーツのファンビジネスモデルから学ぶ点もあるだろう。ナハトはeスポーツという高エンゲージメントな若年層コミュニティを獲得することで、VAZの主要ターゲット層の一部を奪い、タイアップ案件やIPビジネスにおいて競合を激化させる可能性がある。",
+      "agenda": "VAZは、高エンゲージメントな若年層を抱えるeスポーツ市場への参入可能性や、eスポーツ選手をインフルエンサーネットワークに取り込む戦略について、具体的にどう検討を進めるべきか？",
+      "summary": "ナハトがeスポーツチームと提携、新規事業領域を拡大",
+      "axis": "両方"
+    },
+    {
+      "id": 2292,
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12bjg4VF9jdW5KMUhFQ2JTVWd6ZGZXYWN2ZE44WHRfZ3Y0SmI4NmVLY1JfcHZTWEgzVXdpQ2c0bkY5aVphQ0tFbC1wbkNFRlNYVG9HaTBrQUNSYUdUd2RmT0J2ZThRbGJadkE?oc=5",
+      "totalScore": 14,
+      "tags": [
+        "#プランニング・企画",
+        "#新規マネタイズ事業",
+        "#コンテンツ制作"
+      ],
+      "fact": "Macbee Planetが発表した調査によると、マーケターの6割超が職場内で生成AIの使いこなしに個人差・格差があると実感している。",
+      "intent": "生成AIの技術が急速に進展し、ビジネスへの応用が期待される一方で、組織内でのスキル習得や活用には時間とリソースが必要となる。このニュースは、多くの企業が生成AI導入を検討または開始しているものの、実際の現場レベルでのリテラシーや活用ノウハウに大きなばらつきが生じているという、デジタルマーケティング業界における共通課題を浮き彫りにしている。この格差は、企業の競争力に直結する。",
+      "impact": "VAZにとって、生成AIは「広告っぽくない」コンテンツ制作、美容UGC生成、TikTokショップ運用、タレントIPグッズの企画など、2026年注力領域における生産性向上と競争力強化の鍵となる。このニュースが示す「使いこなし格差」は、VAZ社内でも同様のリスクが存在する可能性を示唆しており、全社的な生成AIリテラシー向上と活用推進が急務である。適切なAI導入と教育がなければ、これらの注力領域での競合優位性を失う恐れがある。",
+      "agenda": "全社的な生成AI活用推進のため、具体的にどのような教育プログラムやツール導入が必要か、また、短期的に生成AIを活用した新規マネタイズ事業創出の可能性はあるか？",
+      "summary": "マーケターの生成AI活用格差が顕在化",
+      "axis": "両方"
+    },
+    {
+      "id": 2293,
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "オリグレスグループの株式会社シーズ・<b>ライブ</b>、新<b>経営</b>体制へ移行。グループ連携を一層強化",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000095_000147730/",
+      "totalScore": 11,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#資金調達・M&A",
+        "#プランニング・企画"
+      ],
+      "fact": "オリグレスグループ傘下の株式会社シーズ・ライブが新経営体制へ移行し、グループ内での連携を一層強化する。",
+      "intent": "競合のアソビシステムが属するオリグレスグループは、「たのしいを世界中に届けるエンターテインメント・キャピタル」として、グループ全体の事業効率化とシナジー創出を追求していると考えられる。今回の経営体制変更は、グループ内のリソース配分や事業戦略を最適化し、既存事業の強化と新規事業領域への投資を加速させる意図があると推測される。",
+      "impact": "競合のアソビシステム関連会社の経営体制強化とグループ連携の深化は、中長期的な事業基盤の強化と成長戦略の加速を意味する。特にVAZの注力領域である「アイドルグループ」や「所属タレントのグッズ（IP）」はエンターテインメント事業と親和性が高く、グループ間の連携が強化されることで、新たなIP開発やファンビジネスにおける競合優位性を築く可能性がある。VAZが推進する「新規マネタイズ事業」や「インフルエンサーネットワーク」の強化においても、競合の組織的な動きは脅威となり、VAZも組織間連携や事業アライアンスを一層強化する必要がある。",
+      "agenda": "競合がグループ連携を強化する中で、VAZは既存事業の縦割り解消と「新規マネタイズ事業」「インフルエンサーネットワーク」の強化に向けて、どのような組織再編や外部連携戦略を検討すべきか？",
+      "summary": "アソビシステム系企業、新経営体制でグループ連携強化",
+      "axis": "両方"
+    },
+    {
+      "id": 2294,
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000204.000023647.html",
+      "totalScore": 11.5,
+      "tags": [
+        "#プランニング・企画",
+        "#新規マネタイズ事業",
+        "#市場規模・調査"
+      ],
+      "fact": "Macbee Planetの調査により、マーケターの6割超が職場内の生成AI活用に格差を実感し、使いこなせていると自己評価する人も約6割が単発利用・壁打ち段階であることが判明した。",
+      "intent": "Macbee Planetが「マーケティングから始まる会社へ」を掲げる中、生成AIの企業導入実態とボトルネックを把握し、顧客ソリューションや自社競争力強化に繋げる意図がある。生成AIがマーケティング変革をもたらす一方、業界全体で導入・活用に戸惑いや「使いこなし格差」が生じており、VAZにとっても効率的なコンテンツ制作や企画立案、新規マネタイズにおけるAI活用課題を示唆している。",
+      "impact": "本ニュースは、マーケティング業界における生成AI活用の現状と課題を客観的に示唆し、VAZのAI導入・活用戦略再考を促す。特に「使いこなし格差」は、VAZのプランニングチームや新規マネタイズ事業立ち上げにおいてAI効果活用を阻む可能性があり、強みであるコンテンツ制作力や\"広告っぽくない\"SNSコンテンツ制作へのAI導入は競争優位性維持に直結する。注力領域であるTikTokショップや美容UGC生成、タレントIPグッズ開発におけるAI活用は不可欠であり、社内でのAIリテラシー向上と活用体制構築が喫緊の課題となる。",
+      "agenda": "VAZは、社内の生成AI活用レベルを具体的に把握し、全社的なAI教育・導入ロードマップを策定すべきか？",
+      "summary": "マーケターの生成AI活用、普及途上で社内格差も",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2295,
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "演者<b>起用</b>、フォロワー数の次に見る数字は？｜PR投稿の反応も選定の指標に",
+      "url": "https://amusement-japan.co.jp/article/detail/10005496/",
+      "totalScore": 15.75,
+      "tags": [
+        "#広告主動向",
+        "#タイアップ案件",
+        "#プランニング・企画"
+      ],
+      "fact": "ContentAgeが、インフルエンサー起用においてフォロワー数だけでなく投稿への反応やブランド適合性を評価する独自指標「BFI」を発表した。",
+      "intent": "インフルエンサーマーケティング市場で、フォロワー数頼りの費用対効果の不明確さが課題となっており、広告主はより実質的なブランド適合性やエンゲージメントを重視し始めているため、ContentAgeは新たな指標で差別化を図り、広告主の信頼獲得と案件獲得を狙っている。",
+      "impact": "業界全体のインフルエンサー選定基準がフォロワー数からブランド適合性やエンゲージメントへと移行しており、VAZは強みである「広告っぽくない」コンテンツ制作力を具体的に評価されるチャンス。しかし、新たな評価指標への対応が遅れると競合に顧客提案で劣後する。特に注力領域のTikTokショップや美容UGC生成では、適合性の高いインフルエンサー選定が直接成果に繋がるため、この変化への対応は必須となる。",
+      "agenda": "VAZは、自社の強みである「広告っぽくないコンテンツ」制作力を具体的に示すため、独自のブランド適合性評価指標を構築し、顧客提案にどう組み込むべきか？",
+      "summary": "インフルエンサー選定はフォロワー数からブランド適合性重視へ",
+      "axis": "マーケティング軸"
     }
   ],
   "competitors": [
@@ -134478,11 +135536,30 @@
   ],
   "home": {
     "monthLabel": "2026年11月",
-    "thisMonthNewsCount": 161,
-    "thisMonthAnalysisCount": 48,
+    "thisMonthNewsCount": 220,
+    "thisMonthAnalysisCount": 61,
     "highlights": [
       {
         "id": 0,
+        "date": "2026-11-04",
+        "company": "アソビシステム",
+        "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がるスーパーアプリ「mellow-fan」を展開するOPENREC、資金調達を実施。累計調達額38億円 | 株式会社OPENRECのプレスリリース - PR TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZ25TdzZaTWEzdGtEczFQVXpqdWtzaWFfMUxDaVN3Z092bno1LW0yb2lNRFRuYTB0VHZhV3pxNkZMOXB1VHFqVUprd3ZDbVNoZlZOdEFqZzJKTUlEdXZqNU0wY2lTdWdiLWc?oc=5",
+        "totalScore": 19.5,
+        "tags": [
+          "#アイドル・ファンビジネス",
+          "#資金調達・M&A",
+          "#新規マネタイズ事業"
+        ],
+        "fact": "アソビシステムが展開するファンアプリ「mellow-fan」に関連するOPENRECが、累計38億円の資金調達を実施した。",
+        "intent": "インフルエンサーやアイドルのファンエンゲージメントが収益の重要な源泉となる中で、既存のSNSプラットフォームだけでは実現できない深いファン体験やマネタイズ手法が求められている。アソビシステムは、タレントのIP価値を最大化し、ファンとの持続的な関係性を築くために、自社でデジタルとリアルを統合した独自のファンコミュニティ基盤を強化しようとしている。これは、ファンビジネス市場の成長と、その中で独自のポジションを確立しようとする競合の強い意図を示す。",
+        "impact": "VAZの「アイドルプロジェクト」や「所属タレントのグッズ（IP）」といった注力領域において、競合のアソビシステムが資金力を背景にファンビジネス基盤を強化していることは大きな脅威である。特に「デジタルとリアルがシームレスに繋がるスーパーアプリ」というコンセプトは、ファンコミュニティの質を高め、IP価値を最大化する上でベンチマークすべきアプローチであり、VAZも単なるグッズ販売に留まらないファンエンゲージメント戦略を検討する必要がある。",
+        "agenda": "競合の資金調達とファンアプリ強化に対し、VAZのアイドルプロジェクトおよびIPグッズ事業における「デジタルとリアルを融合したファン体験戦略」をどのように構築し、差別化を図るか？",
+        "summary": "競合アソビシステム関連アプリが38億円調達しファン事業強化。",
+        "axis": "両方"
+      },
+      {
+        "id": 1,
         "date": "2026-11-02",
         "company": "GROVE株式会社",
         "title": "「seju証明写真風ランダムブロマイド」第一弾が「Vol.1＋」として再登場 第二弾とあわせて11月 ...",
@@ -134501,7 +135578,7 @@
         "axis": "両方"
       },
       {
-        "id": 1,
+        "id": 2,
         "date": "2026-11-01",
         "company": "業界トレンド",
         "title": "マイクロショートドラマ上位10社ランキング - Pando",
@@ -134518,37 +135595,18 @@
         "agenda": "マイクロショートドラマの上位企業のコンテンツ制作・収益化戦略を深く分析し、VAZの注力領域でどのように模倣・応用し、市場での競争優位性を確立すべきか？",
         "summary": "マイクロショートドラマ上位企業の動向を提示",
         "axis": "両方"
-      },
-      {
-        "id": 2,
-        "date": "2026-11-02",
-        "company": "アソビシステム",
-        "title": "<b>アソビシステム</b>、米国拠点「<b>ASOBISYSTEM</b> USA」<b>設立</b> 日本発エンタメの北米展開支援も推進",
-        "url": "https://www.sanyonews.jp/article/1968874?kw=2025",
-        "totalScore": 18.75,
-        "tags": [
-          "#自社IP・グッズ",
-          "#アイドル・ファンビジネス",
-          "#新規マネタイズ事業"
-        ],
-        "fact": "アソビシステムは、日本のカルチャーおよびエンターテインメントの北米展開強化のため、米国拠点「ASOBISYSTEM USA」を設立した。",
-        "intent": "近年、日本発コンテンツの海外需要が高まる中、アソビシステムはこれまで培ってきた海外展開の知見を活かし、北米市場に直接拠点を設けることで、現地のネットワーク構築と事業展開を加速させる意図がある。これは、日本のインフルエンサーやIPの海外展開における言語・文化の壁、現地のネットワーク不足というボトルネックを解消し、新たな成長機会を掴むための戦略と推察される。",
-        "impact": "VAZにとってアソビシステムの北米展開は、競合が海外市場で先行者利益を確保しようとしていることを示唆する。特にVAZの「アイドルグループ」や「所属タレントのグッズ（IP）」といった2026年注力領域は、アソビシステムが北米で展開する日本のエンタメコンテンツと直接競合し、将来的なIP獲得競争や流通チャネル確保競争の激化が予想される。一方で、日本発エンタメ市場が北米で拡大する流れは、VAZの海外展開可能性を高める側面もある。",
-        "agenda": "アソビシステムの北米展開に対し、VAZの「アイドルグループ」や「所属タレントのグッズ（IP）」の海外展開戦略をどう位置づけ、具体的にどの市場をターゲットにいつまでに展開すべきか？",
-        "summary": "アソビシステム、米国拠点設立で日本エンタメ北米展開を加速",
-        "axis": "両方"
       }
     ],
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 13759.75,
-        "count": 932
+        "totalScore": 13775.5,
+        "count": 933
       },
       {
         "company": "アソビシステム",
-        "totalScore": 9052.25,
-        "count": 545
+        "totalScore": 9163,
+        "count": 552
       },
       {
         "company": "トレンダーズ",
@@ -134562,8 +135620,8 @@
       },
       {
         "company": "株式会社ナハト",
-        "totalScore": 2051.64,
-        "count": 137
+        "totalScore": 2093.39,
+        "count": 140
       },
       {
         "company": "GROVE株式会社",
@@ -134572,8 +135630,8 @@
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 1294.92,
-        "count": 102
+        "totalScore": 1320.42,
+        "count": 104
       },
       {
         "company": "TORIHADA",
@@ -134589,49 +135647,49 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 967
+        "count": 976
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 915
+        "count": 918
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 863
+        "count": 866
       },
       {
         "tag": "#アイドル・ファンビジネス",
-        "count": 773
+        "count": 779
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 549
+        "count": 550
       },
       {
         "tag": "#広告主動向",
-        "count": 478
+        "count": 479
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 406
+        "count": 408
       },
       {
         "tag": "#ECコマース",
-        "count": 390
+        "count": 391
       },
       {
         "tag": "#プランニング・企画",
-        "count": 318
+        "count": 322
       },
       {
         "tag": "#タイアップ案件",
-        "count": 242
+        "count": 243
       }
     ],
     "axisCounts": {
-      "タレント軸": 861,
-      "マーケティング軸": 618,
-      "両方": 769,
+      "タレント軸": 863,
+      "マーケティング軸": 620,
+      "両方": 778,
       "業界全般": 34
     },
     "tagMaster": {
