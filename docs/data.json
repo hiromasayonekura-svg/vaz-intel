@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-11-06T00:31:27.457Z",
-    "generatedAtJst": "2026-11-06 09:31:27",
-    "totalNews": 4668,
-    "totalAnalyses": 2296,
+    "generatedAt": "2026-11-07T00:31:26.111Z",
+    "generatedAtJst": "2026-11-07 09:31:26",
+    "totalNews": 4720,
+    "totalAnalyses": 2311,
     "totalCompetitors": 7
   },
   "news": [
@@ -36845,7 +36845,7 @@
       "company": "脅威の兆候",
       "title": "「品が全然違う」人気<b>インフルエンサー</b>、結婚式参列のドレス姿に賛否？ 「発狂」「素敵な参列 ...",
       "url": "https://news.livedoor.com/article/detail/32728243/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36853,7 +36853,7 @@
       "company": "脅威の兆候",
       "title": "爆笑問題が猛烈いじり 泉ピン子〝大暴れ〟は「GMO会見への対抗心」？ - zakⅡ",
       "url": "https://www.zakzak.co.jp/article/20261104-RXNINQD4FVFXHOGZLUZL4VRDLA/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36861,7 +36861,7 @@
       "company": "脅威の兆候",
       "title": "「ダブル11」で争奪戦？人気ライブ配信で30分間に2兆Token分の利用枠を販売―中国 - Infoseek",
       "url": "https://news.infoseek.co.jp/article/recordchina_RC_997054/",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36869,7 +36869,7 @@
       "company": "脅威の兆候",
       "title": "ど、どうした!?」ＣＲ７のモデル新妻が公開した“えぐすぎる激変ぶり”にファン衝撃！「誰だか ...",
       "url": "https://www.chiba-tv.com/plus/detail/2026112188969",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -36877,7 +36877,7 @@
       "company": "脅威の兆候",
       "title": "マンCで出番減のDFアイト・ヌーリ、今冬の退団に前向きか…ライバル関係のマンUが関心",
       "url": "https://www.chiba-tv.com/plus/detail/amp/2026112188901",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -37045,7 +37045,7 @@
       "company": "業界トレンド",
       "title": "【Youth Now! 若年層トレンド調査】Z世代は「やる気になってから買う」のではない ... - 朝日新聞",
       "url": "https://www.asahi.com/and/pressrelease/16871636",
-      "status": "未処理"
+      "status": "処理済"
     },
     {
       "id": "",
@@ -37349,6 +37349,422 @@
       "company": "脅威の兆候",
       "title": "「<b>インフルエンサー</b>を囲って？マスコミを巻き込んで？」 参政・神谷宗幣代表、高市政権の広報策 ...",
       "url": "https://news.livedoor.com/topics/detail/32729883/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "BeReal初となるビジネスコンテストをパナソニック コネクトと開催。慶應義塾大学の学生を招き、BtoB企業と若年層の新たな接点を創出 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOFBwLUZkWHBqdm9QdTI1blFTanJFTnVFM0dzbTh6RHVVVzFtTXhfb2hhYXFsZG1IUnMzZzNhMmdKazUydmowZUtGS3VGYUd5OERXbWRnejlGSG5leEtYb05yNkU4WXhrTlE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2024-02-14",
+      "company": "トレンダーズ",
+      "title": "トレンダーズ、アイスタイルと資本業務提携 美容業界における新たな顧客体験を創出 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12b0FWa0lDMDJzTWF1LWp2NnhFRThSeEZqdDdPMEpQaWFqb0V1WUtsMFNpZy1vZTRqUERZRE5sN2xwZEpyaGx5enpqTC1aVEozOUdBaWo2TkFSY3VCY0xsWXJSNEFvZWl3UHc?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "マクビープラネット、代表取締役社長・正田が「B Dash Camp 2026 Fall in Fukuoka」に登壇 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xWEMxWC1namdfeFRMZXh1S0tPSXhfejlfT3NmemlvRFFjalVnVFhTOG5wdmc1U1puVWF2LUJyX1RkdmIyZGFCdXlwTENjbkpkMFp0U3NsRlBGQmRSMGRSUjktUERZRkJMaEE?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "BtoBとBtoCでマーケターのAI活用の深さに差 89％がヒヤリハット経験 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SVmVUVF81UjBXUmo1ajhfMldxYjhZZkhEeEw1bFZ5ZWNYQ3ZuRE1EX3M5VGRyMkJfXzNKQXZuME1RSElDdlFiLXJmVUpJSnJheENrX2Q4bmZCdjFTcUg5NmNrZ2hPSTM1ZHc?oc=5",
+      "status": "エラー・要再試行"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "日々の対応に追われるカスタマーサポートの改善を後押し - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJTVzd0akVEYkRmak1DVEFUMmFTR0p0N2t1blF6RFNhTFBSNFlfVlE4SWM1QmlCUlZ5VkVSWHk3dDFmczNxUVBESGo3Y19weHJncndtRXdaUTJ4cjA2V2I4ZDlSTEd2MFFxd0pYZzdkdXlMT0NXX0c3MHQ3cGx4VjB3?oc=5",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "GROVE株式会社",
+      "title": "大人の複雑な毛穴悩みに着目した新スキンケア「オーキッド 毛穴ケアシリーズ」の発売記念 ...",
+      "url": "https://storyweb.jp/prtimes/818960/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "トレンダーズ",
+      "title": "イハダはなぜ売れ続けるのか | 国際商業オンライン | 化粧品日用品業界の国内・海外ニュース",
+      "url": "https://kokusaishogyo-online.jp/2026/11/507742",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、EXPEの地方創生・自治体支援事業を承継 - 日本M&amp;Aセンター",
+      "url": "https://www.nihon-ma.co.jp/news/20261105_1-3940/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "eスポーツチーム「REJECT」、<b>株式会社ナハト</b>と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000670.000050979.html",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、eスポーツチーム「REJECT」と戦略的業務提携 ストリーマーやプロ選手の収益化を支援",
+      "url": "https://markezine.jp/news/detail/78014",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、EXPEの事業を承継 「地方創生・自治体支援事業」へ本格参入 - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/89e25309e72c4e2078680c45657dc824c164f909",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、eスポーツチーム「REJECT」と戦略的業務提携を締結 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000131_000063127/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "マーケターが感じる生成AI使いこなし格差の実態とその背景 - VOIX",
+      "url": "https://voix.jp/business-cards/marketers-ai-inequality-survey/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "BtoBとBtoCでマーケターのAI活用の深さに差 89％がヒヤリハット経験 | 日経クロストレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02999/",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19958701?news_ref=watch_20_nw18992670",
+      "status": "処理済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "K-ブランドのAI海外<b>インフルエンサーマーケティング</b>、人選から実行まで - KORIT",
+      "url": "https://www.korit.jp/news/ai/platum-indent-vreview-sprayio-261106/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "松岡昌宏に白羽の矢が立ったワケ 450万着も売れたワークマン「XShelter」が初のタレント起用 ...",
+      "url": "https://www.advertimes.com/20261105/article563143/2/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "ライバー、シャノンと業務提携。人が集まる場を、XRとAIで「体験空間」に - 時事通信",
+      "url": "https://www.jiji.com/jc/article?k=000000114.000034858&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "《本日11月5日17時スタート》あなたの応援でビジョン出演が決まる！販売バトル「<b>インフル</b> ...",
+      "url": "http://www.otosaga.com/release_383882_1.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "ディズニー「D23 Asia」第一弾プログラム発表、2027年6月にシンガポールで開催。ディズニー ...",
+      "url": "https://branc.jp/article/2026/11/05/3264.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "Unreal Fest Tokyo 2026、Unreal Engine 5.9のプレビューおよびUnreal Engine 6の展望の発表 ...",
+      "url": "https://www.jiji.com/jc/article?k=000000211.000036502&g=prt",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "【東京大学×やしろあずき】あの「エネループ（eneloop）」の生みの親が、まさかのファン ...",
+      "url": "https://373news.com/lifestyle/info/pr_times/detail/000000009.000153616.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "橋本環奈主演『あたしゃ川尻こだまだよ』実写<b>ショートドラマ</b>配信決定でファン歓喜(2026/11/06)",
+      "url": "https://search.yahoo.co.jp/realtime/search/matome/1f86d7c46d1d4a2bb61b0c95a5c2a894-1793933700?rkf=1&ifr=matome_matometl",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "婚約者に全財産を持ち逃げされ…その兄妹3人から溺愛!? 古田愛理、縦型<b>ショートドラマ</b>で主演",
+      "url": "https://news.livedoor.com/article/detail/32744863/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "『「あたしゃ川尻こだまだよ」橋本環奈の主演で実写<b>ショートドラマ</b>化 監督は福田雄一（コメント ...",
+      "url": "https://b.hatena.ne.jp/entry/s/natalie.mu/comic/news/696798",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "不動産業界初の試み？？株式会社リブリッチがオリジナル<b>ショートドラマ</b>を公開しました - 北千住",
+      "url": "https://kitasenju.live-rich.co.jp/page/blog/5281",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "魔法の天才令嬢本物のお嬢様が帰ってきた どこで見れる？無料全話視聴やYouTube配信は？",
+      "url": "https://shunkanlife.com/mahonorensaireijo-shortdrama/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "ピザーラ、「Dr.STONE」コラボ“炎上”<b>広告</b>巡り謝罪 制作側の無許諾動画を<b>TikTok</b>で配信",
+      "url": "https://news.livedoor.com/article/detail/32745770/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "ピザーラ、「Dr.STONE」コラボ<b>広告</b>巡り謝罪 無許諾動画を<b>TikTok広告</b>で配信 - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20261106-0133",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "<b>TikTok</b>、エンタメIPの活用事例を共有するフォーラムを開催——<b>TikTok</b> Spotlightも紹介",
+      "url": "https://mag.digle.tokyo/news/289468",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "<b>日本</b>発の「J-ビューティー」を世界へ ヘッドビューティブランド「haru」、米国で販売開始",
+      "url": "https://mantan-web.jp/prtimes/article/20261105prt00m200000826a.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "VAZとエンターファンズの合弁<b>事務所</b>、次世代スター発掘オーディションを開催へ - Dellows News",
+      "url": "https://news.dellows.jp/1055688/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "SNS総フォロワー数約100万人の大和田南那ら4名が出演！ショートドラマ『いつかOOOになる私 ...",
+      "url": "https://news.nicovideo.jp/watch/nw19956763?from=a_news_4329555",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "業界トレンド",
+      "title": "株式会社Kiii、韓国支社を設立。日韓をつなぐ<b>クリエイター</b>マーケティングの展開を強化韓国語 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000140.000027277.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "給食事業者の倒産が2026年1-10月は12件に減少 前年からほぼ半減 - Dellows News",
+      "url": "https://news.dellows.jp/1060760/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "株式会社ピックユー、ストリートの&quot;リアルなメイク&quot;を届ける新企画「HEY! MAKE UP」を始動し",
+      "url": "https://www.excite.co.jp/news/article/Prtimes_2026-11-06-139104-42/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "業界トレンド",
+      "title": "コムニコ、インターファクトリー主催の無料オンラインカンファレンスに登壇 Instagramの「親 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000315.000028382.html",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "脅威の兆候",
+      "title": "Beril運営のlapazが柏レイソルのオフィシャルスポンサー契約を締結 - Dellows News",
+      "url": "https://news.dellows.jp/995919/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "ファンコミュニティ「mellow-fan」のOPENREC、14億円を<b>調達</b>し自社IPの創出と海外展開へ",
+      "url": "https://thebridge.jp/2026/11/openrec-mellow-fan-raises-1-4-billion-yen",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "韓国ミュージカル俳優の高級住宅が競売に…高額借入と利息負担を指摘され - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/koreawave_3661073/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "中小企業経営者・役員126名に調査！「お金の管理が上手そうな芸能人ランキング」第1位はカズ ...",
+      "url": "https://news.nicovideo.jp/watch/nw19959090?news_ref=watch_20_nw19780912",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "【阪神】佐藤輝明の争奪戦に韓国から〝待った！〟 フィリーズへ「ノ・シファンの方がコスパ良し ...",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112194518",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "なえなの高額購入が衝撃…オンラインくじで「演出を見れたー！ってなって - ｄメニューニュース",
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/dailysports/entertainment/20261105070",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "東貴博、憧れの人・小堺一機の70歳記念ライブに脱帽＆感嘆 | チバテレ＋プラス",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112193514",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "日本テレビ・忽滑谷こころアナ、休職を発表 夫との写真とともに報告 | チバテレ＋プラス",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112193505",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "広島・森下暢仁、FA市場で一番人気か...争奪戦へ 「人的補償」でカープに大物、有望選手の<b>移籍</b> ...",
+      "url": "https://news.yahoo.co.jp/articles/e0bdb9aacb850573f1531836d43331038e1e6764/images/000",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "脅威の兆候",
+      "title": "若年層は<b>インフルエンサー</b>より生成AIを信頼するという記事に注目が集まる - Togetter",
+      "url": "https://togetter.com/li/2766826",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "脅威の兆候",
+      "title": "マムートの人気アイテムをお得にゲット！ AmazonスマイルSALEでジャケットやTシャツなど ...",
+      "url": "https://www.zakzak.co.jp/article/20261105-N3TI4RRBKBGBNIVQQLQAPU5N34/photo/HDLC3BHOJZGWVINUT2KG37OSOY/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "鶴岡雅義さん肺炎で死去、93歳 東京ロマンチカ「小樽のひとよ」などムード歌謡で魅了（写真 ...",
+      "url": "https://www.zakzak.co.jp/article/20261105-SSGIBGHCDRAVXCT3WLSBY3TQC4/photo/5XS2M547HRGS7A46WU5BZLVHLM/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "解雇された人も》仲間内だけに公開した動画が暴露系アカウントで拡散…相次ぐ看護師の“不適切 ...",
+      "url": "https://news.yahoo.co.jp/articles/d0dedf3778123906e06a4f396f4e65ebe8c8bf56",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "広陵高元野球部員が提訴 歪められた被害申告とSNS<b>炎上</b>の裏側（写真・画像 1/1） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261105-I52PXKPJTBGABCJ3XS4FU26UQA/photo/63MYYLT6SJCGZAY2BB5I5RG56U/",
+      "status": "未処理"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "脅威の兆候",
+      "title": "時事通信社員がプロ野球の練習球を転売 沖縄キャンプで無断持ち出し（2/2ページ） - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261105-HM377NZALZCORFUTUYKYIR5S7E/2/",
       "status": "未処理"
     }
   ],
@@ -92194,6 +92610,346 @@
         "benchmark": 1
       },
       "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2024-02-14",
+      "company": "トレンダーズ",
+      "title": "トレンダーズ、アイスタイルと資本業務提携 美容業界における新たな顧客体験を創出 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12b0FWa0lDMDJzTWF1LWp2NnhFRThSeEZqdDdPMEpQaWFqb0V1WUtsMFNpZy1vZTRqUERZRE5sN2xwZEpyaGx5enpqTC1aVEozOUdBaWo2TkFSY3VCY0xsWXJSNEFvZWl3UHc?oc=5",
+      "totalScore": 19.75,
+      "breakdown": {
+        "finance": 4,
+        "platform": 3,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "BeReal初となるビジネスコンテストをパナソニック コネクトと開催。慶應義塾大学の学生を招き、BtoB企業と若年層の新たな接点を創出 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOFBwLUZkWHBqdm9QdTI1blFTanJFTnVFM0dzbTh6RHVVVzFtTXhfb2hhYXFsZG1IUnMzZzNhMmdKazUydmowZUtGS3VGYUd5OERXbWRnejlGSG5leEtYb05yNkU4WXhrTlE?oc=5",
+      "totalScore": 13.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 2,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "GROVE株式会社",
+      "title": "大人の複雑な毛穴悩みに着目した新スキンケア「オーキッド 毛穴ケアシリーズ」の発売記念 ...",
+      "url": "https://storyweb.jp/prtimes/818960/",
+      "totalScore": 14.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 5,
+        "coreBusiness": 4,
+        "benchmark": 2
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19958701?news_ref=watch_20_nw18992670",
+      "totalScore": 10.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 3,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "マクビープラネット、代表取締役社長・正田が「B Dash Camp 2026 Fall in Fukuoka」に登壇 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xWEMxWC1namdfeFRMZXh1S0tPSXhfejlfT3NmemlvRFFjalVnVFhTOG5wdmc1U1puVWF2LUJyX1RkdmIyZGFCdXlwTENjbkpkMFp0U3NsRlBGQmRSMGRSUjktUERZRkJMaEE?oc=5",
+      "totalScore": 6.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "日々の対応に追われるカスタマーサポートの改善を後押し - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTJTVzd0akVEYkRmak1DVEFUMmFTR0p0N2t1blF6RFNhTFBSNFlfVlE4SWM1QmlCUlZ5VkVSWHk3dDFmczNxUVBESGo3Y19weHJncndtRXdaUTJ4cjA2V2I4ZDlSTEd2MFFxd0pYZzdkdXlMT0NXX0c3MHQ3cGx4VjB3?oc=5",
+      "totalScore": 6.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 2,
+        "coreBusiness": 1,
+        "benchmark": 2
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "トレンダーズ",
+      "title": "イハダはなぜ売れ続けるのか | 国際商業オンライン | 化粧品日用品業界の国内・海外ニュース",
+      "url": "https://kokusaishogyo-online.jp/2026/11/507742",
+      "totalScore": 12,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 3
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、EXPEの地方創生・自治体支援事業を承継 - 日本M&amp;Aセンター",
+      "url": "https://www.nihon-ma.co.jp/news/20261105_1-3940/",
+      "totalScore": 12.25,
+      "breakdown": {
+        "finance": 3,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "eスポーツチーム「REJECT」、<b>株式会社ナハト</b>と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000670.000050979.html",
+      "totalScore": 18.5,
+      "breakdown": {
+        "finance": 3,
+        "platform": 4,
+        "humanCapital": 3,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、eスポーツチーム「REJECT」と戦略的業務提携 ストリーマーやプロ選手の収益化を支援",
+      "url": "https://markezine.jp/news/detail/78014",
+      "totalScore": 15.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、EXPEの事業を承継 「地方創生・自治体支援事業」へ本格参入 - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/89e25309e72c4e2078680c45657dc824c164f909",
+      "totalScore": 14.5,
+      "breakdown": {
+        "finance": 3,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、eスポーツチーム「REJECT」と戦略的業務提携を締結 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000131_000063127/",
+      "totalScore": 15.25,
+      "breakdown": {
+        "finance": 2,
+        "platform": 3,
+        "humanCapital": 4,
+        "directRivalry": 3,
+        "coreBusiness": 3,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "マーケターが感じる生成AI使いこなし格差の実態とその背景 - VOIX",
+      "url": "https://voix.jp/business-cards/marketers-ai-inequality-survey/",
+      "totalScore": 13,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "BtoBとBtoCでマーケターのAI活用の深さに差 89％がヒヤリハット経験 | 日経クロストレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02999/",
+      "totalScore": 14,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 4,
+        "coreBusiness": 4,
+        "benchmark": 4
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「品が全然違う」人気<b>インフルエンサー</b>、結婚式参列のドレス姿に賛否？ 「発狂」「素敵な参列 ...",
+      "url": "https://news.livedoor.com/article/detail/32728243/",
+      "totalScore": 12.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 2,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 4,
+        "benchmark": 1
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "爆笑問題が猛烈いじり 泉ピン子〝大暴れ〟は「GMO会見への対抗心」？ - zakⅡ",
+      "url": "https://www.zakzak.co.jp/article/20261104-RXNINQD4FVFXHOGZLUZL4VRDLA/",
+      "totalScore": 5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「ダブル11」で争奪戦？人気ライブ配信で30分間に2兆Token分の利用枠を販売―中国 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/recordchina_RC_997054/",
+      "totalScore": 20.75,
+      "breakdown": {
+        "finance": 5,
+        "platform": 5,
+        "humanCapital": 2,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 5
+      },
+      "status": "分析済"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "ど、どうした!?」ＣＲ７のモデル新妻が公開した“えぐすぎる激変ぶり”にファン衝撃！「誰だか ...",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112188969",
+      "totalScore": 6.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 1,
+        "directRivalry": 1,
+        "coreBusiness": 2,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "マンCで出番減のDFアイト・ヌーリ、今冬の退団に前向きか…ライバル関係のマンUが関心",
+      "url": "https://www.chiba-tv.com/plus/detail/amp/2026112188901",
+      "totalScore": 7.25,
+      "breakdown": {
+        "finance": 1,
+        "platform": 1,
+        "humanCapital": 4,
+        "directRivalry": 1,
+        "coreBusiness": 1,
+        "benchmark": 1
+      },
+      "status": "スコア低のため対象外"
+    },
+    {
+      "id": "",
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【Youth Now! 若年層トレンド調査】Z世代は「やる気になってから買う」のではない ... - 朝日新聞",
+      "url": "https://www.asahi.com/and/pressrelease/16871636",
+      "totalScore": 15.5,
+      "breakdown": {
+        "finance": 1,
+        "platform": 4,
+        "humanCapital": 1,
+        "directRivalry": 3,
+        "coreBusiness": 5,
+        "benchmark": 2
+      },
+      "status": "分析済"
     }
   ],
   "analyses": [
@@ -135502,6 +136258,289 @@
       "agenda": "VAZは、自社の強みである「広告っぽくないコンテンツ」制作力を具体的に示すため、独自のブランド適合性評価指標を構築し、顧客提案にどう組み込むべきか？",
       "summary": "インフルエンサー選定はフォロワー数からブランド適合性重視へ",
       "axis": "マーケティング軸"
+    },
+    {
+      "id": 2296,
+      "date": "2024-02-14",
+      "company": "トレンダーズ",
+      "title": "トレンダーズ、アイスタイルと資本業務提携 美容業界における新たな顧客体験を創出 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12b0FWa0lDMDJzTWF1LWp2NnhFRThSeEZqdDdPMEpQaWFqb0V1WUtsMFNpZy1vZTRqUERZRE5sN2xwZEpyaGx5enpqTC1aVEozOUdBaWo2TkFSY3VCY0xsWXJSNEFvZWl3UHc?oc=5",
+      "totalScore": 19.75,
+      "tags": [
+        "#資金調達・M&A",
+        "#新規マネタイズ事業",
+        "#ECコマース"
+      ],
+      "fact": "トレンダーズ株式会社が、美容プラットフォーム「@cosme」を運営する株式会社アイスタイルと資本業務提携を締結した。",
+      "intent": "美容業界におけるインフルエンサーマーケティングとUGCの重要性が高まる中、競合トレンダーズは、膨大なユーザーとデータを擁するアイスタイルとの連携により、購買に直結する「広告っぽくない」顧客体験と新たなコマースモデル構築を目指している。これはVAZの得意とする美容領域における「美容UGC生成」や「TikTokショップ」と競合する動きであり、市場優位性確立への強い意図が見て取れる。",
+      "impact": "競合トレンダーズが美容業界のリーディングカンパニーと資本業務提携したことで、VAZの注力領域である「美容UGC生成」において強力な競合が出現した。この提携は、トレンダーズに@cosmeの顧客データ活用や購買に直結するコンテンツ企画力をもたらし、VAZの強みである「美容・コスメ領域の親和性」や「Z世代・若年層へのリーチ力」に対する優位性を確立する可能性がある。VAZが注力する「TikTokショップ」や「インフルエンサーネットワーク」の強化においても、美容ECにおける新たな顧客体験創出は重要なベンチマークとなり、同様のプラットフォーム連携や新規マネタイズモデル構築を加速させる必要がある。",
+      "agenda": "VAZは「美容UGC生成」と「TikTokショップ」戦略において、@cosmeのような外部プラットフォームとの連携により、いかに顧客体験を強化し、収益化モデルを構築すべきか？",
+      "summary": "トレンダーズ、アイスタイルと資本業務提携で美容領域を強化",
+      "axis": "両方"
+    },
+    {
+      "id": 2297,
+      "date": "2026-11-05",
+      "company": "アソビシステム",
+      "title": "BeReal初となるビジネスコンテストをパナソニック コネクトと開催。慶應義塾大学の学生を招き、BtoB企業と若年層の新たな接点を創出 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOFBwLUZkWHBqdm9QdTI1blFTanJFTnVFM0dzbTh6RHVVVzFtTXhfb2hhYXFsZG1IUnMzZzNhMmdKazUydmowZUtGS3VGYUd5OERXbWRnejlGSG5leEtYb05yNkU4WXhrTlE?oc=5",
+      "totalScore": 13.25,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#プラットフォーム動向",
+        "#広告主動向"
+      ],
+      "fact": "アソビシステムは、BeRealを活用した初のビジネスコンテストをパナソニック コネクトと共同で慶應義塾大学の学生を招いて開催し、BtoB企業と若年層の新たな接点創出を目指している。",
+      "intent": "競合のアソビシステムは、若年層に人気のBeRealという新しいSNSに早期に注目し、BtoB企業という新たな広告主層へアプローチすることで、インフルエンサーマーケティング市場の拡大と自社の新規マネタイズ事業創出を狙っている。若年層へのリーチが難しくなっているBtoB企業のマーケティング課題を解決しつつ、インフルエンサーではない一般の若年層ユーザーを巻き込むことで、従来のインフルエンサーマーケティングとは異なる価値提供を模索していると考えられる。",
+      "impact": "アソビシステムのこの取り組みは、BeRealという新しいSNSを活用して、VAZが強みとする「Z世代・若年層へのリーチ力」を異なる角度からマネタイズしようとしている点で、VAZにとって間接的な競合となりうる。VAZの「新規マネタイズ事業の立ち上げ」や「インフルエンサーネットワーク」の拡張、さらには「アイドルグループ」「美容UGC生成」といった注力領域における若年層のエンゲージメント獲得のヒントとなる可能性がある。特に、\"広告っぽくない\"SNSコンテンツ制作力を強みとするVAZにとって、BeRealのようなリアル志向のSNS活用は親和性が高く、BtoB企業のニーズと若年層のリアルな声を繋ぐことで、新たな事業機会を創出できるかもしれない。",
+      "agenda": "VAZはBeRealのような新興SNSを、当社の強みである若年層へのリーチ力やコンテンツ制作力と結びつけ、BtoB企業との新たなマネタイズモデルをどう構築すべきか？",
+      "summary": "アソビシステム、BeRealで若年層とBtoB企業の新接点を創出",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2298,
+      "date": "2026-11-05",
+      "company": "GROVE株式会社",
+      "title": "大人の複雑な毛穴悩みに着目した新スキンケア「オーキッド 毛穴ケアシリーズ」の発売記念 ...",
+      "url": "https://storyweb.jp/prtimes/818960/",
+      "totalScore": 14.5,
+      "tags": [
+        "#タイアップ案件",
+        "#ブランドアンバサダー"
+      ],
+      "fact": "GROVEが、ハリウッド社の新スキンケア発売記念イベントにて、美容インフルエンサー約20名を招き、商品体験や美と健康をテーマとしたプログラムを実施した。",
+      "intent": "美容・コスメ業界では、消費者のリアルな使用感や共感を重視する傾向が強まっており、\"広告っぽくない\" 自然な情報発信が求められている。特にZ世代・若年層は信頼できるインフルエンサーの推薦を購買動機とするため、企業はインフルエンサーを通じた体験型マーケティングに注力している。GROVEはVAZ同様、この領域での強みを活かし、広告主のニーズに応え、インフルエンサーネットワークを通じて信頼性の高いプロモーションを実現することで、案件獲得と競合との差別化を図ろうとしている。",
+      "impact": "このニュースは、VAZの強みである「美容・コスメ領域との親和性」および「Z世代・若年層へのリーチ力」と直接的に競合するGROVEの活動を示している。GROVEが美容インフルエンサーを活用したイベントを実施していることは、VAZの注力領域である「美容UGC生成」や「インフルエンサーネットワーク」の活用において、競合が同様のアプローチを強化していることを意味する。インフルエンサーによる体験型プロモーションは、広告主にとって効果的な手段であり、VAZもこの領域での案件獲得競争が激化していると認識すべき。",
+      "agenda": "競合が美容インフルエンサーを活用した体験型プロモーションを強化する中、VAZは「美容UGC生成」と「インフルエンサーネットワーク」の強みをどう差別化し、新たな案件獲得につなげるべきか？",
+      "summary": "GROVEが美容インフルエンサー活用し新スキンケア発売イベント開催",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2299,
+      "date": "2026-11-05",
+      "company": "Macbee Planet",
+      "title": "マーケターの6割超が職場内の「生成AI使いこなし格差」を実感 | ニコニコニュース",
+      "url": "https://news.nicovideo.jp/watch/nw19958701?news_ref=watch_20_nw18992670",
+      "totalScore": 10.25,
+      "tags": [
+        "#市場規模・調査",
+        "#プランニング・企画",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "Macbee Planetが関与する調査で、マーケターの6割超が職場内で生成AIの使いこなしに格差を感じていることが判明した。",
+      "intent": "生成AIの急速な普及により、マーケティング業務の効率化・高度化が期待される一方、企業や個人間でのスキル習得・導入状況の差が顕在化。競合であるMacbee Planetは、この課題提起を通じて、自社のソリューションやAI活用支援へのニーズ喚起を狙っていると考えられる。",
+      "impact": "生成AI活用は、VAZの強みであるコンテンツ制作力やZ世代リーチ、注力領域であるTikTokショップ運用、美容UGC生成において効率化・高度化に貢献しうる。この使いこなし格差は、VAZが競争優位を保つため、社内での生成AIリテラシー向上と具体的な活用戦略の策定が急務であることを示唆。競合がこのテーマを扱うことは、AI活用の重要性が業界全体で高まっている証拠であり、VAZも先行者利益を逃さず取り組むべきである。",
+      "agenda": "VAZ社内で生成AIの使いこなし格差は存在するか、また注力領域への適用を加速するため、どのような人材育成・ツール導入戦略を講じるべきか？",
+      "summary": "マーケターの生成AI活用スキルに格差",
+      "axis": "両方"
+    },
+    {
+      "id": 2300,
+      "date": "2026-11-06",
+      "company": "トレンダーズ",
+      "title": "イハダはなぜ売れ続けるのか | 国際商業オンライン | 化粧品日用品業界の国内・海外ニュース",
+      "url": "https://kokusaishogyo-online.jp/2026/11/507742",
+      "totalScore": 12,
+      "tags": [
+        "#広告主動向",
+        "#プランニング・企画",
+        "#ECコマース"
+      ],
+      "fact": "資生堂の肌荒れ対策ブランド「イハダ」が、独自の処方技術と販売力、2024年の事業統合を背景に売上を伸ばし続けている。",
+      "intent": "トレンダーズが関与する可能性のある美容市場において、資生堂のような大手クライアントは商品力と販売チャネルの統合的戦略で生活者の信頼を獲得しており、インフルエンサーマーケティングがブランドの根幹を支える長期的な視点を持つ重要性を示唆している。",
+      "impact": "VAZは「美容・コスメ領域との親和性」と「美容UGC生成」を注力するため、イハダの成功事例は、商品の本質的価値や信頼性をいかに魅力的に伝えるかという\"広告っぽくない\"コンテンツ制作のヒントとなる。また、ドラッグストアでの存在感強化はオンラインとオフライン連携の重要性を示唆し、VAZのTikTokショップ戦略においても、UGCが実店舗購買にどう影響するかを考慮する必要がある。",
+      "agenda": "イハダのように「商品力と生活者の信頼」で売れるブランドに対し、VAZの「美容UGC生成」と「TikTokショップ」はどのように貢献し、継続的な成長を支援できるのか？",
+      "summary": "トレンダーズ競合の関わる資生堂イハダが、商品力と販売力で市場を牽引する。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2301,
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、EXPEの地方創生・自治体支援事業を承継 - 日本M&amp;Aセンター",
+      "url": "https://www.nihon-ma.co.jp/news/20261105_1-3940/",
+      "totalScore": 12.25,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#ECコマース",
+        "#資金調達・M&A"
+      ],
+      "fact": "株式会社ナハトはEXPE株式会社の地方創生・自治体支援事業を承継し、SNS・インフルエンサーマーケティング力を活用して地域の価値創出から集客・購買までを一貫支援する事業へ本格参入した。",
+      "intent": "競合ナハトは、インフルエンサーマーケティング市場の競争激化に対応するため、既存の強みを新たな市場である地方創生・自治体支援に応用し、事業領域の拡大を図っている。地方自治体が抱える若年層へのリーチやデジタルマーケティングの課題に対し、インフルエンサーマーケティング企業が解決策を提供することで、新たな収益源を確保し、事業の多角化を進める業界潮流を反映している。",
+      "impact": "本ニュースは、VAZが強みとするインフルエンサーを活用したコンテンツ制作力やZ世代・若年層へのリーチ力を、新たな市場へ応用する可能性を示唆している。ナハトが地方創生事業で「EC販売」や「SNS・インフルエンサーマーケティング」を行うとあるため、VAZの注力領域である「TikTokショップ」や「インフルエンサーネットワーク」の活用機会が地方自治体や地域特産品へと広がる可能性がある。VAZもこの領域を潜在的な新規マネタイズ事業として注視し、競合の動向を踏まえた戦略検討が求められる。",
+      "agenda": "VAZの「Z世代・若年層へのリーチ力」と「インフルエンサーネットワーク」を、地方創生・自治体支援市場でどのように新規マネタイズに繋げられるか、具体的な事業機会と参入障壁について検討すべきではないか？",
+      "summary": "ナハト、地方創生・自治体支援事業に本格参入し事業拡大",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2302,
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "eスポーツチーム「REJECT」、<b>株式会社ナハト</b>と戦略的業務提携を締結 - PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000670.000050979.html",
+      "totalScore": 18.5,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#ECコマース",
+        "#タレント発掘・育成"
+      ],
+      "fact": "株式会社ナハトはeスポーツチームREJECTと戦略的業務提携を締結し、REJECT所属ストリーマーやプロ選手の活動支援およびゲーム・eスポーツ領域のマーケティングエコシステムを共創する。",
+      "intent": "eスポーツ市場の拡大に伴い、ストリーマーやプロ選手の持続的な活動環境と収益化の多様化が業界のボトルネックとなっている。ナハトは、既存のSNS広告運用やソーシャルコマース、インフルエンサーマーケティングのノウハウをこの成長領域に投入することで、新たなタレント層とマネタイズチャネルを獲得し、市場での競争優位を築く狙いがある。特にゲーム・eスポーツ領域は熱狂的なファンコミュニティを抱え、IP展開やグッズ販売との親和性が高いため、ナハトは新たな顧客接点と収益源を開拓しようとしていると見られる。",
+      "impact": "この提携は、競合がインフルエンサーマーケティングの対象領域をeスポーツという新たな高成長分野へ拡大し、既存のSNS広告運用やソーシャルコマースのノウハウを応用していることを示す。これは、VAZが注力する「TikTokショップ」や「所属タレントのグッズ（IP）」などのECコマース事業において、新たなジャンルのタレントを巻き込んだマネタイズモデル開発の必要性を強く示唆する。また、「インフルエンサーネットワーク」の拡充において、VAZのZ世代・若年層へのリーチ力を活かしつつも、既存の美容・コスメ領域に留まらず、ゲームやエンタメといった多様な分野への横展開を検討する機会となる。",
+      "agenda": "VAZの強みであるZ世代・若年層へのリーチ力とコンテンツ制作力を活かし、eスポーツなど新たな領域のインフルエンサーやコンテンツへどのように参入し、新規マネタイズやIP開発に繋げるべきか？",
+      "summary": "ナハトがeスポーツチームと連携し、ストリーマー支援とゲーム領域のマーケティングエコシステムを構築。",
+      "axis": "両方"
+    },
+    {
+      "id": 2303,
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、eスポーツチーム「REJECT」と戦略的業務提携 ストリーマーやプロ選手の収益化を支援",
+      "url": "https://markezine.jp/news/detail/78014",
+      "totalScore": 15.25,
+      "tags": [
+        "#タレント発掘・育成",
+        "#新規マネタイズ事業"
+      ],
+      "fact": "株式会社ナハトがeスポーツチーム「REJECT」と戦略的業務提携を締結し、ストリーマーやプロ選手の収益化を支援する。",
+      "intent": "eスポーツ市場の成長性と、ストリーマー・プロ選手のマネタイズニーズに着目し、ナハトが事業多角化とインフルエンサーネットワーク拡充を図る動きであり、業界全体でインフルエンサーの多様化とマネタイズ手法の進化が求められていることの表れ。",
+      "impact": "ナハトの動きは、インフルエンサー業界が多様な才能を取り込みマネタイズを拡充するトレンドを示すため、VAZは既存領域に加えeスポーツのような新分野が市場のパイを奪う可能性を認識すべき。VAZの「インフルエンサーネットワーク」拡大、「新規マネタイズ事業」立ち上げ、「タレントIPグッズ」展開といった注力領域において、eスポーツは新たなIP創出と収益化の大きな可能性を秘めており、先行するナハトの動向は脅威となる。",
+      "agenda": "成長市場であるeスポーツ領域のインフルエンサーに対し、VAZが独自の強みを活かしたマネタイズ戦略やネットワーク構築にどう参入すべきか？",
+      "summary": "ナハトがeスポーツ人材の収益化を支援する業務提携。",
+      "axis": "両方"
+    },
+    {
+      "id": 2304,
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、EXPEの事業を承継 「地方創生・自治体支援事業」へ本格参入 - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/89e25309e72c4e2078680c45657dc824c164f909",
+      "totalScore": 14.5,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#広告主動向",
+        "#資金調達・M&A"
+      ],
+      "fact": "ナハトはEXPEの事業を承継し、SNSマーケティングの強みと地域事業創出ノウハウを統合して地方創生・自治体支援事業へ本格参入した。",
+      "intent": "インフルエンサーマーケティング市場の競争激化と、地方自治体が求める「魅力発信代行」以上の「仕組みづくり」へのニーズから、ナハトは既存の強みを活かしつつ新たな収益源と社会貢献性を追求していると推測される。EXPEの事業承継により、BtoG市場での信頼構築や事業共創のノウハウ獲得を狙い、競合優位性を築こうとしている。",
+      "impact": "この動きは、インフルエンサーマーケティング事業者が自治体支援という新たな市場に参入し、事業ポートフォリオを多角化する可能性を示唆している。VAZにとっては直接的な顧客競合は少ないものの、ナハトがインフルエンサーネットワークを地方創生に活用する戦略は注視すべき。VAZの注力領域である「インフルエンサーネットワーク」や、地域特産品の「TikTokショップ」での販売、地域の「タレントIPグッズ」開発など、同様のアプローチで新規マネタイズ機会を創出できる可能性も秘めている。",
+      "agenda": "VAZの「Z世代・若年層へのリーチ力」と「インフルエンサーネットワーク」を、地方創生や自治体支援といった新たな事業領域に活用し、新規マネタイズの機会を創出できないか議論すべきではないか？",
+      "summary": "ナハトが地方創生事業に本格参入し、SNSマーケティングを応用。",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2305,
+      "date": "2026-11-06",
+      "company": "株式会社ナハト",
+      "title": "<b>ナハト</b>、eスポーツチーム「REJECT」と戦略的業務提携を締結 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000131_000063127/",
+      "totalScore": 15.25,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#タレント発掘・育成",
+        "#自社IP・グッズ"
+      ],
+      "fact": "株式会社ナハトはeスポーツチーム「REJECT」と戦略的業務提携を締結し、ストリーマーやプロ選手の活動支援と収益化、およびゲーム・eスポーツ領域でのマーケティングエコシステム共創を目指す。",
+      "intent": "ナハトがeスポーツ領域に参入する背景には、eスポーツ市場の急速な拡大と若年層への圧倒的なリーチ力がある。既存のインフルエンサー市場が飽和しつつある中で、新たなタレントカテゴリと市場を開拓することで競争優位性を確立し、将来的な収益源の多角化を図る狙いがあると考えられる。特に、ストリーマーやプロ選手は強いコミュニティと熱狂的なファンを持つため、彼らのIPを活かしたファンビジネスやブランドマーケティングの可能性に注目していると推測される。",
+      "impact": "競合のナハトがeスポーツ市場に参入することで、VAZの注力領域である「インフルエンサーネットワーク」の拡大において、新たなタレントカテゴリ（eスポーツ選手・ストリーマー）での競争が生まれる可能性がある。また、eスポーツ選手も「タレントIPグッズ」展開が期待されるため、VAZが注力するIP事業のモデルケースとなりうる。VAZは現在、美容やアイドルを軸にZ世代にリーチしているが、ナハトの動きはZ世代の多様な趣味嗜好に対応する「コンテンツ軸」と「新規マネタイズ軸」の重要性を示唆する。",
+      "agenda": "VAZのZ世代・若年層へのリーチ力は、eスポーツ領域のタレントを抱えるナハトにどう対抗し、自社の「インフルエンサーネットワーク」や「タレントIPグッズ」の強みを他分野に展開すべきか？",
+      "summary": "ナハト、eスポーツチームと提携しゲーム領域のエコシステム構築",
+      "axis": "両方"
+    },
+    {
+      "id": 2306,
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "マーケターが感じる生成AI使いこなし格差の実態とその背景 - VOIX",
+      "url": "https://voix.jp/business-cards/marketers-ai-inequality-survey/",
+      "totalScore": 13,
+      "tags": [
+        "#新規マネタイズ事業",
+        "#コンテンツ制作",
+        "#市場規模・調査"
+      ],
+      "fact": "株式会社Macbee Planetの調査により、マーケターの66.6%が生成AIの使いこなしに格差を感じており、BtoC企業でその傾向が顕著であることが判明した。",
+      "intent": "Macbee Planetは生成AI活用の実態を可視化することで、自社ソリューションへの需要喚起を狙っていると推測される。業界全体では、生成AIの進化速度に対し、企業や個人のリテラシー・実践経験が追いついておらず、特にBtoC領域ではコンテンツ制作や顧客コミュニケーションへの応用機会が多いにも関わらず、スキル不足がボトルネックとなっている。",
+      "impact": "本調査結果はVAZ社内でも生成AI活用に格差が存在する可能性を示唆しており、マーケティング軸・タレント軸双方でのAIリテラシー向上と実践推進が急務である。VAZの注力領域であるTikTokショップ、タレントIPグッズ、インフルエンサーネットワーク、アイドルグループ、美容UGC生成の全てにおいてAIは効率化・高度化の鍵となるため、AI活用格差は競合優位性喪失のリスクに直結する。",
+      "agenda": "自社のクリエイターやマーケターにおける生成AI活用状況とスキルレベルを早急に可視化し、注力領域でのAI導入とリテラシー向上に向けた具体的な戦略をどう策定すべきか？",
+      "summary": "マーケターの66%が生成AI活用に格差実感。BtoCで顕著",
+      "axis": "両方"
+    },
+    {
+      "id": 2307,
+      "date": "2026-11-06",
+      "company": "Macbee Planet",
+      "title": "BtoBとBtoCでマーケターのAI活用の深さに差 89％がヒヤリハット経験 | 日経クロストレンド",
+      "url": "https://xtrend.nikkei.com/atcl/contents/watch/00013/02999/",
+      "totalScore": 14,
+      "tags": [
+        "#プランニング・企画",
+        "#新規マネタイズ事業",
+        "#広告主動向"
+      ],
+      "fact": "Macbee Planetが実施したマーケター1000人調査により、BtoB/BtoCでAI活用度に差があり、89%がヒヤリハット経験を持つことが明らかになった。",
+      "intent": "Macbee Planetがこの調査を実施・発表した背景には、自社が提供するマーケティングソリューションにAI技術の知見を組み込み、その優位性をアピールする狙いがある。多くの企業がAI活用を模索する中で、「使いこなしの格差」や「ヒヤリハット」といった課題が顕在化しており、これは広告主側が抱える共通のボトルネック。Macbee Planetはこれらの課題に対し、ソリューション提供を通じてリードを獲得し、自社のブランド価値を高めようとしている。",
+      "impact": "このニュースは、インフルエンサーマーケティング業界におけるAI活用の必要性と課題を浮き彫りにする。Macbee PlanetがAI活用に関する知見を深めることで、競合として提案の質を高めてくる可能性がある。VAZとしては、この調査結果から、広告主がAIに対して期待と同時にリスクも感じていることを把握し、安全かつ効果的なAI活用を提案できる体制を構築する必要がある。特に、VAZの注力領域であるTikTokショップの商品説明文・プロモーション、美容UGC生成、アイドルコンテンツの企画・制作において、AIをいかに効率的かつリスクを抑えて活用できるかが、競合優位性を保つ鍵となる。",
+      "agenda": "競合がAI活用知見を深める中、VAZは注力領域におけるAI導入戦略を具体化し、広告主への提案力向上と\"ヒヤリハット\"防止策をどう両立させるべきか？",
+      "summary": "Macbee Planet調査でマーケターAI活用度と課題が判明",
+      "axis": "マーケティング軸"
+    },
+    {
+      "id": 2308,
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「品が全然違う」人気<b>インフルエンサー</b>、結婚式参列のドレス姿に賛否？ 「発狂」「素敵な参列 ...",
+      "url": "https://news.livedoor.com/article/detail/32728243/",
+      "totalScore": 12.25,
+      "tags": [
+        "#炎上・リスク",
+        "#コンテンツ制作",
+        "#タレント発掘・育成"
+      ],
+      "fact": "YouTuberエミリンの結婚式に参列したインフルエンサー2名の服装がSNS上で「品がない」と批判され炎上した。",
+      "intent": "インフルエンサーは個人のブランドイメージが活動の基盤であり、私生活における振る舞いも注目されやすく、SNS時代において個人の行動が瞬時に拡散され炎上リスクが常にある。今回の炎上は、プライベートと仕事、公共性と個人という境界線の認識不足、またはその曖昧さに起因しており、競合各社も同様にインフルエンサーのイメージリスク管理という課題を抱えている。",
+      "impact": "本ニュースは、インフルエンサーマネジメントを行うVAZにとって、所属クリエイター/タレントの私生活を含むイメージ管理の重要性を再認識させる。VAZの強みである「広告っぽくないSNSコンテンツ制作」は、自然体な魅力を追求する反面、意図しない行動が炎上に繋がるリスクも内包する。特にVAZが注力する「所属タレントのグッズ（IP）」「アイドルグループ」「美容UGC生成」は、タレントのクリーンで魅力的なイメージが生命線であり、今回の炎上はこれらの事業成長を阻害する直接的な脅威となる。インフルエンサーネットワーク拡大においても、ネットワーク全体の信頼性やイメージが重要になるため、個々のリスク管理は不可欠。",
+      "agenda": "所属タレントのプライベートな行動が事業に与える影響について、明確なガイドラインとリスクヘッジ策を再構築すべきではないか？",
+      "summary": "インフルエンサーの結婚式服装が炎上、イメージリスク顕在化",
+      "axis": "両方"
+    },
+    {
+      "id": 2309,
+      "date": "2026-11-04",
+      "company": "脅威の兆候",
+      "title": "「ダブル11」で争奪戦？人気ライブ配信で30分間に2兆Token分の利用枠を販売―中国 - Infoseek",
+      "url": "https://news.infoseek.co.jp/article/recordchina_RC_997054/",
+      "totalScore": 20.75,
+      "tags": [
+        "#ECコマース",
+        "#新規マネタイズ事業",
+        "#プラットフォーム動向"
+      ],
+      "fact": "中国の「ダブル11」セール期間中、人気インフルエンサーがライブ配信で30分間に2兆Token分の利用枠を販売した。",
+      "intent": "中国ではインフルエンサーがライブコマースにおける強力な販売チャネルとして確立されており、大規模ECイベントと結びつくことで、タレントの集客力とプラットフォームのインタラクティブ機能が融合し、爆発的な売上を創出している。",
+      "impact": "本ニュースは、VAZの注力領域である「TikTokショップ」や「所属タレントのグッズ（IP）」において、ライブコマースが持つ計り知れない潜在力を示している。トップインフルエンサーが短時間で巨額を売り上げる手法は、VAZの強みであるZ世代へのリーチ力と広告っぽくないコンテンツ制作力を活かしたライブコママース戦略のベンチマークとなりうる。",
+      "agenda": "VAZの所属タレントやアイドルグループを活用し、中国市場に匹敵するライブコマースでの最大化戦略を「TikTokショップ」でどう実現すべきか？",
+      "summary": "中国インフルエンサー、ライブコマースで巨額販売",
+      "axis": "両方"
+    },
+    {
+      "id": 2310,
+      "date": "2026-11-04",
+      "company": "業界トレンド",
+      "title": "【Youth Now! 若年層トレンド調査】Z世代は「やる気になってから買う」のではない ... - 朝日新聞",
+      "url": "https://www.asahi.com/and/pressrelease/16871636",
+      "totalScore": 15.5,
+      "tags": [
+        "#広告主動向",
+        "#ECコマース",
+        "#プラットフォーム動向"
+      ],
+      "fact": "株式会社Reaplusの「Youth Now!」調査によると、Z世代は「買ってから新しい自分になる」という「変身先行型」の購買行動を取り、SNSは“見る場所”から“保存データベース”へと変化している。",
+      "intent": "Z世代は自己実現や自己肯定感を重視する傾向が強く、商品購入は未来の理想の自分への投資と捉えられています。また、情報過多なSNSにおいて、単なる情報消費ではなく、後から参照できるよう「保存」する行動が増えているのは、効率的な情報収集と計画的な購買を求めるタイムパフォーマンス志向の表れと考えられます。",
+      "impact": "Z世代の「変身先行型」購買行動と「SNS保存データベース」化のトレンドは、VAZの主要ターゲット層の行動変容を明確に示します。特に注力領域である「TikTokショップ」「所属タレントのグッズ（IP）」「美容UGC生成」においては、「買ってから新しい自分になる」という購買動機に訴求するコンテンツや、SNSで「保存」されやすい価値ある情報として共有されるコンテンツ制作が、より重要となります。",
+      "agenda": "Z世代の「変身先行型」購買行動と「SNS保存データベース」化に対し、所属タレントのIPや美容UGC生成、TikTokショップ戦略において、どのようにコンテンツや訴求軸を再設計し、具体的なマーケティング施策に落とし込むべきか？",
+      "summary": "Z世代購買行動：変身先行型とSNS保存DB化",
+      "axis": "両方"
     }
   ],
   "competitors": [
@@ -135536,11 +136575,30 @@
   ],
   "home": {
     "monthLabel": "2026年11月",
-    "thisMonthNewsCount": 220,
-    "thisMonthAnalysisCount": 61,
+    "thisMonthNewsCount": 271,
+    "thisMonthAnalysisCount": 75,
     "highlights": [
       {
         "id": 0,
+        "date": "2026-11-04",
+        "company": "脅威の兆候",
+        "title": "「ダブル11」で争奪戦？人気ライブ配信で30分間に2兆Token分の利用枠を販売―中国 - Infoseek",
+        "url": "https://news.infoseek.co.jp/article/recordchina_RC_997054/",
+        "totalScore": 20.75,
+        "tags": [
+          "#ECコマース",
+          "#新規マネタイズ事業",
+          "#プラットフォーム動向"
+        ],
+        "fact": "中国の「ダブル11」セール期間中、人気インフルエンサーがライブ配信で30分間に2兆Token分の利用枠を販売した。",
+        "intent": "中国ではインフルエンサーがライブコマースにおける強力な販売チャネルとして確立されており、大規模ECイベントと結びつくことで、タレントの集客力とプラットフォームのインタラクティブ機能が融合し、爆発的な売上を創出している。",
+        "impact": "本ニュースは、VAZの注力領域である「TikTokショップ」や「所属タレントのグッズ（IP）」において、ライブコマースが持つ計り知れない潜在力を示している。トップインフルエンサーが短時間で巨額を売り上げる手法は、VAZの強みであるZ世代へのリーチ力と広告っぽくないコンテンツ制作力を活かしたライブコママース戦略のベンチマークとなりうる。",
+        "agenda": "VAZの所属タレントやアイドルグループを活用し、中国市場に匹敵するライブコマースでの最大化戦略を「TikTokショップ」でどう実現すべきか？",
+        "summary": "中国インフルエンサー、ライブコマースで巨額販売",
+        "axis": "両方"
+      },
+      {
+        "id": 1,
         "date": "2026-11-04",
         "company": "アソビシステム",
         "title": "日常の応援から公開収録・限定イベントまで一気通貫デジタルとリアルがシームレスに繋がるスーパーアプリ「mellow-fan」を展開するOPENREC、資金調達を実施。累計調達額38億円 | 株式会社OPENRECのプレスリリース - PR TIMES",
@@ -135559,7 +136617,7 @@
         "axis": "両方"
       },
       {
-        "id": 1,
+        "id": 2,
         "date": "2026-11-02",
         "company": "GROVE株式会社",
         "title": "「seju証明写真風ランダムブロマイド」第一弾が「Vol.1＋」として再登場 第二弾とあわせて11月 ...",
@@ -135576,62 +136634,43 @@
         "agenda": "競合のコンビニブロマイド大ヒットを受け、VAZは自社タレントのIPを活用したZ世代向けグッズを、いかに手軽なチャネルと企画で展開し、新たな収益源を確立すべきか？",
         "summary": "競合seju、コンビニブロマイドでIPグッズ成功",
         "axis": "両方"
-      },
-      {
-        "id": 2,
-        "date": "2026-11-01",
-        "company": "業界トレンド",
-        "title": "マイクロショートドラマ上位10社ランキング - Pando",
-        "url": "https://pando.life/article/4757859",
-        "totalScore": 18.75,
-        "tags": [
-          "#コンテンツ制作",
-          "#プラットフォーム動向",
-          "#自社チャンネル運営"
-        ],
-        "fact": "Pandoがマイクロショートドラマの上位10社ランキングを発表した。",
-        "intent": "TikTokやYouTube Shortsなどショート動画プラットフォームの普及に伴い、短尺で没入感のあるマイクロショートドラマが若年層のエンゲージメント獲得に不可欠なコンテンツ形式として台頭している。このランキングは、新たなコンテンツ市場における成功モデルを可視化し、業界プレイヤーの戦略形成に影響を与える。",
-        "impact": "VAZの強みである「所属インフルエンサーを起点としたコンテンツ制作力」と「Z世代・若年層へのリーチ力」はマイクロショートドラマと極めて親和性が高い。特に注力領域である「TikTokショップ」「アイドルグループ」「美容UGC生成」において、上位企業の成功事例は効果的なコンテンツ戦略やプロモーション施策を構築する上で重要な示唆を与え、新規マネタイズ事業への展開も期待できる。",
-        "agenda": "マイクロショートドラマの上位企業のコンテンツ制作・収益化戦略を深く分析し、VAZの注力領域でどのように模倣・応用し、市場での競争優位性を確立すべきか？",
-        "summary": "マイクロショートドラマ上位企業の動向を提示",
-        "axis": "両方"
       }
     ],
     "ranking": [
       {
         "company": "業界トレンド",
-        "totalScore": 13775.5,
-        "count": 933
+        "totalScore": 13791,
+        "count": 934
       },
       {
         "company": "アソビシステム",
-        "totalScore": 9163,
-        "count": 552
+        "totalScore": 9176.25,
+        "count": 553
       },
       {
         "company": "トレンダーズ",
-        "totalScore": 2524.2200000000003,
-        "count": 176
-      },
-      {
-        "company": "脅威の兆候",
-        "totalScore": 2111.25,
-        "count": 154
+        "totalScore": 2555.9700000000003,
+        "count": 178
       },
       {
         "company": "株式会社ナハト",
-        "totalScore": 2093.39,
-        "count": 140
+        "totalScore": 2169.14,
+        "count": 145
+      },
+      {
+        "company": "脅威の兆候",
+        "totalScore": 2144.25,
+        "count": 156
       },
       {
         "company": "GROVE株式会社",
-        "totalScore": 1410.8899999999999,
-        "count": 91
+        "totalScore": 1425.3899999999999,
+        "count": 92
       },
       {
         "company": "Macbee Planet",
-        "totalScore": 1320.42,
-        "count": 104
+        "totalScore": 1357.67,
+        "count": 107
       },
       {
         "company": "TORIHADA",
@@ -135647,15 +136686,15 @@
     "topTags": [
       {
         "tag": "#新規マネタイズ事業",
-        "count": 976
+        "count": 987
       },
       {
         "tag": "#コンテンツ制作",
-        "count": 918
+        "count": 920
       },
       {
         "tag": "#自社IP・グッズ",
-        "count": 866
+        "count": 867
       },
       {
         "tag": "#アイドル・ファンビジネス",
@@ -135663,33 +136702,33 @@
       },
       {
         "tag": "#プラットフォーム動向",
-        "count": 550
+        "count": 553
       },
       {
         "tag": "#広告主動向",
-        "count": 479
+        "count": 484
       },
       {
         "tag": "#タレント発掘・育成",
-        "count": 408
+        "count": 412
       },
       {
         "tag": "#ECコマース",
-        "count": 391
+        "count": 397
       },
       {
         "tag": "#プランニング・企画",
-        "count": 322
+        "count": 325
       },
       {
         "tag": "#タイアップ案件",
-        "count": 243
+        "count": 244
       }
     ],
     "axisCounts": {
       "タレント軸": 863,
-      "マーケティング軸": 620,
-      "両方": 778,
+      "マーケティング軸": 626,
+      "両方": 787,
       "業界全般": 34
     },
     "tagMaster": {
